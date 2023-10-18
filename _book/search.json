@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Enrightening Mathematics Revision Book Volume",
+    "section": "",
+    "text": "Preface\nThe book was written in unison with the objectives of the secondary system of education. Secondary Mathematics Revision Book One has been developed to meet the objectives indicated in the new syllabus. We wrote this book with students in mind; Mathematics is pertinent to all aspects of life since it makes our life orderly and prevents chaos. Eminent qualities that are nurtured by mathematics include the Power of reasoning, creativity, abstract or spatial thinking, critical thinking, problem-solving ability, and even effective communication skills. The book is organized in an accessible style; we have introduced each topic with well-solved examples. Each topic ends with questions, and problems to solve that are related to it with their answers at the back of the book. The book is divided into four sections; the first section introduces each topic with its problems to solve, section two gives 10 model sample papers with the K.C.S.E format, section three articulates answers to questions in each topic while section four displays answers to model sample papers."
+  },
+  {
+    "objectID": "Natural Numbers.html",
+    "href": "Natural Numbers.html",
+    "title": "SECTION ONE",
+    "section": "",
+    "text": "Chapter 1\nNatural Numbers are also called Counting numbers. They consist of \\(0, 1, 2, 3, 4, 5, 6, 7, 8,\\) \\(and\\, 9\\) digits. Place value is the position of a digit in a number. Total value is the product of the digit and its place value. A prime number is a number with only two factors that is, one and it’s self. e.g \\(\\,2, 3, 5, 7, 11.\\)\nOdd numbers are numbers ending with the digits: \\(1, 3, 5, 7, or \\,9.\\)\nEven numbers are numbers ending with the digits: \\(0, 2, 4, 6, or\\, 8.\\)"
+  },
+  {
+    "objectID": "Natural Numbers.html#solved-examples",
+    "href": "Natural Numbers.html#solved-examples",
+    "title": "SECTION ONE",
+    "section": "Solved Examples",
+    "text": "Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nFind the place value and the total value of digit 3 in the numbers below.\n\n\\(47\\, 387 \\,645\\) \\((1mk)\\)\n\\(2\\, 312 \\,464\\,085\\) \\((1mk)\\)\n\\(12\\, 594 \\,534\\) \\((1mk)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\nThe place value of \\(3\\) in the first number is a hundred thousand.\\ Its total value is:\\(3\\times100\\, 000=300\\, 000\\)\nThe place value of \\(3\\) in the second number is a hundred million. \\Its total value is: \\(3\\times100 ,000 000=300 \\,000 \\,000\\)\nThe place value of \\(3\\) in the third number is tens.\\ Its total value is: \\(3\\times10=30\\)\n\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nAll prime numbers less than ten are arranged in descending order to form a number.\n\nWrite down the number formed \\((1mk)\\)\nWhat is the total value of the second digit? \\((2mks)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\nThe number formed is: \\(7 \\,532\\)\nTotal value is as calculated below:\n\n\\[=\\,place\\, value \\,\\times \\,the\\,digit\\]\n\\[=\\,100\\,\\times\\,5\\]\n\\[=\\,500\\]"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Enlightening Mathematics Book 1 is a series that consists form one work only and is intended for use at form 1-4 levels for revision purposes. Although the book is written primarily for the secondary school mathematics syllabus, it can also be useful to students undertaking similar courses both within and outside Kenya. The book precisely introduces each topic in an understandable summarized manner; incorporated with elaborate examples anticipated to exhibit simple mathematical ideas that are offered as a precursor to a wide range of questions after every topic. It ensures that even weak students can simply understand the calculations and apply the skills to the problems provided after the topic. The Model Sample Papers are articulated in a KCSE mode"
+  },
+  {
+    "objectID": "Integers.html#the-number-line",
+    "href": "Integers.html#the-number-line",
+    "title": "6  Chapter Five: Integers",
+    "section": "6.1 The Number Line",
+    "text": "6.1 The Number Line\nI was there on time"
+  },
+  {
+    "objectID": "Scale Drawing.html#bearing-and-distance-angles-of-elevation-and-depression",
+    "href": "Scale Drawing.html#bearing-and-distance-angles-of-elevation-and-depression",
+    "title": "19  Chapter Eighteen: Scale Drawing",
+    "section": "19.1 Bearing and Distance, Angles of Elevation and Depression",
+    "text": "19.1 Bearing and Distance, Angles of Elevation and Depression"
+  }
+]

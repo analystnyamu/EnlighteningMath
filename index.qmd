@@ -1,0 +1,17 @@
+---
+title: "Preface"
+author: "Martin Nyamu and Ken Gatungo"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography: book.bib
+biblio-style: apalike
+#link-citations: yes
+description: " "
+#bibliography: references.bib
+number-sections: true
+---
+
+# Preface {.unnumbered}
+
+The book was written in unison with the objectives of the secondary system of education. Secondary Mathematics Revision Book One has been developed to meet the objectives indicated in the new syllabus. We wrote this book with students in mind; Mathematics is pertinent to all aspects of life since it makes our life orderly and prevents chaos. Eminent qualities that are nurtured by mathematics include the Power of reasoning, creativity, abstract or spatial thinking, critical thinking, problem-solving ability, and even effective communication skills. The book is organized in an accessible style; we have introduced each topic with well-solved examples. Each topic ends with questions, and problems to solve that are related to it with their answers at the back of the book. The book is divided into four sections; the first section introduces each topic with its problems to solve, section two gives 10 model sample papers with the **K.C.S.E** format, section three articulates answers to questions in each topic while section four displays answers to model sample papers.

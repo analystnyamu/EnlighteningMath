@@ -1,0 +1,60 @@
+# SECTION ONE {.unnumbered}
+
+# Chapter 1
+
+# Natural Numbers
+
+Natural Numbers are also called **Counting numbers**. They consist of $0, 1, 2, 3, 4, 5, 6, 7, 8,$ $and\, 9$ digits. Place value is the position of a digit in a number. Total value is the product of the digit and its place value. A prime number is a number with only two factors that is, one and it's self. e.g $\,2, 3, 5, 7, 11.$
+
+Odd numbers are numbers ending with the digits: $1, 3, 5, 7, or \,9.$
+
+Even numbers are numbers ending with the digits: $0, 2, 4, 6, or\, 8.$
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+## Example 1
+
+Find the place value and the total value of digit 3 in the numbers below.
+
+a)  $47\, 387 \,645$ $(1mk)$
+
+b)  $2\, 312 \,464\,085$ $(1mk)$
+
+c)  $12\, 594 \,534$ $(1mk)$
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+a)  The place value of $3$ in the first number is a hundred thousand.\\ Its total value is:$3\times100\, 000=300\, 000$
+
+b)  The place value of $3$ in the second number is a hundred million. \\Its total value is: $3\times100 ,000 000=300 \,000 \,000$
+
+c)  The place value of $3$ in the third number is tens.\\ Its total value is: $3\times10=30$
+:::
+
+::: {.callout-note collapse="false"}
+## Example 2
+
+All prime numbers less than ten are arranged in descending order to form a number.
+
+a)  Write down the number formed $(1mk)$
+
+b)  What is the total value of the second digit? $(2mks)$
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+a)  The number formed is: $7 \,532$
+
+b)  Total value is as calculated below:
+
+$$=\,place\, value \,\times \,the\,digit$$
+
+$$=\,100\,\times\,5$$
+
+$$=\,500$$
+
+:::
