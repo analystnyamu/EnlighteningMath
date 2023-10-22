@@ -9,16 +9,16 @@
   {
     "objectID": "Natural Numbers.html",
     "href": "Natural Numbers.html",
-    "title": "SECTION ONE",
+    "title": "1  Chapter 1: Natural Numbers",
     "section": "",
-    "text": "Chapter 1\nNatural Numbers are also called Counting numbers. They consist of \\(0, 1, 2, 3, 4, 5, 6, 7, 8,\\) \\(and\\, 9\\) digits. Place value is the position of a digit in a number. Total value is the product of the digit and its place value. A prime number is a number with only two factors that is, one and it’s self. e.g \\(\\,2, 3, 5, 7, 11.\\)\nOdd numbers are numbers ending with the digits: \\(1, 3, 5, 7, or \\,9.\\)\nEven numbers are numbers ending with the digits: \\(0, 2, 4, 6, or\\, 8.\\)"
+    "text": "Natural Numbers\nNatural Numbers are also called Counting numbers. They consist of \\(0, 1, 2, 3, 4, 5, 6, 7, 8,\\) \\(and\\, 9\\) digits. Place value is the position of a digit in a number. Total value is the product of the digit and its place value. A prime number is a number with only two factors that is, one and it’s self. e.g \\(\\,2, 3, 5, 7, 11.\\)\nOdd numbers are numbers ending with the digits: \\(1, 3, 5, 7, or \\,9.\\)\nEven numbers are numbers ending with the digits: \\(0, 2, 4, 6, or\\, 8.\\)"
   },
   {
     "objectID": "Natural Numbers.html#solved-examples",
     "href": "Natural Numbers.html#solved-examples",
-    "title": "SECTION ONE",
-    "section": "Solved Examples",
-    "text": "Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nFind the place value and the total value of digit 3 in the numbers below.\n\n\\(47\\, 387 \\,645\\) \\((1mk)\\)\n\\(2\\, 312 \\,464\\,085\\) \\((1mk)\\)\n\\(12\\, 594 \\,534\\) \\((1mk)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\nThe place value of \\(3\\) in the first number is a hundred thousand.\\ Its total value is:\\(3\\times100\\, 000=300\\, 000\\)\nThe place value of \\(3\\) in the second number is a hundred million. \\Its total value is: \\(3\\times100 ,000 000=300 \\,000 \\,000\\)\nThe place value of \\(3\\) in the third number is tens.\\ Its total value is: \\(3\\times10=30\\)\n\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nAll prime numbers less than ten are arranged in descending order to form a number.\n\nWrite down the number formed \\((1mk)\\)\nWhat is the total value of the second digit? \\((2mks)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\nThe number formed is: \\(7 \\,532\\)\nTotal value is as calculated below:\n\n\\[=\\,place\\, value \\,\\times \\,the\\,digit\\]\n\\[=\\,100\\,\\times\\,5\\]\n\\[=\\,500\\]"
+    "title": "1  Chapter 1: Natural Numbers",
+    "section": "1.1 Solved Examples",
+    "text": "1.1 Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nFind the place value and the total value of digit 3 in the numbers below.\n\n\\(47\\, 387 \\,645\\) \\((1mk)\\)\n\\(2\\, 312 \\,464\\,085\\) \\((1mk)\\)\n\\(12\\, 594 \\,534\\) \\((1mk)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\nThe place value of \\(3\\) in the first number is a hundred thousand.\\ Its total value is:\\(3\\times100\\, 000=300\\, 000\\)\nThe place value of \\(3\\) in the second number is a hundred million. \\Its total value is: \\(3\\times100 ,000 000=300 \\,000 \\,000\\)\nThe place value of \\(3\\) in the third number is tens.\\ Its total value is: \\(3\\times10=30\\)\n\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nAll prime numbers less than ten are arranged in descending order to form a number.\n\nWrite down the number formed \\((1mk)\\)\nWhat is the total value of the second digit? \\((2mks)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\nThe number formed is: \\(7 \\,532\\)\nTotal value is as calculated below:\n\n\\[\\begin{split}\nTotal~value\n&=place~value ~ \\times~the~digit \\\\\n\n&=100~\\times~5 \\\\\n\n&=500\n\\end{split}\\]\n\n\n\n\n\n\n\n\n\nExample 3\n\n\n\n\n\nIn a 3-digit number, the tens digit is thrice the unit digit and the hundreds digit is four times the unit digit. Also, the sum of its digits is 16. Find the number. (3mks)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\nLet the digits be xyz \\[\n\\begin{split}\ny&=3z\\\\x&=4z\\\\\nx+y+z&=16\\\\4z+3z+z&=16\\\\\n8z&=16\\\\\n\\end{split}\n\\]\n\n\n\\[\n\\begin{split}\nz&=\\frac{\\cancelto{2}{16}}{\\cancel8}\\\\z&=2\\\\\ny&=3(2)\\\\&=6\\\\\nx&=4(2)\\\\&=8\\\\\n\\therefore Number&=862\n\\end{split}\n\\]\n\n\n\n\n\n\n\n\n\n\n\nProblems to solve\n\n\n\n\n\n\nThe prime numbers less than 10 are multiplied to form a number.\na) Write down the number formed. ^space \\((2mks)\\)\nb) State the total value of the first digit in the number formed in 2(a) above. \\((1mk)\\)\nAll prime numbers between ten and twenty are arranged in descending order to form a number.\na) Write down the number. \\((2mk)\\)\nb) State the total value of the third digit of the number formed in (i) above \\((1mk)\\)\nAll prime numbers less than 10 are arranged in a descending order to form a number which forms a quotient of \\(1~076\\) with a certain number. Calculate the number \\((3mks)\\)\nA two-digit number is such that the sum of the ones and the tens digit is 10. If the digits are reversed, then the new number formed exceeds the original number by 54. Find the number. \\((4mks)\\)\nIn a three-digit number, the hundreds digits is 4 more than the units digit and the tens digit is twice the hundreds digit. If the sum of the digits is 12, find the three digits. Write the number. \\((4mks)\\)\nA 3-digit number has a 4 in the hundreds place. It has a greater digit in the tens place than in the ones place. The sum of the digits is 6 which is my number. \\((3mks)\\)\nIn a three-digit number, the hundreds digit is equal to the tens digit and is 2 more than the ones digit. The number formed by reversing the digits is 19 times the sum of the digits. Find the original number. \\((4mks)\\)\nThe sum of the digits of a two-digit number is 15. When the number is subtracted from the number formed by reversing the digits, the difference is 27. Find the number. \\((4mks)\\)\nA certain two-digit number is equivalent to five times the sum of the digits. It is found to be 9 less than the number formed when the digits are interchanged. Find the number. \\((3mks)\\)\nThe product of the digits in a two-digit number is 24. Four times the ten digit exceeds the unit digit by 10. Calculate the number. \\((3mks)\\)"
   },
   {
     "objectID": "intro.html",
@@ -30,15 +30,456 @@
   {
     "objectID": "Integers.html#the-number-line",
     "href": "Integers.html#the-number-line",
-    "title": "6  Chapter Five: Integers",
+    "title": "5  Chapter 5",
     "section": "6.1 The Number Line",
     "text": "6.1 The Number Line\nI was there on time"
   },
   {
     "objectID": "Scale Drawing.html#bearing-and-distance-angles-of-elevation-and-depression",
     "href": "Scale Drawing.html#bearing-and-distance-angles-of-elevation-and-depression",
-    "title": "19  Chapter Eighteen: Scale Drawing",
-    "section": "19.1 Bearing and Distance, Angles of Elevation and Depression",
-    "text": "19.1 Bearing and Distance, Angles of Elevation and Depression"
+    "title": "18  Chapter Eighteen: Scale Drawing",
+    "section": "18.1 Bearing and Distance, Angles of Elevation and Depression",
+    "text": "18.1 Bearing and Distance, Angles of Elevation and Depression"
+  },
+  {
+    "objectID": "Natural Numbers.html#rounding-off",
+    "href": "Natural Numbers.html#rounding-off",
+    "title": "1  Chapter 1: Natural Numbers",
+    "section": "1.1 Rounding Off",
+    "text": "1.1 Rounding Off\nThe following examples explain in detail how to round off a whole number or a decimal number.\n\n1.1.1 Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nRound off the following numbers to the nearest number indicated in the brackets:\na) 246 852 (thousands) \\((1mk)\\)\nb) 3 442 (tens) \\((1mk)\\)\nc) 0.00897 (thousandths) \\((1mk)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\na) 247 000\nb) 3 440\nc) 0.009\n\n\n\n\n\n1.1.2 Problems to solve\n\nRound off the following numbers to the nearest numbers indicated in the brackets:\na) Thirty-seven million, six hundred and forty-seven thousand, three hundred and forty-one. (100 000). \\((1mk)\\)\nb) 324 481 (ten thousands) \\((1mk)\\)\nc) 46.18702 (Hundredth) \\((1mk)\\)\nA firm was reported to have made a profit of \\(Ksh. ~90,578,463.\\) Two daily newspaper gave the figure, one to the nearest \\(1,000,000\\) and the other to the nearest \\(100,000\\). Find the difference the rounded off figures? \\((2mks)\\)\nA number was rounded off to the nearest 1,000 and given as 150,000. Which of the following numbers was likely to have been rounded off? \\((1mk)\\)\na) 150,960\nb) 149,680\nc) 149,240\nWhat is the difference between 14.643 rounded off to the nearest tenth and 21.247 rounded off the nearest hundredth? \\((2mks)\\)\nKelvin, Grace, Ciru, and Njihia are playing a game. The winner is the person whose number is smallest when rounded to the nearest tenth. Kelvin’s number is 0.355, Grace’s number is 0.199, Ciru’s number is 0.261, and Njihia’s number is 0.959. Who is the winner? \\((2mks)\\)"
+  },
+  {
+    "objectID": "Natural Numbers.html#operations",
+    "href": "Natural Numbers.html#operations",
+    "title": "1  Chapter 1: Natural Numbers",
+    "section": "1.2 Operations",
+    "text": "1.2 Operations\nThis includes addition, subtraction, multiplication and division of numbers.\n\n1.2.1 Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nNjoroge had \\(2,568\\) bags of beans each weighing \\(90 Kg\\)., he sold \\(1,324\\) of them.\na) How many kilograms of beans were left? \\((2mks)\\)\nb) If he added 632 more bags of beans, how many kilograms of beans did he end up being with? \\((2mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\na) One bag of beans weighs 90 Kg. \\[\n\\begin{split}\n2,568~bags~weighs~&=90\\times2,568 \\\\\n&=231,120~Kg\\\\\n1,324~bags~weighs~&=90\\times 1,324\\\\\n&=119,160~Kg\\\\\nAmount~of~beans~left~ &=231,120-119,160\\\\\n&=111,960~Kg\n\\end{split}\n\\]\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\nb) \\[\n\\begin{split}\n(632\\times90) + 111,960\\,Kg\n&=56,880+111,960 \\\\ & =168,840\\,Kg.\n\\end{split}\n\\]\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nCompute the quotient: \\(6120\\div 45\\) \\((3mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\n\n\n\n\n\n\nExample 3\n\n\n\n\n\nThe Amos family borrows $ 20,880 to purchase a new car at a special 0% interest rate. The car dealer allows them 5 years to pay back the amount they borrow and requires equal monthly payments. How much are their monthly payments? \\((2mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\nSince there are 12 months in each year, they must make a total of \\(5\\times12 = 60\\), payments on the loan. Dividing $ 20,880 by 60 will result in the monthly payment:\n\n\n\nExample 3\n\n\nThe Amos’ monthly payment will be $ 348.\n\n\n\n\n\n\n\n\n\nProblems to solve\n\n\n\n\n\n\nA bus charges \\(Ksh.~ 150\\) as fare from Embu to Meru. It carries a capacity of 18 passengers. However, it can carry 5 more passengers but will have to pay a penalty of \\(Ksh.~100\\) at each of the 8 police checkpoints it passes through. The distance between the two towns is \\(91 ~km\\) and the cost of petrol is \\(Ksh.~ 102\\) per litre. If the bus uses 1 litre for every \\(7~ km\\), calculate;\na) How much is gained if the bus does not overload? \\((4mks)\\)\nb) How much is lost if the bus overloads? \\((4mks)\\)\nA vegetable vendor had 1,652 cabbages. He sold 835 cabbages on the first day and 326 cabbages on the second day. He added 413 cabbages to the remaining stock on the third day.\na) How many cabbages did he have at the end? \\((3mks)\\)\nb) If he sold all the cabbages at an average cost of \\(Ksh.~ 15\\), how much money did he collect? \\((1mk)\\)\nPerform the following divisions: \\((6mks)\\)\na) \\(2,668\\div58\\)\nb) \\(867,594 \\div 2,317\\)\nc) \\(0.0021\\div 14\\)\nA bookshop had \\(29,424\\) exercise books which were packed in cartons. each carton contained \\(24\\) exercise books. The mass of an empty carton was 2 Kg and 11 Kg when full.\na) How many cartons were there? \\((1mk)\\)\nb) What was the total mass of empty cartons? \\((2mks)\\)\nc) What was the total mass of the books alone? \\((2mks)\\)\nThe average mass of students in a class of 45 was 46 Kg at the beginning of the year. At the end of the that year, they had each gained 4 Kg. Calculate:\na) Their total mass of the students at the end of the year. \\((2mks)\\)\nb) The difference between their total mass at the beginning and at the end of the year. \\((2mks)\\)\nA matatu had 23 passengers at the beginning of the journey. Twelve passengers alighted at the first stop while 9 boarded. Six of those who boarded at the first stop alighted at the second stop and 12 got in. The matatu did not stop again up to the final destination. The charges from the starting point were Ksh. 50 up to the first stop, Ksh. 70 up to the second stop, and Ksh. 85 up to the final destination.\na) How many passengers alighted at the final destination? (3mks)\nb) How many passengers were carried by the matatu through the journey? (2mks)\nc) How much money was collected during the trip? (5mks)\na) State the value of digit 7 after the operations below.\ni) \\(3.45 \\times 20.54\\) (2mks)\nii) \\(0.345 \\times 2.054\\) (2mks)\niii) \\(34.5\\times 0.2054\\) (2mks)\niv) \\(0.0345\\times 2.054\\) (2mks)\nb) states the value of the second digit in the product 675 . (2mks)"
+  },
+  {
+    "objectID": "Natural Numbers.html#solution-7",
+    "href": "Natural Numbers.html#solution-7",
+    "title": "1  Chapter 1: Natural Numbers",
+    "section": "1.4 Solution",
+    "text": "1.4 Solution\nSince there are 12 months in each year, they must make a total of \\(5\\times12 = 60\\) payments on the loan. Dividing $ 20,880 by 60 will result in the monthly payment:\n\n\n\nExample 2\n\n\nThe Almos’ monthly payment will be $ 348. :::"
+  },
+  {
+    "objectID": "Factors.html",
+    "href": "Factors.html",
+    "title": "2  Chapter 2: Factors",
+    "section": "",
+    "text": "Factors\nFactors are all numbers that divide a given number without leaving a remainder."
+  },
+  {
+    "objectID": "Divisibility Test.html",
+    "href": "Divisibility Test.html",
+    "title": "3  Chapter Three",
+    "section": "",
+    "text": "4 Divisibility Test"
+  },
+  {
+    "objectID": "Divisibility Test.html#divisibility-test-for-2-3-4-5-6-8-10-and-11",
+    "href": "Divisibility Test.html#divisibility-test-for-2-3-4-5-6-8-10-and-11",
+    "title": "3  Chapter Three",
+    "section": "4.1 Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11",
+    "text": "4.1 Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11"
+  },
+  {
+    "objectID": "GCD and LCM.html#quarto",
+    "href": "GCD and LCM.html#quarto",
+    "title": "\n4  Greatest Common Divisor\n",
+    "section": "\n4.1 Quarto",
+    "text": "4.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "GCD and LCM.html#running-code",
+    "href": "GCD and LCM.html#running-code",
+    "title": "\n4  Greatest Common Divisor\n",
+    "section": "\n4.2 Running Code",
+    "text": "4.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Integers.html",
+    "href": "Integers.html",
+    "title": "5  Chapter 5",
+    "section": "",
+    "text": "6 Integers"
+  },
+  {
+    "objectID": "Fractions.html",
+    "href": "Fractions.html",
+    "title": "6  Chapter 6",
+    "section": "",
+    "text": "7 Fractions"
+  },
+  {
+    "objectID": "Decimals Sqr & Sqrt.html",
+    "href": "Decimals Sqr & Sqrt.html",
+    "title": "7  Chapter Seven",
+    "section": "",
+    "text": "8 Decimals, Squares, and Square Roots"
+  },
+  {
+    "objectID": "Algebraic Expression.html",
+    "href": "Algebraic Expression.html",
+    "title": "8  Chapter Eight",
+    "section": "",
+    "text": "9 Algebraic Expressions"
+  },
+  {
+    "objectID": "Rate Ratio, Proportion and Percentage.html",
+    "href": "Rate Ratio, Proportion and Percentage.html",
+    "title": "9  Chapter Nine",
+    "section": "",
+    "text": "10 Rate, Ratio, Proportion, and Percentage"
+  },
+  {
+    "objectID": "Length Area Volume and Capacity.html",
+    "href": "Length Area Volume and Capacity.html",
+    "title": "10  Chapter Ten",
+    "section": "",
+    "text": "11 Length, Area, Volume, and Capacity"
+  },
+  {
+    "objectID": "Mass Weight and Density.html",
+    "href": "Mass Weight and Density.html",
+    "title": "11  Chapter Eleven",
+    "section": "",
+    "text": "12 Mass, Weight and Density"
+  },
+  {
+    "objectID": "Time.html",
+    "href": "Time.html",
+    "title": "12  Chapter Twelve",
+    "section": "",
+    "text": "13 Time"
+  },
+  {
+    "objectID": "Linear Equations.html",
+    "href": "Linear Equations.html",
+    "title": "13  Chapter 15",
+    "section": "",
+    "text": "14 Linear Equations"
+  },
+  {
+    "objectID": "Commercial Arithmetic.html",
+    "href": "Commercial Arithmetic.html",
+    "title": "14  Chapter Fourteen",
+    "section": "",
+    "text": "15 Commercial Arithmetic"
+  },
+  {
+    "objectID": "Co-Ordinates and Graphs.html",
+    "href": "Co-Ordinates and Graphs.html",
+    "title": "15  Chapter Fifteen",
+    "section": "",
+    "text": "16 Co-Ordinates and Graphs"
+  },
+  {
+    "objectID": "Angles and Plane Figures.html",
+    "href": "Angles and Plane Figures.html",
+    "title": "16  Chapter Sixteen",
+    "section": "",
+    "text": "17 Angles and Plane Figures"
+  },
+  {
+    "objectID": "Geometrical Constructions.html",
+    "href": "Geometrical Constructions.html",
+    "title": "17  Chapter Seventeen",
+    "section": "",
+    "text": "18 Geometrical Constructions"
+  },
+  {
+    "objectID": "Model Sample Papers.html",
+    "href": "Model Sample Papers.html",
+    "title": "SECTION TWO",
+    "section": "",
+    "text": "Model Samples Papers"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-1",
+    "href": "Model Sample Papers.html#model-sample-paper-1",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 1",
+    "text": "model Sample Paper 1"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-2",
+    "href": "Model Sample Papers.html#model-sample-paper-2",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 2",
+    "text": "model Sample Paper 2"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-3",
+    "href": "Model Sample Papers.html#model-sample-paper-3",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 3",
+    "text": "model Sample Paper 3"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-4",
+    "href": "Model Sample Papers.html#model-sample-paper-4",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 4",
+    "text": "model Sample Paper 4"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-5",
+    "href": "Model Sample Papers.html#model-sample-paper-5",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 5",
+    "text": "model Sample Paper 5"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-6",
+    "href": "Model Sample Papers.html#model-sample-paper-6",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 6",
+    "text": "model Sample Paper 6"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-7",
+    "href": "Model Sample Papers.html#model-sample-paper-7",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 7",
+    "text": "model Sample Paper 7"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-8",
+    "href": "Model Sample Papers.html#model-sample-paper-8",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 8",
+    "text": "model Sample Paper 8"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-9",
+    "href": "Model Sample Papers.html#model-sample-paper-9",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 9",
+    "text": "model Sample Paper 9"
+  },
+  {
+    "objectID": "Model Sample Papers.html#model-sample-paper-10",
+    "href": "Model Sample Papers.html#model-sample-paper-10",
+    "title": "SECTION TWO",
+    "section": "model Sample Paper 10",
+    "text": "model Sample Paper 10"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html",
+    "href": "Answers to Problems to Solve.html",
+    "title": "SECTION THREE",
+    "section": "",
+    "text": "Answers to Problems to Solve"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-1-natural-numbers",
+    "href": "Answers to Problems to Solve.html#chapter-1-natural-numbers",
+    "title": "SECTION THREE",
+    "section": "chapter 1: Natural Numbers",
+    "text": "chapter 1: Natural Numbers\n\nRounding Off\n\n\nOperations"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-2-factors",
+    "href": "Answers to Problems to Solve.html#chapter-2-factors",
+    "title": "SECTION THREE",
+    "section": "Chapter 2: Factors",
+    "text": "Chapter 2: Factors"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-3-divisibility-test",
+    "href": "Answers to Problems to Solve.html#chapter-3-divisibility-test",
+    "title": "SECTION THREE",
+    "section": "Chapter 3: Divisibility Test",
+    "text": "Chapter 3: Divisibility Test"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-4-g.c.d-and-l.c.m",
+    "href": "Answers to Problems to Solve.html#chapter-4-g.c.d-and-l.c.m",
+    "title": "SECTION THREE",
+    "section": "Chapter 4: G.C.D and L.C.M",
+    "text": "Chapter 4: G.C.D and L.C.M"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-5-integers",
+    "href": "Answers to Problems to Solve.html#chapter-5-integers",
+    "title": "SECTION THREE",
+    "section": "Chapter 5: Integers",
+    "text": "Chapter 5: Integers"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-6-fractions",
+    "href": "Answers to Problems to Solve.html#chapter-6-fractions",
+    "title": "SECTION THREE",
+    "section": "Chapter 6: Fractions",
+    "text": "Chapter 6: Fractions"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-7-decimals-squares-and-square-roots",
+    "href": "Answers to Problems to Solve.html#chapter-7-decimals-squares-and-square-roots",
+    "title": "SECTION THREE",
+    "section": "Chapter 7: Decimals, Squares, and Square Roots",
+    "text": "Chapter 7: Decimals, Squares, and Square Roots"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-8-algebraic-expression",
+    "href": "Answers to Problems to Solve.html#chapter-8-algebraic-expression",
+    "title": "SECTION THREE",
+    "section": "Chapter 8: Algebraic Expression",
+    "text": "Chapter 8: Algebraic Expression"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-9-rate-ratio-proportion-and-percentage",
+    "href": "Answers to Problems to Solve.html#chapter-9-rate-ratio-proportion-and-percentage",
+    "title": "SECTION THREE",
+    "section": "Chapter 9: Rate, Ratio, Proportion, and Percentage",
+    "text": "Chapter 9: Rate, Ratio, Proportion, and Percentage"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-10-length-area-volume-and-capacity",
+    "href": "Answers to Problems to Solve.html#chapter-10-length-area-volume-and-capacity",
+    "title": "SECTION THREE",
+    "section": "Chapter 10: Length, Area, Volume, and Capacity",
+    "text": "Chapter 10: Length, Area, Volume, and Capacity"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-11-mass-weight-and-density",
+    "href": "Answers to Problems to Solve.html#chapter-11-mass-weight-and-density",
+    "title": "SECTION THREE",
+    "section": "Chapter 11: Mass, Weight, and Density",
+    "text": "Chapter 11: Mass, Weight, and Density"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-12-time",
+    "href": "Answers to Problems to Solve.html#chapter-12-time",
+    "title": "SECTION THREE",
+    "section": "Chapter 12: Time",
+    "text": "Chapter 12: Time"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-13-linear-equatins",
+    "href": "Answers to Problems to Solve.html#chapter-13-linear-equatins",
+    "title": "SECTION THREE",
+    "section": "Chapter 13: Linear Equatins",
+    "text": "Chapter 13: Linear Equatins"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-14-commercial-arithmetic",
+    "href": "Answers to Problems to Solve.html#chapter-14-commercial-arithmetic",
+    "title": "SECTION THREE",
+    "section": "Chapter 14: Commercial Arithmetic",
+    "text": "Chapter 14: Commercial Arithmetic"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-15-co-ordinates-and-graphs",
+    "href": "Answers to Problems to Solve.html#chapter-15-co-ordinates-and-graphs",
+    "title": "SECTION THREE",
+    "section": "Chapter 15: Co-Ordinates and Graphs",
+    "text": "Chapter 15: Co-Ordinates and Graphs"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-16-angles-and-plane-figures",
+    "href": "Answers to Problems to Solve.html#chapter-16-angles-and-plane-figures",
+    "title": "SECTION THREE",
+    "section": "Chapter 16: Angles and Plane Figures",
+    "text": "Chapter 16: Angles and Plane Figures"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-17-geometrical-constructions",
+    "href": "Answers to Problems to Solve.html#chapter-17-geometrical-constructions",
+    "title": "SECTION THREE",
+    "section": "Chapter 17: Geometrical Constructions",
+    "text": "Chapter 17: Geometrical Constructions"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#chapter-18-scale-drawing",
+    "href": "Answers to Problems to Solve.html#chapter-18-scale-drawing",
+    "title": "SECTION THREE",
+    "section": "Chapter 18: Scale Drawing",
+    "text": "Chapter 18: Scale Drawing"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html",
+    "href": "Answers to Model Sample Papers.html",
+    "title": "SECTION FOUR",
+    "section": "",
+    "text": "Answers to Model Sample Papers"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-1",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-1",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 1",
+    "text": "model Sample Paper 1"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-2",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-2",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 2",
+    "text": "model Sample Paper 2"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-3",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-3",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 3",
+    "text": "model Sample Paper 3"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-4",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-4",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 4",
+    "text": "model Sample Paper 4"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-5",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-5",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 5",
+    "text": "model Sample Paper 5"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-6",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-6",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 6",
+    "text": "model Sample Paper 6"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-7",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-7",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 7",
+    "text": "model Sample Paper 7"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-8",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-8",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 8",
+    "text": "model Sample Paper 8"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-9",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-9",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 9",
+    "text": "model Sample Paper 9"
+  },
+  {
+    "objectID": "Answers to Model Sample Papers.html#model-sample-paper-10",
+    "href": "Answers to Model Sample Papers.html#model-sample-paper-10",
+    "title": "SECTION FOUR",
+    "section": "model Sample Paper 10",
+    "text": "model Sample Paper 10"
+  },
+  {
+    "objectID": "Factors.html#solved-examples",
+    "href": "Factors.html#solved-examples",
+    "title": "2  Chapter 2: Factors",
+    "section": "2.1 Solved examples",
+    "text": "2.1 Solved examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nExpress the following numbers in terms of their prime factors\na) 150 \\((2mks)\\)\nb) 196 \\((2mks)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\n\nExample 1 (a)\n\n\n\n\n\n\n\nExample 1 (b)\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblems to solve\n\n\n\n\n\nExpress the following numbers in terms of their prime factors:\na) 1859 \\((2mks)\\)\nb) 105 \\((2mks)\\)\nc) 900 \\((2mks)\\)\nd) 700 \\((2mks)\\)\ne) 5929 \\((2mks)\\)\nf) 1078 \\((2mks)\\)\ng) 2057 \\((2mks)\\)\nh) 1386 \\((2mks)\\)\ni) 1573 \\((2mks)\\)\nj) 993 \\((2mks)\\)"
   }
 ]

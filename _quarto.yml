@@ -1,50 +1,77 @@
-project:
-  type: book
+  project:
+    type: book
+    output-dir: _book
 
-book:
-  title: "Enrightening Mathematics Revision Book Volume"
-  author: "Martin Nyamu and Ken Gatungo"
-  date: "10/01/2023"
-  search: true
-  repo-url: https://github.com/analystnyamu/Math_Book/
-  repo-actions: [edit]
-  downloads: [epub,pdf]
-  sharing: [twitter, facebook]
-  
-  chapters:
-    - index.qmd
-    - intro.qmd
-    - Natural Numbers.qmd
-    - Factors.qmd
-    - Divisibility Test.qmd
-    - GCD and LCM.qmd
-    - Integers.qmd
-    - Fractions.qmd
-    - Decimals Sqr & Sqrt.qmd
-    - Algebraic Expression.qmd
-    - Rate Ratio, Proportion and Percentage.qmd
-    - Length Area Volume and Capacity.qmd
-    - Mass Weight and Density.qmd
-    - Time.qmd
-    - Linear Equations.qmd
-    - Commercial Arithmetic.qmd
-    - Co-Ordinates and Graphs.qmd
-    - Angles and Plane Figures.qmd
-    - Geometrical Constructions.qmd
-    - Scale Drawing.qmd
-    - Model Sample Papers.qmd
-    - Answers to Problems to Solve.qmd
-    - Answers to Model Sample Papers.qmd
+  book:
+    title: "Enrightening Mathematics Revision Book Volume"
+    reader-mode: true
     
     
-comments:
-  hypothesis: true
+    page-footer:
+      left: |
+        Enrightening Mathematics Revision Book Volume (2e) was written by Martin Nyamu and Ken Gatungo.
+      right: |
+       This book was built with <a href="https://quarto.org/">Quarto</a>.
+       
+    cover-image: cover.jpg
+    favicon: cover.jpg
+   
+    author: "Martin Nyamu and Ken Gatungo"
+    date: "10/01/2023"
+    search: true
+    repo-url: https://github.com/analystnyamu/EnlighteningMath/
+    repo-branch: main
+    repo-actions: [edit, issue]
+    downloads: [epub,pdf]
+    sharing: [twitter, facebook]
   
-format:
-  html:
-    theme: cosmo
+    chapters:
+      - index.qmd
+      - intro.qmd
+      - Natural Numbers.qmd
+      - Factors.qmd
+      - Divisibility Test.qmd
+      - GCD and LCM.qmd
+      - Integers.qmd
+      - Fractions.qmd
+      - Decimals Sqr & Sqrt.qmd
+      - Algebraic Expression.qmd
+      - Rate Ratio, Proportion and Percentage.qmd
+      - Length Area Volume and Capacity.qmd
+      - Mass Weight and Density.qmd
+      - Time.qmd
+      - Linear Equations.qmd
+      - Commercial Arithmetic.qmd
+      - Co-Ordinates and Graphs.qmd
+      - Angles and Plane Figures.qmd
+      - Geometrical Constructions.qmd
+      - Scale Drawing.qmd
+      - Model Sample Papers.qmd
+      - Answers to Problems to Solve.qmd
+      - Answers to Model Sample Papers.qmd
+    
+    
+  comments:
+    hypothesis: true
+  
+  format:
+   html:
+      theme: 
+       - cosmo
+       - EM.scss
+    
+      code-link: true
+    
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
+    papersize: a4paper
+    
+  epub:
+    cover-image: cover.png
 
-editor: visual
+    author-meta: "Martin Nyamu and Ken Gatungo"
+    include-in-header: "plausible.html"
+    callout-appearance: simple
+
+  editor: visual
 
