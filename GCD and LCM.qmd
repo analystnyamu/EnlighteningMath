@@ -1,3 +1,97 @@
 # Chapter 4: Greatest Common Divisor and Least Common Divisor
 
-# Greatest Common Divisor (G.C.D) and Least Common Divisor (L.C.M) {.unnumbered}
+# G.C.D and L.C.M {.unnumbered}
+
+## Greatest Common Divisor (GCD)
+
+GCD is also called the Highest Common Factor (HCF) or Greatest Common Factor (GCF). To find the GCF of two numbers you write down their prime factors, then select the common factors and obtain their product.
+
+::: {.callout-note collapse="false"}
+# Solved Example
+
+Find the HCF of 36 and 64. \hspace{10.5cm} $(3mks)$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+![GCD Example](GCD_Ex1.png)
+:::
+
+## Least Common Multiple (LCM)
+
+The least common multiple, or smallest common multiple, or lowest common multiple of two integers is the smallest positive integer that is divisible by the two integers.
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+# Example 1
+
+What is the LCM of 18, 24 and 36? \hspace{9.5cm} $(2mks)$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+![Example 1](GCD_LCM_Ex1.png)
+:::
+
+::: {.callout-note collapse="false"}
+# Example 2
+
+The G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 60, find the other number \hspace{14cm} $(3mks)$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+![Example 2](GCD_LCM_Ex2.png)
+:::
+
+::: {.callout-note collapse="\"false"}
+## Problems to solve
+
+1.  The GCD of three numbers is 30 and their LCM is 900. Two of the numbers are 60 and 150. Find the other possible numbers. \hspace{8.7cm} $(3mks)$
+
+2.  the least common multiple of two numbers is 60 and one of the numbers is 7 less than the other. What are the numbers? \hspace{10.3cm} $(3mks)$
+
+3.  The L.C.M of two numbers is 120 and their G.C.F is 6. One of the numbers is 30, what is the other number? \hspace{11.8cm} $(3mks)$
+
+4.  Three bells rang at intervals of 9minutes, 15 minutes and 21minutes. The bells will ring together at 11.00 p.m.Find the time the bells had last rang together. \hspace{5cm} $(3mks)$
+
+5.  a\) The difference between the GCD and the LCM of 36 and 54.\hspace{4cm} $(2mks)$
+
+    b\) If three numbers 36, 54 and have a GCD of 6 and LCM of 216. Find the least value of the third number. \hspace{11.1cm} $(2mks)$
+
+6.  The GCD and LCM of three numbers are 3 and 1,008 respectively. If two of the numbers are 48 and 72, find the least possible value of the third number.\hspace{5cm} $(3mks)$
+
+7.  Three alarms ring at intervals of 40 minutes, 45 minutes, and 60 minutes. If they ring simultaneously at 6:30 a.m., at what time will they next ring together? \hspace{3.9cm} $(3mks)$
+
+8.  Four traffic light signals are programmed at intervals of 40 seconds, 50 seconds, 60 seconds, and 75 seconds. What is the earliest they will give out light signals simultaneously if the last time they did this was at 8:15 a.m.? \hspace{8.5cm} $(3mks)$
+
+9.  A number n is such that when it is divided by 27, 30, or 45, the remainder is 5. Find the smallest possible value of n. \hspace{11cm} $(3mks)$
+
+10. Find the greatest number which divides 181 and 170 leaving a remainder of 5. \hspace{1.7cm} $(3mks)$
+
+11. A square room is covered by a number of whole rectangular slabs of sides 60cm by 42 cm. Calculate the least possible area of the room in square meters. \hspace{4cm} $(3mks)$
+
+12. Three metal rods of lengths 234cm, 270cm, and 324cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. \hspace\*{14.2cm} $(4mks)$
+
+13. The GCD of two numbers is 7 and their LCM is 140. If one of the numbers is 20, find the other number. \hspace{12.8cm} $(2mks)$
+
+14. The GCD and LCM of three numbers are 84 and 7056 respectively. If two of the numbers are 168 and 336, find the least possible value of the third number.\hspace{5cm} $(3mks)$
+
+15. A fruit juice dealer sells the juice in a packet of 300ml, 500ml, and 750ml. Find the size of the smallest container that can fill each of the packets and leave a remainder of 200ml.\hspace{0.6cm} $(3mks)$
+
+16. Mr. Ombogo the principal of Chiga secondary would wish to cover the floor of the new administration block using the square tiles. The floor is a rectangle of sides 12.8m by 8.4m. Find the area of each of the largest tiles which can be used to fit exactly without breaking. \hspace\*{14.2cm} $(3mks)$
+
+17. Three numbers, 1400, 1960, and n have a G.C.D and L.C.M of 70 and $2^2\times 5^2\times 7^2 \times 11$ respectively. Find the least possible value of n. \hspace{8.8cm} $(3mks)$
+
+18. a\) Express 48 and 60 as a product of their prime factors. \hspace{11cm} $(3mks)$
+
+    b\) A room of sides 48m and 60m is to be decorated using square tiles side XM. Find the greatest area of the tile. \hspace{9.2cm} $(2mks)$
+
+19. Three similar pieces of timber of length 240cm, 320cm, and 380cm are cut into equal pieces. Find the largest possible area of a square that can be made from any of the three pieces. \hspace\*{14.2cm} $(3mks)$
+:::
+
+\item

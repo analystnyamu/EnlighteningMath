@@ -79,9 +79,9 @@
   {
     "objectID": "Divisibility Test.html#divisibility-test-for-2-3-4-5-6-8-10-and-11",
     "href": "Divisibility Test.html#divisibility-test-for-2-3-4-5-6-8-10-and-11",
-    "title": "3  Chapter Three",
-    "section": "4.1 Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11",
-    "text": "4.1 Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11"
+    "title": "3  Chapter Three: Divisibility Test",
+    "section": "3.1 Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11",
+    "text": "3.1 Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11\nDivisibility test for 2\nA number is divisible by 2 if its last digit is even or zero . e.g., 12, 10, and 72\nDivisibility test for 3\nA number is divisible by 3 if the sum of its digits is divisible by 3.\n\n\n\n\n\n\nExample\n\n\n\n\n\n\\(1,275\\) is divisible by 3 because the sum of the digit is a multiple of 3 that is:\n\\((1+2+7+5=15)=\\frac{15}{3}=5\\)\n\n\n\nDivisibility test for 4\nA number is divisible by 4 if its last two digits are both zero or form a number which is divisible by 4.\n\n\n\n\n\n\nExample\n\n\n\n\n\n\\(1,144\\) is divisible by 4 because its last two digits are divisible by 4 to give 11\n\n\n\nDivisibility test for 5\nA number is divisible by 5 if its last digit is zero or 5. e.g 55, 60, 105\nDivisibility test for 6\nA number is divisible by 6 if it is divisible by both 2 and 3\nDivisibility test for 8\nA number is divisible by 8 if the number formed by its last 3 digits is divisible by 8.\nDivisibility test for 9\nA number is divisible by 9 if the sum of its digits is divisible by 9\nDivisibility test for 10\nA number is divisible by 10 if the last digit is zero.\nDivisibility test for 11\nA number is divisible by 11 if the sum of its 1st, 3rd, 5th, 7th, 9th, etc. digits and the sum of the 2nd, 4th, 6th, 8th, etc. digits are equal or differ by 11 or a multiple of 11.\n\n\n\n\n\n\nProblems to solve\n\n\n\n\n\n\nIn each of the following numbers without doing actual division, determine whether the first number is divisible by the second number: \\((5mks)\\)\na) 3409122; 6\nb) 17218; 6\nc) 11309634; ,8\nd) 515712; , 8\ne) 3501804; , 4\nWhich of the following numbers has 9 as a factor? \\((2mks)\\)\na) 394683\nb) 1872546\nc) 5172354\na) Which are the smallest numbers that can be added to the following numbers to make them divisible by 11? \\((4mks)\\)\ni) 5,234\nii) 36,541\niii) 96,287\niv) 27,992\nb) Which are the smallest numbers that can be subtracted from the following numbers to make them divisible by 11? \\((2mks)\\)\ni) 96,287 ii) 24,535\nTest whether 712,038 is divisible by: (3mks)\ni) 2\nii) 3\niii) 4"
   },
   {
     "objectID": "GCD and LCM.html#quarto",
@@ -481,5 +481,33 @@
     "title": "2  Chapter 2: Factors",
     "section": "2.1 Solved examples",
     "text": "2.1 Solved examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nExpress the following numbers in terms of their prime factors\na) 150 \\((2mks)\\)\nb) 196 \\((2mks)\\)\n\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\n\nExample 1 (a)\n\n\n\n\n\n\n\nExample 1 (b)\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblems to solve\n\n\n\n\n\nExpress the following numbers in terms of their prime factors:\na) 1859 \\((2mks)\\)\nb) 105 \\((2mks)\\)\nc) 900 \\((2mks)\\)\nd) 700 \\((2mks)\\)\ne) 5929 \\((2mks)\\)\nf) 1078 \\((2mks)\\)\ng) 2057 \\((2mks)\\)\nh) 1386 \\((2mks)\\)\ni) 1573 \\((2mks)\\)\nj) 993 \\((2mks)\\)"
+  },
+  {
+    "objectID": "GCD and LCM.html",
+    "href": "GCD and LCM.html",
+    "title": "4  Chapter 4: Greatest Common Divisor and Least Common Divisor",
+    "section": "",
+    "text": "G.C.D and L.C.M"
+  },
+  {
+    "objectID": "GCD and LCM.html#greatest-common-divisor-gcd",
+    "href": "GCD and LCM.html#greatest-common-divisor-gcd",
+    "title": "4  Chapter 4: Greatest Common Divisor and Least Common Divisor",
+    "section": "4.1 Greatest Common Divisor (GCD)",
+    "text": "4.1 Greatest Common Divisor (GCD)\nGCD is also called the Highest Common Factor (HCF) or Greatest Common Factor (GCF). To find the GCF of two numbers you write down their prime factors, then select the common factors and obtain their product.\n\n\n\n\n\n\nSolved Example\n\n\n\n\n\nFind the HCF of 36 and 64. \\((3mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\nGCD Example"
+  },
+  {
+    "objectID": "GCD and LCM.html#least-common-multiple-lcm",
+    "href": "GCD and LCM.html#least-common-multiple-lcm",
+    "title": "4  Chapter 4: Greatest Common Divisor and Least Common Divisor",
+    "section": "4.2 Least Common Multiple (LCM)",
+    "text": "4.2 Least Common Multiple (LCM)\nThe least common multiple, or smallest common multiple, or lowest common multiple of two integers is the smallest positive integer that is divisible by the two integers."
+  },
+  {
+    "objectID": "GCD and LCM.html#solved-examples",
+    "href": "GCD and LCM.html#solved-examples",
+    "title": "4  Chapter 4: Greatest Common Divisor and Least Common Divisor",
+    "section": "4.3 Solved Examples",
+    "text": "4.3 Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nWhat is the LCM of 18, 24 and 36? \\((2mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\nExample 1\n\n\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nThe G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 60, find the other number \\((3mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\n\n\n\n\n\n\nProblems to solve\n\n\n\n\n\n\nThe GCD of three numbers is 30 and their LCM is 900. Two of the numbers are 60 and 150. Find the other possible numbers. \\((3mks)\\)\nthe least common multiple of two numbers is 60 and one of the numbers is 7 less than the other. What are the numbers? \\((3mks)\\)\nThe L.C.M of two numbers is 120 and their G.C.F is 6. One of the numbers is 30, what is the other number? \\((3mks)\\)\nThree bells rang at intervals of 9minutes, 15 minutes and 21minutes. The bells will ring together at 11.00 p.m.Find the time the bells had last rang together. \\((3mks)\\)\na) The difference between the GCD and the LCM of 36 and 54. \\((2mks)\\)\nb) If three numbers 36, 54 and have a GCD of 6 and LCM of 216. Find the least value of the third number. \\((2mks)\\)\nThe GCD and LCM of three numbers are 3 and 1,008 respectively. If two of the numbers are 48 and 72, find the least possible value of the third number. \\((3mks)\\)\nThree alarms ring at intervals of 40 minutes, 45 minutes, and 60 minutes. If they ring simultaneously at 6:30 a.m., at what time will they next ring together? \\((3mks)\\)\nFour traffic light signals are programmed at intervals of 40 seconds, 50 seconds, 60 seconds, and 75 seconds. What is the earliest they will give out light signals simultaneously if the last time they did this was at 8:15 a.m.? \\((3mks)\\)\nA number n is such that when it is divided by 27, 30, or 45, the remainder is 5. Find the smallest possible value of n.  \\((3mks)\\)\nFind the greatest number which divides 181 and 170 leaving a remainder of 5. \\((3mks)\\)\nA square room is covered by a number of whole rectangular slabs of sides 60cm by 42 cm. Calculate the least possible area of the room in square meters. \\((3mks)\\)\nThree metal rods of lengths 234cm, 270cm, and 324cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. *{14.2cm} \\((4mks)\\)\nThe GCD of two numbers is 7 and their LCM is 140. If one of the numbers is 20, find the other number. \\((2mks)\\)\nThe GCD and LCM of three numbers are 84 and 7056 respectively. If two of the numbers are 168 and 336, find the least possible value of the third number. \\((3mks)\\)\nA fruit juice dealer sells the juice in a packet of 300ml, 500ml, and 750ml. Find the size of the smallest container that can fill each of the packets and leave a remainder of 200ml. \\((3mks)\\)\nMr. Ombogo the principal of Chiga secondary would wish to cover the floor of the new administration block using the square tiles. The floor is a rectangle of sides 12.8m by 8.4m. Find the area of each of the largest tiles which can be used to fit exactly without breaking. *{14.2cm} \\((3mks)\\)\nThree numbers, 1400, 1960, and n have a G.C.D and L.C.M of 70 and \\(2^2\\times 5^2\\times 7^2 \\times 11\\) respectively. Find the least possible value of n.  \\((3mks)\\)\na) Express 48 and 60 as a product of their prime factors. \\((3mks)\\)\nb) A room of sides 48m and 60m is to be decorated using square tiles side XM. Find the greatest area of the tile. \\((2mks)\\)\nThree similar pieces of timber of length 240cm, 320cm, and 380cm are cut into equal pieces. Find the largest possible area of a square that can be made from any of the three pieces. *{14.2cm} \\((3mks)\\)"
   }
 ]

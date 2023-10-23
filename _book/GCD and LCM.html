@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.3.450">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<title>Enrightening Mathematics Revision Book Volume - 4&nbsp; Greatest Common Divisor</title>
+
+
+<title>Enrightening Mathematics Revision Book Volume - 4&nbsp; Chapter 4: Greatest Common Divisor and Least Common Divisor</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,41 +20,8 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
+
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
@@ -71,7 +41,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
@@ -90,25 +61,37 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
-}</script><script async="" src="https://hypothes.is/embed.js"></script>
+}</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
 </head>
+
 <body class="nav-sidebar floating">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top"><nav class="quarto-secondary-nav"><div class="container-fluid d-flex">
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./GCD and LCM.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Greatest Common Divisor</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./GCD and LCM.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Chapter 4: Greatest Common Divisor and Least Common Divisor</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
-  </nav></header><!-- content --><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto"><div class="pt-lg-2 mt-2 text-left sidebar-header">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Enrightening Mathematics Revision Book Volume</a> 
         <div class="sidebar-tools-main tools-wide">
@@ -116,7 +99,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div class="dropdown">
       <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
       <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
-<li>
+          <li>
             <a class="dropdown-item sidebar-tools-main-item" href="./Enrightening-Mathematics-Revision-Book-Volume.epub">
               <i class="bi bi-bi-journal pe-1"></i>
             Download ePub
@@ -129,24 +112,24 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
             </a>
           </li>
       </ul>
-</div>
+    </div>
     <div class="dropdown">
       <a href="" title="Share" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
       <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-1">
-<li>
-            <a class="dropdown-item sidebar-tools-main-item" href="https://twitter.com/intent/tweet?url=%7Curl%7C">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://twitter.com/intent/tweet?url=|url|">
               <i class="bi bi-bi-twitter pe-1"></i>
             Twitter
             </a>
           </li>
           <li>
-            <a class="dropdown-item sidebar-tools-main-item" href="https://www.facebook.com/sharer/sharer.php?u=%7Curl%7C">
+            <a class="dropdown-item sidebar-tools-main-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
               <i class="bi bi-bi-facebook pe-1"></i>
             Facebook
             </a>
           </li>
       </ul>
-</div>
+    </div>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
@@ -162,7 +145,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-<li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preface</span></a>
@@ -183,19 +166,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Factors.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Chapter 2</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Chapter 2: Factors</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Divisibility Test.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Chapter Three</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Chapter Three: Divisibility Test</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./GCD and LCM.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Greatest Common Divisor</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Chapter 4: Greatest Common Divisor and Least Common Divisor</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -219,7 +202,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Algebraic Expression.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Chapter Eight</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Chapter Eight: Algebraic Expressions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -273,7 +256,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Geometrical Constructions.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Chapter Seventeen</span></span></a>
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Chapter Seventeen: Geometrical Constructions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -301,22 +284,30 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </div>
 </li>
     </ul>
-</div>
-</nav><div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">Table of contents</h2>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-<li><a href="#quarto" id="toc-quarto" class="nav-link active" data-scroll-target="#quarto"><span class="header-section-number">4.1</span> Quarto</a></li>
-  <li><a href="#running-code" id="toc-running-code" class="nav-link" data-scroll-target="#running-code"><span class="header-section-number">4.2</span> Running Code</a></li>
-  </ul><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/analystnyamu/EnlighteningMath/edit/main/GCD and LCM.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/analystnyamu/EnlighteningMath/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+  <li><a href="#g.c.d-and-l.c.m" id="toc-g.c.d-and-l.c.m" class="nav-link active" data-scroll-target="#g.c.d-and-l.c.m">G.C.D and L.C.M</a>
+  <ul class="collapse">
+  <li><a href="#greatest-common-divisor-gcd" id="toc-greatest-common-divisor-gcd" class="nav-link" data-scroll-target="#greatest-common-divisor-gcd"><span class="header-section-number">4.1</span> Greatest Common Divisor (GCD)</a></li>
+  <li><a href="#least-common-multiple-lcm" id="toc-least-common-multiple-lcm" class="nav-link" data-scroll-target="#least-common-multiple-lcm"><span class="header-section-number">4.2</span> Least Common Multiple (LCM)</a></li>
+  <li><a href="#solved-examples" id="toc-solved-examples" class="nav-link" data-scroll-target="#solved-examples"><span class="header-section-number">4.3</span> Solved Examples</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/analystnyamu/EnlighteningMath/edit/main/GCD and LCM.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/analystnyamu/EnlighteningMath/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
-<h1 class="title">
-<span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Greatest Common Divisor</span>
-</h1>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Chapter 4: Greatest Common Divisor and Least Common Divisor</span></h1>
 </div>
 
 
@@ -329,28 +320,176 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </div>
   
 
-</header><section id="quarto" class="level2" data-number="4.1"><h2 data-number="4.1" class="anchored" data-anchor-id="quarto">
-<span class="header-section-number">4.1</span> Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
-</section><section id="running-code" class="level2" data-number="4.2"><h2 data-number="4.2" class="anchored" data-anchor-id="running-code">
-<span class="header-section-number">4.2</span> Running Code</h2>
-<p>When you click the <strong>Render</strong> button a document will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
-<div class="cell">
-<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fl">1</span> <span class="op">+</span> <span class="fl">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+</header>
+
+<section id="g.c.d-and-l.c.m" class="level1 unnumbered">
+<h1 class="unnumbered">G.C.D and L.C.M</h1>
+<section id="greatest-common-divisor-gcd" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="greatest-common-divisor-gcd"><span class="header-section-number">4.1</span> Greatest Common Divisor (GCD)</h2>
+<p>GCD is also called the Highest Common Factor (HCF) or Greatest Common Factor (GCF). To find the GCF of two numbers you write down their prime factors, then select the common factors and obtain their product.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Solved Example
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>Find the HCF of 36 and 64. <span class="math inline">\((3mks)\)</span></p>
 </div>
 </div>
-<p>You can add options to executable code like this</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 4</code></pre>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Solution
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="GCD_Ex1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">GCD Example</figcaption>
+</figure>
 </div>
 </div>
-<p>The <code>echo: false</code> option disables the printing of code (only output is displayed).</p>
+</div>
+</div>
+</section>
+<section id="least-common-multiple-lcm" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="least-common-multiple-lcm"><span class="header-section-number">4.2</span> Least Common Multiple (LCM)</h2>
+<p>The least common multiple, or smallest common multiple, or lowest common multiple of two integers is the smallest positive integer that is divisible by the two integers.</p>
+</section>
+<section id="solved-examples" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="solved-examples"><span class="header-section-number">4.3</span> Solved Examples</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example 1
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>What is the LCM of 18, 24 and 36? <span class="math inline">\((2mks)\)</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Solution
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="GCD_LCM_Ex1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Example 1</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example 2
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>The G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 60, find the other number <span class="math inline">\((3mks)\)</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Solution
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="GCD_LCM_Ex2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Example 2</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Problems to solve
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li><p>The GCD of three numbers is 30 and their LCM is 900. Two of the numbers are 60 and 150. Find the other possible numbers. <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>the least common multiple of two numbers is 60 and one of the numbers is 7 less than the other. What are the numbers? <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>The L.C.M of two numbers is 120 and their G.C.F is 6. One of the numbers is 30, what is the other number? <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>Three bells rang at intervals of 9minutes, 15 minutes and 21minutes. The bells will ring together at 11.00 p.m.Find the time the bells had last rang together. <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>a) The difference between the GCD and the LCM of 36 and 54. <span class="math inline">\((2mks)\)</span></p>
+<p>b) If three numbers 36, 54 and have a GCD of 6 and LCM of 216. Find the least value of the third number. <span class="math inline">\((2mks)\)</span></p></li>
+<li><p>The GCD and LCM of three numbers are 3 and 1,008 respectively. If two of the numbers are 48 and 72, find the least possible value of the third number. <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>Three alarms ring at intervals of 40 minutes, 45 minutes, and 60 minutes. If they ring simultaneously at 6:30 a.m., at what time will they next ring together? <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>Four traffic light signals are programmed at intervals of 40 seconds, 50 seconds, 60 seconds, and 75 seconds. What is the earliest they will give out light signals simultaneously if the last time they did this was at 8:15 a.m.? <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>A number n is such that when it is divided by 27, 30, or 45, the remainder is 5. Find the smallest possible value of n.&nbsp; <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>Find the greatest number which divides 181 and 170 leaving a remainder of 5. <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>A square room is covered by a number of whole rectangular slabs of sides 60cm by 42 cm. Calculate the least possible area of the room in square meters. <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>Three metal rods of lengths 234cm, 270cm, and 324cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. *{14.2cm} <span class="math inline">\((4mks)\)</span></p></li>
+<li><p>The GCD of two numbers is 7 and their LCM is 140. If one of the numbers is 20, find the other number. <span class="math inline">\((2mks)\)</span></p></li>
+<li><p>The GCD and LCM of three numbers are 84 and 7056 respectively. If two of the numbers are 168 and 336, find the least possible value of the third number. <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>A fruit juice dealer sells the juice in a packet of 300ml, 500ml, and 750ml. Find the size of the smallest container that can fill each of the packets and leave a remainder of 200ml. <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>Mr.&nbsp;Ombogo the principal of Chiga secondary would wish to cover the floor of the new administration block using the square tiles. The floor is a rectangle of sides 12.8m by 8.4m. Find the area of each of the largest tiles which can be used to fit exactly without breaking. *{14.2cm} <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>Three numbers, 1400, 1960, and n have a G.C.D and L.C.M of 70 and <span class="math inline">\(2^2\times 5^2\times 7^2 \times 11\)</span> respectively. Find the least possible value of n.&nbsp; <span class="math inline">\((3mks)\)</span></p></li>
+<li><p>a) Express 48 and 60 as a product of their prime factors. <span class="math inline">\((3mks)\)</span></p>
+<p>b) A room of sides 48m and 60m is to be decorated using square tiles side XM. Find the greatest area of the tile. <span class="math inline">\((2mks)\)</span></p></li>
+<li><p>Three similar pieces of timber of length 240cm, 320cm, and 380cm are cut into equal pieces. Find the largest possible area of a square that can be made from any of the three pieces. *{14.2cm} <span class="math inline">\((3mks)\)</span></p></li>
+</ol>
+</div>
+</div>
+</div>
 
 
-</section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -582,9 +721,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
-</script><nav class="page-navigation"><div class="nav-page nav-page-previous">
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
       <a href="./Divisibility Test.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Chapter Three</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Chapter Three: Divisibility Test</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
@@ -594,7 +735,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<footer class="footer"><div class="nav-footer">
+<footer class="footer">
+  <div class="nav-footer">
     <div class="nav-footer-left">Enrightening Mathematics Revision Book Volume (2e) was written by Martin Nyamu and Ken Gatungo.</div>   
     <div class="nav-footer-center">
       &nbsp;
@@ -602,6 +744,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">This book was built with <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
+
 
 
 </body></html>

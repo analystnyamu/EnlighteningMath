@@ -1,10 +1,99 @@
-
-# Chapter Three
-
-# Divisibility Test
-
-
+# Chapter Three: Divisibility Test
 
 ## Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11
 
+**Divisibility test for 2**
 
+A number is divisible by **2** if its last digit is **even or zero** . e.g., 12, 10, and 72
+
+**Divisibility test for 3**
+
+A number is divisible by **3** if the sum of its digits is divisible by **3**.
+
+::: {.callout-note collapse="false"}
+# Example
+
+$1,275$ is divisible by 3 because the sum of the digit is a multiple of 3 that is:
+
+$(1+2+7+5=15)=\frac{15}{3}=5$
+:::
+
+**Divisibility test for 4**
+
+A number is divisible by **4** if its last two digits are both zero or form a number which is divisible by 4.
+
+::: {.callout-note collapse="false"}
+# Example
+
+$1,144$ is divisible by 4 because its last two digits are divisible by 4 to give 11
+:::
+
+**Divisibility test for 5**
+
+A number is divisible by 5 if its last digit is zero or 5. e.g 55, 60, 105
+
+**Divisibility test for 6**
+
+A number is divisible by 6 if it is divisible by both 2 and 3
+
+**Divisibility test for 8**
+
+A number is divisible by 8 if the number formed by its last 3 digits is divisible by 8.
+
+**Divisibility test for 9**
+
+A number is divisible by 9 if the sum of its digits is divisible by 9
+
+**Divisibility test for 10**
+
+A number is divisible by 10 if the last digit is zero.
+
+**Divisibility test for 11**
+
+A number is divisible by 11 if the sum of its **1st, 3rd, 5th, 7th, 9th**, etc. digits and the sum of the 2nd, 4th, 6th, 8th, etc. digits are equal or differ by 11 or a multiple of 11.
+
+::: {.callout-note collapse="false"}
+# Problems to solve
+
+1.  In each of the following numbers without doing actual division, determine whether the first number is divisible by the second number: \hspace{8.8 cm} $(5mks)$
+
+    a\) 3409122; 6
+
+    b\) 17218; 6
+
+    c\) 11309634; ,8
+
+    d\) 515712; , 8
+
+    e\) 3501804; , 4
+
+2.  Which of the following numbers has 9 as a factor? \hspace{6cm} $(2mks)$
+
+    a\) 394683
+
+    b\) 1872546
+
+    c\) 5172354
+
+3.  a\) Which are the smallest numbers that can be added to the following numbers to make them divisible by 11? \hspace{10.8cm} $(4mks)$
+
+    i\) 5,234
+
+    ii\) 36,541
+
+    iii\) 96,287
+
+    iv\) 27,992
+
+    b\) Which are the smallest numbers that can be subtracted from the following numbers to make them divisible by 11? \hspace{10cm} $(2mks)$
+
+    i\) 96,287 ii) 24,535
+
+4.  Test whether 712,038 is divisible by: \hspace{8.5cm} $(3mks)$
+
+    i\) 2
+
+    ii\) 3
+
+    iii\) 4
+:::
