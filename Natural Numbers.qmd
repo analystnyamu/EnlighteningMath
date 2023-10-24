@@ -253,7 +253,7 @@ Since there are 12 months in each year, they must make a total of $5\times12 = 6
 The Amos' monthly payment will be \$ 348.
 :::
 
-::: {.callout-note collapse="\"false"}
+::: {.callout-note collapse="false"}
 ## Problems to solve
 
 1.  A bus charges $Ksh.~ 150$ as fare from Embu to Meru. It carries a capacity of 18 passengers. However, it can carry 5 more passengers but will have to pay a penalty of $Ksh.~100$ at each of the 8 police checkpoints it passes through. The distance between the two towns is $91 ~km$ and the cost of petrol is $Ksh.~ 102$ per litre. If the bus uses 1 litre for every $7~ km$, calculate;

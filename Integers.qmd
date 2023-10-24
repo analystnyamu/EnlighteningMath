@@ -1,9 +1,128 @@
+# Chapter 5: Integers
 
-# Chapter 5
-
-# Integers
-
+# Integers {.unnumbered}
 
 ## The Number Line
 
-I was there on time
+Integers are positive whole numbers, negative whole numbers, and zero. Integers are usually represented on the number line at equal intervals, as shown in the figure below, where each interval is equal to one unit.
+
+![Number Line](Number_Line.png){#fig-numberline}
+
+Important properties to note while working with integers:
+
+> **Multiplication and division properties of integers**
+>
+> -   $(+)\times(-) = -$
+>
+> -   $(-) \times (+) = -$
+>
+> -   $(-) \times (-) = +$
+>
+> -   $(+) \times(+) = +$
+>
+> -   $(+)\div(-) = -$
+>
+> -   $(-)\div(+) = -$
+>
+> -   $(-)\div(-) = +$
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+## Example 1
+
+Show how the following additions can be done using a number line and give the results: $(6mks)$
+
+a\) $(-4)+(+6)$
+
+b\) $(-5)+(+4)$
+
+c\) $(+2)+(-6)$
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+![Example 1](Number_Line_ex1.png)
+:::
+
+::: {.callout-note collapse="false"}
+## Example 2
+
+Fill in the boxes in numbers below:\hspace{10cm} $(3mks)$
+
+i\) $(-3)+\square=+10$
+
+ii\) $\square +(-7)=-11$
+
+iii\) $(-4)+(-2)+\square =+3$
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+i\) $\square=+10+3=13$
+
+ii\) $\square=-11+7=-4$
+
+iii\) $\square-4-2=+3 \Rightarrow \square=3+6=+9$
+:::
+
+::: {.callout-note collapse="\"false"}
+# Example 3
+
+Without using a calculator evaluate, \hspace{10cm} $(3mks)$
+
+$$ 
+\frac{-2(4+3)-12\div3 +2}{-6\times-3+-2\times4}
+$$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+**Using BODMAS**
+
+```{=tex}
+\begin{split}
+ Numerator &=2(4+3)-12\div3+2\\
+&=14-4+2\\
+&=12\\
+Denominator&=-6\times-3+ -2\times4 \\
+&=18+-8\\
+&=10\\
+\therefore
+&=\frac{12}{10}=\frac{6}{5}=1 \frac{1}{5}\\
+\end {split}
+```
+:::
+
+::: {.callout-note collapse="false"}
+# Problem to Solve
+
+1.  Without using a calculator, evaluate \hspace{9.65cm} $(3mks)$.
+
+$$\frac{(-8+(-5)\times(-8)-(-6)}{-3+(-8)\div2\times4} $$
+
+2.  Orengo bought 1848 Mangoes on a Wednesday and sold 650 of them on the same day. On Thursday, he sold 180 more Mangoes than on Wednesday. On Friday he bought 460 more Mangoes. Later that day, he sold all the Mangoes he had at a price of Ksh. 10 each. How much money did he make? \hspace{12cm} $(3mks)$
+
+3.  Evaluate: \hspace{10.3cm} $(3mks)$
+
+$$\frac{-12\div(-3)\times4-(-20)}{-6\times6\div+(-6)} $$
+
+4.  Without using tables or a calculator, evaluate \hspace{6.85cm} $(3mks)$
+
+$$ \frac{(-2)\times 7+(-4) \div (-3)}{3 \times (-2)+5\times (-4)}$$
+
+5.  Without using a calculator, evaluate \hspace{10.7cm} $(3mks)$\
+
+$$\frac{-5(-23+41)-(-10)}{-3+(-8)\div2\times4}$$
+
+6.  Show how the following additions can be done using a number line and give the results:
+
+    a\) $(-8)+(+5)$ \hspace{12cm} $(2mks)$
+
+    b\) $(-7)+(+2)$ \hspace{12cm} $(2mks)$
+
+    c\) $(-6)+(+4)+(+2)$ \hspace{10.95cm} $(2mks)$
+:::

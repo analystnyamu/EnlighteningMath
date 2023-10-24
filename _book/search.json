@@ -30,9 +30,9 @@
   {
     "objectID": "Integers.html#the-number-line",
     "href": "Integers.html#the-number-line",
-    "title": "5  Chapter 5",
-    "section": "6.1 The Number Line",
-    "text": "6.1 The Number Line\nI was there on time"
+    "title": "5  Chapter 5: Integers",
+    "section": "5.1 The Number Line",
+    "text": "5.1 The Number Line\nIntegers are positive whole numbers, negative whole numbers, and zero. Integers are usually represented on the number line at equal intervals, as shown in the figure below, where each interval is equal to one unit.\n\n\n\nFigure 5.1: Number Line\n\n\nImportant properties to note while working with integers:\n\nMultiplication and division properties of integers\n\n\\((+)\\times(-) = -\\)\n\\((-) \\times (+) = -\\)\n\\((-) \\times (-) = +\\)\n\\((+) \\times(+) = +\\)\n\\((+)\\div(-) = -\\)\n\\((-)\\div(+) = -\\)\n\\((-)\\div(-) = +\\)"
   },
   {
     "objectID": "Scale Drawing.html#bearing-and-distance-angles-of-elevation-and-depression",
@@ -100,9 +100,9 @@
   {
     "objectID": "Integers.html",
     "href": "Integers.html",
-    "title": "5  Chapter 5",
+    "title": "5  Chapter 5: Integers",
     "section": "",
-    "text": "6 Integers"
+    "text": "Integers"
   },
   {
     "objectID": "Fractions.html",
@@ -509,5 +509,12 @@
     "title": "4  Chapter 4: Greatest Common Divisor and Least Common Divisor",
     "section": "4.3 Solved Examples",
     "text": "4.3 Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nWhat is the LCM of 18, 24 and 36? \\((2mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\nExample 1\n\n\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nThe G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 60, find the other number \\((3mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\n\n\n\n\n\n\nProblems to solve\n\n\n\n\n\n\nThe GCD of three numbers is 30 and their LCM is 900. Two of the numbers are 60 and 150. Find the other possible numbers. \\((3mks)\\)\nthe least common multiple of two numbers is 60 and one of the numbers is 7 less than the other. What are the numbers? \\((3mks)\\)\nThe L.C.M of two numbers is 120 and their G.C.F is 6. One of the numbers is 30, what is the other number? \\((3mks)\\)\nThree bells rang at intervals of 9minutes, 15 minutes and 21minutes. The bells will ring together at 11.00 p.m.Find the time the bells had last rang together. \\((3mks)\\)\na) The difference between the GCD and the LCM of 36 and 54. \\((2mks)\\)\nb) If three numbers 36, 54 and have a GCD of 6 and LCM of 216. Find the least value of the third number. \\((2mks)\\)\nThe GCD and LCM of three numbers are 3 and 1,008 respectively. If two of the numbers are 48 and 72, find the least possible value of the third number. \\((3mks)\\)\nThree alarms ring at intervals of 40 minutes, 45 minutes, and 60 minutes. If they ring simultaneously at 6:30 a.m., at what time will they next ring together? \\((3mks)\\)\nFour traffic light signals are programmed at intervals of 40 seconds, 50 seconds, 60 seconds, and 75 seconds. What is the earliest they will give out light signals simultaneously if the last time they did this was at 8:15 a.m.? \\((3mks)\\)\nA number n is such that when it is divided by 27, 30, or 45, the remainder is 5. Find the smallest possible value of n.  \\((3mks)\\)\nFind the greatest number which divides 181 and 170 leaving a remainder of 5. \\((3mks)\\)\nA square room is covered by a number of whole rectangular slabs of sides 60cm by 42 cm. Calculate the least possible area of the room in square meters. \\((3mks)\\)\nThree metal rods of lengths 234cm, 270cm, and 324cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. *{14.2cm} \\((4mks)\\)\nThe GCD of two numbers is 7 and their LCM is 140. If one of the numbers is 20, find the other number. \\((2mks)\\)\nThe GCD and LCM of three numbers are 84 and 7056 respectively. If two of the numbers are 168 and 336, find the least possible value of the third number. \\((3mks)\\)\nA fruit juice dealer sells the juice in a packet of 300ml, 500ml, and 750ml. Find the size of the smallest container that can fill each of the packets and leave a remainder of 200ml. \\((3mks)\\)\nMr. Ombogo the principal of Chiga secondary would wish to cover the floor of the new administration block using the square tiles. The floor is a rectangle of sides 12.8m by 8.4m. Find the area of each of the largest tiles which can be used to fit exactly without breaking. *{14.2cm} \\((3mks)\\)\nThree numbers, 1400, 1960, and n have a G.C.D and L.C.M of 70 and \\(2^2\\times 5^2\\times 7^2 \\times 11\\) respectively. Find the least possible value of n.  \\((3mks)\\)\na) Express 48 and 60 as a product of their prime factors. \\((3mks)\\)\nb) A room of sides 48m and 60m is to be decorated using square tiles side XM. Find the greatest area of the tile. \\((2mks)\\)\nThree similar pieces of timber of length 240cm, 320cm, and 380cm are cut into equal pieces. Find the largest possible area of a square that can be made from any of the three pieces. *{14.2cm} \\((3mks)\\)"
+  },
+  {
+    "objectID": "Integers.html#solved-examples",
+    "href": "Integers.html#solved-examples",
+    "title": "5  Chapter 5: Integers",
+    "section": "5.2 Solved Examples",
+    "text": "5.2 Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\nShow how the following additions can be done using a number line and give the results: \\((6mks)\\)\na) \\((-4)+(+6)\\)\nb) \\((-5)+(+4)\\)\nc) \\((+2)+(-6)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\n\nExample 1\n\n\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nFill in the boxes in numbers below: \\((3mks)\\)\ni) \\((-3)+\\square=+10\\)\nii) \\(\\square +(-7)=-11\\)\niii) \\((-4)+(-2)+\\square =+3\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\ni) \\(\\square=+10+3=13\\)\nii) \\(\\square=-11+7=-4\\)\niii) \\(\\square-4-2=+3 \\Rightarrow \\square=3+6=+9\\)\n\n\n\n\n\n\n\n\n\nExample 3\n\n\n\n\n\nWithout using a calculator evaluate, \\((3mks)\\)\n\\[\n\\frac{-2(4+3)-12\\div3 +2}{-6\\times-3+-2\\times4}\n\\]\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\nUsing BODMAS\n\\[\\begin{split}\nNumerator &=2(4+3)-12\\div3+2\\\\\n&=14-4+2\\\\\n&=12\\\\\nDenominator&=-6\\times-3+ -2\\times4 \\\\\n&=18+-8\\\\\n&=10\\\\\n\\therefore\n&=\\frac{12}{10}=\\frac{6}{5}=1 \\frac{1}{5}\\\\\n\\end {split}\\]\n\n\n\n\n\n\n\n\n\nProblem to Solve\n\n\n\n\n\n\nWithout using a calculator, evaluate \\((3mks)\\).\n\n\\[\\frac{(-8+(-5)\\times(-8)-(-6)}{-3+(-8)\\div2\\times4} \\]\n\nOrengo bought 1848 Mangoes on a Wednesday and sold 650 of them on the same day. On Thursday, he sold 180 more Mangoes than on Wednesday. On Friday he bought 460 more Mangoes. Later that day, he sold all the Mangoes he had at a price of Ksh. 10 each. How much money did he make? \\((3mks)\\)\nEvaluate: \\((3mks)\\)\n\n\\[\\frac{-12\\div(-3)\\times4-(-20)}{-6\\times6\\div+(-6)} \\]\n\nWithout using tables or a calculator, evaluate \\((3mks)\\)\n\n\\[ \\frac{(-2)\\times 7+(-4) \\div (-3)}{3 \\times (-2)+5\\times (-4)}\\]\n\nWithout using a calculator, evaluate \\((3mks)\\)\n\n\n\\[\\frac{-5(-23+41)-(-10)}{-3+(-8)\\div2\\times4}\\]\n\nShow how the following additions can be done using a number line and give the results:\na) \\((-8)+(+5)\\) \\((2mks)\\)\nb) \\((-7)+(+2)\\) \\((2mks)\\)\nc) \\((-6)+(+4)+(+2)\\) \\((2mks)\\)"
   }
 ]
