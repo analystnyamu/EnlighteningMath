@@ -3,7 +3,7 @@ number-sections: true
 bibliography: references.bib
 ---
 
-# Chapter 1: Natural Numbers 
+# Chapter 1: Natural Numbers
 
 # Natural Numbers {.unnumbered}
 
@@ -310,6 +310,3 @@ The Amos' monthly payment will be \$ 348.
 
     b\) states the value of the second digit in the product 675 \times 44.4. (2mks)
 :::
-
-
-
