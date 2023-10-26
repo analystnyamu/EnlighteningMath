@@ -1,2 +1,93 @@
 # Chapter Seven: Decimals, Squares, and Square Roots
 
+# Decimals, Squares, and Square Roots {.unnumbered}
+
+**Decimal fraction** (Decimal), is a fraction whose denominator can be written as a power of $10$, e.g.$\frac{1}{10},\,\frac{3}{100}, and\,\frac{50}{100}$.
+
+Decimal fractions are usually written in a special way, e.g., $\frac{3}{10}$ written as $0.3$. The dot in this notation is called the **decimal point**. A decimal fraction that represents the sum of a whole number and a proper fraction is called a **mixed decimal**. In division, a decimal fraction in which a digit or a group of digits repeat continuously without ending is called a **recurring decimal** e.g. $\frac{5}{11}$= 0.4545..., in short, we place dots above the digits that recurs e.g. 0.4545...written as $0.\dot{4}\dot{5}$ A number is said to be in **standard form** if it is expressed in the form $A\times 10^n$ where $1\leq A<10$ and $n$ is an integer e.g. $0.0065$ is written in standard form as $6.5\times 10^{-3}$.
+
+**Squares** of numbers are tabulated and can be read from the table of squares which gives only approximate values of the square to four figures.
+
+**Square root** of a number can be obtained using the factorization method or tables of square roots in a mathematical table.
+
+## Solved Exambles
+
+::: {.callout-note collapse="false"}
+# Example 1
+
+Without using table or calculators, evaluate:
+
+$$
+\sqrt[]{\frac{0.0032+0.0608}{1.44\times 0.4}} \hspace{12cm} (3mks)
+$$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+```{=tex}
+\begin{split}
+0.0032+0.0608&=0.0640\\
+1.44\times0.4&=0.576\\
+\Rightarrow \sqrt[]{\frac{0.064\times1000}{0.576\times 1000}}&=\sqrt[]{\frac{64}{576}}
+&=\frac{\sqrt[]{2^6}}{\sqrt[]{2^6\times3^2}}\\
+&=\frac{\cancel{2^3}}{\cancel{2^3}\times 3}\\&=\frac{1}{3}
+\end{split}
+```
+:::
+
+::: {.callout-note collapse="false"}
+# Example 2
+
+Express as a fraction:
+
+$$
+3.2\dot{5}\dot{6}  \hspace{14cm} (3mks)
+$$
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+# Solution
+
+::: {.column width="\"50%"}
+```{=tex}
+\begin{split}
+let \,r&=3.25656...& (i)&\\
+10r&=32.5656... &(ii)&\\
+100r&=325.656... &(iii)&\\
+1000r&=3256.56... &(iv)&\\
+\end{split}
+```
+::: {.column width="45%"}
+```{=tex}
+\begin{split}
+ &Subtracting \,(ii) \,from \,(iv)&\\
+990r&=3224&\\r&=\frac{3224}{990}&\\
+\therefore 3.2\dot{5}\dot{6}&=3\frac{127}{495}&
+\end{split}
+```
+:::
+:::
+:::
+
+::: {.callout-note collapse="false"}
+# Example 3
+
+Use tables of square and square roots to evaluate.
+
+$$
+\sqrt[]{337.5}-\left(3.375\right)^2 \hspace{11.5cm} (3mks)
+$$
+:::
+
+
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+![Example 3](Decimals_Ex3.png)
+:::
+
+
+
