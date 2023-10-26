@@ -50,7 +50,7 @@ $$
 ::: {.callout-caution collapse="true"}
 # Solution
 
-::: {.column width="\"50%"}
+::: {.column width="45%"}
 ```{=tex}
 \begin{split}
 let \,r&=3.25656...& (i)&\\
@@ -59,7 +59,9 @@ let \,r&=3.25656...& (i)&\\
 1000r&=3256.56... &(iv)&\\
 \end{split}
 ```
-::: {.column width="45%"}
+:::
+
+::: {.column width="50%"}
 ```{=tex}
 \begin{split}
  &Subtracting \,(ii) \,from \,(iv)&\\
@@ -81,13 +83,8 @@ $$
 $$
 :::
 
-
-
 ::: {.callout-caution collapse="true"}
 # Solution
 
 ![Example 3](Decimals_Ex3.png)
 :::
-
-
-
