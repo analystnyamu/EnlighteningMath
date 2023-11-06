@@ -1,3 +1,267 @@
-# Chapter Ten
+---
+filters:
+  - parse-latex
+editor: 
+  markdown: 
+    wrap: 72
+---
 
-# Length, Area, Volume, and Capacity
+# Chapter Ten: Length, Area, Volume, and Capacity
+
+# Length, Area, Volume, and Capacity {.unnumbered}
+
+\textbf{Length}, is the distance between two points. Its SI Unit is the
+meter (m). The perimeter of a rectangle and a square is given by the
+formula: 
+$$ Perimeter\, of \,a \,rectangle\,=\,2(length+width)$$
+
+$$Perimeter \,of \,a \,square\,=\,4 \times length$$ 
+
+The circumference of a circle is given by the formula: 
+
+$$
+\begin{align*}
+Circumference \,of\, a \,circle &=\pi D\\&=2\pi r
+\end{align*} 
+$$
+The length of an arc (l) of a circle subtended by an angle, $\theta$ , at the center of the circle is given by the formula:
+
+$$ l=\frac{\theta}{360}\times 2\pi r$$ 
+
+\textbf{Area}, is the amount of surface enclosed within the boundaries of a plane shape. Its SI unit is
+a square meter ($m^2$). 
+
+\textbf{Area of a rectangle (A):}
+
+$$A=length (l)\times width(w)=lw$$ 
+
+\textbf{Area of square (A):}
+
+$$A=length \times length= l^2$$ 
+
+\textbf{Area of a triangle (A): }
+
+$$A=\frac{1}{2} \times base \times height$$
+
+\textbf{Area of a parallelogram (A):} 
+
+$$A=base \times height$$
+\textbf{Area of a rhombus (A):}
+
+$$A=base \times height   $$ 
+
+OR
+
+$$A=\frac{1st\, diagonal \times 2nd \,diagonal}{2}$$
+
+\textbf{Area of a trapezium  (A):}
+
+$$
+\begin{align*}
+A&=\frac{1}{2} \times height\times (sum \,of \,the\, two \,parallel \,sides)\\
+&=\frac{1}{2} \times h \times (a+b)
+\end{align*}
+$$ 
+
+\textbf{Area of a circle (A):}
+
+$$A=\pi r^2$$
+
+\textbf{Area of a sector subtended by an angle \,$\theta $\,at the center of a circle:}
+
+$$A=\frac{\theta}{360} \times\pi r^2$$
+
+\centerline{\textbf{Surface area of solids (S.A)}}
+
+\textbf{Surface area of a cuboid:}
+
+$$
+\begin{align*}
+S.A&=2(length \times width)+2(width \times height)+2(length\times height)\\
+&=2(lw)+2(wh)+2(lh)\\
+&=2(lw+wh+lh)
+\end{align*}
+$$
+
+\textbf{Surface area of a cylinder:} 
+$$
+\begin{align*}
+S.A&=2\pi rh+2\pi r^2\\&=2\pi r(h+r)
+\end{align*}
+$$
+
+\textbf{Surface area of a sphere:} 
+
+$$S.A=4\pi r^2$$ 
+
+\textbf{Volume}, is the amount of space occupied by a matter. Its SI unit is a cubic meter
+($m^3$). 
+
+\textbf{Volume of a cuboid:}
+$$
+\begin{align*}
+v&=length \times width \times height\\&=lwh
+\end{align*}
+$$
+
+\textbf{Volume of a cube:} 
+
+$$
+\begin{align*}
+v&=length \times length \times length \\
+&=l^3 
+\end{align*}
+$$ 
+
+\textbf{Volume of a cylinder:} 
+
+$$ v=\pi r^2 h$$
+\textbf{Volume of a sphere:} 
+
+$$ v=\frac{4}{3} \pi r^3$$
+\textbf{Volume of a prism:} 
+
+$$ 
+\begin{align*}
+v&=cross-sectional \,area \times length \\
+&=\frac{1}{2}\times base\times height\times length\\
+&=\frac{1}{2}\times bhl
+\end{align*}
+$$ 
+
+\textbf{Capacity}, is the ability of the container to hold fluids. Its SI unit is the litre (l).\\
+
+::: {.callout-note collapse="false"}
+## Conversion of units
+$$ 
+\begin{align*}
+1 m &=100 cm \\ 
+1 cm &= 10 mm\\ 
+1000 cm^3 &= 1 \,litre =1 m^3\\
+1 cm^3& = 1\, ml\\ 
+10000 m^2 &= 1 \,hectare (ha)\\
+100 m^2 &= 1 \,acre 
+\end{align*}
+$$
+:::
+
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+## Example 1
+
+An angle of 0.9 radians at the Centre of the circle subtends an arc of
+length 28.8cm. Find in 4 significant figures($\pi radians=180^0$):
+
+```{=tex}
+\begin{enumerate}[(a)]
+\item The radius of the circle              \hspace{10.4 cm}        (3mks)
+\item The area of the sector enclosed by the arc and radii.     \hspace{5.5 cm} (2mks)
+\end{enumerate}
+```
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+**The angle of the arc** $=0.9 \pi radians$ \\
+**Given that:** $\pi\,rad=180^{0}$,\\
+**The length of the arc (l) is given by:**
+
+a\)
+
+$$ 
+\begin{align*}
+l&=\frac{\theta}{360}\times 2\pi r\\
+28.8 cm &=\frac{162^{0}}{\cancel\pi}\times\frac{1}{\cancelto{180}{360}\times \cancel2\cancel\pi r \\
+28.8 cm &= \frac{162^{0}}{180^{0}}r \\
+r&= 28.8 cm \times \frac{180^{0}}{162^{0}\\
+therefore, r&=32
+\end{align*}
+$$
+\b) 
+
+$$
+\begin{align*}
+Area&=\frac{\theta}{360} \times\pi r^2 \\
+&=\frac{162^{0}}{360^{0}\cancel\pi}\times\cancel\pi \times 32 \times 32\\
+&=\frac{162^{0}}{360^{0}\times 32 \times 32\\
+&=460.8 cm^2
+\end{align*}
+$$
+:::
+
+\textbf{\textit{Example 2}}\\ A solid metal cylinder with a radius of
+7cm and height of 5cm is melted down and recast into a spherical ball.
+Calculate to 1 decimal place the surface area of this ball.\hspace{5 cm}
+(4mks)\\ \textbf{Solution}\\
+
+\textbf{\underline{Problems to solve}}
+
+```{=tex}
+\begin{enumerate}
+\item An arc of length 'x' cm subtends an angle of\, $(\frac{p}{\pi})^0$\,at the center of the circle. Find an expression for the radius, r, of the circle in terms of x and p.             \hspace{6.2 cm} (3mks)
+\item Find the length of the minute hand of a wall clock if the tip of the minute hand traces a length of 6p cm between 11:25 am and 11:45 am (Give your answer in terms of $\pi$).     \hspace{2 cm}(3mks)
+\item The diagonal of a rectangular flower garden is 20m.  If the width of this garden is 12m, calculate its length and perimeter to 3 significant figures. \hspace{6.7 cm}     (3mks)
+\item The figure below shows a circle Centre O. Chord AB subtends $30^0$ at the Centre. If the area of the minor segment is $5\frac{16}{21} cm^2$, find the radius of the circle.(hint area of $\triangle \,OAB=\frac{1}{2}r^2sin(\theta)$ \hspace*{14.5cm}(3mks)
+
+\graphicspath{{Images/}}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=2.5cm]{circle}
+\end{figure}
+
+\item The curved surface area of a cylindrical container is $2,112\,cm^2$. If the radius of the container is 21cm, calculate to one decimal place the capacity of the container in litres   \hspace{2.1 cm}(3mks)
+\item The base of a triangle is 3cm longer than its height. Given that the area of the triangle is $35cm^2$, determine the base of the triangle.        \hspace{7.2 cm}     (3mks)
+\item A carpenter constructed a closed wooden box with internal measurements 1.8 m long, 0.8 m wide, and 0.6 m high.  The wood used in constructing the box was 1.0cm thick and had a density of $ 0.75g/cm^3$. Determine the:
+\begin{enumerate}
+\item Volume in $cm^3$ of the wood used in constructing the box.        \hspace{4.2 cm}(3mks)
+\item Mass of the box in kilograms correct to 4 significant figures. \hspace{3.6 cm}    (1mk)
+\end{enumerate}
+\item
+```
+A solid hemisphere of radius 7cm has the same volume as a cube. Find the
+length of the cube to 3 significant figures. \hspace{10.4 cm} (3mks)
+
+\item
+
+Mango juice in a factory is stored in a rectangular tank whose internal
+dimensions are 1.8m by 1.4m by 2.5m one day the tank was 80% full of
+Mango juice. Calculate the volume of Mango juice in the tank in litres.
+\hspace{10 cm} (3mks)
+
+\item
+
+An open box has an external breadth of 12 cm, a height 10 cm, and a
+length of 15 cm. If the thickness of the material of the box is 1 cm,
+find the total surface area of the box. \hspace{3.7cm} (5mks)
+
+\item
+
+A triangular plot PQR is such that the length of the side PQ is
+two-thirds that of QR. The ratio of the lengths $PQ: PR = 4:9$ and the
+angle at Q is obtuse. If the perimeter of the plot is 38m calculate the
+length of the 3 sides of $\triangle PQR$ \hspace{7.5cm} (4mks)
+
+\item
+
+A metallic cuboid 10cm by 12cm by 15cm is melted. Half of it is used to
+make a cylinder of radius 4.2cm, the remaining is used to make a sphere.
+Determine in 4 significant figures using $\pi= \frac{22}{7}$
+\\begin{enumerate}
+
+\item
+
+The height and surface area of the cylinder to 2 decimal places.
+\hspace{3.2 cm}(4mks)
+
+\item
+
+The radius and surface area of the sphere are correct to 3 significant
+figures. \hspace{1.5 cm} (4mks)
+
+\item
+
+The difference between the surface area of the sphere and the cylinder.
+\hspace{1.7cm} (2mks)

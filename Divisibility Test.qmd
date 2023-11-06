@@ -1,5 +1,7 @@
 # Chapter Three: Divisibility Test
 
+# Divisibility Test {.unnumbered}
+
 ## Divisibility Test for 2, 3, 4, 5, 6, 8, 10, and 11
 
 **Divisibility test for 2**

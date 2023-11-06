@@ -5,7 +5,7 @@
 Factors are all numbers that divide a given number without leaving a remainder.
 
 ::: {.callout-note collapse="false"}
-## Example of Factors
+# Example of Factors
 
 ![Example](Factor_Table.png)
 :::
@@ -13,7 +13,7 @@ Factors are all numbers that divide a given number without leaving a remainder.
 ## Solved examples
 
 ::: {.callout-note collapse="false"}
-## Example 1
+# Example 1
 
 Express the following numbers in terms of their prime factors
 
@@ -24,7 +24,7 @@ b\) 196 $(2mks)$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Solution
+# Solution
 
 ::: {.column width="55%"}
 ![Example 1 (a)](Factor_Ex1_a.png)

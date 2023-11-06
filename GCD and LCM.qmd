@@ -1,6 +1,6 @@
-# Chapter 4: Greatest Common Divisor and Least Common Divisor
+# Chapter 4: G.C.D and L.C.M
 
-# G.C.D and L.C.M {.unnumbered}
+# Greatest Common Divisor and Least Common Divisor {.unnumbered}
 
 ## Greatest Common Divisor (GCD)
 
