@@ -90,7 +90,7 @@ $$
 :::
 
 
-:::{.callout-note collapse="false}
+:::{.callout-note collapse="false"}
 ## Problem to Solve
 
 1. Use the tables of squares and square roots only to find the value of: 

@@ -198,7 +198,7 @@ $$
 ## Problems to Solve
 
 1.  A photograph is reduced in the ratio $2:7$ for a newspaper, and
-    further reduced in the ratio $5:7$for an exercise book. Find the
+    further reduced in the ratio $5:7$ for an exercise book. Find the
     ratio of the newspaper size to textbook size. \hspace{2 cm} $(3mks)$
 
 2.  Five plows working 8 hours daily complete a piece of work in 6 days.
@@ -247,7 +247,7 @@ $$
     female is $2:3$. On one Sunday service, 10 male members were absent
     and six new female members joined the choir as guests for that day.
     If on this day the ratio of males to females was,\$ 1:3\$,, how many
-    regular members does the choir have? \hspace{11.8 cm} (3mks)
+    regular members does the choir have? \hspace{11.8 cm} $(3mks)$
 
 12. The ratio of men to women in Njega Boys High School B.O.G which
     consists of 45 members is $7: 2$. Find the number of women required

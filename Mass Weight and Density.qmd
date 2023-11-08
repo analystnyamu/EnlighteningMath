@@ -1,3 +1,218 @@
-# Chapter Eleven
+---
+filters:
+  - parse-latex
+editor: 
+  markdown: 
+    wrap: 72
+---
 
-# Mass, Weight and Density
+# Chapter Eleven: Mass, Weight and Density
+
+# Mass, Weight and Density {.unnumbered}
+
+\textbf{Mass}, is the quantity of matter in an object? The Mass of an
+object is constant everywhere. Its SI unit is Kilogram (K.g).
+
+\textbf{Weight}, is the pull of the earth on an object. The weight of an
+object varies from one place to another on the earth's surface. Its SI
+unit is Newton (N). It is given by mass multiplied by the gravitational
+force (g).
+
+$Weight (N) = mass (kg) \times gravity (N/kg).$
+
+\textbf{Density}, is mass per unit volume. Its SI unit is Kilogram per
+Cubic meter ($kgm^-3$)
+
+$$Density= \frac{mass}{volume}$$
+$$Density \,of\, mixture=\frac{mass \,of\, mixture}{volume\, of \,mixture} $$
+
+::: {.callout-note collapse="false"}
+## Conversion of Units
+
+$$
+\begin{split}
+1 \,tonne &= 1,000\, Kilograms\\
+1 \,kilogram &= 1,000 \,grams\\
+1g/cm^3& = 1,000 Kg/m^3
+\end{split}
+$$
+:::
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+## Example 1
+
+2.5 litres of water of density $1g/cm^3$ is added to 4 litres of alcohol
+of density $0.8 g/cm^3$. Calculate in 3 significant figures, the density
+of the mixture in its SI unit. \hspace{4.2 cm} (3mks)
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+$$Density \,of \,Mixture (D.M)=\frac{Mass\, of\,mixture}{Volume\, of \,mixture}$$
+
+$$
+\begin{split}
+Volume \,of \,water&=2,500 cm^3 \\
+Mass \,of\, water&=(2,500 cm^3\times 1g/cm^3)\\
+&=2,500g&\\
+Volume\, of\, alcohol&=4,000 cm^3\\
+Mass \,of \,alcohol&=(4,000 cm^3 \times 0.8g/cm^3)\\
+&=3,200g
+\end{split}
+$$
+
+$$
+\begin{split}
+Mass\, of\, Mixture&=(2,500g+3,200g)\\&=5,700g\\
+Volume\, of \,mixture&=(2,500 cm^3+4,000 cm^3)\\&=6,500 cm^3\\
+\therefore D.M&=\frac{5,7\cancel{0}\cancel{0}}{6,5\cancel{0}\cancel{0}}\\&=0.8769 g/cm^3\\
+&=877 Kg/m^3
+\end{split}
+$$
+:::
+
+::: {.callout-note collapse="false"}
+## Example 2
+
+wo coils of the same mass are made by winding zinc of different gauges
+and lengths. The first coil is made by winding 648 m of wire with a
+cross-sectional diameter of 5.4mm and the second coil is made by winding
+450 m with different cross-sections. Find the cross-sectional radius of
+the second coil. $(3mks)$
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+\textbf{Note:} Since mass is proportional to volume for the same
+density, the volume of the first coil is equal to volume of the second
+coil. $$
+\begin{align*}
+First\, coil \,volume:\\
+\frac{22}{7}\times \left(\frac{5.4}{2}\right)^2\times 648,000&=14,846,605.71 \,mm^3\\
+Second \,coil \,volume:\\
+\frac{22}{7}\times r^2\times 450,000&=1,414,285.714r^2 \,mm^3\\
+Second \,coil \,volume&=First\, coil \,volume\\
+1,414,285.714r^2 \,mm^3&=14,846,605.71 \,mm^3\\
+\frac{\cancel{1,414,285.714}r^2}
+{\cancel{1,414,285.714}}&=\frac{\cancelto{10.4976}{14,846,605.71}}{\cancel{1,414,285.714}}\\r^2&=10.4976 \,mm^2\\
+\therefore r&=3.24\, mm
+\end{align*}
+$$
+:::
+
+::: {.callout-note collapse="false"}
+## Example 3
+
+The external measurements of a closed metal box are 1.6 m long, 0.7 m
+wide, and 0.4 m high. The metal used in making box is 1.0 cm thick and
+has a density of 0.85 g/cm3. If the box contains 40 packets of 12
+similar tools each and each tool has a mass of 115 g, calculate:
+
+```{=tex}
+\begin{enumerate}[(a)]
+\item The volume of metal used in making the box.   \hspace{7cm}        $(4mks)$
+\item The mass of the empty box in Kilograms to 3 significant figures.      \hspace{4cm}    $(3mks)$
+\item The total mass of the box in kilograms to 3 significant figures.      \hspace{4.5cm}      $(3mks)$
+\end{enumerate}
+```
+:::
+
+::: {.callout-caution collapse="true"}
+## Solution
+
+```{=tex}
+\begin{enumerate}[(a)]
+\item 
+\begin{align*}
+\textbf{Volume of the Cuboid (v):} \\
+v&=Length\times Width\times Height\\
+\textbf{External\, Measurement: }\\
+Length&=160 cm\\
+Width&=70 cm\\
+Height&=40 cm\\
+\textbf{Internal\, Measurement:} \\
+thickness&=1 cm\\
+Length&=158 cm\\
+\end{align*}
+
+\begin{align*}
+Width&=68 cm\\
+Height&=38 cm\\ \textbf{External\, volume:} \\
+160\times 70\times 40&=448,000\,cm^3\\ \textbf{Internal\, Volume:}\\
+158\times 68 \times 38&=408,272\,cm^3\\
+448,000\,cm^3-408,272\,cm^3&=39,728\,cm^3\\ \therefore Volume\, of\,the\,metal&=39,728 \,cm^3
+\end{align*}
+
+\item 
+\begin{align*}
+Mass&=density\times volume\\
+&=0.85 g/cm^3\times 39,728 cm^3\\ 
+&=33,768.8g\\
+\frac{33,768.8}{1000}&=33.7688 \,Kg\\
+\therefore Mass \,of\, the\, empty \,box&=33.8\,Kg
+\end{align*}
+
+\item 
+\begin{align*}
+Mass\: of \:tools:\\
+12\times 40 \times 115&=55,200\, g\\
+ \frac{55,200}{1000}&=55.2 \, Kg\\
+\therefore The\: total\: Mass&=55.2+33.8\\
+&=89.0 \,Kg
+\end{align*}
+\end{enumerate}
+```
+:::
+
+
+::: {.callout-note collapse="false"}
+## Problems to Solve
+
+1.  A solid block in the shape of a cylinder has a height of 14cm and
+    weighs 26kg. If it is made of material of density $0.45g/cm^3$, find
+    the radius of the cylinder to four significant figures. Take
+    $\pi=\frac{22}{7}$ \hspace{13.7 cm} $(3mks)$
+
+2.  $2000 cm\^3$ of a mixture consists of 2.5 kg of substance x and
+    7.5 kg of substance y. find the density of mixture in $g/cm^3$
+    \hspace{11 cm} $(3mks)$
+
+3.  An artisan has 63kg of metal of density $7g/cm^3$. He intends to use
+    it to make a rectangular pipe with external dimensions 12cm by 15cm
+    and internal dimensions 10cm by 12 cm. Calculate the length of the
+    pipe in metres. \hspace{9.8 cm} $(3mks)$
+
+4.  A solid metal cuboid 2.1m long, 0.8m wide, and 0.75m high of
+    material of density $0.75g/cm^3$. Calculate its mass in kilograms.
+    \hspace{8.8 cm} $(2mks)$
+
+5.  A metal R is an alloy of two metals X and Y. Metal X has a mass of
+    70g and a density of $16000kg/m^3$. Metal Y has a mass of 42g and a
+    density of $4000 kg/m^3$. In 4 significant figures, calculate the
+    density of the metal R in its SI unit. \hspace{6cm} $(4mks)$
+
+6.  Two coils of the same mass are made by winding aluminum wire of
+    different gauges and lengths. If the first coil is made by winding
+    540 m of the wire with diameter 1.96 mm cross-sectional diameter and
+    the second coil is made by winding a certain length of the wire with
+    a cross-sectional diameter of 2.94 mm, find the length of the second
+    coil wire. \hspace{4.3cm} $(3mks)$
+
+7.  The external measurements of a wooden box are 1.2 m long, 65 cm
+    wide, and 40 cm high. The wood used in making the box is 2 cm thick
+    and has a density of $950 Kg/m^3$. Given that the box contains 30
+    packets of tools and each packet holds a dozen tools each weighing
+    125 g, calculate:
+
+    a\) The volume of wood used in making the box. \hspace{6cm} $(4mks)$
+
+    b\) The mass of the empty box in kilograms to four significant
+    figures. \hspace{3cm}$(3mks)$
+
+    c\) The total mass of the box in kilograms to 3 significant figures.
+    \hspace{3.8cm}$(3mks)$
+:::
