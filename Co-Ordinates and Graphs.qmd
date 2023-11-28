@@ -1,1 +1,179 @@
+---
+format:
+  html:
+    default-image-extension: svg
+  pdf:
+    default-image-extension: tex
+    
+editor: 
+  markdown: 
+    wrap: 72
+---
+
 # Chapter Fifteen: Co-Ordinates and Graphs
+
+# Co-Ordinates and Graphs {.unnumbered}
+
+A coordinate is an ordered pair of numbers used to locate the position
+of a point in a plane and written in the form (x, y). The first number,
+x represents the distance along the x-axis and it is called x the
+coordinate. The second number, y represents the distance along the
+y-axis and it is called the y coordinate.
+
+The x and y axes divide the plane into four regions and each region is
+called a **quadrant**. The quadrants are named 1st quadrant, 2nd
+quadrant, 3rd quadrant, and 4th quadrant starting with the top
+right-hand quadrant and moving in anti-clockwise direction.
+
+**Rectangular Cartesian co-ordinate system** is a system of locating
+points using two axes at right angles.
+
+We can also use coordinate systems such as latitude and longitudes and
+grid references to locate places on the earth's surface.
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+# Example 1
+
+A certain quantity of gas is heated from $0\,^{\circ}\mathrm{C}$, and
+the volume is measured at different temperatures. The table below gives
+the corresponding values:
+
+![](images/Cpt15_Ex1.png)
+
+a\) Draw a graph of volume against temperature using a suitable scale.
+
+b\) Use your graph to find:
+
+i\) The initial volume of the gas
+
+ii\) The volume of the gas when the temperature is
+$50\,^{\circ}\mathrm{C}$ and $64\,^{\circ}\mathrm{C}$
+
+iii\) The temperature of the gas when the volume is 1.9 litres and 2.3
+litres.
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+a\) The graph is depicted in the figure 15.1:
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE, fig.cap= "The Graph of Volume against Temperature", fig.align="left"}
+
+library(ggplot2)
+#library(dplyr)
+library(latex2exp)
+Volume <- c(20,40,60,80,100)
+Temp <- c(1.82,1.95,2.07,2.20,2.35)
+data <- cbind(Volume, Temp)
+data <- as.data.frame(data)
+
+#| label: fig-Line Graph of Volume against Temperature
+#| fig-cap: "Volume against Temperature."
+#| warning: false
+
+
+# Remove the confidence interval
+ggplot(data, aes(x=Volume, y=Temp)) + 
+  geom_point()+ xlim(30, 100) + ylim(1.9, 2.32)+
+  geom_smooth(method=lm, se=FALSE) + xlab("Volume (Litres)") + ylab("Temperature (degree celcious)")
+
+```
+
+\b) 
+
+i\) The initial volume is obtained by extrapolating the line to cut the y-axis. Therefore the initial volume is 1.7 litres.
+
+ii\) The volume of the gas at $50\,^{\circ}\mathrm{C}$ is 2 litres 
+
+The volume of the gas at $64\,^{\circ}\mathrm{C}$ is 2.1 litres.
+
+iii\) The temperature of the gas at 1.9 litres is $35\,^{\circ}\mathrm{C}$
+
+The temperature of the gas at 2.3 litres is $98\,^{\circ}\mathrm{C}$
+
+:::
+
+::: {.callout-note collapse="false"}
+# Example 2
+
+Solving simultaneous linear equations using graphical methods
+$$
+\begin{split}
+2x-y&=3 \\
+x + 2y &= 14
+\end{split}
+$$
+:::
+
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+![](images/Cpt15_table2.png)
+
+
+```{=tex}
+\begin{tikzpicture}
+
+\begin{axis}[my style1, grid=major,]
+\addplot[domain=0:8,color=black,mark=x] {2*x-3};
+\addlegendentry{$y=2x-3$}
+\addplot[domain=0:8,color=black,mark=*] {0.5*(-x)+7};
+\addlegendentry{$2y=-x+14$}
+\end{axis}
+\end{tikzpicture}
+\begin{figure}[htb]
+\caption{A graph of y against x}
+\end{figure}
+```
+The solution of the two simultaneous equations is at the point of
+interception as displayed in Figure 15.2: From the graph, the values of
+x and y are: $x=4$ and $y=5$ \\end{enumerate} \\end{enumerate}
+
+```         
+:::
+
+::: {.callout-note collapse="false"}
+## Problems to solve
+
+```{=tex}
+\begin{enumerate}
+\item \begin{enumerate}
+\item Use a graphical method to solve the following simultaneous equations: \hspace{2.5cm}(7mks) \\
+3x-y=4\\
+x+4y=10
+\item If the lines cut the y-axis at points P and Q respectively, Write down the co-ordinates of the points P and Q. \hspace{11cm}(3mks)
+\end{enumerate}
+\item Copy and complete the tables below for: 
+\begin{enumerate}
+\item The linear equations $3y=8+2x$ and $y=5x-6$ respectively. \hspace{3.2cm}(4mks)\\
+$y=\frac{8+2x}{3}$\\
+\begin{tabular}{|l|c|c|c|c|c|c|c|r|}
+\hline
+x&-2&-1&0&1&2&3&4&5 \\
+\hline
+y&$\frac{4}{3}$&\,&\,&\,&4\,&\,&\,&\\
+\hline
+
+\end{tabular}\\
+$y=5x-6$\\
+\begin{tabular}{|l|c|c|c|c|c|c|c|r|}
+\hline
+x&-2&-1&0&1&2&3&4&5 \\
+\hline
+y&$\,$&-16&\,&\,&14\,&\,&\,&\\
+\hline
+\end{tabular}
+\item On a graph paper and on the same grid draw the two linear equations in (a) above.                             (4mks)
+\item What is the nature of the two graphs you have drawn?  \hspace{4.6cm}(1mk)
+
+\item Use your graphs to solve the simultaneous equations. \hspace{4.8 cm}(1mk)\\
+$-2x+3y=8$\\
+$5x-y=6$
+\end{enumerate}
+\end{enumerate}
+```
+:::

@@ -65,6 +65,9 @@
   pdf:
     documentclass: scrbook
     papersize: a4paper
+    toc: true
+    number-sections: true
+    colorlinks: true
     
   epub:
     cover-image: cover.png

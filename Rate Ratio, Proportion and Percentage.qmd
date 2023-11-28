@@ -69,7 +69,7 @@ $$
   12&\,&6&\,&12\\
   24&\,&9&\,&?
  \end{matrix}
-$$ ![](Ratio_Ex2.png)
+$$ ![](images/Ratio_Ex2.png)
 $$Days\, needed: \cancelto{\frac{1}{2}}{\frac{12}{24}}\times\cancelto{\frac{2}{3}}{\frac{6}{9}}\times12=4$$
 $\therefore$ The laborers would take $4$ days
 :::

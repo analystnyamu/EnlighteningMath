@@ -6,7 +6,7 @@
 
 Integers are positive whole numbers, negative whole numbers, and zero. Integers are usually represented on the number line at equal intervals, as shown in the figure below, where each interval is equal to one unit.
 
-![Number Line](Number_Line.png){#fig-numberline}
+![Number Line](images/Number_Line.png){#fig-numberline}
 
 Important properties to note while working with integers:
 
@@ -43,7 +43,7 @@ c\) $(+2)+(-6)$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-![Example 1](Number_Line_ex1.png)
+![Example 1](images/Number_Line_ex1.png)
 :::
 
 ::: {.callout-note collapse="false"}

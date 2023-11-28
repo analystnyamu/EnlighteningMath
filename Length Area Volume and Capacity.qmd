@@ -250,7 +250,7 @@ $$
     $\triangle \,OAB=\frac{1}{2}r^2sin(\theta)$ \hspace{14.5cm}
     $(3mks)$
 
-![](circle.png)
+![](images/circle.png)
 
 5.  The curved surface area of a cylindrical container is $2,112\,cm^2$.
     If the radius of the container is 21cm, calculate to one decimal

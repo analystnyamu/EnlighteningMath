@@ -7,7 +7,7 @@ Factors are all numbers that divide a given number without leaving a remainder.
 ::: {.callout-note collapse="false"}
 # Example of Factors
 
-![Example](Factor_Table.png)
+![Example](images/Factor_Table.png)
 :::
 
 ## Solved examples
@@ -27,11 +27,11 @@ b\) 196 $(2mks)$
 # Solution
 
 ::: {.column width="55%"}
-![Example 1 (a)](Factor_Ex1_a.png)
+![Example 1 (a)](images/Factor_Ex1_a.png)
 :::
 
 ::: {.column width="45%"}
-![Example 1 (b)](Factor_Ex1_b.png)
+![Example 1 (b)](images/Factor_Ex1_b.png)
 :::
 :::
 :::

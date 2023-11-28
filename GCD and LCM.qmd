@@ -15,7 +15,7 @@ Find the HCF of 36 and 64. \hspace{10.5cm} $(3mks)$
 ::: {.callout-caution collapse="true"}
 # Solution
 
-![GCD Example](GCD_Ex1.png)
+![GCD Example](images/GCD_Ex1.png)
 :::
 
 ## Least Common Multiple (LCM)
@@ -33,7 +33,7 @@ What is the LCM of 18, 24 and 36? \hspace{9.5cm} $(2mks)$
 ::: {.callout-caution collapse="true"}
 # Solution
 
-![Example 1](GCD_LCM_Ex1.png)
+![Example 1](images/GCD_LCM_Ex1.png)
 :::
 
 ::: {.callout-note collapse="false"}
@@ -45,10 +45,10 @@ The G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 
 ::: {.callout-caution collapse="true"}
 # Solution
 
-![Example 2](GCD_LCM_Ex2.png)
+![Example 2](images/GCD_LCM_Ex2.png)
 :::
 
-::: {.callout-note collapse="\"false"}
+::: {.callout-note collapse="false"}
 ## Problems to solve
 
 1.  The GCD of three numbers is 30 and their LCM is 900. Two of the numbers are 60 and 150. Find the other possible numbers. \hspace{8.7cm} $(3mks)$
@@ -91,7 +91,6 @@ The G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 
 
     b\) A room of sides 48m and 60m is to be decorated using square tiles side XM. Find the greatest area of the tile. \hspace{9.2cm} $(2mks)$
 
-19. Three similar pieces of timber of length 240cm, 320cm, and 380cm are cut into equal pieces. Find the largest possible area of a square that can be made from any of the three pieces. \hspace\*{14.2cm} $(3mks)$
+19. Three similar pieces of timber of length 240cm, 320cm, and 380cm are cut into equal pieces. Find the largest possible area of a square that can be made from any of the three pieces. \hspace{14.2cm} $(3mks)$
 :::
 
-\item

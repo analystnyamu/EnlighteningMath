@@ -234,7 +234,7 @@ Compute the quotient: $6120\div 45$ $(3mks)$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-![Example 2](Operations_Ex2.png)
+![Example 2](images/Operations_Ex2.png)
 :::
 
 ::: {.callout-note collapse="false"}
@@ -248,7 +248,7 @@ The Amos family borrows \$ 20,880 to purchase a new car at a special 0% interest
 
 Since there are 12 months in each year, they must make a total of $5\times12 = 60$, payments on the loan. Dividing \$ 20,880 by 60 will result in the monthly payment:
 
-![Example 3](Operations_Ex3.png)
+![Example 3](images/Operations_Ex3.png)
 
 The Amos' monthly payment will be \$ 348.
 :::
