@@ -1,3 +1,247 @@
-# Chapter Seventeen: Geometrical Constructions 
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Chapter Seventeen: Geometrical Constructions
 
 # Geometrical Constructions {.unnumbered}
+
+**Note:** To circumscribe a circle around a triangle, we bisect two
+sides of the triangle and the point of intersection is the center of the
+circle.
+
+To inscribe a circle inside a triangle, we bisect two angles of the
+triangle and the point of intersection is the center of the circle.
+
+**Geometrical construction** is the drawing of accurate figures. The
+figures are constructed using a pair of compasses and a ruler only
+
+**Perpendicular Lines**
+
+Figure 17.1 shows XY as a perpendicular bisector of a given line AB
+
+![Figure 17.1: Perpendicular Bisector](figures/Images/FIG1.png)
+
+Figure 17.2 shows PR, a perpendicular from point P to a given line AB.
+
+![Figure 17.2: Perpendicular Bisector from a
+Point](figures/Images/FIG2.png)
+
+**Constructing Angles of**
+$60\,^{\circ}, \,120\,^{\circ},\, and \,30\,^{\circ}$
+
+In this section, we will consider the construction of some angles with
+special sizes using a pair of compasses and a ruler only.
+
+**Constructing a** $60^0$ **Angle**
+
+**Step 1:** Draw the line AB.
+
+**Step 2:** Place the tip of the compass at A and draw an arc of any
+measure to cut the line AB at some point (say R).
+
+**Step 3:** Keeping the width unchanged, place the tip of the compass on
+point R and draw another arc cutting the arc drawn in the previous step
+at some point (say S)
+
+**Step 4:** Connect the points A and S with a straight line and extend
+it to form a line AC.
+
+The measure of the $\angle BAC$ is $60^0$
+
+![Figure 17.3: An Angle of $60^0$](figures/Images/FIG3.png)
+
+**Constructing a** $120^0$ **Angle**
+
+**Step 1:** Draw the line AB. **{Step 2:** Place the tip of the compass
+at A and draw an arc of any measure to cut the line AB at some point
+(say P). **Step 3:** Keeping the width unchanged, place the tip of the
+compass on point P and draw another arc cutting the arc drawn in the
+previous step at some point (say S) **Step 4:** With the same width
+place the tip of the compass at point S and draw another arc cutting the
+arc drawn in step 2 at some point (say T) **Step 5:** Connect the points
+A and T with a straight line and extend it to form a line AC.
+
+The measure of the $\angle BAC$ is $120^0$
+
+![Figure 17.4: An Angle of $120^0$](figures/Images/FIG4.png)
+
+**Constructing a** $30^0$ **Angle**
+
+To construct the angle of $30^0$, Construct the angle of $60^0$ as
+described above and then bisect it as shown below.
+
+The measure of the $\angle BAC$ is $30^0$
+
+![Figure 17.5: An Angle of $30^0$](figures/Images/FIG5.png)
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+# Example 1
+
+Using a ruler and pair of compasses only, construct triangle ABC in
+which $AB = 5cm, BC = 7cm$ and angle $ABC =60 \,^{\circ}$. Drop a
+perpendicular from A to meet BC at M. Measure AM and AC.
+\hspace\*{14.5cm} (3mks)
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+![](figures/Images/triangle1.png)
+
+$$AM=4.4\pm 0.1 \,cm$$ $$AC=6.3\pm 0.1 \, cm$$
+:::
+
+::: {.callout-note collapse="false"}
+# Example 2
+
+Use a ruler and a pair of compasses only for all constructions in this
+question.
+
+a\) Construct a triangle ABC in which $BC=9\, cm$, angle $ABC=45^0$ and
+angle $ACB=75^0$ \hspace\*{14.2cm} (2mks)
+
+b\) Measure AB and AC. \hspace{10.6cm} (2mks)
+
+c\) At A drop a perpendicular to meet BC at D. \hspace{7cm} (1mk)
+
+d\) Measure AD and hence calculate the area of triangle
+ABC.\hspace{4.4cm} (3mks)
+
+e\) Mark a point P on DA produced such that the area of triangle BPC is
+half the area of triangle ABC. \hspace\*{13.3cm} (1mk)
+
+f\) Complete triangle BPC and measure PC \hspace{7.5cm} (1mk)
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+a\) ![](figures/Images/Tria2.png)
+
+b\) $$AB=10\pm 0.1\, cm$$
+
+$$AC=7.4\pm 0.1\,cm$$
+
+d\) $$AD=7.1\pm 0.1\,cm$$ **Area of Triangle**
+$ABC=31.95\pm 0.45\, cm^2$
+
+c\) $$PC=4.1\pm 0.1\,cm$$
+:::
+
+::: {.callout-note collapse="false"}
+# Example 3
+
+Use a ruler and a pair of compasses only for all constructions in this
+question.
+
+a\) Construct triangle PQR in which QR=8.5cm, PQ=7cm and angle
+PQR$=60^0$ \hspace{1.2cm} (3 mks)
+
+b\) Measure PR and angle QPR. \hspace{9cm} (2 mks)
+
+c\) Construct a circle which is inscribed inside triangle
+PQR.\hspace{4.7cm}(4mks)
+
+d\) Measure the radius of this circle. \hspace{8.4cm} (1 mk)
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+a\) ![](figures/Images/Tria3.png)
+
+b\) $$PR=7.8\pm 0.1\, cm$$ $$\angle QPR=70 \pm 1^0$$
+
+c\) Radius$=2.2\pm 0.1\,cm$
+:::
+
+
+::: {.callout-note collapse="false"} \## Problems to solve
+
+```{=tex}
+\begin{enumerate}
+\item 
+\begin{enumerate}
+\item Using a pair of compasses and a ruler only construct a triangle ABC such that $AB= 6.5cm,
+BC = 5cm $ and  angle $ABC = 135\,^{\circ}$                 \hspace{5cm}            (2mks)
+\item  Construct the height of triangle ABC in (a) above taking AB as the base, hence calculating the area of triangle ABC. \hspace{8.9cm}       (2mks)
+\end{enumerate}
+\item
+```
+Using compass and ruler only construct a triangle ABC such that AB 7cm,
+BC = 6cm and angle $ABC = 67.5\,^{\circ}$ measure the length of AC.
+\hspace{6.1cm} ( 4mks)
+
+\item
+
+Use a ruler and a pair of compasses only for all the constructions in
+this question.
+
+```{=tex}
+\begin{enumerate}
+\item Construct a triangle PQR in which PQ=9 cm, QR=6 cm and angle PQR$=30^0$                           \hspace{0.2cm}  (3mks)
+\item From P drop a perpendicular to meet QR produced at S.\hspace{4cm}     (1mk)
+\item Measure PS and hence calculate the area of triangle PQR.\hspace{3.4cm} (2mks)
+ 
+\item Locate a point T on SP produced such that the area of triangle QTR is $\frac{4}{3}$ times the area of triangle PQR.       \hspace{10.8cm}             (2mks)
+\item Complete triangle QTR and measure RT and angle TQR.\hspace{3.9cm}     (2mks)
+\end{enumerate}
+\item
+```
+Use a ruler and a pair of compasses only for all constructions in this
+question.
+
+```{=tex}
+\begin{enumerate}
+\item Construct triangle ABC in which BC=AC=7 cm and angle ACB$=37.5^0$ \hspace{1.4cm}(3mks)
+\item Measure AB.                       \hspace{10.9cm}     (1mk)
+\item From A drop a perpendicular to meet BC produced at D.\hspace{4cm} (1mk)
+\item Measure AD and hence calculate the area of triangle ABC.\hspace{3.4cm}    (2mks)
+\item Mark a point P on AD such that the area of triangle PBC is half the area of triangle ABC.             \hspace{12.2cm}         (1mk)
+\item Complete triangle PBC and measure angle PBC   \hspace{5.1cm}      (2mks)
+\end{enumerate}
+\item
+```
+Use a ruler and a pair of compasses only for all constructions in this
+question.
+
+```{=tex}
+\begin{enumerate}
+\item Construct triangle PQR in which QR=5cm, PR=7 cm and PRQ$=150^0$ \hspace{1.4cm}(3mks)
+\item Measure PQ and angle PQR.     \hspace{8cm}            (2mks)
+\item From P drop a perpendicular to meet QR produced at D.\hspace{3.8cm}   (1mk)
+\item Mark a point T on DP produced such that the area of triangle TQR is twice the area of triangle PQR        \hspace{10.8cm}         (2mks)
+\item Complete triangle TQR and measure angle QRT.  \hspace{5cm}    (2mks)
+\end{enumerate}
+\item
+```
+Use a ruler and a pair of compasses only for all constructions in this
+question
+
+```{=tex}
+\begin{enumerate}
+\item Construct triangle ABC in which BC=7 cm, and angle ABC$=45^0$ and angle ACB$=60^0$.       \hspace*{13.25cm}(3mks)
+\item Measure AB and AC             \hspace{9.6cm}          (2mks)
+\item Construct a circle that touches BC at B and passes through A.\hspace{3cm}(4mks)
+\item Measure the radius of the circle      \hspace{7.8cm}          (1mk)
+\end{enumerate}
+```
+\item
+
+Use a ruler and a pair of compasses only for all constructions in this
+question.
+
+```{=tex}
+\begin{enumerate}
+\item Construct triangle ABC in which BC=7cm, angle ABC=22.50 and angle ACB$=120^0$.                \hspace*{12.9cm}        (4mks)
+\item Measure AC                \hspace{10.8cm}     (1mk)
+\item Produce AB to D and AC to E and bisect angle CBD and angle BCE.\hspace{1.4cm} (2mks)
+\item Construct a circle which touches all three sides AD, BC, and AE.\hspace{1.7cm}(2mks)
+\item What is the radius of this circle?        \hspace{7.4cm}  (1mk)
+\end{enumerate}
+```
