@@ -1,7 +1,141 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
 
 # Chapter Eighteen: Scale Drawing
 
-I love this 
-
+# Scale Drawing {.unnumbered}
 
 ## Bearing and Distance, Angles of Elevation and Depression
+
+**Types of bearing**
+
+-   **True Bearing**- It can only measured from North pole in a
+    clockwise direction and given in three digits format. For example
+    given that $065^0$ is the bearing between two points, say $A$ from
+    $B$; the angle is obtained at point $B$ from north pole in a
+    clockwise direction to the line joining $A$.
+
+-   **Compass bearing**- It can be measured from either North or South
+    pole in either clockwise or anticlockwise direction depending on the
+    side the target object is located. For example if point $A$ is
+    $60^0$ North-West of point $B$, then point $A$ is on a compass
+    bearing of $N60^0W$ from point $B$.
+
+## Solved Examples
+
+::: {.callout-note collapse="false"}
+# Example 1
+
+Three towns A, B, and C are situated such that town B is 40km on a
+bearing of 0400 from town A. Town C is 100 km on a bearing of 1300 from
+town B.
+
+(a) Draw a sketch showing the positions of towns A, B, and C. $(1mk)$
+
+(b) Calculate:
+
+    i\. The size of angle ABC $(1mk)$
+
+    ii\. The distance of C from A to 1 decimal place $(2mk)$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+(a) 
+
+![](figures/exa1.png)
+
+(b) i\. $\angle ABC ??? 40^0 + 50^0 = 90^0$
+
+    ii\. $$AC^2 = AB^2 + BC^2$$ $$AC^2 = 40^2 + 100^2$$
+    $$AC^2 = 11,600$$ $$AC = 107.7\,Km$$
+:::
+
+::: {.callout-note collapse="false"}
+# Example 2
+
+A dove flies from a tree A to another tree B which is $80\, m$ on a
+bearing of $060^0$ from A. From B the dove flies $100\, m$ to tree C
+which is on a compass bearing of $S40^0E$ from tree B and finally flies
+due south to another tree D which is on a bearing of $1^0$ from A. a)
+Using a ruler and a pair of compasses only construct an accurate scale
+drawing showing the positions of A, B, C, and D.
+$(scale : 1\, cm=10\, m)$
+
+b\) By measurement from your scale drawing determine:
+
+\(i\) The distance and compass bearing of A from C. $(2mks)$
+
+\(ii\) The distance of D from C. $(1mks)$
+
+\(iii\) The distance and compass bearing of A from D $(2mks)$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+\(a\)
+
+![](figures/exa2.png)
+
+\(b\)
+
+\(i\) Distance of A from $C = 139 ± 1 m$ ;
+
+Compass bearing of A from $C = N 75^0 ± 10 W$
+
+\(ii\) Distance of D from $C = 58 ± 1m$
+
+\(iii\) Distance of A from $D = 164 ± 1m$ ;
+
+Compass bearing of A from $D = N 55^0 ± 10 W$
+:::
+
+::: {.callout-note collapse="false"}
+# Example 3
+
+The angle of elevation of the top of a vertical tower from a point P is
+$35^0$. The angle of elevation of the top of the tower from another
+point Q which is nearer the foot R of the tower is $50^0$. The distance
+between Q and P is $40\, m$ and the points P, Q, and R are on the same
+straight line on level ground.
+
+\(a\) Use a scale of 1cm to represent 10 m, draw an accurate scale
+drawing to represent the above information. $(4mks)$
+
+\(b\) Use your scale drawing to determine:
+
+\(i\) The height of the tower $(2mks)$
+
+\(ii\) The distance QP $(2mks)$
+
+\(iii\) The distance of P from the top of the tower $(2mks)$
+:::
+
+::: {.callout-caution collapse="true"}
+# Solution
+
+\(a\)
+
+![](figures/Tria3.png)
+
+\(b\)
+
+\(i\) Height of the tower $= 68 ± 1m$
+
+\(ii\) $RQ = 58 ± 1 m$
+
+\(iii\) Distance of P from top of the tower $= 120 ± 1 m$
+:::
+
+
+::: {.callout-note collapse="false"}
+# Example 4
+
+The following measurement were recorded in a book of a virgin land using PQ as the base
+line. And $PQ=400 \,m$
+:::

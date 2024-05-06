@@ -160,88 +160,100 @@ b\) $$PR=7.8\pm 0.1\, cm$$ $$\angle QPR=70 \pm 1^0$$
 c\) Radius$=2.2\pm 0.1\,cm$
 :::
 
+::: {.callout-note collapse="false"}
+## Problems to solve
 
-::: {.callout-note collapse="false"} \## Problems to solve
+1.  a\) Using a pair of compasses and a ruler only construct a triangle
+    ABC such that \$AB= 6.5cm, BC = 5cm \$ and angle
+    $ABC = 135\,^{\circ}$ \hspace{5cm} (2mks)
 
-```{=tex}
-\begin{enumerate}
-\item 
-\begin{enumerate}
-\item Using a pair of compasses and a ruler only construct a triangle ABC such that $AB= 6.5cm,
-BC = 5cm $ and  angle $ABC = 135\,^{\circ}$                 \hspace{5cm}            (2mks)
-\item  Construct the height of triangle ABC in (a) above taking AB as the base, hence calculating the area of triangle ABC. \hspace{8.9cm}       (2mks)
-\end{enumerate}
-\item
-```
-Using compass and ruler only construct a triangle ABC such that AB 7cm,
-BC = 6cm and angle $ABC = 67.5\,^{\circ}$ measure the length of AC.
-\hspace{6.1cm} ( 4mks)
+    b\) Construct the height of triangle ABC in (a) above taking AB as
+    the base, hence calculating the area of triangle ABC. \hspace{8.9cm}
+    (2mks)
 
-\item
+2.  Using compass and ruler only construct a triangle ABC such that AB
+    7cm, BC = 6cm and angle $ABC = 67.5\,^{\circ}$ measure the length of
+    AC. \hspace{6.1cm} ( 4mks)
 
-Use a ruler and a pair of compasses only for all the constructions in
-this question.
+3.  Use a ruler and a pair of compasses only for all the constructions
+    in this question.
 
-```{=tex}
-\begin{enumerate}
-\item Construct a triangle PQR in which PQ=9 cm, QR=6 cm and angle PQR$=30^0$                           \hspace{0.2cm}  (3mks)
-\item From P drop a perpendicular to meet QR produced at S.\hspace{4cm}     (1mk)
-\item Measure PS and hence calculate the area of triangle PQR.\hspace{3.4cm} (2mks)
- 
-\item Locate a point T on SP produced such that the area of triangle QTR is $\frac{4}{3}$ times the area of triangle PQR.       \hspace{10.8cm}             (2mks)
-\item Complete triangle QTR and measure RT and angle TQR.\hspace{3.9cm}     (2mks)
-\end{enumerate}
-\item
-```
-Use a ruler and a pair of compasses only for all constructions in this
-question.
+    a\) Construct a triangle PQR in which PQ=9 cm, QR=6 cm and angle
+    PQR$=30^0$ \hspace{0.2cm} (3mks)
 
-```{=tex}
-\begin{enumerate}
-\item Construct triangle ABC in which BC=AC=7 cm and angle ACB$=37.5^0$ \hspace{1.4cm}(3mks)
-\item Measure AB.                       \hspace{10.9cm}     (1mk)
-\item From A drop a perpendicular to meet BC produced at D.\hspace{4cm} (1mk)
-\item Measure AD and hence calculate the area of triangle ABC.\hspace{3.4cm}    (2mks)
-\item Mark a point P on AD such that the area of triangle PBC is half the area of triangle ABC.             \hspace{12.2cm}         (1mk)
-\item Complete triangle PBC and measure angle PBC   \hspace{5.1cm}      (2mks)
-\end{enumerate}
-\item
-```
-Use a ruler and a pair of compasses only for all constructions in this
-question.
+    b\) From P drop a perpendicular to meet QR produced at
+    S.\hspace{4cm} (1mk)
 
-```{=tex}
-\begin{enumerate}
-\item Construct triangle PQR in which QR=5cm, PR=7 cm and PRQ$=150^0$ \hspace{1.4cm}(3mks)
-\item Measure PQ and angle PQR.     \hspace{8cm}            (2mks)
-\item From P drop a perpendicular to meet QR produced at D.\hspace{3.8cm}   (1mk)
-\item Mark a point T on DP produced such that the area of triangle TQR is twice the area of triangle PQR        \hspace{10.8cm}         (2mks)
-\item Complete triangle TQR and measure angle QRT.  \hspace{5cm}    (2mks)
-\end{enumerate}
-\item
-```
-Use a ruler and a pair of compasses only for all constructions in this
-question
+    c\) Measure PS and hence calculate the area of triangle
+    PQR.\hspace{3.4cm} (2mks)
 
-```{=tex}
-\begin{enumerate}
-\item Construct triangle ABC in which BC=7 cm, and angle ABC$=45^0$ and angle ACB$=60^0$.       \hspace*{13.25cm}(3mks)
-\item Measure AB and AC             \hspace{9.6cm}          (2mks)
-\item Construct a circle that touches BC at B and passes through A.\hspace{3cm}(4mks)
-\item Measure the radius of the circle      \hspace{7.8cm}          (1mk)
-\end{enumerate}
-```
-\item
+    d\) Locate a point T on SP produced such that the area of triangle
+    QTR is $\frac{4}{3}$ times the area of triangle PQR. \hspace{10.8cm}
+    (2mks)
 
-Use a ruler and a pair of compasses only for all constructions in this
-question.
+    e\) Complete triangle QTR and measure RT and angle
+    TQR.\hspace{3.9cm} (2mks)
 
-```{=tex}
-\begin{enumerate}
-\item Construct triangle ABC in which BC=7cm, angle ABC=22.50 and angle ACB$=120^0$.                \hspace*{12.9cm}        (4mks)
-\item Measure AC                \hspace{10.8cm}     (1mk)
-\item Produce AB to D and AC to E and bisect angle CBD and angle BCE.\hspace{1.4cm} (2mks)
-\item Construct a circle which touches all three sides AD, BC, and AE.\hspace{1.7cm}(2mks)
-\item What is the radius of this circle?        \hspace{7.4cm}  (1mk)
-\end{enumerate}
-```
+4.  Use a ruler and a pair of compasses only for all constructions in
+    this question.
+
+    a\) Construct triangle ABC in which BC=AC=7 cm and angle
+    ACB$=37.5^0$ \hspace{1.4cm}(3mks) b) Measure AB. \hspace{10.9cm}
+    (1mk)
+
+    c\) From A drop a perpendicular to meet BC produced at
+    D.\hspace{4cm} (1mk)
+
+    d\) Measure AD and hence calculate the area of triangle
+    ABC.\hspace{3.4cm} (2mks)
+
+    e\) Mark a point P on AD such that the area of triangle PBC is half
+    the area of triangle ABC. \hspace{12.2cm} (1mk)
+
+    f\) Complete triangle PBC and measure angle PBC \hspace{5.1cm}
+    (2mks)
+
+5.  Use a ruler and a pair of compasses only for all constructions in
+    this question.
+
+    a\) Construct triangle PQR in which QR=5cm, PR=7 cm and PRQ$=150^0$
+    \hspace{1.4cm}(3mks) b) Measure PQ and angle PQR. \hspace{8cm}
+    (2mks)
+
+    c\) From P drop a perpendicular to meet QR produced at
+    D.\hspace{3.8cm} (1mk)
+
+    d\) Mark a point T on DP produced such that the area of triangle TQR
+    is twice the area of triangle PQR \hspace{10.8cm} (2mks)
+
+    e\) Complete triangle TQR and measure angle QRT. \hspace{5cm} (2mks)
+
+6.  Use a ruler and a pair of compasses only for all constructions in
+    this question
+
+    a\) Construct triangle ABC in which BC=7 cm, and angle ABC$=45^0$
+    and angle ACB$=60^0$. \hspace{13.25cm}(3mks)
+
+    b\) Measure AB and AC \hspace{9.6cm} (2mks)
+
+    c\) Construct a circle that touches BC at B and passes through
+    A.\hspace{3cm}(4mks)
+
+    d\) Measure the radius of the circle \hspace{7.8cm} (1mk)
+
+7.  Use a ruler and a pair of compasses only for all constructions in
+    this question.
+
+    a\) Construct triangle ABC in which BC=7cm, angle ABC=22.50 and
+    angle ACB$=120^0$. \hspace{12.9cm} (4mks)
+
+    b\) Measure AC \hspace{10.8cm} (1mk)
+
+    c\) Produce AB to D and AC to E and bisect angle CBD and angle
+    BCE.\hspace{1.4cm} (2mks)
+
+    d\) Construct a circle which touches all three sides AD, BC, and
+    AE.\hspace{1.7cm}(2mks)
+
+    e\) What is the radius of this circle? \hspace{7.4cm} (1mk)
+:::
