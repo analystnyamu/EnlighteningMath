@@ -140,19 +140,22 @@ PQ as the base line. And $PQ=400 \,m$
 
 ![](Images/CH18_E4.png)
 
-a\) Using a scale of 1: 4000, draw an accurate map of the farm. $\hspace{4.3cm} (4mks)$
+a\) Using a scale of 1: 4000, draw an accurate map of the farm.
+$\hspace{4.3cm} (4mks)$
 
-b\) Determine the actual area of the farm in hectares.$\hspace{6cm} (4mks)$
+b\) Determine the actual area of the farm in
+hectares.$\hspace{6cm} (4mks)$
 
-c\) If the farm is on sale at 320,000 per hectare, Find how much the farm costs.$\hspace{1.9cm}(2mks)$
+c\) If the farm is on sale at 320,000 per hectare, Find how much the
+farm costs.$\hspace{1.9cm}(2mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
 # Solution
-a\) 
 
-![](figures/survey.png)
-b\) The Area of the farm is given as follows:
+a\)
+
+![](figures/survey.png) b) The Area of the farm is given as follows:
 
 $$
 \begin{align*}
@@ -175,142 +178,233 @@ c\) The farm cost is given by:
 $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 :::
 
+1.  ::: {.callout-note collapse="false"}
+    ## Problems to solve
 
-::: {.callout-note collapse="false"}
-## Problems to solve
+    1.  The scale of a map is given as $1:50,000$. Find the actual area
+        in hectares of a region represented by a right-angled triangle
+        of base 5cm and height 6cm. $\hspace{3.8cm}      (3mks)$
 
-1. The scale of a map is given as $1:50,000$. Find the actual area in hectares of a region represented by a right-angled triangle of base 5cm and height 6cm.		$\hspace{3cm}	(3mks)$
+    2.  The angle of elevation of the top of a flag post from point A on
+        a level ground is $24\,^{\circ}$. The angle of elevation of the
+        top of the flag post from another point B nearer the flag post
+        and 20m from A is $36\,^{\circ}$.
 
-2. The angle of elevation of the top of a flag post from point A on a level ground is $24\,^{\circ}$. The angle of elevation of the top of the flag post from another point B nearer the flag post and 20m from A is $36\,^{\circ}$.
- 
-a\) Use a scale of 1cm to represent 5 m, and draw an accurate scale drawing to represent the above information.	$\hspace{10.1cm} (4mks)$
+        a\) Use a scale of 1cm to represent 5 m, and draw an accurate
+        scale drawing to represent the above information.
+        $\hspace{10.1cm} (4mks)$
 
-b\) The height of the flag post.\hspace{8.8cm}	(2mks)
+        b\) The height of the flag post. $\hspace{8.4cm} (2mks)$
 
-c\) The distance from point B to the top of the flagpole.	
-$\hspace{4.5cm}	(2mks)$
+        c\) The distance from point B to the top of the flagpole.
+        $\hspace{4.0 cm} (2mks)$
 
-d\) Distance of A from the top of the flag post. $\hspace{6.1cm} (2mks)$
+        d\) Distance of A from the top of the flag post.
+        $\hspace{5.5cm} (2mks)$
 
-3. A plane leaves town P to town Q on a bearing of $ 120\,^{\circ}$and a distance of 300km. It then flies 400km on a bearing of $050\,^{\circ}$ to town R.   Find, by scale drawing the distance and compass bearing of P from R.			$\hspace{11cm}				(3mks)$
+    3.  A plane leaves town P to town Q on a bearing of \$
+        120,\^{\circ}\$and a distance of 300km. It then flies 400km on a
+        bearing of $050\,^{\circ}$ to town R. Find, by scale drawing the
+        distance and compass bearing of P from R.
+        $\hspace{8.3cm} (3mks)$
 
-4. Three ports A, B, and C are situated in such a way that port A is 140km on a compass bearing of $N\,60^0\, E$ from port B. Port C is 180km on a compass bearing of $S\,30^0\, E$ from A. A ship S is docked in the sea, 90km on a bearing of $190^0$ from port B.
+    4.  Three ports A, B, and C are situated in such a way that port A
+        is 140km on a compass bearing of $N\,60^0\, E$ from port B. Port
+        C is 180km on a compass bearing of $S\,30^0\, E$ from A. A ship
+        S is docked in the sea, 90km on a bearing of $190^0$ from port
+        B.
 
-a\) Using a scale of 1cm to represent 20km, draw a diagram to show the position of ports A, B, C, and ship S.				$\hspace{10.7cm}			(4mks)$
+        a\) Using a scale of 1cm to represent 20km, draw a diagram to
+        show the position of ports A, B, C, and ship S.
+        $\hspace{11.7cm} (4mks)$
 
-b\) Using your diagram find
+        b\) Using your diagram find
 
+        i\) The distance between the ship and the port A
+        $\hspace{5.5cm} (1mk)$
 
-i\) The distance between the ship and the port A		$\hspace{5.2cm}	(1mk)$
+        ii\) The distance and bearing of the ship from port C
+        $\hspace{4.8cm} (2mks)$
 
-ii\) The distance and bearing of the ship from port C			$\hspace{4.8cm}		(2mks)$
+        iii\) The distance from B to C $\hspace{8.9cm} (1mk)$
 
-iii\) The distance from B to C	$\hspace{8.6cm}	(1mk)$
+        iv\) Compass bearing of S from A $\hspace{8cm} (2mks)$
 
-iv\)  Compass bearing of S from A	$\hspace{7.9cm}					(2mks)$
+    5.  Four schools Mucagara, Kerugoya, Kiamutugu, and Kiburia are such
+        that Kerugoya is 22 km from Mucagara on a bearing of
+        $220\,^{\circ}$, Kiamutugu is to the east of Mucagara and 6 km
+        away while Kiburia is 8 km on a compass bearing of $S42^0E$ from
+        Kiamutugu.
 
+        a\) Using a scale of 1:200,000 draw a scale diagram showing the
+        relative positions of the four schools. $\hspace{12.5cm} (5mks)$
 
-5. Four schools Mucagara, Kerugoya, Kiamutugu, and Kiburia are such that Kerugoya is 22 km from Mucagara on a bearing of $220\,^{\circ}$, Kiamutugu is to the east of Mucagara and 6 km away while Kiburia is 8 km on a compass bearing of $S42^0E$ from Kiamutugu.
+        b\) Using your diagram determine the distance and bearing of
+        Kiburia from Kerugoya $\hspace{0cm} (2mks)$
 
-a\) Using a scale of 1:200,000 draw a scale diagram showing the relative positions of the four schools. 	$\hspace{12.0cm}				(5mks)$
+        c\) The distance and compass bearing of Kerugoya from Kiamutugu
+        $\hspace{2.9cm} (3mks).$
 
-b\) Using your diagram determine the distance and bearing of Kiburia from Kerugoya			$\hspace{0cm}			(2mks)$
+    6.  Four towns P, R, T, and S are such that R is 90km directly to
+        the north of P and T is on a Bearing of $295\,^{\circ}$ from P
+        at a distance of 75km. S is on a compass bearing
+        $N30\,^{\circ}W$ from T and a distance of 40km.
 
-c\) The distance and compass bearing of Kerugoya from Kiamutugu $\hspace{2.9cm} (3mks).$
+        a\) Using a scale of 1cm to represent 10km, make an accurate
+        scale drawing to show the relative position of the towns.
+        $\hspace{8.5cm} (4mks)$
 
-6. Four towns P, R, T, and S are such that R is 90km directly to the north of P and T is on a
-Bearing of $295\,^{\circ}$ from P at a distance of 75km. S is on a compass bearing $N30\,^{\circ}W$ from T and a distance of 40km. 
+        b\) Find:
 
-a\) Using a scale of 1cm to represent 10km, make an accurate scale drawing to show the relative position of the towns.		$\hspace{7.8cm}	(4mks)$
+        i\) The distance and the bearing of R from T
+        $\hspace{6.2cm} (2mks)$
 
-b\) Find:
+        ii\) The distance and the bearing of S from R
+        $\hspace{6.0cm} (2mks)$
 
-i\) The distance and the bearing of R from T	$\hspace{5.2cm}		(2mks)$
+        iii\) The compass bearing of P from S $\hspace{7.2cm} (2mks)$
 
-ii\) The distance and the bearing of S from R	$\hspace{5.2cm}		(2mks)$
+    7.  Two airplanes, T and S leave airport A at the same time. S flies
+        on a bearing of $062\,^{\circ}$ at 600km/h while T flies on a
+        bearing of $290\,^{\circ}$ at 750 km/h.
 
-iii\) The compass bearing of P from S 		$\hspace{6.6cm}			(2mks)$
+        a\) Use a suitable scale, to draw a diagram showing the relative
+        position of the airplanes after two hours.
+        $\hspace{11.3cm} (3mks)$
 
-7. Two airplanes, T and S leave airport A at the same time.  S flies on a bearing of $062\,^{\circ}$ at 600km/h while T flies on a bearing of $290\,^{\circ}$ at 750 km/h.
+        b\) Use your diagram to determine:
 
-a\) Use a suitable scale, to draw a diagram showing the relative position of the airplanes after two hours.	$\hspace{10.3cm}				(3mks)$
+        i\) The distance between the two airplanes.
+        $\hspace{6.0cm} (2mks)$
 
-b\) Use your diagram to determine:
+        ii\) The bearing of T from S. $\hspace{8.8cm} (1mk)$
 
-i\) The distance between the two airplanes.	$\hspace{5.3cm}			(2mks)$
+        c\) Aeroplane T later flew to the East at the same speed for one
+        hour. Show its final position on the diagram in (a) above.
+        Determine:
 
-ii\) The bearing of T from S.	$\hspace{8.4cm}					(1mk)$
+        i\) Its final distance from A.$\hspace{8.6cm} (2mks)$
 
-c\) Aeroplane T later flew to the East at the same speed for one hour.  Show its final position on the diagram in (a) above.
-Determine:	
+        ii\) Its final bearing from S. $\hspace{8.7cm} (1mk)$
 
-i\) Its final distance from A.$\hspace{8.6cm}						(2mks)$
+    8.  Three Kenyan warships A, B, and C are at sea such that ship B is
+        520km on a bearing of $040^{\circ}$ from ship A. Ship C is 600km
+        from ship B on a bearing of $130\,^{\circ}$. An enemy ship D is
+        sighted 900km due south of ship B.
 
-ii\) Its final bearing from S.	$\hspace{8.7cm}							(1mk)$
+        a\) Taking a scale of 1cm to represent 100km locate the position
+        of the ships A, B, C, and D. $\hspace{13.5cm} (4mks)$
 
-8. Three Kenyan warships A, B, and C are at sea such that ship B is 520km on a bearing of $040^{\circ}$ from ship A. Ship C is 600km from ship B on a bearing of $130\,^{\circ}$. An enemy ship D is sighted 900km due south of ship B. 
-\begin{enumerate}
-\item Taking a scale of 1cm to represent 100km locate the position of the ships A, B, C, and D.		\hspace*{13.5cm}						(4mks)
-\item Find the compass bearing of:
-\begin{enumerate}
-\item  Ship A from ship D		\hspace{9.5cm}						(1mk)
-\item Ship D from ship C		\hspace{9.5cm}						(1mk)
-\end{enumerate}
-\item Use the scale drawing to determine 
-\begin{enumerate}
-\item The distance of D from A		\hspace{8.5cm}					(1mk)
-\item The distance of C from D		\hspace{8.5cm}					(1mk)
-\end{enumerate}
-\item Find the bearing of:
-\begin{enumerate}
-\item  B from C					\hspace{11.1cm}		(1mk)
-\item A from C							\hspace{11.1cm}	(1mk)
-\end{enumerate}
-\item An expedition has 5 sections AB, BC, CD, DE, and EA. B is 250 m on a bearing of $060\,^{\circ}$ from A. C is 520 m from B. The bearing of B from C is $310\,^{\circ}$. D is 430m on a bearing $240\,^{\circ}$ from C. E is 220 m on a bearing $023\,^{\circ}$ from D. 
-\begin{enumerate}
-\item Sketch the route		\hspace{10.6cm}							(1mk)
-\item Use a scale of 1cm to 50m to draw an accurate diagram representing the route.			\hspace*{13.4cm}					(5mks)
-\item Use your diagram to determine
-\begin{enumerate}
-\item The distance in metres and bearing of A from E	\hspace{4.7cm}					(2mks)
-\item Compass bearing of D from A		\hspace{7.7cm} (2mks)
-\end{enumerate}
+        b\) Find the compass bearing of:
 
-\end{enumerate}				
-\item Three boats X, Y, and Z are approaching a harbour H.  X is 60km from the harbour on a bearing of $80\,^{\circ}$.  Y is 75 km from the harbour on a bearing of $135\,^{\circ}$ and Z is due West of Y and on a bearing of $210\,^{\circ}$ from the harbour.
-\begin{enumerate}
-\item Using a scale of 1cm rep 10km make a scale drawing showing the positions of the three boats relative to the harbour.\hspace{8.4cm}		(4mks)
-\item 
-\begin{enumerate}
-\item Using the scale drawing find; the distance and bearing of Y and X.\hspace{2cm}	(2mks)
-\item The distance of Z from the harbour.			\hspace{6.7cm}		(2mks)
-\item The distance and compass bearing of Z from X.		\hspace{4.8cm}			(3mks)
-\item An aircraft leaves point A and flies on a bearing of  $030\,^{\circ}$ to a second point B, which is 500km from A.  From B, the aircraft then flies on a bearing of  $328\,^{\circ}$ to a third point C which is 800km from B.  The aircraft then flies directly back to A from C at a speed of 200 km/h.
-\begin{enumerate}
-\item Using a scale of 1cm rep 100Km make a scale drawing showing the positions of the aircraft.\hspace*{12cm}		(4mks)
-\item Time taken to fly directly from C to A.	\hspace{7cm}				(2mks)
-\item The bearing in which it would fly from C to A.		\hspace{5.7cm}		(1mk)
-\item Locate point D on a bearing $210\,^{\circ}$ from C and on a compass bearing of $N45\,^{\circ}W$ from A.  Calculate BD in kilometers.	\hspace*{13.4cm}							(2mks)
-\item What is the bearing of D from B?	\hspace{7.8cm}					(1mk)
-\end{enumerate}
-\item Five towns V, W, X, UY, and Z are situated such that W is 250km east of V. X is 320km from W on a bearing of $145\,^{\circ}$. Y is 380km on a bearing of $225\,^{\circ}$ from X. Z is on a compass bearing of $40\,^{\circ}$ from V but $278\,^{\circ}$ from X.
-\begin{enumerate}
-\item 	Draw the diagram representing the position of the towns. (Use a scale of 1cm to represent 50km).	\hspace{12cm}				(4mks)
-\item From the diagram determine 
-\begin{enumerate}
-\item The distance in km of V from Z 		\hspace{7.5cm}				(1mk)
-\item The Compass bearing of Y from W			\hspace{7cm}				(2mks)
-\end{enumerate}
-\item A plane heading to town X takes off from town Y and flies upwards of a constant angle which is less than $90\,^{\circ}$. After flying a distance of 390km in the air it sees town X at an angle of depression of $35\,^{\circ}$. Calculate the distance of the plane from X at this point.(3mks)
-\end{enumerate}
-\item A bird flies from a tree P to another tree Q which is 95 metres on a bearing of $040\,^{\circ}$ from P.  From Q the bird flies 55 metres due East to another tree R and finally flies due South to another tree S which is on a compass bearing of S$35\,^{\circ}E$ from Q.
-\begin{enumerate}
-\item Construct an accurate scale drawing showing the positions of P, Q, R, and S.
-Use a scale of $(1cm = 10m)$.\hspace{10.8cm} (4mks)
-\begin{enumerate}
-\item 	From your diagram measure the distance and compass bearing of P from R.\hspace{0.5cm}		(3mks)
-\item The distance of S from R in metres.	\hspace{7cm}	(1mk)
-\item The distance and bearing of S from P in metres.\hspace{5cm}	(2mk)
-\end{enumerate}
+        i\) Ship A from ship D $\hspace{9.5cm} (1mk)$
 
-:::
+        ii\) Ship D from ship C $\hspace{9.5cm} (1mk)$
+
+        c\) Use the scale drawing to determine
+
+        i\) The distance of D from A $\hspace{8.5cm} (1mk)$
+
+        ii\) The distance of C from D $\hspace{8.5cm} (1mk)$
+
+        d\) Find the bearing of:
+
+        i\) B from C $\hspace{11.4cm} (1mk)$
+
+        ii\) A from C $\hspace{11.3cm} (1mk)$
+
+    9.  An expedition has 5 sections AB, BC, CD, DE, and EA. B is 250 m
+        on a bearing of $060\,^{\circ}$ from A. C is 520 m from B. The
+        bearing of B from C is $310\,^{\circ}$. D is 430m on a bearing
+        $240\,^{\circ}$ from C. E is 220 m on a bearing $023\,^{\circ}$
+        from D.
+
+        a\) Sketch the route $\hspace{10.2cm} (1mk)$
+
+        b\) Use a scale of 1cm to 50m to draw an accurate diagram
+        representing the route. $\hspace{13.4cm} (5mks)$
+
+        c\) Use your diagram to determine
+
+        i\) The distance in metres and bearing of A from E
+        $\hspace{4.7cm} (2mks)$
+
+        ii\) Compass bearing of D from A $\hspace{7.7cm} (2mks)$
+
+    10. Three boats X, Y, and Z are approaching a harbour H. X is 60km
+        from the harbour on a bearing of $80\,^{\circ}$. Y is 75 km from
+        the harbour on a bearing of $135\,^{\circ}$ and Z is due West of
+        Y and on a bearing of $210\,^{\circ}$ from the harbour.
+
+        a\) Using a scale of 1cm rep 10km make a scale drawing showing
+        the positions of the three boats relative to the harbour.
+        $\hspace{8.0cm} (4mks)$
+
+        b\) i) Using the scale drawing find; the distance and bearing of
+        Y and X. $\hspace{1cm} (2mks)$
+
+         ii) The distance of Z from the harbour. $\hspace{6.0cm} (2mks)$
+
+         iii) The distance and compass bearing of Z from X.
+        $\hspace{4.0cm} (3mks)$
+
+    11. An aircraft leaves point A and flies on a bearing of
+        $030\,^{\circ}$ to a second point B, which is 500km from A. From
+        B, the aircraft then flies on a bearing of $328\,^{\circ}$ to a
+        third point C which is 800km from B. The aircraft then flies
+        directly back to A from C at a speed of 200 km/h.
+
+        a\) Using a scale of 1cm rep 100Km make a scale drawing showing
+        the positions of the aircraft. $\hspace{12cm} (4mks)$
+
+        b\) Time taken to fly directly from C to A.
+        $\hspace{6.5cm} (2mks)$
+
+        c\) The bearing in which it would fly from C to A.
+        $\hspace{5.4cm} (1mk)$
+
+        d\) Locate point D on a bearing $210\,^{\circ}$ from C and on a
+        compass bearing of $N45\,^{\circ}W$ from A. Calculate BD in
+        kilometers. $\hspace{9.0cm} (2mks)$
+
+        e\) What is the bearing of D from B? $\hspace{7.7cm} (1mk)$
+
+    12. Five towns V, W, X, UY, and Z are situated such that W is 250km
+        east of V. X is 320km from W on a bearing of $145\,^{\circ}$. Y
+        is 380km on a bearing of $225\,^{\circ}$ from X. Z is on a
+        compass bearing of $40\,^{\circ}$ from V but $278\,^{\circ}$
+        from X.
+
+        a\) Draw the diagram representing the position of the towns.
+        (Use a scale of 1cm to represent 50km). $\hspace{12.5cm} (4mks)$
+
+        b\) From the diagram determine
+
+         i) The distance in km of V from Z $\hspace{7.9cm} (1mk)$
+
+         ii) The Compass bearing of Y from W $\hspace{7.2cm} (2mks)$
+
+        c\) A plane heading to town X takes off from town Y and flies
+        upwards of a constant angle which is less than $90\,^{\circ}$.
+        After flying a distance of 390km in the air it sees town X at an
+        angle of depression of $35\,^{\circ}$. Calculate the distance of
+        the plane from X at this point. $(3mks)$
+
+    13. A bird flies from a tree P to another tree Q which is 95 metres
+        on a bearing of $040\,^{\circ}$ from P. From Q the bird flies 55
+        metres due East to another tree R and finally flies due South to
+        another tree S which is on a compass bearing of $S35\,^{\circ}E$
+        from Q.
+
+        a\) Construct an accurate scale drawing showing the positions of
+        P, Q, R, and S. Use a scale of
+        $(1cm = 10m)$.$\hspace{10.8cm} (4mks)$
+
+        b\) i) From your diagram measure the distance and compass
+        bearing of P from R. $\hspace{0.0cm} (3mks)$
+
+         ii) The distance of S from R in metres. $\hspace{7cm} (1mk)$
+
+         iii) The distance and bearing of S from P in metres.
+        $\hspace{4.8cm} (2mk)$
+    :::

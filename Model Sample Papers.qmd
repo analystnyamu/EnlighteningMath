@@ -1,50 +1,243 @@
-#  SECTION TWO {.unnumbered}
+---
+number-sections: true
+bibliography: references.bib
+---
+
+# Chapter Nineteen
+
+# SECTION TWO {.unnumbered}
 
 # Model Samples Papers
 
+## Model Sample Paper 1
 
-## model Sample Paper 1
+[**SECTION A: (50 MARKS)**]{.underline}
 
+**Answer all the question in this section**
 
+1.  Evaluate without using tables or calculators. $\hspace{5.4cm} (3mks)$
 
+$$ \frac{\frac{3}{7}\,of\,28\div80\times-\frac{40}{3}}{-2\times5+(14\div7)\times3}$$
 
-## model Sample Paper 2
+2.  Felix has four times as many ducks as hens and three-quarters as many turkeys as ducks.
 
+    a\) If he has x hens, write down a simplified expression in x for the total number of birds $\hspace{13.3cm}(2mks)$
 
+    b\) Find the total number of birds given that the Felix has 45 turkeys.$\hspace{1.7cm} (2mks)$
 
-## model Sample Paper 3
+3.  Given that $x=4,\, y= -2,\, and \,z= -3$ evaluate. $\hspace{5.3cm} (3mks)$
 
+$$ \frac{2(x+z)^2-(x-y)(y-z)}{4(x+y)-2(y-z)}$$
 
+4.  Using a ruler and a pair of compasses only, construct triangle PQR in which $PQ = 5.2cm$ $QR=7.5cm$ and Angle $PQR = 45^0$. By construction bisect angle PQR to meet line PR at a point M. find the ratio $PM:MR$.$\hspace{10.5cm} (3mks)$
 
+5.  Use square and square root table to evaluate to 4 significant figures, the expression. $\hspace{0.1cm}(3mks)$
+
+$$\sqrt[]{24.640-(4.362)^2} $$
+
+6.  The cost of a TV outside is US\$ 1200. Kelvin decides to buy one TV through an agent who deals with Japanese Yen. The agent charges him a commission of 5% on the price of the TV and further 2,000 Yen as important tax. To the nearest Ksh. how much will he need to send to the agent to obtain the TV, given that:- $\hspace{10.5cm} (3mks)$
+
+    $1\,US\, \$ = 110.95 \,Yen$
+
+    $1\,US \$ = Kshs. \,102.80$
+
+7.  A two --digit number is such that the sum of the ones digit and the tens digit is 4. If the digits are reversed, the number formed exceeds the original number by 18. Find the number. $(3mks)$
+
+8.  Metal block of side 5.6 cm was melted and the molten material used to make a sphere. In three significant figures, find the radius of the sphere in metres (take $\pi =\frac{22}{7}$) $\hspace{6.5cm} (3mks)$
+
+9.  Solve the simultaneous equations $\hspace{8.4cm} (3mks)$
+
+$$
+    \begin{align*}
+     x+3y&=9\\
+     4x-8y&=-4
+    \end{align*}
+$$
+
+10. Kinyua bought soya and millet at Ksh. 70 per kg and Ksh. 40 per kg respectively. He then mixed them and sold the mixture at Ksh. 60 per kg making a profit of 20%. Determine the ratio of soya to millet in mixture. $\hspace{0cm} (3mks)$
+
+11. An aircraft left Nairobi at 2245h on Monday and arrived in Cape Town on Tuesday at 0300h. It departed from Cape Town at 0330h and arrived in Washington DC at 0630h on Wednesday. Find the travel ling time for the whole journey from Nairobi to Washington DC took? $\hspace{9cm} (3mks)$
+
+12. A town B is 250 km due east of town A. Another town C is 200 km on a compass bearing of $S40^0E$ from town B. use scale drawing to find the distance and bearing of town C from A. $\hspace{2.5cm}(4mks)$
+
+13. 1.784 kg of sugar whose density is $1.08g/cm^3$ and 0.744kg of salt whose density is $1.04g/cm^3$ are mixed together for a certain experiment. What is the density of the mixture in $kg/m^3$? ( Give the answer to 4. s.f) $\hspace{0cm} (3mks)$
+
+14. The interior angle of a regular polygon is 5 times the exterior angle. How many sides does the polygon have? $\hspace{0 cm} (2mks)$
+
+15. Find the least number of steps in staircase if, when I go up 3 steps at a time, 4 steps at a time or 6 steps at a time, there is always 1 step remaining at the top. $\hspace{6.5cm} (3mks)$
+
+16. An arc of a circle of length 37.4cm subtends an angle of $153^0$ at the centre of the circle. Calculate the area of the sector bounded by this arc. Take $\pi=\frac{22}{7}$. $\hspace{6.7cm} (4mks)$
+
+[**SECTION B (50 MARKS)**]{.underline}
+
+***Attempt all the questions***
+
+17. Kirote and Kanze bought a bus which could carry 50 passengers when full. The bus uses Nairobi-Machakos route and charges Ksh. 160 per passengers for one way. The bus makes three trips between the two towns daily. The cost of fuel was Ksh. 2500 per day. The driver and the conductor are paid allowances of Ksh. 1500 and Ksh. 800 respectively. A further of Ksh. 5,000 per day are set aside for maintenance.
+
+    a\) One day the bus was full on every trip.
+
+    i)  How much money was collected from the passengers that day? $\hspace{2cm} (2mks)$
+
+    ii) How much was the net profit. $\hspace{7.7cm} (3mks)$
+
+    b\) On another day, the minibus was 80% full on average for the trips how much did Kanze get if the days profit was shared to the ratio 2:3? $\hspace{10.9cm} (5mks)$
+
+18. The following measurement were recorded in a field book of a farm using $XY$ as the base line $XY = 450\,m$
+
+![](images/MP1_Q18.png)
+
+a\) Using a scale, draw an accurate map of the farm. $\hspace{5.2cm}(3mks)$
+
+b\) Determine the actual area of the farm in hectares. $\hspace{5cm}(4mks)$
+
+c\) If the farm is on sale at Ksh. 280,000 per hectare, find how much the farm costs.$\hspace{0.6cm} (3mks)$
+
+19. Four ships are at sea such that a steam-liner W is 250 km on a bearing of $030^0$ from a cargo ship Q. A trawler M is 350 km on a bearing of \$145\^0 \$ from the cargo ship Q and a yacht R is due west of Q and on a compass bearing of $N60^0W$ from M
+
+a\) Using a scale of 1 cm=50 km, draw an accurate scale drawing showing the positions of W, Q, M, and R. $\hspace{11.1cm} (5mks)$
+
+b\) By measurement from your scale drawing determine:
+
+i\) The distance and bearing of R from W. $\hspace{6.2cm} (3mks)$
+
+ii\) The distance WM. $\hspace{9.6cm} (1mk)$
+
+iii\) The distance RM. $\hspace{9.7cm} (1mk)$
+
+20. An electronics manufacturer makes speakers and sells them to a distributor at a profit of $20\%$. The distributor sells the speakers to a retailer at a profit of $25\%$. The retailer finally sells the speakers to customers at a profit of $40\%$.
+
+a\) A customer paid Ksh. 1,680 for a portable speaker. Find how much it had cost the manufacturer to make the speaker. $\hspace{7.5cm} (3mks)$
+
+b\) A retailer bought a speaker which had cost the manufacturer Ksh. 5,600 to make. Calculate the amount he paid for it. $\hspace{8.2cm} (3mks)$
+
+c\) A customer bought a pioneer speaker at Ksh. 6,300. Calculate the much the distributor had paid for the same radio. $\hspace{8.5cm} (3mks)$
+
+d\) Express as a percentage the amount the customer paid for the speaker in (c) above to the amount the distributor paid for it. $\hspace{7.7cm} (2mks)$
+
+21. Four trucks A, B, C, and D are used to transport 42,000 bags of maize to a depot. However, trucks A and B together take 40 days to transport the same number of bags while trucks C and D together take 25 days. Truck A carries $1\frac{1}{2}$ times the number of bags B carries and C carries $1\frac{4}{5}$ times as much as D.
+
+a\) Determine the number of bags of maize transported by each truck per day.$\hspace{1.1cm} (5mks)$
+
+b\) All the trucks A, B, C, and D work together for 5 days, after which truck C and D are withdrawn. A and B work together for another 5 days after which truck A breaks down. How long does truck B take to complete the rest of the remaining bags? $\hspace{1.5cm}(5mks)$
+
+## Model Sample Paper 2
+
+[**SECTION A: (50 MARKS)**]{.underline}
+
+**Answer all the question in this section**
+
+1.  Use the tables of squares and square roots only to find the value of; $\hspace{2cm} (3mks)$ $$ \left(0.0847\right)^\frac{1}{2}+\left(2.35\right)^2$$
+
+2.  Without using calculator, evaluate.$\hspace{8cm} (3mks)$
+
+$$\frac{2\frac{4}{5}+3\frac{1}{5}\div\frac{7}{8}\,of\,4\frac{4}{7}-\frac{3}{5}}{1\frac{3}{4}\div3\frac{1}{2}-\frac{5}{12}+\frac{2}{3}} $$
+
+3.  Two years ago, Musa was three times as old as Ahmed. In four years' time, Musa will be twice as old as Ahmed. Find their present ages $\hspace{7cm}(4mks)$
+
+4.  On a map with a scale of 1:16,000, a banana plantation covers an area of $70cm^2$. Find the area of the plantation in hectares. $\hspace{8cm} (3mks)$
+
+5.  A Canadian tourist came to Kenya with sterling pounds 4500 which he exchanged to Kenyan shillings. He spent a quarter of the money and exchanged the rest to sterling pounds on leaving. How much in sterling pounds did he receive? $\hspace{4.8cm} (4mks)$
+
+Exchange rate in Ksh. per pound
+
+```         
+           Buying          Selling
+           119.74          119.88
+              
+```
+
+6.  The sums of interior angles of two regular polygons of sides' n-1 and n are in the ratio 3:4. Calculate;
+
+    a\) The value of n. $\hspace{10.6cm} (2mks)$
+
+    b\) The size of interior angle of each polygon. $\hspace{5.9cm} (2mks)$
+
+7.  John bought six exercise books and three text books for Ksh. 660. If he had bought three similar exercise books and six text books, he would have paid Ksh. 210 more. How much would he pay for five exercise books and five text books? $\hspace{0cm} (3mks)$
+
+8.  Find the least number of biscuits that can be packed into carton boxes which contain either 4 or 9 or 24 or 40 with none left over.$\hspace{8.9cm} (3mks)$
+
+9.  In order to complete a certain job in 10 days, a company employs 30 workers to work at the rate of 8 hours a day. Determine how long it would take 20 workers working at the rate of 12 hours a day to complete the same job. $\hspace{1.7cm} (2mks)$
+
+10. Simplify the expression. $\hspace{9.7cm} (3mks)$
+
+$$\frac{y^2-4x-4xy+y}{(y+1)(4x^2-xy)}$$
+
+11. A two digit number is such that the sum of the ones and the tens digit is 11. If the Digits are reversed; the original number exceeds the new number formed by 9. Find the number. $(3mks)$
+
+12. Joyce on her cycling practice cycled on a bearing of $125^0$ for 5.5km, then on a bearing of $180^0$ for 6.7km finally he turned northwards for 12.5km, by scale drawing determine the distance and compass bearing of her final position from the starting point. $\hspace{3cm} (4mks)$
+
+13. Njoki bought Mike a suit for Ksh. 3600. This price was such that the shopkeeper had allowed a discount of 10% on the marked price in order to make a profit of 20%. Calculate both the marked price and the buying price of the suit. $\hspace{0cm} (3mks)$
+
+14. Bronze is made by mixing tin, brass, and zinc in the ratio 3:5:4. A piece of bronze contains 7.2 kg of tin. Determine the total mass of brass and zinc in that piece of steel. $\hspace{2cm}(2mks)$
+
+15. A cylindrical solid of length 40cm and radius 7cm is melted to form 10 similar spherical solids. Determine the radius of each spherical solid. $\hspace{6.7cm} (3mks)$
+
+16. Starting from midnight the minute hand of a clock moved so that the clock is showing 24 minutes past midnight.
+
+    a\) Find the angle through which the minute hand has moved. $\hspace{3.7cm} (1mk)$
+
+    b\) Given that the minute hand is 14 cm long, calculate the length of the arc it describes in that time. $\hspace{0.50cm} (2mks)$
+
+[**SECTION B (50 MARKS)**]{.underline}
+
+***Attempt all the questions***
+
+17. Simon sold an article at Ksh. 5,100 after allowing his customer a 15% discount on the marked price of the article. In so doing he made a profit of 25%.
+
+    a\) Calculate:
+
+    i\) The marked price of the article. $\hspace{0cm} (2mks)$
+
+    ii\) The price at which Simon had bought the article $\hspace{0.3cm} (2mks)$
+
+    b\) If Simon had sold the same article without giving a discount. Calculate the percentage profit he would have made to three significant figures. $\hspace{0 cm} (3mks)$
+
+    c\) To clear his stock, Simon decided to sell the remaining articles at a loss of 20%.Calculate the price at which he sold each article. $\hspace{0.5cm} (3mks)$
+
+18. \(a\) Using a ruler and a pair of compasses only construct triangle ABC in which $BC = 8cm$, $AB = 6cm$ angle $ABC = 67.5^0$ $\hspace{0.9cm} (4mks)$
+
+    \(b\) Measure AC and angle ACB $\hspace{0.5cm}(2mks)$
+
+    \(c\) Construct a circle that passes through AB, AC and BC $\hspace{0.2cm} (3mks)$
+
+    \(d\) What is the radius of this circle? \hspace{7.7cm} (1mk)
+
+19. A bus had 48 passengers at the begining of the journey, 20 passengers alighted at the first stop while 12 boarded. 8 of those who boarded at the first stop alighted at the second stop and 16 got in. The bus did not stop again upto the final destination. The charges from the starting point were Ksh. 100 upto the first stop, Ksh. 150 upto the second stop, and Ksh. 220 upto the final destination.
+
+    a\) How many passengers alighted at the final destination? $\hspace{0.6cm} (3mks)$
+
+    b\) How many passengers were ferried by the bus through the journey? $\hspace{0.7cm} (2mks)$
+
+    c\) How much money was collected during the trip? $\hspace{0cm} (5mks)$
+
+20. \(a\) The angle of elevation of the top of a tree from a point P on the horizontal ground $28.5^0$. From another point Q, five meters from P towards the base of the tree, the angle of elevation of the top of the tree is $37.2^0$. By scale drawing calculate to one decimal place the height of the tree.$\hspace{0.5cm} (4mks)$
+
+    \(b\) Four points A, B, C and D lie on the same plane. Point A is due southwest of point B. Point C is 70 Km on a bearing of $S60^0E$ from B. Point D is equidistant from B, Q and C.
+
+    i\) Using the Scale: 1 cm represents 10km, construct a diagram showing the position of B, C, Q and D. $\hspace{0cm} (4mks)$
+
+    ii\) Determine the distance between A and B $\hspace{0.7cm} (1mk)$
+
+    iii\) Determine the bearing of D from B. $\hspace{0.6cm} (1mk)$
+
+21. Water flows through a cylindrical pipe of diameter 2.8 cm at a speed of 70m/min.
+
+    a\) Calculate the volume of the water delivered by the pipe per minute in litres.$\hspace{0.6cm} (3mks)$
+
+    b\) A cylindrical storage tank of depth 5m is filled by water from this pipe and at the same rate of flow. Water begins flowing into the empty storage tank at 9.30 p.m. and is full by 2.10 a.m. Calculate the area of the cross-section of this tank in $m^2$. $\hspace{0.9cm} (4mks)$
+
+    c\) A family consumes the capacity of this tank in one month. The cost of water is Ksh. 25 per thousand litres plus a fixed basic charge of Ksh. 1800.60. Calculate the cost of this family's water bill for the month. $\hspace{0.7cm} (3mks)$
 
 ## model Sample Paper 4
 
-
-
-
 ## model Sample Paper 5
-
-
-
 
 ## model Sample Paper 6
 
-
-
-
 ## model Sample Paper 7
-
-
-
 
 ## model Sample Paper 8
 
-
-
-
 ## model Sample Paper 9
-
-
-
 
 ## model Sample Paper 10
