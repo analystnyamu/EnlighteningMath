@@ -183,7 +183,7 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 
     1.  The scale of a map is given as $1:50,000$. Find the actual area
         in hectares of a region represented by a right-angled triangle
-        of base 5cm and height 6cm. $\hspace{3.8cm}      (3mks)$
+        of base 5cm and height 6cm. $\hspace{1.5cm}      (3mks)$
 
     2.  The angle of elevation of the top of a flag post from point A on
         a level ground is $24\,^{\circ}$. The angle of elevation of the
@@ -192,21 +192,21 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 
         a\) Use a scale of 1cm to represent 5 m, and draw an accurate
         scale drawing to represent the above information.
-        $\hspace{10.1cm} (4mks)$
+        $\hspace{9.7cm} (4mks)$
 
-        b\) The height of the flag post. $\hspace{8.4cm} (2mks)$
+        b\) The height of the flag post. $\hspace{7.8cm} (2mks)$
 
         c\) The distance from point B to the top of the flagpole.
-        $\hspace{4.0 cm} (2mks)$
+        $\hspace{3.6 cm} (2mks)$
 
         d\) Distance of A from the top of the flag post.
-        $\hspace{5.5cm} (2mks)$
+        $\hspace{5.1cm} (2mks)$
 
     3.  A plane leaves town P to town Q on a bearing of \$
         120,\^{\circ}\$and a distance of 300km. It then flies 400km on a
         bearing of $050\,^{\circ}$ to town R. Find, by scale drawing the
         distance and compass bearing of P from R.
-        $\hspace{8.3cm} (3mks)$
+        $\hspace{7.7cm} (3mks)$
 
     4.  Three ports A, B, and C are situated in such a way that port A
         is 140km on a compass bearing of $N\,60^0\, E$ from port B. Port
@@ -216,19 +216,19 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 
         a\) Using a scale of 1cm to represent 20km, draw a diagram to
         show the position of ports A, B, C, and ship S.
-        $\hspace{11.7cm} (4mks)$
+        $\hspace{10.0cm} (4mks)$
 
         b\) Using your diagram find
 
         i\) The distance between the ship and the port A
-        $\hspace{5.5cm} (1mk)$
+        $\hspace{4.7cm} (1mk)$
 
         ii\) The distance and bearing of the ship from port C
-        $\hspace{4.8cm} (2mks)$
+        $\hspace{4.0cm} (2mks)$
 
-        iii\) The distance from B to C $\hspace{8.9cm} (1mk)$
+        iii\) The distance from B to C $\hspace{8.0cm} (1mk)$
 
-        iv\) Compass bearing of S from A $\hspace{8cm} (2mks)$
+        iv\) Compass bearing of S from A $\hspace{7.1cm} (2mks)$
 
     5.  Four schools Mucagara, Kerugoya, Kiamutugu, and Kiburia are such
         that Kerugoya is 22 km from Mucagara on a bearing of
