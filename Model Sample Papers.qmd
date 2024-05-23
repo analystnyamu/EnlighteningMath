@@ -86,39 +86,41 @@ $$
 
 ![](images/MP1_Q18.png)
 
-a\) Using a scale, draw an accurate map of the farm. $\hspace{5.2cm}(3mks)$
+a)  Using a scale, draw an accurate map of the farm. $\hspace{5.2cm}(3mks)$
 
-b\) Determine the actual area of the farm in hectares. $\hspace{5cm}(4mks)$
+b)  Determine the actual area of the farm in hectares. $\hspace{5cm}(4mks)$
 
-c\) If the farm is on sale at Ksh. 280,000 per hectare, find how much the farm costs.$\hspace{0.6cm} (3mks)$
+c)  If the farm is on sale at Ksh. 280,000 per hectare, find how much the farm costs.$\hspace{0.6cm} (3mks)$
+
+<!-- -->
 
 19. Four ships are at sea such that a steam-liner W is 250 km on a bearing of $030^0$ from a cargo ship Q. A trawler M is 350 km on a bearing of \$145\^0 \$ from the cargo ship Q and a yacht R is due west of Q and on a compass bearing of $N60^0W$ from M
 
-a\) Using a scale of 1 cm=50 km, draw an accurate scale drawing showing the positions of W, Q, M, and R. $\hspace{11.1cm} (5mks)$
+    a\) Using a scale of 1 cm=50 km, draw an accurate scale drawing showing the positions of W, Q, M, and R. $\hspace{11.1cm} (5mks)$
 
-b\) By measurement from your scale drawing determine:
+    b\) By measurement from your scale drawing determine:
 
-i\) The distance and bearing of R from W. $\hspace{6.2cm} (3mks)$
+    i\) The distance and bearing of R from W. $\hspace{6.2cm} (3mks)$
 
-ii\) The distance WM. $\hspace{9.6cm} (1mk)$
+    ii\) The distance WM. $\hspace{9.6cm} (1mk)$
 
-iii\) The distance RM. $\hspace{9.7cm} (1mk)$
+    iii\) The distance RM. $\hspace{9.7cm} (1mk)$
 
 20. An electronics manufacturer makes speakers and sells them to a distributor at a profit of $20\%$. The distributor sells the speakers to a retailer at a profit of $25\%$. The retailer finally sells the speakers to customers at a profit of $40\%$.
 
-a\) A customer paid Ksh. 1,680 for a portable speaker. Find how much it had cost the manufacturer to make the speaker. $\hspace{7.5cm} (3mks)$
+    a\) A customer paid Ksh. 1,680 for a portable speaker. Find how much it had cost the manufacturer to make the speaker. $\hspace{7.5cm} (3mks)$
 
-b\) A retailer bought a speaker which had cost the manufacturer Ksh. 5,600 to make. Calculate the amount he paid for it. $\hspace{8.2cm} (3mks)$
+    b\) A retailer bought a speaker which had cost the manufacturer Ksh. 5,600 to make. Calculate the amount he paid for it. $\hspace{8.2cm} (3mks)$
 
-c\) A customer bought a pioneer speaker at Ksh. 6,300. Calculate the much the distributor had paid for the same radio. $\hspace{8.5cm} (3mks)$
+    c\) A customer bought a pioneer speaker at Ksh. 6,300. Calculate the much the distributor had paid for the same radio. $\hspace{8.5cm} (2mks)$
 
-d\) Express as a percentage the amount the customer paid for the speaker in (c) above to the amount the distributor paid for it. $\hspace{7.7cm} (2mks)$
+    d\) Express as a percentage the amount the customer paid for the speaker in (c) above to the amount the distributor paid for it. $\hspace{7.7cm} (2mks)$
 
 21. Four trucks A, B, C, and D are used to transport 42,000 bags of maize to a depot. However, trucks A and B together take 40 days to transport the same number of bags while trucks C and D together take 25 days. Truck A carries $1\frac{1}{2}$ times the number of bags B carries and C carries $1\frac{4}{5}$ times as much as D.
 
-a\) Determine the number of bags of maize transported by each truck per day.$\hspace{1.1cm} (5mks)$
+    a\) Determine the number of bags of maize transported by each truck per day.$\hspace{1.1cm} (5mks)$
 
-b\) All the trucks A, B, C, and D work together for 5 days, after which truck C and D are withdrawn. A and B work together for another 5 days after which truck A breaks down. How long does truck B take to complete the rest of the remaining bags? $\hspace{1.5cm}(5mks)$
+    b\) All the trucks A, B, C, and D work together for 5 days, after which truck C and D are withdrawn. A and B work together for another 5 days after which truck A breaks down. How long does truck B take to complete the rest of the remaining bags? $\hspace{1.5cm}(5mks)$
 
 ## Model Sample Paper 2
 
@@ -228,7 +230,7 @@ $$\frac{y^2-4x-4xy+y}{(y+1)(4x^2-xy)}$$
 
     c\) A family consumes the capacity of this tank in one month. The cost of water is Ksh. 25 per thousand litres plus a fixed basic charge of Ksh. 1800.60. Calculate the cost of this family's water bill for the month. $\hspace{0.7cm} (3mks)$
 
-## Model Sample Paper 4
+## Model Sample Paper 3
 
 [**SECTION A: (50 MARKS)**]{.underline}
 
@@ -252,21 +254,25 @@ $$\frac{y^2-4x-4xy+y}{(y+1)(4x^2-xy)}$$
 
 Obtain the size of each of the following angles,
 
-a) CBA $\hspace{10.5cm} (2mks)$
+a)  CBA $\hspace{10.5cm} (2mks)$
 
-b) CDE $\hspace{10.5cm} (1mk)$
+b)  CDE $\hspace{10.5cm} (1mk)$
+
+<!-- -->
 
 6.  The figure below is a cross-section of a swimming pool.
 
 ![](figures/fig2.png)
 
-a) Find the capacity of the pool in litres given that its length is 27m. $\hspace{0.1cm} (3mks)$
+a)  Find the capacity of the pool in litres given that its length is 27m. $\hspace{0.1cm} (3mks)$
 
-b) Given that the water has a density of $1g/cm^3$, calculate the mass of water in the pool $\hspace{0.3cm} (2mks)$
+b)  Given that the water has a density of $1g/cm^3$, calculate the mass of water in the pool $\hspace{0.3cm} (2mks)$
+
+<!-- -->
 
 7.  Food aid 492,850 French Franc was donated to the Turkana drought stricken area. The food was purchased from United States of America (USA) and paid for in US dollars. Calculate the exact value of the food aid in dollars if: $\hspace{0.5cm} (3mks)$
 
-    French Franc $= ksh \,12.80$ and 1 Us dollars $= ksh \,102.50$
+    $1\, French \, Franc = ksh \,12.80\,$ and $\,1 \,Us \,dollars = ksh \,102.50$
 
 8.  Munene is paid commission at the rate of 5 cents in every shilling on all goods he sells. During one month he sold 15 computers at Ksh. 14,200 each, 6 DVD players at Ksh. 6,800 each and 8 laptops at Ksh. 31,500 each. Calculate the total commission he earned in that month. $\hspace{0.1cm} (3mks)$\
 
@@ -290,254 +296,247 @@ b) Given that the water has a density of $1g/cm^3$, calculate the mass of water 
 
 ***Attempt all the questions***
 
-\item
+17. A rectangular aluminum sheet whose density is $2.2 g/cm^3$ is 1.2 m long, 80 cm wide, and 1.5 mm thick. A square of side 10 cm is cut off from each of the four corners of the rectangle and the remaining part folded into an open cuboid.
 
-A rectangular aluminum sheet whose density is $2.2 g/cm^3$ is 1.2 m long, 80 cm wide, and 1.5 mm thick. A square of side 10 cm is cut off from each of the four corners of the rectangle and the remaining part folded into an open cuboid.
+    a\) Calculate:
 
-```{=tex}
-\begin{enumerate}
-\item Calculate:
-\begin{enumerate}
-\item To the mass of the empty cuboid to the nearest Kg.\hspace{4cm}    (4mks)
-\item The capacity of the cuboid in litres  \hspace{6.55cm}     (2mks)
-\end{enumerate}
-\item If the cuboid is filled with alcohol whose density is $0.75 g/cm^3$, calculate the mass of the cuboid when full of alcohol.   \hspace{8.5cm}(4mks)
-\end{enumerate}
-\item
+    i\) To the mass of the empty cuboid to the nearest Kg. $\hspace{0cm} (4mks)$
+
+    ii\) The capacity of the cuboid in litres $\hspace{0.5cm} (2mks)$
+
+    b\) If the cuboid is filled with alcohol whose density is $0.75 g/cm^3$, calculate the mass of the cuboid when full of alcohol. $\hspace{0.5cm}(4mks)$
+
+18. A bus left Dodoma on Thursday evening and travelled to Mombasa according to the travel table below and arrived there on Saturday morning.
+
+![](figures/Md3_Q18.png)
+
+a)  Calculate the total:
+
+b)  Travelling time for the whole journey. $\hspace{0.1cm} (3mks)$
+
+```{=html}
+<!-- -->
 ```
-A bus left Dodoma on Thursday evening and travelled to Mombasa according to the travel table below and arrived there on Saturday morning.\\
+ii) Stoppage time in all stations $\hspace{0.35cm} (3mks)$
 
-```{=tex}
-\begin{tabular}{|l|c|c|c|r|}
-\hline
-Dodoma&Departure&2015h\\
-\hline
-Arusha&Arrival&0045h\\
-\,&Departure&0125h\\
-\hline
-Namanga&Arrival&1140h\\
-\,&Departure&1220h\\
-\hline
-Nairobi&Arrival&1950h\\
-\,&Departure&2130h\\
-\hline
-Mombasa&Arrival&0650h\\
-\hline
-\end{tabular}
-\begin{enumerate}
-\item Calculate the total:
-\begin{enumerate}
-\item Travelling time for the whole journey.\hspace{6.1cm}          (3mks)
-\item Stoppage time in all stations \hspace{7.35cm}         (3mks)
-\item Time taken for the whole journey  \hspace{6.7cm}      (2mks)
-\end{enumerate}
-\item Given that the average speed of the bus for the whole journey is 60km/h, calculate the distance between Dodoma and Mombasa.   \hspace{6cm}        (2mks)
-\end{enumerate}
-\item
+iii) Time taken for the whole journey $\hspace{0.7cm} (2mks)$
+
+```{=html}
+<!-- -->
 ```
-Three cargo ships P, Q, and R are at sea such that ship Q is 300 km on a compass bearing of $N35^0W$ from ship P. ship R is 420 km on a bearing of $220^0$ from ship Q. Another ship S is reported to be 475 km from ship R and due south of ship P.
+b)  Given that the average speed of the bus for the whole journey is 60km/h, calculate the distance between Dodoma and Mombasa. $\hspace{0.6cm} (2mks)$
 
-```{=tex}
-\begin{enumerate}
-\item Draw an accurate scale drawing showing the positions of ships P, Q, R, and S. (use scale 1cm=50 km) \hspace{11.1cm} (5mks)
-\item Use your scale drawing to determine the:
-\begin{enumerate}
-\item Distance of ship S from P.    \hspace{8.2cm}              (1mk)
-\item Distance and bearing of ship S from ship Q    \hspace{5.2cm}  (2mks)
-\item Compass bearing of ship S from ship R \hspace{6cm}            (2mks)
-
-
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item A solution whose volume is 50 litres is made up of 40\% water and 60\% alcohol. When n litres of water are added the percentage of alcohol drops to 50\%. Find the value of n. \hspace*{13.3cm} (4mks)
-\item 15 litres of water is added to the new solution. Calculate the percentage of alcohol in the resulting solution.               \hspace{10.2cm}         (2mks)
-\item If 6 litres of the solution in (b) above is added to 3 litres of the original solution, calculate in the simplest form, the ratio of water to alcohol in the resulting solution. \hspace{1cm} (4mks)
-\end{enumerate}
-\item
+```{=html}
+<!-- -->
 ```
-Gabriel, an artisan made an article and sold it to a wholesaler to a profit of 25%. The wholesaler sold it to a retailer at a profit of 32%. The retailer finally sold the article to a customer at a profit of 45%.
+19. Three cargo ships P, Q, and R are at sea such that ship Q is 300 km on a compass bearing of $N35^0W$ from ship P. ship R is 420 km on a bearing of $220^0$ from ship Q. Another ship S is reported to be 475 km from ship R and due south of ship P.
 
-```{=tex}
-\begin{enumerate}
-\item If Gabriel used sh 1200 to make the article, find how much the customer paid for it.                      (3mks)
-\item A customer paid sh 4785 for another article. Calculate how much the wholesaler had paid for it.           \hspace{12.4cm}         (3mks)
+    a\) Draw an accurate scale drawing showing the positions of ships P, Q, R, and S. (use scale 1cm=50 km) $\hspace{0.1cm} (5mks)$
 
-c)  During a clearance sale the retailer reduced his prices by 20\%. Find the percentage profit the retailer made on an article which had cost Gabriel sh 4000 to make it.\hspace{0.2cm} (4mks)
+    b\) Use your scale drawing to determine the:
 
+    i\) Distance of ship S from P. $\hspace{0.2cm} (1mk)$
 
-\end{enumerate}
-```
-\\end{enumerate}
+    ii\) Distance and bearing of ship S from ship Q $\hspace{0.2cm} (2mks)$
 
-\subsection\*{Model Sample Paper 4}
+    iii\) Compass bearing of ship S from ship R $\hspace{0cm} (2mks)$
+
+20. \(a\) A solution whose volume is 50 litres is made up of $40\%$ water and $60\%$ alcohol. When n litres of water are added the percentage of alcohol drops to $50\%$. Find the value of n. $\hspace{0.3cm} (4mks)$
+
+    \(b\) 15 litres of water is added to the new solution. Calculate the percentage of alcohol in the resulting solution. $\hspace{0.2cm} (2mks)$
+
+    \(c\) If 6 litres of the solution in (b) above is added to 3 litres of the original solution, calculate in the simplest form, the ratio of water to alcohol in the resulting solution. $\hspace{0cm} (4mks)$
+
+21. Gabriel, an artisan made an article and sold it to a wholesaler to a profit of $25\%$. The wholesaler sold it to a retailer at a profit of $32\%$. The retailer finally sold the article to a customer at a profit of $45\%$.
+
+    a\) If Gabriel used sh 1200 to make the article, find how much the customer paid for it. $\hspace{0.1cm} (3mks)$
+
+    b\) A customer paid sh 4785 for another article. Calculate how much the wholesaler had paid for it. $\hspace{0.4cm} (3mks)$
+
+    c\) During a clearance sale the retailer reduced his prices by $20\%$. Find the percentage profit the retailer made on an article which had cost Gabriel sh 4000 to make it.$\hspace{0.2cm} (4mks)$
+
+## Model Sample Paper 4
+
+[**SECTION A: (50 MARKS)**]{.underline}
+
+**Answer all the question in this section**
+
+1.  Evaluate without using a calculator or Mathematical tables leaving your answer in the simplest form. $\hspace{0.7cm} (3mks)$
+
+$$ \frac{\frac{3}{9}\,of\,\left(\frac{2}{5}-\frac{1}{10}\right)}{\left(4+\frac{2}{3}\right)\div\left(1+\frac{4}{3}\right)}$$
+
+2.  Three similar 21 inch television sets and five similar 17 inch television cost Ksh. 145,000.\
+    The difference between the cost of two 21 inch television sets and three 17 inch television Sets is Ksh. 8,000. Calculate the price of a 21- inch television set and that of 17-inch Television set. $\hspace{0.2cm} (3mks)$
+
+3.  A Kenya bank buys and sells foreign currencies as shown.
 
 ```         
-\textbf{\underline{SECTION A: (50 MARKS)} \\Answer all the question in this section}\\
-
-```{=tex}
-\begin{enumerate}
-\item Evaluate without using a calculator or Mathematical tables leaving your answer in the simplest form. \hspace{11.7cm} (3mks)
-$$ \frac{\frac{3}{9}\,of\,\left(\frac{2}{5}-\frac{1}{10}\right)}{\left(4+\frac{2}{3}\right)\div\left(1+\frac{4}{3}\right)}$$
-\item Three similar 21 inch television sets and five similar 17 inch television cost Ksh. 145,000.  
-The difference between the cost of two 21 inch television sets and three 17 inch television Sets is Ksh. 8,000.  Calculate the price of a 21- inch television set and that of 17-inch 
-Television set.         \hspace*{14.2cm}        
-(3mks)
-\item A Kenya bank buys and sells foreign currencies as shown.\\
-            \hspace{4cm}    Buying (Ksh)    \hspace{2cm}    Selling (Ksh)\\
-    1 Euro      \hspace{3cm}    115.15      \hspace{3cm}    115.26\\
-    100 Japanese Yen \hspace{1.2cm} 90.37   \hspace{3.2cm}      90.45\\
-   A Japanese traveling from France to Kenya had 4500 Euros.    He converted all the 4500 
-Euros to Kenya shilling at the bank.  While in Kenya, he spent a total of Ksh.225,600 
-and then converted the remaining Kenya shilling to Japanese Yens at the bank.  Calculate the amount in Japanese Yen that he received.       \hspace{9cm}            (3mks)
-\item Use tables of square and square roots to evaluate.\hspace{6cm} (4mks)
-$$(0.3264)^2+\sqrt[]{364.5}$$
-\item A business woman usually makes a profit of 32\% by selling a pair of shoes at sh 1650. If she reduces the price of the shoes by sh 250, calculate the percentage profit she will now make.    \hspace*{14.1cm}        (3mks)
-\item Kinyua bought soya and millet at Ksh.75 per kg and Ksh.45 per kg respectively.  He then mixed them and sold the mixture at Ksh.65 per kg making a profit of 30\%.  Determine the ratio of soya to millet in mixture.          \hspace{10.5cm}             (3mks)
-\item The curved surface area of a cylindrical container is $2540cm^2$.  If the radius of the container is 28cm, calculate to one decimal place the capacity of the container in litres $(Take \pi=\frac{22}{7}  )$.    \hspace*{14.1cm}(4mks)
-\item The radius of a cylindrical tin is decreased by 20\% while its height is increased by 12\%. In 4 significant figures find the percentage change in the volume of the milk in the tin and indicate whether it is an increase or a decrease. \hspace{7.3cm} (3mks)
-\item Wang'ombe, a farmer, uses $\frac{1}{2}$ of his land to plant cassava, $\frac{1}{5}$ for planting sweet potatoes, $\frac{1}{3}$ of the remainder for grazing and the rest for maize plantation. If he uses 10 hectares for grazing, determine how much land he uses for maize plantation.                  \hspace{5cm}            (4mks)
-\item Pauline bought 7 kg of rice and 3 KDF cakes at a total cost of Ksh. 450.  Wathitha bought 5 kg of rice and 8 KDF cakes at the same prices and spent Ksh. 70 less than Pauline. Calculate the cost of each item. \hspace{10.7cm}   (3mks)
-\item 
-\begin{enumerate}
-\item Using a pair of compasses and a ruler only construct a triangle ABC such that $AB = 6cm,$ 
-$BC = 8cm$ and $ABC = 135^0$.               \hspace{8.5cm}          (2mks)
-
-(b) Construct the height of triangle ABC in (a) above taking BC as the base and measure the 
-    height.                                 \hspace{11.5cm}     (2mks)
-
-\end{enumerate}
-\item One interior angle of a polygon is equal to $40^0$ and each of the other interior angles are $125^0$.   
-Find the number of sides of the polygon.        \hspace{7.5cm}  (3mks)
-\item Given that x=2, y=-1, and z=3, find the value of; \hspace{6.1cm}                  (3mks)
-$$ \frac{5x^2-4y^2z+6y}{4x^2z+5y^3-z^3}$$
-\item Three boats X, Y, and Z are situated in such a way that boat Y is 450 m on a  compass bearing of $S55^0E$ from boat X. Boat Z is 600 m on a bearing of $035^0 $from boat Y. 
-\begin{enumerate}
-\item Draw a sketch showing the positions of X, Y, and Z.   \hspace{4.8cm}  (1mk)
-\item Calculate the distance of boat Z from boat X.     \hspace{5.8cm}  (2mks)
-\end{enumerate}
-\item Pipe P can fill a tank in 6 minutes while pipe Q can fill the same tank in 10 minutes. On the other hand, a drainage pipe R, can empty the same full tank in 5 minutes. If Pipes P and Q are opened and left running for 3 minutes and then the drainage pipe R is then opened and all three left running, determine how many more minutes it takes to fill the drum. \hspace{1.4cm}(4mks) 
-\textbf{\underline{SECTION B (50 MARKS)}}\\
-\textbf{\textit{Attempt all the questions}}
-\item Mucagara secondary school hired a number of buses and matatus to ferry the students for an academic trip to Mombasa. The number of buses hired were two-third as many as matatus and no vehicle made a double trip. Each Matatu can carry a maximum of 18 students and a bus can carry three times as many students. The hire charges were Ksh. 8,400 per bus and Ksh. 4,800 per matatu. A total of Ksh. 62,400 was spent on transport for the trip.
-\begin{enumerate}
-\item Calculate the number:
-\begin{enumerate}
-\item Of buses hired            \hspace{10cm}           (4mks)
-\item Of matatus hired          \hspace{9.7cm}      (1mk)
-\end{enumerate}
-\item Calculate the number of students who took the trip if each vehicle was filled to capacity.\hspace*{11.75cm} (3mks)
-\item Each student contributed Ksh 150 towards the cost of the trip and the school paid the remaining amount. Calculate the amount the school paid. \hspace{3.7cm}(2mks)
-\end{enumerate}
-\item Three business dealers Kavula, Nzuki, and Ngina decided to buy a bus. They agreed to pay for the bus in the ratio 6:7:5. Using the marked price of the bus, Kavula was supposed to contribute Ksh. 120,600 more than Ngina. However, the sales agent allowed them a 10\% discount after paying it on cash. 
-\begin{enumerate}
-\item Determine:
-\begin{enumerate}
-\item The marked price of the bus.          \hspace{7.5cm}  (3mks)
-\item The price at which they bought the bus.   \hspace{5.65cm} (2mks)
-\item How much more Kavula and Ngina paid than Nzuki?   \hspace{3.5cm}  (2mks)
-\end{enumerate}
-\item The dealers agreed that they would share monthly profits from the bus in the ratio of their contribution after setting aside 10\% of the profits. If in one month the bus realized Ksh. 120,900 as the profit, how much did Ngina got?         \hspace{4.15cm}       (3mks)
-\end{enumerate}
-\item A train left Nairobi on Monday evening and travelled to Mombasa according to the travel time table below. The train arrived in Lamu on Wednesday morning of the same week.
-\begin{tabular}{|l|c|c|c|r|}
-\hline
-Nairobi&Departure&1830h\\
-\hline
-Mtito Andei&Arrival&0120h\\
-\,&Departure&0225h\\
-\hline
-Voi&Arrival&0845h\\
-\,&Departure&1130h\\
-\hline
-Mombasa&Arrival&1710h\\
-\,&Departure&1805h\\
-\hline
-Lamu&Arrival&0620h\\
-\hline
-\end{tabular}
-\begin{enumerate}
-\item Calculate the time the train took to travel between:  \hspace{4.1cm}      (4mks)
-\begin{enumerate}
-\item Nairobi and Mtito Andei
-\item Mtito Andei and Voi
-\item Voi and Mombasa
-\item Mombasa and Lamu
-\end{enumerate}
-\item Determine the total time for the whole journey.\hspace{5cm}   (4mks)
-
-\item Given that the railway road distance between Nairobi and Lamu is 1505 Km, calculate the average speed for the whole journey.  \hspace{5.9cm}  (2mks)
-\end{enumerate}
-\item The following measurements were recorded in a field book using XY as the base line.  XY = 400m.\\
-\begin{tabular} {|l|c|c|c|c|r|}
-\hline
-\,&Y&\\
-\hline
-C\,\,40\,&360&\,\,\,\\
-\,\,&320&120\,\,D\\
-\,\,\,&240&160\,\,E\\
-\,\,\,&200&160\,\,F\\
-B\,\,80\,&160&\,\,\,\\
-A\,\,100\,&60&\,\,\,\\
-\hline
-\,&X&\\
-\hline
-\end{tabular}
-\begin{enumerate}
-\item Using a scale of 1: 4000, draw an accurate map of the farm.       \hspace{2.85cm} (4mks)
-\item Determine the actual area of the farm in hectares.            \hspace{4.55cm} (4mks)
-\item If the farm is on sale at Ksh. 100,000 per hectare, find how much the farm costs. \hspace{0cm}(2mks)
-\end{enumerate}
-\item Karani bought some eggs at Ksh 96 per dozen and sold three-quarter of them at Ksh 280 per tray and the remainder at Ksh 270 per tray. In so doing she made a profit of Ksh 675. Given that one tray holds 30 eggs, calculate:
-\begin{enumerate}
-\item The number of eggs she bought.        \hspace{7.5cm}      (4mks)
-\item The percentage profit she made giving your answer to three significant figures. \hspace{0cm}(3mks)
-\item The percentage profit she would have made if she sold all the eggs at sh 280 per tray.                \hspace*{13cm}          (3mks)
-
-\end{enumerate}
-\end{enumerate}
-\subsection*{Model Sample Paper 5}
+                               Buying (Ksh)                   Selling (Ksh)
+    1 Euro                      115.15                          115.26
+    100 Japanese Yen             90.37                           90.45
+    
 ```
 
-\textbf{\underline{SECTION A: (50 MARKS)} \\Answer all the question in this section}
+A Japanese traveling from France to Kenya had 4500 Euros. He converted all the 4500 Euros to Kenya shilling at the bank. While in Kenya, he spent a total of Ksh.225,600 and then converted the remaining Kenya shilling to Japanese Yens at the bank. Calculate the amount in Japanese Yen that he received. $\hspace{0cm} (3mks)$
 
-```{=tex}
-\begin{enumerate}
-\item Evaluate.     \hspace{12.1cm} (3mks)
+4.  Use tables of square and square roots to evaluate.$\hspace{0cm} (4mks)$ $$(0.3264)^2+\sqrt[]{364.5}$$
+
+5.  A business woman usually makes a profit of 32% by selling a pair of shoes at sh 1650. If she reduces the price of the shoes by sh 250, calculate the percentage profit she will now make. $\hspace{0.1cm} (3mks)$
+
+6.  Kinyua bought soya and millet at Ksh.75 per kg and Ksh.45 per kg respectively. He then mixed them and sold the mixture at Ksh.65 per kg making a profit of 30%. Determine the ratio of soya to millet in mixture. $\hspace{0.5cm} (3mks)$
+
+7.  The curved surface area of a cylindrical container is $2540cm^2$. If the radius of the container is 28cm, calculate to one decimal place the capacity of the container in litres $(Take \pi=\frac{22}{7} )$. $\hspace{0.1cm}(4mks)$
+
+8.  The radius of a cylindrical tin is decreased by 20% while its height is increased by 12%. In 4 significant figures find the percentage change in the volume of the milk in the tin and indicate whether it is an increase or a decrease. $\hspace{0.3cm} (3mks)$
+
+9.  Wang'ombe, a farmer, uses $\frac{1}{2}$ of his land to plant cassava, $\frac{1}{5}$ for planting sweet potatoes, $\frac{1}{3}$ of the remainder for grazing and the rest for maize plantation. If he uses 10 hectares for grazing, determine how much land he uses for maize plantation. $\hspace{0cm} (4mks)$
+
+10. Pauline bought 7 kg of rice and 3 KDF cakes at a total cost of Ksh. 450. Wathitha bought 5 kg of rice and 8 KDF cakes at the same prices and spent Ksh. 70 less than Pauline. Calculate the cost of each item. $\hspace{0.7cm} (3mks)$
+
+11. \(a\) Using a pair of compasses and a ruler only construct a triangle ABC such that $AB = 6cm,$ $BC = 8cm$ and $ABC = 135^0$. $\hspace{0.5cm} (2mks)$
+
+    \(b\) Construct the height of triangle ABC in (a) above taking BC as the base and measure the height. $\hspace{0.5cm} (2mks)$
+
+12. One interior angle of a polygon is equal to $40^0$ and each of the other interior angles are $125^0$.Find the number of sides of the polygon. $\hspace{0.5cm} (3mks)$
+
+13. Given that x=2, y=-1, and z=3, find the value of; $\hspace{0.1cm} (3mks)$
+
+$$ \frac{5x^2-4y^2z+6y}{4x^2z+5y^3-z^3}$$
+
+14. Three boats X, Y, and Z are situated in such a way that boat Y is 450 m on a compass bearing of $S55^0E$ from boat X. Boat Z is 600 m on a bearing of $035^0$ from boat Y.
+
+    a\) Draw a sketch showing the positions of X, Y, and Z. $\hspace{0.8cm} (1mk)$
+
+    b\) Calculate the distance of boat Z from boat X. $\hspace{0.8cm} (2mks)$
+
+15. Pipe P can fill a tank in 6 minutes while pipe Q can fill the same tank in 10 minutes. On the other hand, a drainage pipe R, can empty the same full tank in 5 minutes. If Pipes P and Q are opened and left running for 3 minutes and then the drainage pipe R is then opened and all three left running, determine how many more minutes it takes to fill the drum. $\hspace{0.4cm}(4mks)$
+
+[**SECTION B (50 MARKS)**]{.underline}
+
+***Attempt all the questions***
+
+16. Mucagara secondary school hired a number of buses and matatus to ferry the students for an academic trip to Mombasa. The number of buses hired were two-third as many as matatus and no vehicle made a double trip. Each Matatu can carry a maximum of 18 students and a bus can carry three times as many students. The hire charges were Ksh. 8,400 per bus and Ksh. 4,800 per matatu. A total of Ksh. 62,400 was spent on transport for the trip.
+
+    a\) Calculate the number:
+
+    i\) Of buses hired $\hspace{0cm} (4mks)$
+
+    ii\) Of matatus hired $\hspace{0.7cm} (1mk)$
+
+    b\) Calculate the number of students who took the trip if each vehicle was filled to capacity.$\hspace{0.7cm} (3mks)$
+
+    c\) Each student contributed Ksh 150 towards the cost of the trip and the school paid the remaining amount. Calculate the amount the school paid. $\hspace{0.7cm}(2mks)$
+
+17. Three business dealers Kavula, Nzuki, and Ngina decided to buy a bus. They agreed to pay for the bus in the ratio 6:7:5. Using the marked price of the bus, Kavula was supposed to contribute Ksh. 120,600 more than Ngina. However, the sales agent allowed them a 10% discount after paying it on cash.
+
+    a\) Determine:
+
+    i\) The marked price of the bus. $\hspace{0.5cm} (3mks)$
+
+    ii\) The price at which they bought the bus. $\hspace{0.5cm} (2mks)$
+
+    iii\) How much more Kavula and Ngina paid than Nzuki? $\hspace{0.5cm} (2mks)$
+
+    c\) The dealers agreed that they would share monthly profits from the bus in the ratio of their contribution after setting aside $10\%$ of the profits. If in one month the bus realized Ksh. 120,900 as the profit, how much did Ngina got? $\hspace{0.15cm} (3mks)$
+
+18. A train left Nairobi on Monday evening and travelled to Mombasa according to the travel time table below. The train arrived in Lamu on Wednesday morning of the same week.
+
+![](figures/Md4_Q18.png)
+
+a\) Calculate the time the train took to travel between: $\hspace{0.1cm} (4mks)$
+
+i\) Nairobi and Mtito Andei
+
+ii\) Mtito Andei and Voi
+
+iii\) Voi and Mombasa
+
+iv\) Mombasa and Lamu
+
+b\) Determine the total time for the whole journey. $\hspace{0cm} (4mks)$
+
+c\) Given that the railway road distance between Nairobi and Lamu is 1505 Km, calculate the average speed for the whole journey. $\hspace{0.9cm} (2mks)$
+
+19. The following measurements were recorded in a field book using XY as the base line. XY = 400m.
+
+![](figures/Md4_Q19.png)
+
+a\) Using a scale of 1: 4000, draw an accurate map of the farm. $\hspace{0.5cm} (4mks)$
+
+b\) Determine the actual area of the farm in hectares. $\hspace{0.5cm} (4mks)$
+
+c\) If the farm is on sale at Ksh. 100,000 per hectare, find how much the farm costs. $\hspace{0cm}(2mks)$
+
+20. Karani bought some eggs at Ksh 96 per dozen and sold three-quarter of them at Ksh 280 per tray and the remainder at Ksh 270 per tray. In so doing she made a profit of Ksh 675. Given that one tray holds 30 eggs, calculate:
+
+    a\) The number of eggs she bought. $\hspace{0.5cm} (4mks)$
+
+    b\) The percentage profit she made giving your answer to three significant figures. $\hspace{0cm}(3mks)$
+
+    c\) The percentage profit she would have made if she sold all the eggs at sh 280 per tray. $\hspace{0cm} (3mks)$
+
+## Model Sample Paper 5
+
+[**SECTION A: (50 MARKS)**]{.underline}
+
+**Answer all the question in this section**
+
+1. Evaluate.     $\hspace{0.1cm} (3mks)$
+
 $$\frac{\left(32-(-16)\right)}{-8}-\frac{\left(18-(-)(-6)\right)}{3}$$
-\item The cost of 5 skirts and 3 blouses is Ksh. 1750. Afro's wife bought three skirts and one of the blouses for Ksh. 850. Find the cost of each item.         \hspace{5.75cm}     (3mks)
-\item Last year, Gaceru was four times as old as his son, Kairu; in four years' time the sum of their ages will be 55. Determine their present ages.    \hspace{6.2cm}          (3mks)
-\item Given that x=4, y= -3, and z= -1 evaluate.    \hspace{6.2cm}              (3mks)
-$$\frac{3(x+z)^2-2(x-y)(y-z)}{3(x+z)-(y-z)}$$
-\item A plastic test tube is made up of hemispherical bottom and a cylindrical stem, both of internal radius 0.7cm. 
-\begin{enumerate}
-\item Calculate the capacity of the test tube, given that its height is 12cm. \hspace{1.6cm}(3mks)
-\item Given that the test tube is filled with a liquid of density $0.75 g/cm^3$, calculate the mass in g of the liquid in the test tube \hspace{8cm}(1mk)
 
-\end{enumerate}
-\item A saleslady earns commission at the rate of 3.5 cents per shilling for all sales up to Ksh 350,000 and at the rate of 4.5 cents per shilling on any sales above that. During a certain month she sold 26 pieces of second hand computers at Ksh 14,500 per computer, 6 laptop batteries at Ksh. 4,500 each and 60 pieces of laptop chargers at Ksh 1,200 each. Calculate the total commission she earned in that month. \hspace{6.8cm}(3mks)
-\item Water and milk are mixed such that the ratio of the volume of water to that of milk are 4:1. Taking the density of water as $1g/cm^3$ and that of milk as $1.25g/cm^3$, find the mass in grams of 2.4 litres of the mixture.      \hspace{9.5cm}(3mks)
-\item An arc of a circle of length 9.24cm subtends an angle of $108^0$ at the centre of the circle.  Calculate the area of the sector bounded by this arc.  Take $\pi=\frac{22}{7}$.                                    \hspace{2.75cm}             (3mks) 
-\item When maize seeds are dried up after harvest the mass decreases in the ratio 7:15. Find the mass of dried maize which is obtained after drying 1725 kg of green maize. \hspace{1.5cm}(3mks)
-\item Bag X contains 672 sweets, bag Y 504 sweets and bag Z 360 sweets all of different types. The sweets are to be shared among a group of students in such a way each gets the same number of each type.  Find the largest possible number of students.\hspace{4.2cm} (3mks)
-\item On a map with a scale of 1:50000, a banana plantation covers an area of $100\,cm^2$.  Find the area of the plantation in hectares.        \hspace{8.1cm}          (3mks)
-\item The radius of a cylindrical tin is increased by 30\% while its height is decreased by 25\%. If the capacity of the old tin is $400 cm^3$, find the capacity of the new tin. \hspace{3cm}(3mks)
-\item Three towns P, Q, and R are such that tow Q is 90 km on a bearing of $147^0$ from town P and town R is 120 km on a bearing of $057^0$from town Q.
-\begin{enumerate}
-\item Draw a sketch showing the positions of the three towns. \hspace{3.7cm}    (1mk)
-\item Calculate the distance between town P and R.      \hspace{5.3cm}  (2mks)
-\end{enumerate}
-\item Find the exact value of:  \hspace{10cm}(4mks)\\
+2.The cost of 5 skirts and 3 blouses is Ksh. 1750. Afro's wife bought three skirts and one of the blouses for Ksh. 850. Find the cost of each item.         $\hspace{0.5cm}     (3mks)$
+
+3. Last year, Gaceru was four times as old as his son, Kairu; in four years' time the sum of their ages will be 55. Determine their present ages.    $\hspace{0.2cm}          (3mks)$
+
+4. Given that x=4, y= -3, and z= -1 evaluate.    $\hspace{0.2cm}              (3mks)$
+
+$$\frac{3(x+z)^2-2(x-y)(y-z)}{3(x+z)-(y-z)}$$
+
+5. A plastic test tube is made up of hemispherical bottom and a cylindrical stem, both of internal radius 0.7cm. 
+
+a\) Calculate the capacity of the test tube, given that its height is 12cm. $\hspace{0.6cm}(3mks)$
+
+b\) Given that the test tube is filled with a liquid of density $0.75 g/cm^3$, calculate the mass in g of the liquid in the test tube $\hspace{0cm}(1mk)$
+
+6. A saleslady earns commission at the rate of 3.5 cents per shilling for all sales up to Ksh 350,000 and at the rate of 4.5 cents per shilling on any sales above that. During a certain month she sold 26 pieces of second hand computers at Ksh 14,500 per computer, 6 laptop batteries at Ksh. 4,500 each and 60 pieces of laptop chargers at Ksh 1,200 each. Calculate the total commission she earned in that month. $\hspace{0.8cm}(3mks)$
+
+7. Water and milk are mixed such that the ratio of the volume of water to that of milk are 4:1. Taking the density of water as $1g/cm^3$ and that of milk as $1.25g/cm^3$, find the mass in grams of 2.4 litres of the mixture.      $\hspace{0.5cm}(3mks)$
+
+8. An arc of a circle of length 9.24cm subtends an angle of $108^0$ at the centre of the circle.  Calculate the area of the sector bounded by this arc.  Take $\pi=\frac{22}{7}$.                                   $\hspace{0.75cm}             (3mks)$ 
+
+9. When maize seeds are dried up after harvest the mass decreases in the ratio 7:15. Find the mass of dried maize which is obtained after drying 1725 kg of green maize. $\hspace{0.5cm}(3mks)$
+
+10. Bag X contains 672 sweets, bag Y 504 sweets and bag Z 360 sweets all of different types. The sweets are to be shared among a group of students in such a way each gets the same number of each type.  Find the largest possible number of students.$\hspace{0.2cm} (3mks)$
+
+11. On a map with a scale of 1:50000, a banana plantation covers an area of $100\,cm^2$.  Find the area of the plantation in hectares.        $\hspace{0.1cm}          (3mks)$
+
+12. The radius of a cylindrical tin is increased by $30\%$ while its height is decreased by $25\%$. If the capacity of the old tin is $400 cm^3$, find the capacity of the new tin. $\hspace{0cm}(3mks)$
+
+13. Three towns P, Q, and R are such that tow Q is 90 km on a bearing of $147^0$ from town P and town R is 120 km on a bearing of $057^0$ from town Q.
+
+a\) Draw a sketch showing the positions of the three towns. $\hspace{0.7cm}    (1mk)$
+
+b\) Calculate the distance between town P and R.      $\hspace{0.3cm}  (2mks)$
+
+14. Find the exact value of:  $\hspace{0cm}(4mks)$
+
 $1.\dot{3}\dot{2}-0.5\dot{3}$
-\item Simplify the following expression by reducing it to a single fraction \hspace{2.8cm}(3mks)
+
+15. Simplify the following expression by reducing it to a single fraction $\hspace{0.8cm}(3mks)$
+
 $$\frac{4a-5}{5}-\frac{2a-3}{3}=\frac{1-a}{6}$$
-\item Starting from midnight the minute hand of a clock moved so that the clock is showing quarter to one.
-\begin{enumerate}
-\item Find the angle through which the minute hand has moved. \hspace{3.1cm}    (1mk)
-\item Determine the area of the sector described by the minute hand given that its length is 10.5 cm to 4 s.f.  \hspace{10cm}                       (2mks)
-\end{enumerate}
-\textbf{\underline{SECTION B (50 MARKS)}}\\
-\textbf{\textit{Attempt all the questions}}
+16. Starting from midnight the minute hand of a clock moved so that the clock is showing quarter to one.
+
+a\) Find the angle through which the minute hand has moved. $\hspace{0.1cm}    (1mk)$
+
+b\) Determine the area of the sector described by the minute hand given that its length is 10.5 cm to 4 s.f.  $\hspace{0cm}                       (2mks)$
+
+
+[**SECTION B (50 MARKS)**]{.underline}
+
+***Attempt all the questions***
+
 \item Using the linear equations below:
 \begin{enumerate}
 \item Complete the tables below and then write down the point in coordinate form (x,y) as shown.    \hspace{4cm} (4mks)
