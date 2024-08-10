@@ -340,7 +340,7 @@
     "href": "Answers to Problems to Solve.html",
     "title": "SECTION THREE",
     "section": "",
-    "text": "Answers to Problems to Solve"
+    "text": "Answers to Problems to Solve\n\\subsection*{Chapter 4: G.C.D and L.C.M}"
   },
   {
     "objectID": "Answers to Problems to Solve.html#chapter-1-natural-numbers",
@@ -586,5 +586,12 @@
     "title": "SECTION TWO",
     "section": "model Sample Paper 6",
     "text": "model Sample Paper 6"
+  },
+  {
+    "objectID": "Answers to Problems to Solve.html#natural-numbers",
+    "href": "Answers to Problems to Solve.html#natural-numbers",
+    "title": "SECTION THREE",
+    "section": "Natural Numbers",
+    "text": "Natural Numbers\n\n\n(a) 210\n\n(b) 200\n\n(a) \\(19,171,311\\)\n(b) \\(100,000\\)\n7\n82\n\n\n\n\n480\n420\n331\n69\n45\n46"
   }
 ]

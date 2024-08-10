@@ -1,979 +1,1140 @@
-#  SECTION THREE {.unnumbered}
-
+# SECTION THREE {.unnumbered}
 
 # Answers to Problems to Solve
 
-## chapter 1: Natural Numbers
+# chapter 1
 
-\chapter{SECTION THREE}
-\section{Answers to Problems to Solve}
-\subsection*{Chapter 1: Natural numbers}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 
-\begin{enumerate}
-\item 210
-\item 200
-\end{enumerate}
-\item 
-\begin{enumerate}
-\item 19,171,311
-\item 100,000
-\end{enumerate}
-\item 7
-\item 82
-\item 480
-\item 420
-\item 331
-\item 69
-\item 45
-\item 46
-\end{enumerate}
-\end{multicols}
+::: columns
+::: {.callout-caution collapse="true"}
+## Natural Numbers
 
-\subsubsection*{1.1 Rounding off} 
-\begin{multicols}{3}
-\begin{enumerate}
-\item 
-\begin{enumerate}
-\item 37,600,000
-\item 320,000
-\item 46.19
-\end{enumerate}
-\item 400,000
-\item 149,680 (b)
-\item 6.65
-\item Grace (with 0.2)
-\end{enumerate}
-\end{multicols}
+::: {.column width="50%"}
+1.  \(a\) 210
 
-\subsubsection*{1.2 Operations}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 
-\begin{enumerate}
-\item Ksh. 1,374
-\item Ksh. 50
-\end{enumerate}
-\item
-\begin{enumerate}
-\item 904 cabbages
-\item Ksh. 13,560
-\end{enumerate}
-\item 
-\begin{enumerate}
-\item 46
-\item 374 rem 1036
-\end{enumerate}
-\item 
-\begin{enumerate}
-\item 1,226 cartons 
-\item 2,452 Kg
-\item 11,034 Kg
-\end{enumerate}
-\item 
-\begin{enumerate}
-\item 2,250 Kg
-\item 180 Kg
-\end{enumerate}
-\item 
-\textbf{Solution}\\
-No. of Passengers$=23$\\
-At 1st stop: \\
-$\Rightarrow$ 12 alighted\\
-				$\Rightarrow$ 9 boarded\\
-  The amount of money collected in the first stop $\Rightarrow 12 \times 50=Ksh. 600$\\At 2nd stop: \\
-  6 of those in the 1st stop alighted ($9-6=3 remained$)\\ Money collected: $\Rightarrow 6\times (70-50)=Ksh. 120$\\ In the final destination:\\ $\Rightarrow$11 boarded from the beginning of the journey\\
-  $\Rightarrow$ 3 boarded from the first stop\\
-  $\Rightarrow$ 12 boarded from the second stop\\
-  \begin{enumerate}
-  \item No.Passengers alighted at final destination: \\$\Rightarrow (11+3+12)=26$\\
-  \item Total passengers:\\
-  $\Rightarrow (23+9+12)=44$
-  \item Money collected in the trip:\\
-  $1st\, stop=Ksh. 600$\\
-  $2nd\, stop=Ksh. 120$\\
-  Final destination:\\
-  $\Rightarrow 11\times 85=Ksh. 935$\\
-  $\Rightarrow 3\times (85-50)=Ksh. 105$\\
-  $\Rightarrow 12\times(85-70)=Ksh. 180$\\
-  $\therefore$ Money collected in the whole trip:\\ $\Rightarrow$ $(600+120+935+105+180)=Ksh. 1,940$
-  
-  \end{enumerate}
-  \item 
-  \begin{enumerate}
-  \item 
-  \begin{enumerate}
-  \item Tens
-  \item Tenth
-  \item Ones
-  \item Hundredth
-  \end{enumerate}
-  \item Thousands
-  \end{enumerate}
-\end{enumerate}
-\end{multicols}
-\subsection*{Chapter 2: Factors}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 
-\begin{enumerate}
-\item $11\times 13^2$
-\item $3\times 5\times7$
-\item $2^2\times3^2\times 5^2$
-\item $2\times 5^2\times7$
-\item $7^2\times11^2$
-\item $2\times7^2\times11$
-\item $11^2\times17$
-\item $2\times3^2\times7\times11$
-\item $11^2\times13$
-\item $3\times331$
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
-\subsection*{Chapter 3: Divisibility Test}
-\begin{multicols}{3}
-\begin{enumerate}
-\item \begin{enumerate}
-\item Yes
-\item No
-\item No
-\item Yes
-\item Yes
-\end{enumerate}
-\item 5172354 (iii)
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 2
-\item 1
-\item 7
-\item 3
-\end{enumerate}
-\item \begin{enumerate}
-\item 4
-\item 5
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}[(i)]
-\item Yes
-\item Yes
-\item No
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
+    \(b\) 200
 
-\subsection*{Chapter 4: G.C.D and L.C.M}
+2.  \(a\) $19,171,311$
 
-\begin{multicols}{3}
-\begin{enumerate}
-\item 90, 180, and 450
-\item 5 and 12
-\item 24
-\item 5:45 pm
-\item \begin{enumerate}
-\item 90
-\item 24
-\end{enumerate}
-\item 21
-\item 12:30 pm
-\item 8:25 am
-\item 275
-\item 11
-\item $17.64 m^2$
-\item 46 pieces
-\item 7
-\item 1764
-\item 1700 ml
-\item $0.16 m^2$
-\item n=1540
-\item \begin{enumerate}
-\item $48=2^4\times3$
-\item $60=2^2\times 3\times5$
+    \(b\) $100,000$
 
-\end{enumerate}
-\item $ 144 m^2$
-\end{enumerate}
-\end{multicols}
-\subsection*{Chapter 5: Integers}
-\begin{multicols}{3}
-\begin{enumerate}
-\item -2
-\item Ksh. 8,280
-\item -2
-\item $\frac{19}{39}$
-\item $4\frac{4}{19}$
-\item \begin{enumerate}
-\item -3
-\item -5
-\item 0
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
+3.  7
 
-\subsection*{Chapter 6: Fractions}
-\begin{multicols}{3}
-\begin{enumerate}
-\item Ksh. 200,000
-\item Ksh. 240,000
-\item Ksh. 22,500
-\item ksh. 1,200
-\item $\frac{4}{51}$
-\item $3\frac{4}{5}$
-\item 4
-\item $400\%$
-\item 2
-\item $\frac{3}{5}$
-\item $\frac{2}{135}$
-\item \begin{enumerate}
-\item 4
-\item 2
-\end{enumerate}
-\item Ksh. 18,750
-\item 420 students
-\item \begin{enumerate}
-\item Ksh. 48,000
-\item Ksh. 12,000
-\item Jane=Ksh. 4,000\\
-Jepchonge=Ksh. 2,666.70\\
-Chepkoech=Ksh. 1,333.30\\
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
+4.  82
+:::
+
+::: {.column width="45%"}
+5.  480
+
+6.  420
+
+7.  331
+
+8.  69
+
+9.  45
+
+10. 46
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Rounding off
+
+::: {.column width="50%"}
+1.  \(a\) 37,600,000
+
+    \(b\) 320,000
+
+    \(c\) 46.19
+
+2.  400,000
+:::
+
+::: {.column width="45%"}
+3.  \(b\) 149,680
+
+4.  6.65
+
+5.  Grace (with 0.2)
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Operations
+
+::: {.column width="50%"}
+1.  \(a\) Ksh. 1,374
+
+    \(b\) Ksh. 50
+
+2.  \(a\) 904 cabbages
+
+    \(b\) Ksh. 13,560
+
+3.  \(a\) 46
+
+    \(b\) 374 rem 1036
+
+4.  \(a\) 1,226 cartons
+
+    \(b\) 2,452 Kg
+
+    \(c\) 11,034 Kg
+
+5.  \(a\) 2,250 Kg
+
+    \(b\) 180 Kg
+
+6.  **Solution**
+
+    $No.\, of \,Passengers\, =23$
+
+    At 1st stop: $\Rightarrow$ 12 alighted
+
+    $\Rightarrow$ 9 boarded
+
+    The amount of money collected in the first stop
+
+    $\Rightarrow 12 \times 50=Ksh. 600$
+
+    At 2nd stop:
+
+    6 of those in the 1st stop alighted ($9-6=3 remained$)
+
+    Money collected: $\Rightarrow 6\times (70-50)=Ksh. 120$
+
+    In the final destination:
+
+    $\Rightarrow$ 11 boarded from the beginning of the journey
+
+    $\Rightarrow$ 3 boarded from the first stop
+
+    $\Rightarrow$ 12 boarded from the second stop
+:::
+
+::: {.column width="45%"}
+\(a\) No.Passengers alighted at final destination:
+
+$\Rightarrow (11+3+12)=26$
+
+\(b\) Total passengers: $\Rightarrow (23+9+12)=44$
+
+\(c\) Money collected in the trip: $1st\, stop=Ksh. 600$
+
+$2nd\, stop=Ksh. 120$
+
+Final destination: $\Rightarrow 11\times 85=Ksh. 935$
+
+$\Rightarrow 3\times (85-50)=Ksh. 105$
+
+$\Rightarrow 12\times(85-70)=Ksh. 180$
+
+$\therefore$ Money collected in the whole trip:
+
+$\Rightarrow$ $(600+120+935+105+180)=Ksh. 1,940$
+
+7.  \(a\) (i) Tens
+
+    (ii)Tenth
+
+    \(iii\) Ones
+
+    \(iv\) Hundredth
+
+    \(b\) Thousands
+:::
+:::
+:::
+
+# chapter 2
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Factors
+
+::: {.column width="50%"}
+1.  \(a\) $11\times 13^2$
+
+    \(b\) $3\times 5\times7$
+
+    \(c\) $2^2\times3^2\times 5^2$
+
+    \(d\) $2\times 5^2\times7$
+
+    \(e\) $7^2\times11^2$
+:::
+
+::: {.column width="45%"}
+\(f\) $2\times7^2\times11$
+
+\(g\) $11^2\times17$
+
+\(h\) $2\times3^2\times7\times11$
+
+\(i\) $11^2\times13$
+
+\(j\) $3\times331$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Divisibility Test
+
+::: {.column width="50%"}
+1.  a\) Yes
+
+b\) No
+
+c\) No
+
+d\) Yes
+
+e\) Yes
+
+2.  5172354 (iii)
+
+3.  a\)
+
+i\) 2
+
+ii\) 1
+
+iii\) 7
+
+iv\) 3
+:::
+
+::: {.column width="45%"}
+b\) i) 4
+
+ii) 5
+
+<!-- -->
+
+4.  a\) Yes
+
+b\) Yes
+
+c\) No
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 4: G.C.D and L.C.M
+
+::: {.column width="50%"}
+1.  90, 180, and 450
+
+2.  5 and 12
+
+3.  24
+
+4.  5:45 pm
+
+5.  a\) 90
+
+    b\) 24
+
+6.  21
+
+7.  12:30 pm
+
+8.  8:25 am
+
+9.  275
+
+10. 11
+:::
+
+::: {.column width="45%"}
+11. $17.64 m^2$
+
+12. 46 pieces
+
+13. 7
+
+14. 1764
+
+15. 1700 ml
+
+16. $0.16 m^2$
+
+17. n=1540
+
+18. a\) $48=2^4\times3$
+
+    b\) $60=2^2\times 3\times5$
+
+19. $144 m\^2$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 5: Integers
+
+::: {.column width="50%"}
+1.  -2
+
+2.  Ksh. 8,280
+
+3.  -2
+
+4.  $\frac{19}{39}$
+:::
+
+::: {.column width="45%"}
+5.  $4\frac{4}{19}$
+
+6.  a\) -3
+
+    b\) -5
+
+    c\) 0
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 6: Fractions
+
+::: {.column width="50%"}
+1.  Ksh. 200,000
+
+2.  Ksh. 240,000
+
+3.  Ksh. 22,500
+
+4.  ksh. 1,200
+
+5.  $\frac{4}{51}$
+
+6.  $3\frac{4}{5}$
+
+7.  $4$
+
+8.  $400\%$
+
+9.  $2$
+:::
+
+::: {.column width="45%"}
+10. $\frac{3}{5}$
+
+11. $\frac{2}{135}$
+
+12. a\) 4
+
+    b\) 2
+
+13. Ksh. 18,750
+
+14. 420 students
+
+15. a\) Ksh. 48,000
+
+    b\) Ksh. 12,000
+
+    c\) Jane=Ksh. 4,000
+
+    Jepchonge=Ksh. 2,666.70
+
+    Chepkoech=Ksh. 1,333.30
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 7: Decimals, Squares, and Square Roots
+
+::: {.column width="50%"}
+1.  $0.2334$
+
+2.  $\frac{5}{8}$
+
+3.  $68.24$
+
+4.  $\frac{5}{9}$
+
+5.  $2\frac{1}{11}$
+
+6.  $5\frac{9}{11}$
+
+7.  $\frac{3}{50}$
+:::
+
+::: {.column width="45%"}
+8.  $\frac{41}{110}$
+
+9.  $1827.3$
+
+10. $0.6717$
+
+11. $\frac{1567}{2475}$
+
+12. $0.04666$
+
+13. $0.001903$
+
+14. $r=0.977 \,cm$
+
+15. $T=0.3079\pi sec$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 8: Algebraic Expression
+
+::: {.column width="50%"}
+1.  $4$
+
+2.  $3$
+
+3.  $3.4 \,m$
+
+4.  Ksh. 400
+
+5.  $\frac{1}{80}$
+
+6.  Albina=48 years
+
+    Son=18 years
+
+7.  $4$
+
+8.  a\) $\frac{29}{4}x+48$
+
+    b\) $512$
+
+9.  Mother=64 years;
+
+    Jane=16 years
+
+10. $2(p-2q)(p+2q)$
+
+11. $\frac{2}{3}$
+
+12. 125 coins
+
+13. Osinya= 96 years
+
+    Son=32 years
+
+14. 24 years
+
+15. 50 years
+:::
+
+::: {.column width="45%"}
+16. 51 men
+
+17. 36 women
+
+18. Awiti=32 years \\Wafula=24 years\\ Najala=12 years
+
+19. 32 years
+
+20. Beans=150 bags; Peas=200 bags
+
+21. a\) 4
+
+    b\) 3
+
+22. $4.36\%$
+
+23. \(a\) i) $(x+9)$ years
+
+    ii) $(4x+18)$ years
+
+    iii) 7 years or 2 years
+
+    iv) 35 years or 30 years
+
+    v)  46 years or 26 years
+
+24. \(a\) i) $\frac{480,000}{x}$
+
+    ii) $\frac{480,000}{x-4}$
+
+    \(b\) 8 Women
+
+    \(c\) 2:3
+
+    \(d\) 0.75 ha
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 9: Rate, Ratio, Proportion, and Percentage
+
+::: {.column width="50%"}
+1.  $7:5$
+
+2.  4 days
+
+3.  $3:1$
+
+4.  Ksh. 108
+
+5.  15 hours 9 minutes
+
+6.  5 days
+
+7.  40 m
+
+8.  108 mangoes
+
+9.  24 days
+
+10. 4 more days
+
+11. 60
+
+12. 18 women
+
+13. $2:1$
+
+14. $2:3$
+
+15. a\) $8.16\%$
+
+    b\) $12.49\%$
+
+16. $11.11\%$
+
+17. $3:7$
+
+18. Ksh. 690
+
+19. 5 days
+
+20. 21 days
+
+21. $3:2$
+:::
+
+::: {.column width="45%"}
+22. 27 men
+
+23. 13 hours 20 minutes
+
+24. 36 minutes
+
+25. $324 \,cm^3$
+
+26. $39.26\%$
+
+27. a\) 16 minutes 40 seconds or $16\frac{2}{3}$ minutes
+
+    b\) 15 minutes
+
+28. $480 cm^3$
+
+29. a\) $58,520\: cm^3/s$
+
+    b\) 6.2 m
+
+    c\) 16 minutes 44 seconds
+
+30. a\) Fraction of work of potter C alone: $\frac{9}{40}$
+
+    Fraction of all potters working together: $\frac{3}{5}$
+
+    Fraction of work they did for 40 minutes: $\frac{3}{5}\times \frac{4\cancel{0}}{6\cancel{0}}=\frac{2}{5}$
+
+    Fraction of work undone: $\frac{5}{5}-\frac{2}{5}=\frac{3}{5}$
+
+    Fraction of work done by A and C in 20 min:
+
+    $\Rightarrow \left(\frac{1}{a}+\frac{9}{40}\right)\frac{2\cancel{{0}}}{6\cancel{0}}=\left(\frac{1}{3a}+\frac{3}{40}\right)$
+
+    Time taken by potter A to complete the remaining work: $\frac{53}{30}$
+
+    $\therefore \left[\frac{3}{5}-\left(\frac{1}{3a}+\frac{3}{40}\right)\right]\div \frac{1}{a}=\frac{53}{30}$
+
+    $\Rightarrow \left(\frac{21}{40}-\frac{1}{3a}\right)\times a=\frac{53}{30}$
+
+    $\Rightarrow \frac{\cancel{40}}{\cancel{21}}\times \frac{\cancel{21}}{\cancel{40}}a=\frac{\cancel{21}}{1\cancel{0}}\times \frac{4\cancel{0}}{\cancel{21}}=4$
+
+    $\therefore A=4\: hours\, working \,alone.$
+
+    b\) $\left(\frac{9}{40}+\frac{1}{4}+\frac{1}{b}\right)=\frac{3}{5}$
+
+    $\Rightarrow \frac{1}{b}=\left(\frac{3}{5}-\frac{19}{40}\right)=\frac{1}{8}$
+
+    $\therefore B=8 \:hour\,sworking \,alone.$
+
+    c\) $\frac{9}{40}+\frac{1}{4}=\frac{19}{40}$
+
+    $\therefore\, A \,and\, C \,alone \,takes:2\frac{2}{19}\:hours\,or \,2hrs \,6\, min$
+
+31. a\) Ksh. 19.50
+
+    b\) i) Ksh. 84.20
+
+    ii) $22.02\%$
+
+32. a\) $x=40 \,litres$
+
+    b\) $50\%$
+
+    c\) $1:2$
+
+33. a\) $P=84 \, litres$
+
+    $Q=112\, litres$
+
+    $R=224 \, litres$
+
+    b\) ksh. 142.30
+
+    c\) $44.1\%$
+
+34. a\) i) 2,500 cows
+
+    ii) 3,100 cows
+
+    iii) 3,720 cows
+
+    b\) i) $24\%$
+
+    ii) 48.8%
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 10: Length, Area, Volume, and Capacity
+
+::: {.column width="50%"}
+1.  $\left(\frac{180x}{p}\right)cm$
+
+2.  $\left(\frac{9p}{\pi}\right)cm$
+
+3.  56.0 m
+
+4.  22 cm
+
+5.  22.2 litres
+
+6.  10 cm
+
+7.  a\) $61, 288 cm^3$
+
+    b\) 45.97 Kg
+:::
+
+::: {.column width="45%"}
+8.  8.96 Kg
+
+9.  5040 litres
+
+10. $1,264 cm^2$
+
+11. $QR=12\, cm$
+
+$PQ=8 \,cm$
+
+$PR=18 \,cm$
+
+12. a\) i) 16.23 cm
+
+    ii) $539.46 cm^2$
+
+    b\) 5.99 cm
+
+    c\) $450.86 cm^2$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 11: Mass, Weight, and Density
+
+::: {.column width="50%"}
+1.  $36.24\, cm$
+
+2.  $5 \,g/cm^3$
+
+3.  $1.5 \,m$
+
+4.  $945 \,Kg$
+:::
+
+::: {.column width="45%"}
+5.  $7,529\,Kg/m^3$
+
+6.  240 m
+
+7.  a\) 29,508 $cm^3$
+
+    b\) 28.03 Kg
+
+    c\) 73.0 Kg
+:::
+:::
+:::
+
+::: {.callout-caution collapse="true"}
+## Chapter 12: Time
+
+1.  2:51 pm
+
+2.  2:05 pm
+
+3.  5:51 pm
+
+4.  5 times
+
+5.  $60\, km/h$
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 13: Linear Equations
+
+::: {.column width="50%"}
+1.  $x=3$
+
+$y=-\frac{1}{3}$
+
+2.  $x=-1$
+
+$y=2$
+
+3.  $x=0$
+
+$y=2$
+
+4.  Pen=Ksh. 15
+
+    Exercise book=Ksh. 20
+
+5.  Kiama=Ksh. 45,000
+
+6.  Plate=Ksh. 15
+
+    Spoon=Ksh. 9
+
+7.  Socks=Ksh. 220
+
+    Trouser=Ksh. 355
+:::
+
+::: {.column width="45%"}
+8.  100 mangoes
+
+9.  a\) $(9x+6)$ cows
+
+    b\) 32 cows
+
+10. Cup=Ksh. 60
+
+    Plate=Ksh. 36
+
+11. Blade=Ksh. 6
+
+    Pen=Ksh. 30
+
+12. a\) Pencil=Ksh. 3
+
+    Blade=Ksh. 9
+
+    b\) 16 Pencils
+
+13. Ksh. 1,860
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 14: Commercial Arithmetic
+
+::: {.column width="50%"}
+1.  2,093 Japanese Yens
+
+2.  2,930 US dollars
+
+3.  1,046 Us dollars
+
+4.  17,030 South African Rands
+
+5.  Ksh. 345
+
+6.  Ksh. 370,354
+
+7.  a\) $24\%$
+
+    b\) Ksh. 2,880
+
+8.  $56.25\%$
+
+9.  $38.89\%$
+
+10. Ksh. 680,000
+
+11. Ksh. 41,310
+
+12. a\) Ksh. 300
+
+    b\) Ksh. 200
+:::
+
+::: {.column width="45%"}
+13. Paying through his account in UK by Ksh. 5,131,971
+
+14. a\) Ksh. 3,148,535
+
+    b\) 112,710 South African Rands
+
+15. $6.18\%$
+
+16. Ksh. 2500
+
+17. Ksh. 840
+
+18. Ksh. 16,200
+
+19. Ksh. 17,000
+
+20. $8.5\%$
+
+21. a\) Ksh. 4,500
+
+    b\) Ksh. 100,500
+
+    c\) Ksh. 18,736
+
+    d\) Ksh. 1,642,105.30
+
+22. a\) 215 Kg
+
+    b\) i) 45.3%
+
+    ii\) 50%
+
+23. a\) Ksh. 4,455
+
+    b\) Ksh. 1,400
+
+    c\) Ksh. 7,700
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 15: Co-Ordinates and Graphs
+
+::: {.column width="50%"}
+1.  \(a\) x=2; y=2
+
+    \(b\) Q(0,2.5); P(0,-4)
+
+2.  a\) $y=\frac{8+2x}{3}$
+
+    ![](figures/Ans_C152a.png)
+
+    $y=5x-6$
+
+    ![](figures/Ans_C152b.png)
+
+    c\) The two graphs are straight lines
+
+    d\) x=2; y=4
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 16: Angles and Plane Figures
+
+::: {.column width="50%"}
+1.  5 sides
+
+2.  6 sides
+
+3.  12 sides
+
+4.  a\) 6 sides
+
+    b\) 108 cm
+:::
+
+::: {.column width="45%"}
+5.  a\) 12 sides
+
+    b\) $150^0$
+
+6.  12 sides
+
+7.  5 sides
+
+8.  n=10; Decagon
+
+9.  n=9; Octagon
+
+10. $\theta=141^0$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 17: Geometrical Constructions
+
+::: {.column width="50%"}
+1.  a\)
+
+    ![](figures/Q1.png)
+
+    b\) $Area=11.375 \pm0.325\,cm^2$
+
+2.  a\)
+
+    ![](figures/Q2.png)
+
+    $AC=7.3\pm 0.1\,cm$
+
+3.  a\)
+
+    ![](figures/Q3.png)
+
+    c\) $PS=4.5\pm 0.1\,cm$
+
+    $Area=13.5 \pm0.3\,cm^2$
+
+    e\) $RT=6.3 \pm 0.1\,cm$
+
+    $\angle TQR=38\pm1^0$
+
+4.  a\)
+
+    ![](figures/Q4.png)
+
+    b\) $AB=4.4\pm0.1\,cm$
+
+    d\) $AD=4.2 \pm0.1 \, cm$
+
+    f\) $\angle ABC=56\pm1^0$
+:::
+
+::: {.column width="45%"}
+5.  a\)
+
+    ![](figures/Q5.png)
+
+    b\) $PQ=13.6\pm0.1 \,cm$
+
+    $\angle PQR=17\pm1^0$
+
+    e\) $\angle QRT=132\pm 1^0$
+
+6.  a\)
+
+    ![](figures/Q6.png)
+
+    b\) $AB=6.3 \pm 0.1\, cm$
+
+    $AC=5.2 \pm 0.1\,cm$
+
+    d\) $Radius=4.1 \pm0.1 \,cm$
+
+7.  a\)
+
+    ![](figures/Q7.png)
+
+    b\) $AC=4.4\pm 0.1\,cm$
+
+    e\) $Radius=3.6\pm 0.1\,cm$
+:::
+:::
+:::
 
 
 
-\subsection*{Chapter 7: Decimals, Squares, and Square Roots}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 0.2334
-\item $\frac{5}{8}$
-\item 68.24
-\item $\frac{5}{9}$
-\item $2\frac{1}{11}$
-\item $5\frac{9}{11}$
-\item $\frac{3}{50}$
-\item $\frac{41}{110}$
-\item 1827.3
-\item 0.6717
-\item $\frac{1567}{2475}$
-\item 0.04666
-\item 0.001903
-\item r=0.977 cm
-\item $T=0.3079\pi sec$
-\end{enumerate}
-\end{multicols}
+::: columns
+::: {.callout-caution collapse="true"}
+## Chapter 18: Scale Drawing
 
-\subsection*{Chapter 8: Algebraic Expression}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 4
-\item 3
-\item 3.4 m
-\item Ksh. 400
-\item $\frac{1}{80}$
-\item Albina=48 years\\
-Son=18 years\\
-\item 4
-\item \begin{enumerate}
-\item $\frac{29}{4}x+48$
-\item 512
-\end{enumerate}
-\item Mother=64 years; \\Jane=16 years
-\item 2(p-2q)(p+2q)
-\item $\frac{2}{3}$
-\item 125 coins
-\item Osinya= 96 years\\ Son=32 years
-\item 24 years
-\item 5o years
-\item 51 men
-\item 36 women
-\item Awiti=32 years \\Wafula=24 years\\Najala=12 years
-\item 32 years
-\item Beans=150 bags;\\ Peas=200 bags
-\item \begin{enumerate}
-\item 4
-\item 3
-\end{enumerate}
-\item 4.36\%
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item $(x+9)$ years
-\item $(4x+18)$ years
-\item 7 years or \\2 years
-\item 35 years or \\30 years
-\item 46 years or \\26 years
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item $\frac{480,000}{x}$
-\item $\frac{480,000}{x-4}$
-\end{enumerate}
-\item 8 Women
-\item 2:3
-\item 0.75 ha
-\end{enumerate}
+::: {.column width="50%"}
 
-\end{enumerate}
-\end{multicols}
+1. 375 ha
 
-\subsection*{Chapter 9: Rate, Ratio, Proportion, and Percentage}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 7:5
-\item 4 days
-\item 3:1
-\item Ksh. 108
-\item 15 hours 9 minutes
-\item 5 days
-\item 40 m
-\item 108 mangoes
-\item 24 days
-\item 4 more days
-\item 60
-\item 18 women
-\item 2:1
-\item 2:3
-\item \begin{enumerate}
-\item $8.16\%$
-\item $12.49\%$
+2. a\) ![](figures/2Q.png)
 
-\end{enumerate}
-\item $11.11\%$
-\item 3:7
-\item Ksh. 690
-\item 5 days
-\item 21 days
-\item 3:2
-\item 27 men
-\item 13 hours 20 minutes
-\item 36 minutes
-\item $324 \,cm^3$
-\item $39.26\%$
-\item \begin{enumerate}
-\item 16 minutes 40 seconds \\or $16\frac{2}{3}$ minutes
-\item 15 minutes
-\end{enumerate}
-\item $480 cm^3$
+b\) $Height=23\pm1\,m$
 
-\item \begin{enumerate}
-\item $58,520\: cm^3/s$
-\item 6.2 m
-\item 16 minutes 44 seconds
+c\) $31.5\pm1\,m$
 
-\end{enumerate}
+d\) $39\pm1\,m$
 
-\item \begin{enumerate}
-\item
-Fraction of work of potter C alone: $\frac{9}{40}$\\
-Fraction of all potters working together: $\frac{3}{5}$\\
-Fraction of work they did for 40 minutes: $\frac{3}{5}\times \frac{4\cancel{0}}{6\cancel{0}}=\frac{2}{5}$\\
-Fraction of work undone: $\frac{5}{5}-\frac{2}{5}=\frac{3}{5}$\\
-Fraction of work done by A and C in 20 min: \\$\Rightarrow \left(\frac{1}{a}+\frac{9}{40}\right)\frac{2\cancel{{0}}}{6\cancel{0}}=\left(\frac{1}{3a}+\frac{3}{40}\right)$\\
-Time taken by potter A to complete the remaining work: $\frac{53}{30} $\\
-$\therefore \left[\frac{3}{5}-\left(\frac{1}{3a}+\frac{3}{40}\right)\right]\div \frac{1}{a}=\frac{53}{30}$\\
-$\Rightarrow \left(\frac{21}{40}-\frac{1}{3a}\right)\times a=\frac{53}{30}$\\
-$\Rightarrow \frac{\cancel{40}}{\cancel{21}}\times \frac{\cancel{21}}{\cancel{40}}a=\frac{\cancel{21}}{1\cancel{0}}\times \frac{4\cancel{0}}{\cancel{21}}=4$\\ $\therefore A=4\: hours$ working alone.
-\item 
-$\left(\frac{9}{40}+\frac{1}{4}+\frac{1}{b}\right)=\frac{3}{5}$\\
-$\Rightarrow \frac{1}{b}=\left(\frac{3}{5}-\frac{19}{40}\right)=\frac{1}{8}$\\
-$\therefore B=8 \:hours$ working alone.\\
-\item 
-$\frac{9}{40}+\frac{1}{4}=\frac{19}{40}$\\ $\therefore$ A and C alone takes: $2\frac{2}{19}\:hours$ or 2hrs 6 min\\
-\end{enumerate}
-\item \begin{enumerate}
-\item Ksh. 19.50
-\item \begin{enumerate}
-\item Ksh. 84.20
-\item $22.02\%$
+3. $PR=58\pm1\,m$; Compass bearing$=S80\pm1^0W$
 
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item $x=40 \,litres$
-\item $50\%$
-\item 1:2
-\end{enumerate}
-\item \begin{enumerate}
-\item $P=84 \, litres$\\
-$Q=112\, litres$\\ $R=224 \, litres$\\
-\item ksh. 142.30
-\item $44.1\%$
-\end{enumerate}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 2,500 cows
-\item 3,100 cows
-\item 3,720 cows
-\end{enumerate}
-\item \begin{enumerate}
-\item 24\%
-\item 48.8\%
-\end{enumerate}
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
+a\) ![](figures/3Q.png)
 
-\subsection*{Chapter 10: Length, Area, Volume, and Capacity}
-\begin{multicols}{3}
-\begin{enumerate}
-\item $\left(\frac{180x}{p}\right)cm$
-\item $\left(\frac{9p}{\pi}\right)cm$
-\item 56.0 m
-\item 22 cm
-\item 22.2 litres
-\item 10 cm
-\item \begin{enumerate}
-\item $61, 288 cm^3$
-\item 45.97 Kg
-\end{enumerate}
-\item 8.96 Kg
-\item 5040 litres
-\item $1,264 cm^2$
-\item $QR=12\, cm$\\$PQ=8 \,cm$\\$PR=18 \,cm$
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 16.23 cm
-\item $539.46 cm^2$
-\end{enumerate}
-\item 5.99 cm
-\item $450.86 cm^2$
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
-\subsection*{Chapter 11: Mass, Weight, and Density}
-\begin{multicols}{3}
-\begin{enumerate}
-\item $36.24\, cm$
-\item $5 \,g/cm^3$
-\item $1.5 \,m$
-\item $945 \,Kg$
-\item $7,529\,Kg/m^3$
-\item 240 m
-\item \begin{enumerate}
-\item 29,508 $cm^3$
-\item 28.03 Kg
-\item 73.0 Kg
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
+4 a\) 
 
-\subsection*{Chapter 12: Time}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 2:51 pm
-\item 2:05 pm
-\item 5:51 pm
-\item 5 times
-\item 60 km/h
-\end{enumerate}
-\end{multicols}
+ ![](figures/4Q.png)
 
-\subsection*{Chapter 13: Linear Equations}
-\begin{multicols}{3}
-\begin{enumerate}
-\item $x=3$\\$y=-\frac{1}{3}$
-\item $x=-1$ \\$y=2$
-\item $x=0$ \\$y=2$
-\item pen=Ksh. 15\\ Exercise book=Ksh. 20
-\item Kiama=Ksh. 45,000
-\item Plate=Ksh. 15\\Spoon=Ksh. 9
-\item Socks=Ksh. 220\\ Trouser=Ksh. 355
-\item 100 mangoes
-\item \begin{enumerate}
-\item $(9x+6)$ cows
-\item 32 cows
-\end{enumerate}
-\item Cup=Ksh. 60\\Plate=Ksh. 36
-\item Blade=Ksh. 6\\Pen=Ksh. 30
-\item \begin{enumerate}
-\item Pencil=Ksh. 3\\ Blade=Ksh. 9
-\item 16 Pencils
-\end{enumerate}
-\item Ksh. 1,860
-\end{enumerate}
+b\) i\)  $212\pm2\,Km$
 
-\end{multicols}
+ii\) $228\pm2\,Km$
 
-\subsection*{Chapter 14: Commercial Arithmetic}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 2,093 Japanese Yens
-\item 2,930 US dollars
-\item 1,046 Us dollars
-\item 17,030 South African Rands
-\item Ksh. 345
-\item Ksh. 370,354
-\item \begin{enumerate}
-\item 24\%
-\item Ksh. 2,880
-\end{enumerate}
-\item 56.25\%
-\item 38.89\%
-\item ksh. 680,000
-\item Ksh. 41,310
-\item \begin{enumerate}
-\item ksh. 300
-\item Ksh. 200
-\end{enumerate}
-\item Paying through his account in UK by Ksh. 5,131,971
-\item \begin{enumerate}
-\item Ksh. 3,148,535
-\item 112,710 South African Rands
-\end{enumerate}
-\item 6.18\%
-\item Ksh 2500
-\item Ksh 840
-\item Ksh 16,200
-\item Ksh 17,000
-\item 8.5\%
-\item \begin{enumerate}
-\item Ksh. 4,500
-\item Ksh. 100,500
-\item Ksh. 18,736
-\item Ksh. 1,642,105.30
-\end{enumerate}
-\item \begin{enumerate}
-\item 215 Kg
-\item \begin{enumerate}
-\item 45.3\%
-\item 50\%
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item Ksh 4,455
-\item Ksh 1,400
-\item Ksh 7,700
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
+iii\) $230\pm2\,Km$
+
+iv\) $S41\pm1^0W$
+
+5. a\) 
+
+ ![](figures/5Q.png)
+
+b\)  $16.4\pm0.2\,km$; $056\pm1^0$
+
+c\) $24.4\pm0.2 \,km$; $S51\pm1^0W$
+
+6. a\) 
+
+a\) ![](figures/6Q.png)
+
+b\) i\) $100\pm1\,Km$; $50\pm1^0$
+
+ii\) $92\pm1\,Km$; $256\pm1^0$
+
+iii\) Compass bearing$=N53\pm1^0W$
+
+7. \a) 
+
+![](figures/7Q.png)
+
+b\) i\) $2625\pm15\,Km$
+
+ii\) $268\pm1^0$
+
+c\) i\)  $840\pm 15\,km$
+
+ii\) $266\pm1^0$
+
+8. a\) 
+
+a\) ![](figures/8Q.png)
+
+b\) i\)  $N34\pm1^0W$
+
+ii\) $S42\pm1^0W$
+
+c\) i\) $600\pm10\,Km$
+
+ii\) $690\pm10\,Km$
+
+d\) i\) $310\pm1^0$
+
+ii\) $269\pm1^0$
+
+9. a\) 
+
+a\) ![](figures/9Q.png)
+
+c\) i\) $430\pm5\,m$; $298\pm1^0$
+
+ii\) $S35\pm1^0E$
+
+10. a\) ![](figures/10Q.png)
+
+b\) i\) $64\pm1\,Km$; $186\pm1^0$
+
+ii\) $63\pm1\,Km$
+
+iii\) $112\pm1\,Km$; Compass bearing$=S55\pm1^0W$
+
+11. a\) 
+
+a\) ![](figures/11Q.png)
 
 
-\clearpage
-\subsection*{Chapter 15: Co-Ordinates and Graphs}
-\begin{enumerate}
-\item \begin{enumerate}
-\item x=2; y=2
-\item Q(0,2.5); P(0,-4)
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-$y=\frac{8+2x}{3}$\\
-\begin{tabular}{|l|c|c|c|c|c|c|c|r|}
-\hline
-x&-2&-1&0&1&2&3&4&5 \\
-\hline
-y&$\frac{4}{3}$&2&$\frac{8}{3}$&$\frac{10}{3}$&4&$\frac{14}{3}$&$\frac{16}{3}$&6\\
-\hline
+b\) $5hrs \,36\pm3\,min$
 
-\end{tabular}\\
-$y=5x-6$\\
-\begin{tabular}{|l|c|c|c|c|c|c|c|r|}
-\hline
-x&-2&-1&0&1&2&3&4&5 \\
-\hline
-y&-16&-11&-6&-1&4&9&14&19\\
-\hline
-\end{tabular}
-\begin{enumerate}[(c)]
-\item The two graphs are straight lines
-\end{enumerate}
-\begin{enumerate}[(d)]
-\item x=2; y=4
-\end{enumerate}
-\end{enumerate}
-\end{enumerate}
+c\) $171\pm1^0$
 
-\subsection*{Chapter 16: Angles and Plane Figures}
-\begin{multicols}{3}
-\begin{enumerate}
-\item 5 sides
-\item 6 sides
-\item12 sides
-\item \begin{enumerate}
-\item 6 sides
-\item 108 cm
-\end{enumerate}
-\item \begin{enumerate}
-\item 12 sides
-\item $150^0$
-\end{enumerate}
-\item 12 sides
-\item 5 sides
-\item n=10; Decagon
-\item n=9; Octagon 
-\item $\theta=141^0$
-\end{enumerate}
-\end{multicols}
-\subsection*{Chapter 17: Geometrical Constructions}
-\begin{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9.5cm]{Q1}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $Area=11.375 \pm0.325\,cm^2$
-\end{enumerate}
-\clearpage
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[ht!]
-\centering
-\includegraphics[width=9cm]{Q2}
-\end{figure}
-$AC=7.3\pm 0.1\,cm$
-\item
-\begin{enumerate}[(a)]
-\item \end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9cm]{Q3}
-\end{figure}
-\begin{enumerate}[(c)]
-\item $PS=4.5\pm 0.1\,cm$\\
-$Area=13.5 \pm0.3\,cm^2$
-\end{enumerate}
-\begin{enumerate}[(e)]
-\item $RT=6.3 \pm 0.1\,cm$\\
-$\angle TQR=38\pm1^0$
-\end{enumerate}
-\clearpage
+d\) $287\pm1^0$
 
-\item \begin{enumerate}
-\item \end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9cm]{Q4}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $AB=4.4\pm0.1\,cm$
-\end{enumerate}
-\begin{enumerate}[(d)]
-\item $AD=4.2 \pm0.1 \, cm$
-\end{enumerate}
-\begin{enumerate}[(f)]
-\item $\angle ABC=56\pm1^0$
-\end{enumerate}
-\item 
-\begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9cm]{Q5}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $PQ=13.6\pm0.1 \,cm$
-$\angle PQR=17\pm1^0$
-\end{enumerate}
-\begin{enumerate}[(e)]
-\item $\angle QRT=132\pm 1^0$
-\end{enumerate}
-\clearpage
-\item
-\begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9cm]{Q6}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $AB=6.3 \pm 0.1\, cm$
-$AC=5.2 \pm 0.1\,cm$
-\end{enumerate}
-\begin{enumerate}[(d)]
-\item 
-$Radius=4.1 \pm0.1 \,cm$
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9cm]{Q7}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $AC=4.4\pm 0.1\,cm$
-\end{enumerate}
-\begin{enumerate}[(e)]
-\item $Radius=3.6\pm 0.1\,cm$
-\end{enumerate}
-\end{enumerate}
-\clearpage
-\subsection{Scale Drawing}
-\begin{enumerate}
-\item 375 ha
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9.5cm]{2Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $Height=23\pm1\,m$
-\end{enumerate}
-\begin{enumerate}[(c)]
-\item $31.5\pm1\,m$
-\end{enumerate}
-\begin{enumerate}[(d)]
-\item $39\pm1\,m$
-\end{enumerate}
-\item 
-$PR=58\pm1\,m$; Compass bearing$=S80\pm1^0W$
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=9.5cm]{3Q}
-\end{figure}
-\clearpage
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.8cm]{4Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item 
-\begin{enumerate}
-\item $212\pm2\,Km$
-\item $228\pm2\,Km$
-\item $230\pm2\,Km$
-\item $S41\pm1^0W$
-\end{enumerate}
-\end{enumerate}
+12. a\) 
 
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=7cm]{5Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $16.4\pm0.2\,km$; $056\pm1^0$
-\end{enumerate}
-\begin{enumerate}[(c)]
-\item $24.4\pm0.2 \,km$; $S51\pm1^0W$
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=8.5cm]{6Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $100\pm1\,Km$; $50\pm1^0$
-\item $92\pm1\,Km$; $256\pm1^0$
-\item Compass bearing$=N53\pm1^0W$
-\end{enumerate}
-\end{enumerate}
-\item
-\begin{enumerate}
-\item
-\end{enumerate}
- \graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=8.5cm]{7Q}
-\end{figure}
+b\) i\) $295\pm5Km$
 
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $2625\pm15\,Km$
-\item $268\pm1^0$
-\end{enumerate}
-\begin{enumerate}[(c)]
-\item \begin{enumerate}[(i)]
-\item $840\pm 15\,km$
-\item $266\pm1^0$
-\end{enumerate}
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6cm]{8Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}[(i)]
-\item $N34\pm1^0W$
-\item $S42\pm1^0W$
-\end{enumerate}
-\begin{enumerate}[(c)]
-\item \begin{enumerate}[(i)]
-\item $600\pm10\,Km$
-\item $690\pm10\,Km$
-\end{enumerate}
-\end{enumerate}
-\begin{enumerate}[(d)]
-\item \begin{enumerate}[(i)]
-\item $310\pm1^0$
-\item $269\pm1^0$
-\end{enumerate}
-\end{enumerate}
-\end{enumerate}
+ii\) Compass bearing of Y from W is $S9\pm1^0W$
 
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.5cm]{9Q}
-\end{figure}
-\begin{enumerate}[(c)]
-\item \begin{enumerate}[(i)]
-\item $430\pm5\,m$; $298\pm1^0$
-\item $S35\pm1^0E$
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.5cm]{10Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}[(i)]
-\item $64\pm1\,Km$; $186\pm1^0$
-\item $63\pm1\,Km$
-\item $112\pm1\,Km$; Compass bearing$=S55\pm1^0W$
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=4.5cm]{11Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $5hrs \,36\pm3\,min$
-\item $171\pm1^0$
-\item $287\pm1^0$
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=5cm]{12Q}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $295\pm5Km$
-\item Compass bearing of Y from W is $S9\pm1^0W$
-\end{enumerate}
-\begin{enumerate}[(c)]
-\item $170\pm5Km$
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.5cm]{13Q}
-\end{figure}
-\begin{enumerate}[(i)]
-\item $RP=138\pm1\,m$; Compass bearing of P from R is $S58\pm1^0W$
-\item $RS=79\pm1\,m$
-\item $PS=118\pm1\,m$; $093\pm1^0$
-\end{enumerate}
-\end{enumerate}
+c\) $170\pm5Km$
+
+13. a\) 
+a\) ![](figures/13Q.png)
+
+i\)
+
+ii\) $RP=138\pm1\,m$; Compass bearing of P from R is $S58\pm1^0W$
+
+iii $RS=79\pm1\,m$
+
+iv\)$PS=118\pm1\,m$; $093\pm1^0$
+:::
+:::
+:::
+
+
 
 ### Rounding Off
 
-
-
 ### Operations
-
-
 
 ## Chapter 2: Factors
 
-
-
-
 ## Chapter 3: Divisibility Test
-
-
 
 ## Chapter 4: G.C.D and L.C.M
 
-
 ## Chapter 5: Integers
-
 
 ## Chapter 6: Fractions
 
-
-
 ## Chapter 7: Decimals, Squares, and Square Roots
-
-
 
 ## Chapter 8: Algebraic Expression
 
-
 ## Chapter 9: Rate, Ratio, Proportion, and Percentage
-
 
 ## Chapter 10: Length, Area, Volume, and Capacity
 
-
-
 ## Chapter 11: Mass, Weight, and Density
-
 
 ## Chapter 12: Time
 
-
 ## Chapter 13: Linear Equatins
-
 
 ## Chapter 14: Commercial Arithmetic
 
-
-
 ## Chapter 15: Co-Ordinates and Graphs
-
 
 ## Chapter 16: Angles and Plane Figures
 
-
-
 ## Chapter 17: Geometrical Constructions
 
-
 ## Chapter 18: Scale Drawing
-
-

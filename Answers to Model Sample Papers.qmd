@@ -1,928 +1,971 @@
-#  SECTION FOUR {.unnumbered}
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# SECTION FOUR {.unnumbered}
 
 # Answers to Model Sample Papers
 
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 1
 
-## model Sample Paper 1
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
 
-\chapter{SECTION FOUR}
+1.  $\frac{1}{2}$
 
-\section{Answers To Model Sample Papers}
-\subsection*{Model Sample Paper 1}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item $\frac{1}{2}$
-\item \begin{enumerate}
-\item 8x
-\item 120 birds
-\end{enumerate}
-\item $-\frac{2}{3}$
-\item PM:MR=3:7
-\item 2.3691
-\item Ksh. 131,381
-\item 13
-\item 0.0347 m
-\item x=3; y=2
-\item 1:2
-\item 31 hrs 15 minutes
-\item $AC=410\pm5 \,km$
-\item $1068\, kg/m^3$
-\item n=12 sides
-\item 13 steps
-\item $616\,cm^2$
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item
-\begin{enumerate}
-\item \begin{enumerate}
-\item Ksh. 24,000
-\item Ksh. 14,200
-\end{enumerate}
-\item Ksh. 5,640
-\end{enumerate}
-\end{multicols}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=4.5cm]{M1N18}
-\end{figure}
-\begin{enumerate}[(b)]
-\item 8.54 ha
-\begin{enumerate}[(c)]
-\item Ksh. 2,391,200
-\end{enumerate}
-\end{enumerate}
-\item
-\begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=6cm]{M1N19}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $RW=475\pm5\,km$\\ Bearing: $242\pm1^0$
-\item $WM=510\pm5\,km$
-\item $RM=575\pm5\,km$
-\end{enumerate}
-\end{enumerate}
-\begin{multicols}{3}
+2.  a\) 8x
 
-\item \begin{enumerate}
-\item Ksh. 800
-\item Ksh. 8,400
-\item Ksh. 3,600
-\item $175\%$
-\end{enumerate}
-\item \begin{enumerate}
-\item A=630 bags\\ B=420 bags\\C=1080 bags\\D=600 bags
-\item 55 days
-\end{enumerate}
-\end{multicols}
-\end{enumerate}
-\subsection*{Model Sample Paper 2}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item 5.814
-\item 4
-\item Musa=20 years\\Ahmed=8 years
-\item 179.2 ha
-\item 3,371 Sterling Pounds
-\item \begin{enumerate}
-\item n=6 sides
-\item for n sides, $interior \angle=120^0$\\
-for n-1 sides, $interior \angle=108^0$
-\end{enumerate}
-\item Ksh. 850
-\item 360 biscuits
-\item 10 days
-\item $-\frac{1}{x}$
-\item 65
-\item $ 5.2\pm0.1\,km$; $S60\pm1^0W$
-\item Marked Price= Ksh. 4,000\\Buying Price= Ksh. 3,000
-\item 21.6 kg
-\item radius=5.278 cm
-\item \begin{enumerate}
-\item $144^0$
-\item 35.2 cm
-\end{enumerate}
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item 
-\begin{enumerate}
-\item \begin{enumerate}
-\item Ksh. 6,000
-\item Ksh. 4,080
-\item $47.1\%$
-\item Ksh. 3,264
-\end{enumerate}
-\end{enumerate}
-\end{multicols}
-\item \begin{enumerate}
-\item  
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=7cm]{M2N18}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $AC=8\pm1\,cm$; $\angle ACB=44\pm1^0$
-\begin{enumerate}[(d)]
-\item $r=2.0\pm0.1\,cm$
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item 48 Passengers
-\item 28 Passengers
-\item Ksh. 10,160
-\end{enumerate}
-\item \begin{enumerate}
-\item $height=5.6\pm0.1\,m$
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=7cm]{M2N20b}
-\end{figure}
-\end{enumerate}
-(ii) $AB=85\pm1\,km$\\
-(iii) $177\pm1^0$
+    b\) 120 birds
 
-\item \begin{enumerate}
-\item 43.12 litres
-\item $2.415\, m^2$
-\item Ksh. 2,102.40
-\end{enumerate}
-\end{enumerate}
-\subsection*{Model Sample Paper 3}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item -2
-\item \begin{enumerate}
-\item  25 beacons
-\item 603 metres
-\end{enumerate}
-\item Muchoki=5 goats\\Wakuraya=7 goats
-\item 39 coins
-\item \begin{enumerate}
-\item $\angle CBA=144^0$
-\item $\angle CDE=108^0$
-\end{enumerate}
-\item \begin{enumerate}
-\item 432,000 litres
-\item 432,000 Kg
-\end{enumerate}
-\item \$ 61,546 
-\item Ksh. 25,290
-\item Ksh. 345
-\item $RP=256\pm4\, km$; Bearing: $220\pm1^0$
-\item 562.5 m
-\item 4.08 tonnes
-\item 32.86
-\item 4
-\item $26.08\%$
-\item 35 minutes
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 3 kg
-\item 60 litres
-\end{enumerate}
-\item 48 kg
-\end{enumerate}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 31 hrs 35 minutes
-\item 3 hrs
-\item 34 hrs 35 minutes
-\end{enumerate}
-\item 2075 km
-\end{enumerate}
-\end{multicols}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=6.5cm]{M3N19}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $SP=230\pm5\,km$
-\item $SQ=510\pm5\,km$\\Bearing: $160\pm1^0$
-\item Compass bearing of S from R: $S70\pm1^0E$
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item n=10 litres
-\item $40\%$
-\item 8:7
-\end{enumerate}
-\item \begin{enumerate}
-\item ksh. 2,871
-\item Ksh. 2,500
-\item $16\%$
-\end{enumerate}
+3.  $-\frac{2}{3}$
 
-\end{enumerate}
-\subsection*{Model Sample Paper 4}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item $\frac{1}{20}$
-\item 21-inch TV= Ksh. 25,000\\17-inch TV= Ksh. 14,000
-\item 323,466 Japanese yens
-\item 19.20
-\item $12\%$ profit
-\item 1:5
-\item 35.56 litres
-\item $28.32\%$;decrease
-\item 20 ha
-\item Rice=Ksh. 60\\KDF cake=Ksh. 10
-\item
-\begin{enumerate}[(b)]
-\item $h=4.2\pm 0.1\,cm$
-\end{enumerate}
-\item n=5 sides
-\item $\frac{1}{8}$
-\item \begin{enumerate}[(b)]
-\item 750 m
-\end{enumerate}
-\item 3 minutes
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 4 buses
-\item 6 matatus
-\end{enumerate}
-\item 324 students
-\item Ksh. 13,800
-\end{enumerate}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item Ksh. 2,170,800
-\item Ksh. 1,953,720
-\item Ksh. 434,160
-\end{enumerate}
-\item Ksh. 30,225
-\end{enumerate}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 6 hours 50 minutes
-\item 6 hours 20 minutes
-\item 5 hours 40 minutes
-\item 12 hours 15 minutes
-\end{enumerate}
-\item 35 hours 50 minutes
-\item 42 km/h
-\end{enumerate}
-\end{multicols}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=5cm]{M4N19}
-\end{figure}
-\begin{enumerate}[(b)]
-\item 6.32 ha
-\item Ksh. 632,000
-\end{enumerate}
+4.  PM:MR=3:7
 
-\item \begin{enumerate}
-\item 540 eggs
-\item $15.6\%$
-\item $16.67\%$
-\end{enumerate}
+5.  2.3691
 
-\end{enumerate}
-\subsection*{Model Sample Paper 5}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item 2
-\item Skirt=Ksh. 200\\Blouse=Ksh. 250
-\item  Gaceru=37 years\\Kairu=10 years
-\item 5
-\item \begin{enumerate}
-\item $19.199 \,cm^3$
-\item 14.4 g
-\end{enumerate}
-\item Ksh. 17,920
-\item 2520 g
-\item $22.638 \,cm^3$
-\item 805 Kg
-\item 24 students
-\item 2,500 ha
-\item $507\, cm^3$
-\item \begin{enumerate}
-\item 
-\item 150 Km
-\end{enumerate}
-\item $\frac{391}{495}$
-\item $a=\frac{5}{9}$
-\item \begin{enumerate}
-\item $270^0$
-\item $259.9 cm^2$
-\end{enumerate}
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\item \begin{enumerate}
-\item 
-$2x+y=6$\\
-\begin{tabular}{|l|c|c|c|c|c|c|r|}
-\hline
-x&0&1&2&3&4&5\\
-\hline
-y=6-2x&6&4&2&0&-2&-4\\
-\hline
-Point&(0,6)&(1,4)&(2,2)&(3,0)&(4,-2)&(5,-4)\\
-\hline
-\end{tabular}\\
+6.  Ksh. 131,381
 
-$3x-4y=9$\\
-\begin{tabular}{|l|c|c|c|c|c|r|}
-\hline
-x&-1&1&3&5&7&9 \\
-\hline
-$y=\frac{3x-9}{4}$&-3&-1.5&0&1.5&3&4.5\\
-\hline
-Point&(-1,-3)&(1,-1.5)&(3,0)&(5,1.5)&(7,3)&(9,4.5)\\
-\hline
-\end{tabular}
-\clearpage
-\begin{enumerate}[(b)]
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=10.5cm]{M5N17}
-\end{figure}
-$\therefore x=3;\, y=0$
-\begin{enumerate}[(c)]
-\item  A(0,6), B(3,0)
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item $3,900 cm^2$
-\item 1.97 kg
-\end{enumerate}
-\item 15.97 kg
-\end{enumerate}
+7.  13
 
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.5cm]{M5N18}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $BA=247.5\pm 2.5\, km$\\Compass bearing$=S21\pm1^0W$
-\item $AC=152\pm2.5\,km$
-\item $BC=232.5\pm2.5\,km$
-\end{enumerate}
-\end{enumerate}
-\item $25.35\%$
-\item\begin{enumerate}[(a)]
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.5cm]{M5N21}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $AC=5.5\pm0.1\,cm$; $\angle ACB=110\pm1^0$
-\end{enumerate}
-\begin{enumerate}[(d)]
-\item $r=4.6\pm0.1\,cm$
-\end{enumerate}
-\end{enumerate}
-\subsection*{Model Sample Paper 6}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item 5
-\item Ksh.1,400
-\item 4
-\item 18 minutes
-\item 240 and 300
-\item Ksh.1,550
-\item 980 kg
-\item Ksh.21,000
-\item $x=40^0$
-\item \begin{enumerate}
-\item Ksh.121,300
-\item Ksh.98,331
-\end{enumerate}
-\item Ksh. 140,000
-\item \begin{enumerate}[(b)]
-\item $14.6\pm0.2\,km$; $260\pm1^0$
-\end{enumerate}
-\item 30 laborers
-\item \begin{enumerate}
-\item $252^0$
-\item 70.4 cm.
-\end{enumerate}
-\item 576 m
-\item $4.76\%$, increase\\
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item 71,280 litres
-\item 7,800 litres
-\item Ksh.819
-\end{enumerate}
-\end{multicols}
-\item \begin{enumerate}
-\item Sketch
-\end{enumerate}
-\begin{enumerate}[(b)]
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=7cm]{M6_18}
-\end{figure}
-\begin{enumerate}[(c)]
-\item \begin{enumerate}
-\item $125\pm2.5$ km;\\ $310\pm1^0$
-\item $181\pm2.5$ km
-\item $225\pm2.5$ km
-\end{enumerate}
-\end{enumerate}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.5cm]{M6_19}
-\end{figure}
-\begin{enumerate}[(b)]
-\item
-\begin{enumerate} 
-\item Area is given as follows:\\
-\begin{align*}
-L1&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times45&=1350\,m^2\\
-L2&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times(45+75)&=3600\,m^2\\
-L3&\Rightarrow \frac{1}{\cancel2}\times\cancelto{30}{60}\times75&=2250\,m^2\\
-L4&\Rightarrow\frac{1}{\cancel2}\times\cancelto{15}{30}\times42&=630\,m^2\\
-L5&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times(42+60)&=3060\,m^2\\
-L6&\Rightarrow\frac{1}{\cancel2}\times\cancelto{45}{90}\times60&=2700\,m^2\\
-Total&\Rightarrow 1350+...+2700&=13,590\,m^2\\
-\end{align*}
-$\therefore$ The area of the field is equal to $13,590\,m^2$
-\item $108\pm1.5\,m$; $N34\pm1^0E$
-\end{enumerate}
-\end{enumerate}
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item A=625 bag\\B=500 bags\\C=1050 bags\\D=750 bags
-\item $13\frac{1}{2}$ days
-\end{enumerate}
-\item \begin{enumerate}
-\item x=160 litres of water
-\item $44.8\%$
-\item 32:43
-\end{enumerate}
-\end{multicols}
-\end{enumerate}
-\flushleft{\subsection*{Model Sample Paper 7}}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item 2
-\item 4.5346
-\item Ksh. 5,471,875
-\item 4
-\item $y=\frac{1}{2}$
-\item 9 notes
-\item Ksh. 73.80
-\item $11.21\%$
-\item Ksh. 160
-\item 20 years
-\item $4.76\% \,\,increase$ 
-\item n=6; Hexagon
-\item  1.46 m
-\item 5 cm
-\item 12 more boys
-\item
-\begin{enumerate}[(b)]
-\item $38.25\pm0.375\,cm^2$
-\end{enumerate}
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 2 buses
-\item 8 matatus
-\end{enumerate}
-\item 196 youths
-\item Ksh.20,400
-\end{enumerate}
-\item\begin{enumerate}
-\item 3:4:5
-\item \begin{enumerate}
-\item Ksh.96,000
-\item Muhammed\\= Ksh 24,000\\
-Maimuna=Ksh.32,000\\Hasan=Ksh.40,000
-\item $71.43\%$
-\end{enumerate}
-\end{enumerate}
-\item\begin{enumerate}
-\item \begin{enumerate} \item 200 Students
-\item 228 students
-\item 285 Students
-\end{enumerate}
+8.  0.0347 m
 
-\item $18.75\%$
-\item $14\%$
-\end{enumerate} 
-\end{multicols}
-\item \begin{enumerate}
-\item 
-$3x+y=9$\\
-\begin{tabular}{|l|c|c|c|c|c|c|r|}
-\hline
-x&-1&0&-1&2&3&4 \\
-\hline
-y=-3x+9&12&9&6&3&0&-3\\
-\hline
-Point&(-1,12)&(0,9)&(1,6)&(2,3)&(3,0)&(4,-3) \\
-\hline
-\end{tabular} \\
-$x-2y=-4$\\ 
-\begin{tabular}{|l|c|c|c|c|c|c|r|}
-\hline
-x&-4&-2&0&2&4&6\\
-\hline
-$y=\frac{x+4}{2}$&0&1&2&3&4&5\\
-\hline
-Point&(-4,0)&(-2,1)&(0,2)&(2,3)&(4,4)&(6,5)\\
-\hline
-\end{tabular}
-\begin{enumerate}[(b)]
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=9cm]{M7N20}
-\end{figure}
-$\therefore x=2;\, y=3$
-\begin{enumerate}[(c)]
-\item A(3,0); B(0,9)
-\end{enumerate}
-\end{enumerate}
+9.  $x=3$; $y=2$
 
-\item \begin{enumerate}
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=5cm]{M7_N21}
-\end{figure}
-\begin{enumerate}[(b)] 
-\item \begin{enumerate}
-\item $ZX=81\pm 1$ m; $313\pm1^0$
-\item $WZ=105\pm1$ m
-\item $WX=77\pm1$ m
-\item $S44\pm1^0W$
-\end{enumerate}
-\end{enumerate}
-\end{enumerate}
+10. $1:2$
 
-\flushleft{\subsection*{Model Sample Paper 8}}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item -2
-\item $3(x+y)(x-2y)$ 
-\item \begin{enumerate}
-\item $\frac{133}{5} \,g$
-\item $6.4\%$ 
-\end{enumerate}
-\item  $90^0$
-\item 8 ha
-\item 5.946
-\item 607.5 m
-\item Ksh.1200
-\item n=8; octagon\\$Exterior\,\angle = 45^0$
-\item 79 pieces
-\item 2:1
-\item Ksh.2,100
-\item Ksh. 345
-\item \begin{enumerate}
-\item 70 Swiss Francs
-\item Ksh.7,068.60
-\end{enumerate}
+11. 31 hrs 15 minutes
 
-\item \begin{enumerate}[(b)]
-\item
-$\angle CAB=59 \pm 1^0$
-\end{enumerate}
-\item 3 hrs
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item Ksh.420,000
-\item Ksh 561,000
-\item 748,000
-\item $52.5\%$
-\end{enumerate}
-\item \begin{enumerate}
-\item 35 dresses; 22 skirts
-\item Ksh.4,910
-\item $25.6\%$
-\end{enumerate}
-\item \begin{enumerate}
-\item A= ($8000-4x^2)\,cm^2$
-\item x=10 cm;\\ $80\,cm\times60\,cm\times10\,cm$ 
-\item 3.8 kg
-\item $0.75 g/cm^3$
-\end{enumerate}
-\end{multicols}
+12. $AC=410\pm5 \,km$
 
-\item \begin{enumerate}
-\item
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=7cm]{Md8_N20}
-\end{figure}
-\begin{enumerate}[(b)]
-\item $AB=14.8\pm0.1\,cm$; $ABC =25\pm1^0$
-\end{enumerate}
-\begin{enumerate}[(d)]
-\item $AD=6.4\pm0.1\,cm$; $22.4\pm0.35\,cm^2$
-\end{enumerate}
-\begin{enumerate}[(f)]
-\item $EC=11.4\pm0.1 \,cm$
-\end{enumerate}
-\clearpage
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6.5cm]{Md8_N21}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $AC=465\pm5\,km$
-\item $AD=293\pm3\,km$
-\item $CD=540\pm5\,km$
-\item $204\pm1^0$
-\end{enumerate}
-\end{enumerate}
-\end{enumerate}
-\flushleft{\subsection*{Model Sample Paper 9}}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item 3
-\item 50 Files
-\item Mutheu= 21 years\\ Brother=11 years
-\item $21.4\%$
-\item 75.199
-\item 
-\begin{enumerate}
-\item $636,000 cm ^3$
-\item 477.0 kg
-\end{enumerate}
-\item 3(x-3y)(x+2y)
-\item 8 more workers
-\item 35 students
-\item
-\begin{enumerate}
-\item 90.91 Swiss Franks
-\item Ksh.9,173
-\end{enumerate}
-\item 845 biscuits
-\item 12 sides
-\item 1:2
-\item 390
-\item $100 cm^2$
-\item $\frac{8}{9},\frac{3}{4},\frac{3}{5},\frac{4}{7},\frac{1}{3}$
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item Ksh. 760,000
-\item Ksh. 608,000
-\item Ksh. 1,216,000
-\item $57.5\%$
-\end{enumerate}
-\end{multicols}
-\item \begin{enumerate}
-\item $2x+y=7$\\
-\begin{tabular}{|l|c|c|c|c|c|c|r|}
-\hline
-x&-1&1&3&5&7 \\
-\hline
-$y=7-2x$&9&5&1&-3&-7\\
-\hline
-Points&(-1,9)&(1,5)&(3,1)&(5,-3)&(7,-7)\\
-\hline
-\end{tabular}\\
-$5x-3y=12$\\
-\begin{tabular}{|l|c|c|c|c|c|c|r|}
-\hline
-x&-3&0&3&6&9\\
-\hline
-$y=\frac{5x-12}{3}$&-9&-4&1&6&11\\
-\hline
-Points&(-3,-9)&(0,-4)&(3,1)&(6,6)&(9,11) \\
-\hline
-\end{tabular}
-\begin{enumerate}[(b)]
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[th!]
-\centering
-\includegraphics[width=10cm]{M9N18}
-\end{figure}
-$\therefore x=3; \, y=1$
-\begin{enumerate}[(c)]
-\item A(3.5,0); B(0,7)
-\end{enumerate}
-\end{enumerate}
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item y=75 litres
-\item $35\%$
-\item 5:7
-\end{enumerate}
-\item\begin{enumerate}
-\item \begin{enumerate}
-\item 16,000 bags
-\item 17,000 bags
-\end{enumerate}
-\item $3.5\%$
-\item $2.53\%$
-\item $6.25\%$
-\end{enumerate}
-\item \begin{enumerate}
-\item $39,537\, cm^3$
-\item 31.63 kg
-\item 64.2 kg
-\end{enumerate}
-\end{multicols}
-\end{enumerate}
-\flushleft{\subsection*{Model Sample Paper 10}}
-\centering{\textbf{\underline{SECTION A (50 MARKS)}}}\\
-\begin{enumerate}
-\begin{multicols}{3}
-\item $\frac{3}{5}$
-\item Kiama=28 years\\Murugi=35 years\\Naomi=15 years
-\item $10.2\%$
-\item\begin{enumerate}
-\item $210^0$
-\item 51.33 cm
-\end{enumerate}
-\item 825 cm
-\item \begin{enumerate}
-\item $90^0$
-\item 98.5 km
-\end{enumerate}
-\item 12 books
-\item Mother=32 years\\ Daughter=8 years
-\item $8.2\%$
-\item $y=\frac{5}{4}$
-\item \begin{enumerate}
-\item $(8x-20)^0$
-\item $85^0$
-\end{enumerate}
-\item Ksh. 112,200
-\item $306\, cm^3$
-\item 570 students
-\item 125 coins
-\item 3
-\end{multicols}
-\centering{\textbf{\underline{SECTION B (50 MARKS)}}}\\
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item 30 Trousers; 20 T-shirts
-\item Ksh. 2,300
-\item $34.41\%$
-\end{enumerate}
-\item
-\begin{enumerate}
-\item $A=(6300-4t^2)\, cm^2$
-\item 2.8 kg
-\item $80\times60\times5$; $24,000\,cm^3$
-\item $0.7 g/cm^3$ 
-\end{enumerate}
-\end{multicols}
-\item \begin{enumerate}
-\item 
-\end{enumerate}
-\graphicspath{{Images/}}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=6cm]{Md10_N19}
-\end{figure}
-\begin{enumerate}[(b)]
-\item \begin{enumerate}
-\item $Height=126\pm2\,m$
-\item $AB=88\pm2\,m$
-\item $72\pm2\,m$
-\end{enumerate}
-\end{enumerate}
-\begin{multicols}{3}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item 9 hrs 5 min
-\item 7 hrs 10 min
-\item 2 hrs 20 min
-\item 9 hrs 30 min
-\end{enumerate}
-\item 28 hrs 05 min
-\item 5 hrs 10 min
-\item 60 km/hr
-\end{enumerate}
-\item \begin{enumerate}
-\item \begin{enumerate}
-\item Ksh. 1,602,500
-\item Ksh. 102,560
-\end{enumerate}
-\item Ksh. 16,405
-\end{enumerate}
-\end{multicols}
-\end{enumerate}
-\end{document}
+13. $1068\, kg/m^3$
 
+14. n=12 sides
 
+15. 13 steps
 
-## model Sample Paper 2
+16. $616\,cm^2$
+:::
 
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
 
+17. a\) i) Ksh. 24,000
 
-## model Sample Paper 3
+    ii\) Ksh. 14,200
 
+    b\) Ksh. 5,640
 
+18. a\)
 
+    ![](figures/M1N18.png)
 
-## model Sample Paper 4
+    b\) 8.54 ha
 
+    c\) Ksh. 2,391,200
 
+19. a\)
 
+    ![](figures/M1N19.png)
 
-## model Sample Paper 5
+    b\) i) $RW=475\pm5\,km$; Bearing: $242\pm1^0$
 
+    ii\) $WM=510\pm5\,km$
 
+    iii\) $RM=575\pm5\,km$
 
+20. a\) Ksh. 800
 
-## model Sample Paper 6
+    b\) Ksh. 8,400
 
+    c\) Ksh. 3,600
 
+    d\) $175\%$
 
+21. a\) A=630 bags
 
-## model Sample Paper 7
+    B=420 bags
 
+    C=1080 bags
 
+    D=600 bags
 
+    b\) 55 days
+:::
+:::
+:::
 
-## model Sample Paper 8
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 2
 
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
 
+1.  5.814
 
+2.  4
 
-## model Sample Paper 9
+3.  Musa=20 years\\Ahmed=8 years
 
+4.  179.2 ha
 
+5.  3,371 Sterling Pounds
 
+6.  a\) n=6 sides
 
-## model Sample Paper 10
+    b\) for n sides, $interior \angle=120^0$
+
+    for n-1 sides, $interior \angle=108^0$
+
+7.  Ksh. 850
+
+8.  360 biscuits
+
+9.  10 days
+
+10. $-\frac{1}{x}$
+
+11. 65
+
+12. $5.2\pm0.1\,km$; $S60\pm1^0W$
+
+13. Marked Price= Ksh. 4,000
+
+    Buying Price= Ksh. 3,000
+
+14. 21.6 kg
+
+15. radius=5.278 cm
+
+16. a\) $144^0$
+
+    b\) 35.2 cm
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\) i) Ksh. 6,000
+
+    ii\) Ksh. 4,080
+
+    iii\) $47.1\%$
+
+    iv\) Ksh. 3,264
+
+18. a\)
+
+    ![](figures/M2N18.png)
+
+    b\) $AC=8\pm1\,cm$; $\angle ACB=44\pm1^0$
+
+    d\) $r=2.0\pm0.1\,cm$
+
+19. a\) 48 Passengers
+
+    b\) 28 Passengers
+
+    c\) Ksh. 10,160
+
+20. a\) $height=5.6\pm0.1\,m$
+
+    b\) i)
+
+    ![](figures/M2N20b.png)
+
+    ii) $AB=85\pm1\,km$
+
+    iii) $177\pm1^0$
+
+21. a\) 43.12 litres
+
+    b\) $2.415\, m^2$
+
+    c\) Ksh. 2,102.40
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 3
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  -2
+
+2.  a\) 25 beacons
+
+    b\) 603 metres
+
+3.  $Muchoki=5 \,goats$
+
+    $Wakuraya =7\, goats$
+
+4.  39 coins
+
+5.  a\) $\angle CBA=144^0$
+
+    b\) $\angle CDE=108^0$
+
+6.  a\) 432,000 litres
+
+    b\) 432,000 Kg
+
+7.  $\$ 61,546$
+
+8.  Ksh. 25,290
+
+9.  Ksh. 345
+
+10. $RP=256\pm4\, km$; Bearing: $220\pm1^0$
+
+11. 562.5 m
+
+12. 4.08 tonnes
+
+13. 32.86
+
+14. 4
+
+15. $26.08\%$
+
+16. 35 minutes
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\) i) 3 kg
+
+    ii\) 60 litres
+
+    b\) 48 kg
+
+18. a\) i) 31 hrs 35 minutes
+
+    ii\) 3 hrs
+
+    iii\) 34 hrs 35 minutes
+
+    b\) 2075 km
+
+19. a\)
+
+    ![](figures/M3N19.png)
+
+    b\) i) $SP=230\pm5\,km$
+
+    ii\) $SQ=510\pm5\,km$
+
+    Bearing: $160\pm1^0$
+
+    iii\) Compass bearing of S from R: $S70\pm1^0E$
+
+20. a\) n=10 litres
+
+    b\) $40\%$
+
+    c\) $8:7$
+
+21. a\) Ksh. 2,871
+
+    b\) Ksh. 2,500
+
+    c\) $16\%$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 4
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  $\frac{1}{20}$
+
+2.  21-inch TV= Ksh. 25,000
+
+    17-inch TV= Ksh. 14,000
+
+3.  323,466 Japanese yens
+
+4.  19.20
+
+5.  $12\%$ profit
+
+6.  1:5
+
+7.  35.56 litres
+
+8.  $28.32\%$;decrease
+
+9.  20 ha
+
+10. Rice=Ksh. 60
+
+    KDF cake=Ksh. 10
+
+11. b\) $h=4.2\pm 0.1\,cm$
+
+12. n=5 sides
+
+13. $\frac{1}{8}$
+
+14. b\) 750 m
+
+15. 3 minutes
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+16. a\) i) 4 buses
+
+    ii\) 6 matatus
+
+    b\) 324 students
+
+    c\) Ksh. 13,800
+
+17. a\) i) Ksh. 2,170,800
+
+    ii\) Ksh. 1,953,720
+
+    iii\) Ksh. 434,160
+
+    b\) Ksh. 30,225
+
+18. a\) i) 6 hours 50 minutes
+
+    ii\) 6 hours 20 minutes
+
+    iii\) 5 hours 40 minutes
+
+    iv\) 12 hours 15 minutes
+
+    b\) 35 hours 50 minutes
+
+    c\) 42 km/h
+
+19. a\)
+
+    ![](figures/M4N19.png)
+
+    b\) 6.32 ha
+
+    c\) Ksh. 632,000
+
+20. a\) 540 eggs
+
+    b\) $15.6\%$
+
+    c\) $16.67\%$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 5
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  2
+
+2.  Skirt=Ksh. 200
+
+    Blouse=Ksh. 250
+
+3.  Gaceru=37 years
+
+    Kairu=10 years
+
+4.  5
+
+5.  a\) $19.199 \,cm^3$
+
+    b\) 14.4 g
+
+6.  Ksh. 17,920
+
+7.  2520 g
+
+8.  $22.638 \,cm^3$
+
+9.  805 Kg
+
+10. 24 students
+
+11. 2,500 ha
+
+12. $507\, cm^3$
+
+13. b\) 150 Km
+
+14. $\frac{391}{495}$
+
+15. $a=\frac{5}{9}$
+
+16. a\) $270^0$
+
+    b\) $259.9 cm^2$
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\)
+
+    ![](figures/M5N17a.png)
+
+    b)  
+
+    ![](figures/M5N17.png)
+
+    $\therefore x=3;\, y=0$
+
+18. a\) i) $3,900 cm^2$
+
+    ii\) 1.97 kg
+
+    b\) 15.97 kg
+
+19. a\)
+
+    ![](figures/M5N18.png)
+
+    b\) i) $BA=247.5\pm 2.5\, km$
+
+    Compass bearing$=S21\pm1^0W$
+
+    ii\) $AC=152\pm2.5\,km$
+
+    iii\) $BC=232.5\pm2.5\,km$
+
+20. $25.35\%$
+
+21. a\)
+
+    ![](figures/M5N21.png)
+
+    b\) $AC=5.5\pm0.1\,cm$; $\angle ACB=110\pm1^0$
+
+    d\) $r=4.6\pm0.1\,cm$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 6
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  5
+
+2.  Ksh.1,400
+
+3.  4
+
+4.  18 minutes
+
+5.  240 and 300
+
+6.  Ksh.1,550
+
+7.  980 kg
+
+8.  Ksh.21,000
+
+9.  $x=40^0$
+
+10. a\) Ksh.121,300
+
+    b\) Ksh.98,331
+
+11. Ksh. 140,000
+
+12 b) $14.6\pm0.2\,km$; $260\pm1^0$
+
+13. 30 laborers
+
+14. a\) $252^0$
+
+    b\) 70.4 cm.
+
+15. 576 m
+
+16. $4.76\%$, increase
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\) 71,280 litres
+
+    b\) 7,800 litres
+
+    c\) Ksh.819
+
+18. a\) Sketch
+
+    b\)
+
+    ![](figures/M6_18.png)
+
+    c\) i) $125\pm2.5$ km; $310\pm1^0$
+
+    ii\) $181\pm2.5$ km
+
+    iii\) $225\pm2.5$ km
+
+19. a\)
+
+    ![](figures/M6_19.png)
+
+    b\) i) Area is given as follows: $$
+            \begin{align*}
+            L1&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times45&=1350\,m^2\\
+            L2&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times(45+75)&=3600\,m^2\\
+            L3&\Rightarrow \frac{1}{\cancel2}\times\cancelto{30}{60}\times75&=2250\,m^2\\
+            L4&\Rightarrow\frac{1}{\cancel2}\times\cancelto{15}{30}\times42&=630\,m^2\\
+            L5&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times(42+60)&=3060\,m^2\\
+            L6&\Rightarrow\frac{1}{\cancel2}\times\cancelto{45}{90}\times60&=2700\,m^2\\
+            Total&\Rightarrow 1350+...+2700&=13,590\,m^2\\
+            \end{align*}
+    $$
+
+    $\therefore$ The area of the field is equal to $13,590\,m^2$
+
+    ii\) $108\pm1.5\,m$; $N34\pm1^0E$
+
+20. a\) A=625 bags
+
+    B=500 bags
+
+    C=1050 bags
+
+    D=750 bags
+
+    b\) $13\frac{1}{2}$ days
+
+21. a\) x=160 litres of water
+
+    b\) $44.8\%$
+
+    c\) $32:43$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 7
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  2
+
+2.  4.5346
+
+3.  Ksh. 5,471,875
+
+4.  4
+
+5.  $y=\frac{1}{2}$
+
+6.  9 notes
+
+7.  Ksh. 73.80
+
+8.  $11.21\%$
+
+9.  Ksh. 160
+
+10. 20 years
+
+11. $4.76\% \,\,increase$
+
+12. n=6; Hexagon
+
+13. 1.46 m
+
+14. 5 cm
+
+15. 12 more boys
+
+16. b\) $38.25\pm0.375\,cm^2$
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\) i) 2 buses
+
+    ii\) 8 matatus
+
+    b\) 196 youths
+
+    c\) Ksh.20,400
+
+18. a\) 3:4:5
+
+    b\) i) Ksh.96,000
+
+    ii\) Muhammed = Ksh 24,000
+
+    Maimuna=Ksh.32,000
+
+    Hasan=Ksh.40,000
+
+    iii\) $71.43\%$
+
+19. a\) i) item 200 Students
+
+    ii\) 228 students
+
+    iii\) 285 Students
+
+    b\) $18.75\%$
+
+    c\) $14\%$
+
+20. a\)
+
+    ![](figures/M7N20a.png)
+
+    b\)
+
+    ![](figures/M7N20.png)
+
+    c\) A(3,0); B(0,9)
+
+21. a\)
+
+    ![](figures/M7_N21.png)
+
+    b\) i) $ZX=81\pm 1$ m; $313\pm1^0$
+
+    ii\) $WZ=105\pm1$ m
+
+    iii\) $WX=77\pm1$ m
+
+    iv\) $S44\pm1^0W$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 8
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  -2
+
+2.  $3(x+y)(x-2y)$
+
+3.  a\) $\frac{133}{5} \,g$
+
+    b\) $6.4\%$
+
+4.  $90^0$
+
+5.  8 ha
+
+6.  5.946
+
+7.  607.5 m
+
+8.  Ksh.1200
+
+9.  n=8; octagon
+
+    $Exterior\,\angle = 45^0$
+
+10. 79 pieces
+
+11. 2:1
+
+12. Ksh.2,100
+
+13. Ksh. 345
+
+14. a\) 70 Swiss Francs
+
+    b\) Ksh.7,068.60
+
+15. b\) $\angle CAB=59 \pm 1^0$
+
+16. 3 hrs
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\) Ksh.420,000
+
+    b\) Ksh 561,000
+
+    c\) 748,000
+
+    d\) $52.5\%$
+
+18. a\) 35 dresses; 22 skirts
+
+    b\) Ksh.4,910
+
+    c\) $25.6\%$
+
+19. a\) $A= (8000-4x^2)\,cm^2$
+
+    b\) $x=10 cm$; \\, $80\,cm\times60\,cm\times10\,cm$
+
+    c\) 3.8 kg
+
+    d\) $0.75 g/cm^3$
+
+20. a\)
+
+    ![](figures/Md8_N20.png)
+
+    b\) $AB=14.8\pm0.1\,cm$; $ABC =25\pm1^0$
+
+    d\) $AD=6.4\pm0.1\,cm$; $22.4\pm0.35\,cm^2$
+
+    f\) $EC=11.4\pm0.1 \,cm$
+
+21. a\)
+
+    ![](figures/Md8_N21.png)
+
+    b\)
+
+    i\) $AC=465\pm5\,km$
+
+    ii\) $AD=293\pm3\,km$
+
+    iii\) $CD=540\pm5\,km$
+
+    iv\) $204\pm1^0$
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 9
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  3
+
+2.  50 Files
+
+3.  Mutheu= 21 years
+
+    Brother=11 years
+
+4.  $21.4\%$
+
+5.  75.199
+
+6.  a\) $636,000 cm ^3$
+
+    b\) 477.0 kg
+
+7.  3(x-3y)(x+2y)
+
+8.  8 more workers
+
+9.  35 students
+
+10. a\) 90.91 Swiss Franks
+
+    b\) Ksh.9,173
+
+11. 845 biscuits
+
+12. 12 sides
+
+13. 1:2
+
+14. 390
+
+15. $100 cm^2$
+
+16. $\frac{8}{9},\frac{3}{4},\frac{3}{5},\frac{4}{7},\frac{1}{3}$
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\) Ksh. 760,000
+
+    b\) Ksh. 608,000
+
+    c\) Ksh. 1,216,000
+
+    d\) $57.5\%$
+
+18. a\)
+
+    ![](figures/M9N18a.png)
+
+    b\)
+
+    ![](figures/M9N18.png)
+
+    c\) A(3.5,0); B(0,7)
+
+19. a\) y=75 litres
+
+    b\) $35\%$
+
+    c\) 5:7
+
+20. 
+
+    a)  
+
+```         
+i\) 16,000 bags
+
+ii\) 17,000 bags
+
+b\) $3.5\%$
+
+c\) $2.53\%$
+
+d\) $6.25\%$
+```
+
+21. a\) $39,537\, cm^3$
+
+    b\) 31.63 kg
+
+    c\) 64.2 kg
+:::
+:::
+:::
+
+::: columns
+::: {.callout-caution collapse="true"}
+## Model Sample Paper 10
+
+::: {.column width="50%"}
+**SECTION A (50 MARKS)**
+
+1.  $\frac{3}{5}$
+
+2.  Kiama=28 years
+
+    Murugi=35 years
+
+    Naomi=15 years
+
+3.  $10.2\%$
+
+4.  a\) $210^0$
+
+    b\) 51.33 cm
+
+5.  825 cm
+
+6.  a\) $90^0$
+
+    b\) 98.5 km
+
+7.  12 books
+
+8.  Mother=32 years
+
+    Daughter=8 years
+
+9.  $8.2\%$
+
+10. $y=\frac{5}{4}$
+
+11. a\) $(8x-20)^0$
+
+    b\) $85^0$
+
+12. Ksh. 112,200
+
+13. $306\, cm^3$
+
+14. 570 students
+
+15. 125 coins
+
+16. 3
+:::
+
+::: {.column width="45%"}
+**SECTION B (50 MARKS)**
+
+17. a\) 30 Trousers; 20 T-shirts
+
+    b\) Ksh. 2,300
+
+    c\) $34.41\%$
+
+18. a\) $A=(6300-4t^2)\, cm^2$
+
+    b\) 2.8 kg
+
+    c\) $80\times60\times5$; $24,000\,cm^3$
+
+    d\) $0.7 g/cm^3$
+
+19. a\)
+
+    ![](figures/Md10_N19.png)
+
+    b\)
+
+    i\) $Height=126\pm2\,m$
+
+    ii\) $AB=88\pm2\,m$
+
+    iii\) $72\pm2\,m$
+
+20. a\)
+
+    i\) 9 hrs 5 min
+
+    ii\) 7 hrs 10 min
+
+    iii\) 2 hrs 20 min
+
+    iv\) 9 hrs 30 min
+
+    b\) 28 hrs 05 min
+
+    c\) 5 hrs 10 min
+
+    d\) 60 km/hr
+
+21. a\)
+
+    i\) Ksh. 1,602,500
+
+    ii\) Ksh. 102,560
+
+    b\) Ksh. 16,405
+:::
+:::
+:::
