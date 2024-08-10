@@ -3,13 +3,13 @@
     output-dir: _book
 
   book:
-    title: "Enrightening Mathematics Revision Book Volume"
+    title: "Enlightening Mathematics Revision Book Volume 1"
     reader-mode: true
     
     
     page-footer:
       left: |
-        Enrightening Mathematics Revision Book Volume (2e) was written by Martin Nyamu and Ken Gatungo.
+        Enlightening Mathematics Revision Book Volume (2e) was written by Martin Nyamu and Ken Gatungo.
       right: |
        This book was built with <a href="https://quarto.org/">Quarto</a>.
        
