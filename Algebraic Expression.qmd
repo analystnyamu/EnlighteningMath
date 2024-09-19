@@ -23,19 +23,18 @@ a\) $$\frac{2m-am-2y+ay}{2m+2y-am-ay} \hspace{11cm} (3 mks)$$
 
 Factorizing the **Numerator:**
 
-```{=tex}
+$$
 \begin{split}
 2m-am-2y+ay&=m(2-a)-y(2-a)\\&=(m-y)(2-a)\\ 
 \end{split}
-```
-Factorizing the **Denominator:**
+$$ Factorizing the **Denominator:**
 
-```{=tex}
+$$
 \begin{split}
 2m+2y-am-ay&=2(m+y)-a(m+y)\\&=(2-a)(m+y)\\  \\
 \Rightarrow \, \frac{(m-y)\cancel{(2-a)})}{\cancel{(2-a)}(m+y)}&=\frac{(m-y)}{(m+y)}
 \end{split}
-```
+$$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -49,21 +48,22 @@ b\) $$\frac{x^2-4ax-4a+x}{(x+1)(4a^2-ax)} \hspace{11cm} (3 mks)$$
 
 Factorizing the **Numerator:**
 
-```{=tex}
+$$
 \begin{split}
 x^2-4ax-4a+x&=x(x-4a)+1(x-4a)\\ 
 &=(x+1)(x-4a)\\ 
 \end{split}
-```
+$$ 
+
 **Denominator:**
 
-```{=tex}
+$$
 \begin{split}
 (x+1)(4a^2-ax)\\
 \Rightarrow \frac{\cancel{(x+1)}(x-4a)}{\cancel{(x+1)}(4a^2-ax)}&=\frac{x-4a}{a(4a-x)}&\\ 
 &=\frac{\cancel{x-4a}}{-a(\cancel{x-4a)}}\\&=\frac{-1}{a}&
 \end{split}
-```
+$$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -75,12 +75,12 @@ c\) $$\frac{x-2y}{12p}-\frac{x+3y}{60p}  \hspace{11cm} (3 mks)$$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-```{=tex}
+$$
 \begin{split}
 L.C.M&=60p\\ \frac{x-2y}{12p}-\frac{x+3y}{60p}&=\frac{5(x-2y)-(x+3y)}{60p}\\&=\frac{5x-10y-x-3y}{60p} \\
 &=\frac{4x-13y}{60p}
 \end{split}
-```
+$$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -94,20 +94,19 @@ Given that p=4, q=-3, and r=-1 find the value of: $$\frac{2pqr^4+pqr-pr}{4pr-2qr
 
 **Numerator:**
 
-```{=tex}
+$$
 \begin{split}
 2pqr^4+pqr-pr&=2(4)(-3)(-1)^4+(4)(-3)(-1)-(4)(-1)&\\
 &=-24+12+4\\&=-8\\
 \end{split}
-```
-**Denominator:**
+$$ **Denominator:**
 
-```{=tex}
+$$
 \begin{split}
 4pr-2qr+2pqr&=4(4)(-1)-2(-3)(-1)+2(4)(-3)(-1)\\&=-16-6+24\\&=2\\
 \therefore \frac{\cancelto{-4}{-8}}{\cancel2}&=-4
 \end{split}
-```
+$$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -123,7 +122,7 @@ $$\frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2} \hspace{13cm}  (4mks) $$
 
 **Numerator**:
 
-```{=tex}
+$$
 \begin{split}
 (4a+b)^2&=(4a+b)(4a+b)&\\
 &=4a(4a+b)+b(4a+b)&\\&=16a^2+4ab+4ab+b^2&\\
@@ -134,10 +133,9 @@ $$\frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2} \hspace{13cm}  (4mks) $$
 &=16a^2+8ab+b^2-b^2+8ab-16a^2&\\
 &=8ab+8ab\\&=16ab&\\
 \end{split}
-```
-**Denominator:**
+$$ **Denominator:**
 
-```{=tex}
+$$
 \begin{split}
 (a+b)^2&=(a+b)(a+b)&\\
 &=a(a+b)+b(a+b)\\&=a^2+ab+ab+b^2&\\
@@ -150,7 +148,7 @@ $$\frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2} \hspace{13cm}  (4mks) $$
 &=2ab+2ab\\&=4ab&\\ 
 \therefore \frac{\cancelto{4}{16ab}}{\cancel{4ab}}&=4&\\
 \end{split}
-```
+$$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -165,7 +163,7 @@ $$\frac{3}{2r}=\frac{5}{5r-1} \hspace{12cm}         (2mks)$$
 
 Multiply both sides by the L.C.M of the **denominator**
 
-```{=tex}
+$$
 \begin{split}
 L.C.M &=2r(5r-1)\\
 \frac{3(\cancel{2r}(5r-1))}{\cancel{2r}}&=\frac{5(2r(\cancel{5r-1}))}{\cancel{5r-1}}\\
@@ -174,7 +172,7 @@ L.C.M &=2r(5r-1)\\
 15r-10r&=3\\
 \frac{\cancel5r}{\cancel5}&=\frac{3}{5}\\ \therefore r&=\frac{3}{5}\\
 \end{split}
-```
+$$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -188,7 +186,7 @@ In fourteen years' time, a mother will be twice as old as her son. Four years ag
 ## Solution
 
 ::: {.column width="45%"}
-```{=tex}
+$$
 \begin{split}
 \underline{14 \,yrs \,time:} \\
 Mother&=2x\\ son&=x\\
@@ -197,11 +195,11 @@ Mother&=2x-14\\ Son&=x-14\\
 \underline{4 \, yrs\, ago:}\\ 
 Mother&=2x-14-4\\Son&=x-14-4\\ 
 \end{split}
-```
+$$
 :::
 
 ::: {.column width="50%"}
-```{=tex}
+$$
 \begin{split}
 \underline{Sum \,of\, their\, age:}\\
 (2x-18)+(x-18)&=30\\3x-36&=30\\
@@ -209,7 +207,7 @@ Mother&=2x-14-4\\Son&=x-14-4\\
 Mother \Rightarrow (44-14)&= 30 \,years\, now\\
 Son \Rightarrow (22-14)&= 8 \,years\, now\\ Mother's\, age\, when\, giving \,birth&=30-8\\&=22\,years
 \end{split}
-```
+$$
 :::
 
 $\therefore$ The mother was 22 years old when the son was born.

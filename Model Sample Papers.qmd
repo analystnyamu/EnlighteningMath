@@ -634,9 +634,8 @@ a)  If the company received Ksh.12,452,658, calculate the amount, y received to 
 
 b)  The company exchanged the above Kenya shillings into Sterling pounds to buy a car in Britain. Calculate the cost of the car to the nearest Sterling pound. $\hspace{1cm} (2mks)$
 
-```{=html}
 <!-- -->
-```
+
 11. item Juma, Ali and Hassan share the profit of their business in the ratio 2: 3: 5 respectively. If Juma receives ksh. 56, 000. How much profit did the hassan get. $\hspace{1cm}(3mks)$
 
 12. Three police posts are such that Q is on a bearing of $220^0$ and 14 km from P while R is on a bearing of $145^0$ and 10 km from P.
@@ -727,7 +726,7 @@ $$\frac{1\frac{1}{4}\,of\,20+3\frac{3}{4}\div \frac{3}{8}-4\frac{1}{2}\times3\fr
 
 $$ (0.9233)^2+\sqrt[]{15.2453}-0.223$$
 
-3.  A UK tourist comes to Kenya with £65, 000. He pays 25% commission at the airport and his expenses in Kenya amounted to Ksh. 890,000. How much money did he remain with in Ksh? (Take $1\, UK \,£ = Ksh. 130.50$) $\hspace{1cm} (3mks)$
+3.  A UK tourist comes to Kenya with $\pounds, 65, 000$. He pays $25\%$ commission at the airport and his expenses in Kenya amounted to Ksh. 890,000. How much money did he remain with in Ksh? (Take $1\, UK \pounds = Ksh. 130.50$) $\hspace{1cm} (3mks)$
 
 4.  All prime numbers less than 10 are arranged in a descending order to form a number which forms a quotient of 1883 with a certain number. Calculate the number $\hspace{1cm} (3mks)$
 
@@ -823,8 +822,6 @@ x-2y&= -4\\
 $$
 
 c)  If the line $3x+y= 9$ cuts the x-axis and y-axis at A and B respectively, state the coordinates of A and B. $\hspace{1cm} (2mks)$
-
-<!-- -->
 
 21. A Parrot flies from a tree X to another tree Y which is 70m on a bearing of $035^0$ from X. From Y the dove flies 100 m due west to another tree Z and finally flies due south to another tree W which is on a bearing of $230^0$ from X.
 
@@ -978,7 +975,7 @@ $$\frac{\frac{3}{5}\,of\,30+5\frac{5}{6}\div\frac{7}{12}-2\frac{2}{3}\times 1\fr
 
 3.  Mutheu is now 10 years older than her younger brother. Six years ago the She was three times as old as his brother. Find their present ages. $\hspace{1cm} (3mks)$
 
-4.  Wambui marked a skirt at Ksh. 400 and sold it to a customer at a discount of 15%. Find the percentage profit She made if she had bought the skirt at Ksh. 280. $\hspace{1cm}(3mks)$
+4.  Wambui marked a skirt at Ksh. 400 and sold it to a customer at a discount of $15\%$. Find the percentage profit She made if she had bought the skirt at Ksh. 280. $\hspace{1cm}(3mks)$
 
 5.  Use tables to evaluate:- $\hspace{1cm} (4mks)$
 
@@ -1020,13 +1017,15 @@ $$(6.342+3.289)^2-\sqrt[]{(432.85-124.45)}$$
 
 15. Three similar pieces of timber of length 150cm, 140cm and 180cm are cut into equal pieces. Find the largest possible area of a square which can be made from any of the three pieces. $\hspace{1cm} (3mks)$
 
-16. Arrange the following fractions in descending order. $\hspace{1cm} (3mks)$ $$ \frac{3}{5},\frac{8}{9},\frac{1}{3},\frac{4}{7},\frac{3}{4}$$
+16. Arrange the following fractions in descending order. $\hspace{1cm} (3mks)$ 
+
+$$ \frac{3}{5},\frac{8}{9},\frac{1}{3},\frac{4}{7},\frac{3}{4}$$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
 ***Attempt all the questions***
 
-17. Melvin bought a second hand minibus at later sold it through a sales agent who charged 8% commission on the price at which she sold the minibus. She received Ksh. 699,200 from the agent after she had deducted her commission. Melvin made a profit of 15% on the price at which she had bought the vehicle.
+17. Melvin bought a second hand minibus at later sold it through a sales agent who charged $8\%$ commission on the price at which she sold the minibus. She received Ksh. 699,200 from the agent after she had deducted her commission. Melvin made a profit of $15\%$ on the price at which she had bought the vehicle.
 
     a\) Calculate the price at which the sales agent sold the minibus. $\hspace{1cm} (2mks)$
 
@@ -1059,13 +1058,13 @@ $$(6.342+3.289)^2-\sqrt[]{(432.85-124.45)}$$
 
     c\) If the line $2x+y-7=0$ cuts x-axis and y-axis at point A and B respectively, state the coordinates of A and B. $\hspace{1cm} (2mks)$
 
-19. \(a\) Solution whose volume is 100 litres is made up of 30% water and 70% milk. When y litres of water are added the percentage of milk drops to 40%. Find the value of y. $\hspace{1cm} (4mks)$
+19. \(a\) Solution whose volume is 100 litres is made up of $30\%$ water and $70\%$ milk. When y litres of water are added the percentage of milk drops to $40\%$. Find the value of y. $\hspace{1cm} (4mks)$
 
     \(b\) Twenty five litres of water is added to the new solution. Calculate the percentage of milk in the resulting solution. $\hspace{1cm} (2mks)$
 
     \(c\) If 8 litres of the solution in (b) above is added to 16 litres of the original solution, calculate in the simplest form, the ratio of water to milk in the resulting solution. $\hspace{1cm}(4mks)$
 
-20. Kiptanui's farm produced 13,600 bags of wheat in 2015 which was a decrease of 15% over the production in 2014. In 2016, the production was a 25% increase of the previous year but, in 2017 Kiptanui farm produced 16,405 bags of wheat.
+20. Kiptanui's farm produced 13,600 bags of wheat in 2015 which was a decrease of $15\%$ over the production in 2014. In 2016, the production was a $25\%$ increase of the previous year but, in 2017 Kiptanui farm produced 16,405 bags of wheat.
 
     a\) Calculate the number of bags of wheat Kiptanui's farm produced:
 
@@ -1125,7 +1124,7 @@ $$\frac{3\frac{1}{5}+\frac{2}{7}\,of\,1\frac{3}{4}-\frac{7}{10}}{1\frac{3}{4}-1\
 
 8.  Muthoni is now four times as old as his daughter. In sixteen years' time she will be twice as old as her daughter. Find their present ages. $\hspace{1cm} (3mks)$
 
-9.  Ali sold goods which were marked at Ksh. 450, 000 allowing a discount of 5% to the customer. If he received Ksh. 35,055 as a commission for this sale, calculate the percentage rate of commission he was paid. $\hspace{1cm} (3mks)$
+9.  Ali sold goods which were marked at Ksh. 450, 000 allowing a discount of $5\%$ to the customer. If he received Ksh. 35,055 as a commission for this sale, calculate the percentage rate of commission he was paid. $\hspace{1cm} (3mks)$
 
 10. Solve the following expression $\hspace{1cm} (3mks)$
 
@@ -1157,7 +1156,7 @@ $$\frac{3x^2yz^2-4xy^2z^2+5x^2y^2z^2}{4xy^2z+3x^2yz-x^2y^2z}$$
 
     b\) If Tum sold all his clothes at a profit of $40\%$ per T-shirt and $20\%$ per trouser, determine the profit he would make. $\hspace{1cm}(3mks)$
 
-    c\) Similarly, if kerich sold all his clothes at a profit of 20% per T-shirt and 40% per trouser, calculate the percentage profit he would make on the sale of all his clothes. $\hspace{1cm} (3mks)$
+    c\) Similarly, if kerich sold all his clothes at a profit of $20\%$ per T-shirt and $40\%$ per trouser, calculate the percentage profit he would make on the sale of all his clothes. $\hspace{1cm} (3mks)$
 
 18. A rectangular sheet is 90 cm long and 70 cm wide. The sheet is 1.8 mm thick and made of material whose density is $2.5g/cm^3$. A square of side t cm is removed from each corner and the remaining part folded to form an open cuboid.
 
@@ -1203,7 +1202,7 @@ $$\frac{3x^2yz^2-4xy^2z^2+5x^2y^2z^2}{4xy^2z+3x^2yz-x^2y^2z}$$
 
     e\) The average speed for the whole journey given that the distance between Kampala and Mombasa is 1995 km $\hspace{1cm} (2mks)$
 
-21. Wanja, Murimi, Kareb, and Elisha decided to buy a minibus. They acceded to pay for the cost of the minibus in the ratio 9:7:4:5. Basing their calculations on the marked price of the minibus, they found that Wanja would pay Ksh. 320,500, more than Kareb. The sales operator however allowed them a $20\%$ discount on cash payment.
+21. Wanja, Murimi, Kareb, and Elisha decided to buy a minibus. They acceded to pay for the cost of the minibus in the ratio $9:7:4:5$. Basing their calculations on the marked price of the minibus, they found that Wanja would pay Ksh. 320,500, more than Kareb. The sales operator however allowed them a $20\%$ discount on cash payment.
 
     a\) Calculate:
 

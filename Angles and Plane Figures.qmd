@@ -41,7 +41,7 @@ v\) Sum of an interior angle and an exterior angle is equal to $180^0$
 ::: {.callout-note collapse="false"}
 # Example 1
 
-The sum of interior angles of two regular polygons of sides; n and $n + 2$ are in the ratio $5:7$ Calculate the sum of the interior angles of the polygon with n sides. \hspace{3.6cm}$(4 mks)$
+The sum of interior angles of two regular polygons of sides; n and $n + 2$ are in the ratio $5:7$ Calculate the sum of the interior angles of the polygon with n sides. \hspace{0.5cm} $(4 mks)$
 :::
 
 ::: {.callout-caution collapse="true"}

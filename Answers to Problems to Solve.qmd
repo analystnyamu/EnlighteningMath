@@ -970,171 +970,136 @@ $y=2$
 :::
 :::
 
-
-
 ::: columns
 ::: {.callout-caution collapse="true"}
 ## Chapter 18: Scale Drawing
 
 ::: {.column width="50%"}
+1.  375 ha
 
-1. 375 ha
+2.  a\)
 
-2. a\) ![](figures/2Q.png)
+    ![](figures/2Q.png)
 
-b\) $Height=23\pm1\,m$
+    b\) $Height=23\pm1\,m$
 
-c\) $31.5\pm1\,m$
+    c\) $31.5\pm1\,m$
 
-d\) $39\pm1\,m$
+    d\) $39\pm1\,m$
 
-3. $PR=58\pm1\,m$; Compass bearing$=S80\pm1^0W$
+3.  $PR=58\pm1\,m$; Compass bearing$=S80\pm1^0W$
 
-a\) ![](figures/3Q.png)
+    ![](figures/3Q.png)
 
-4 a\) 
+4.  a\)
 
- ![](figures/4Q.png)
+    ![](figures/4Q.png)
 
-b\) i\)  $212\pm2\,Km$
+    b\) i) $212\pm2\,Km$
 
-ii\) $228\pm2\,Km$
+    ii\) $228\pm2\,Km$
 
-iii\) $230\pm2\,Km$
+    iii\) $230\pm2\,Km$
 
-iv\) $S41\pm1^0W$
+    iv\) $S41\pm1^0W$
 
-5. a\) 
+5.  a\)
 
- ![](figures/5Q.png)
+    ![](figures/5Q.png)
 
-b\)  $16.4\pm0.2\,km$; $056\pm1^0$
+    b\) $16.4\pm0.2\,km$; $056\pm1^0$
 
-c\) $24.4\pm0.2 \,km$; $S51\pm1^0W$
+    c\) $24.4\pm0.2 \,km$; $S51\pm1^0W$
+:::
 
-6. a\) 
+::: {.column width="50%"}
+6.  a\)
 
-a\) ![](figures/6Q.png)
+    ![](figures/6Q.png)
 
-b\) i\) $100\pm1\,Km$; $50\pm1^0$
+    b\) i) $100\pm1\,Km$; $50\pm1^0$
 
-ii\) $92\pm1\,Km$; $256\pm1^0$
+    ii\) $92\pm1\,Km$; $256\pm1^0$
 
-iii\) Compass bearing$=N53\pm1^0W$
+    iii\) Compass bearing$=N53\pm1^0W$
 
-7. \a) 
+7.  a\)
 
-![](figures/7Q.png)
+    ![](figures/7Q.png)
 
-b\) i\) $2625\pm15\,Km$
+    b\) i) $2625\pm15\,Km$
 
-ii\) $268\pm1^0$
+    ii\) $268\pm1^0$
 
-c\) i\)  $840\pm 15\,km$
+    c\) i) $840\pm 15\,km$
 
-ii\) $266\pm1^0$
+    ii\) $266\pm1^0$
 
-8. a\) 
+8.  a\)
 
-a\) ![](figures/8Q.png)
+    ![](figures/8Q.png)
 
-b\) i\)  $N34\pm1^0W$
+    b\) i) i) $N34\pm1^0W$
 
-ii\) $S42\pm1^0W$
+    ii\) $S42\pm1^0W$
 
-c\) i\) $600\pm10\,Km$
+    c\) i) $600\pm10\,Km$
 
-ii\) $690\pm10\,Km$
+    ii\) $690\pm10\,Km$
 
-d\) i\) $310\pm1^0$
+    d\) i) $310\pm1^0$
 
-ii\) $269\pm1^0$
+    ii\) $269\pm1^0$
 
-9. a\) 
+9.  a\)
 
-a\) ![](figures/9Q.png)
+    ![](figures/9Q.png)
 
-c\) i\) $430\pm5\,m$; $298\pm1^0$
+    c\) i) $430\pm5\,m$; $298\pm1^0$
 
-ii\) $S35\pm1^0E$
+    ii\) $S35\pm1^0E$
 
-10. a\) ![](figures/10Q.png)
+10. a\)
 
-b\) i\) $64\pm1\,Km$; $186\pm1^0$
+    ![](figures/10Q.png)
 
-ii\) $63\pm1\,Km$
+    b\) i) $64\pm1\,Km$; $186\pm1^0$
 
-iii\) $112\pm1\,Km$; Compass bearing$=S55\pm1^0W$
+    ii\) $63\pm1\,Km$
 
-11. a\) 
+    iii\) $112\pm1\,Km$; Compass bearing$=S55\pm1^0W$
 
-a\) ![](figures/11Q.png)
+11. a\)
 
+    ![](figures/11Q.png)
 
-b\) $5hrs \,36\pm3\,min$
+    b\) $5hrs \,36\pm3\,min$
 
-c\) $171\pm1^0$
+    c\) $171\pm1^0$
 
-d\) $287\pm1^0$
+    e\) $287\pm1^0$
 
-12. a\) 
+12. a\)
 
-b\) i\) $295\pm5Km$
+    ![](figures/12Q.png)
 
-ii\) Compass bearing of Y from W is $S9\pm1^0W$
+    b\) i) $295\pm5Km$
 
-c\) $170\pm5Km$
+    ii\) Compass bearing of Y from W is $S9\pm1^0W$
 
-13. a\) 
-a\) ![](figures/13Q.png)
+    c\) $170\pm5Km$
 
-i\)
+13. a\)
 
-ii\) $RP=138\pm1\,m$; Compass bearing of P from R is $S58\pm1^0W$
+    ![](figures/13Q.png)
 
-iii $RS=79\pm1\,m$
+    b\) i) $RP=138\pm1\,m$; Compass bearing of P from R is $S58\pm1^0W$
 
-iv\)$PS=118\pm1\,m$; $093\pm1^0$
+    ii\) $RS=79\pm1\,m$
+
+    iii\) $PS=118\pm1\,m$; $093\pm1^0$
+
+### 
 :::
 :::
 :::
-
-
-
-### Rounding Off
-
-### Operations
-
-## Chapter 2: Factors
-
-## Chapter 3: Divisibility Test
-
-## Chapter 4: G.C.D and L.C.M
-
-## Chapter 5: Integers
-
-## Chapter 6: Fractions
-
-## Chapter 7: Decimals, Squares, and Square Roots
-
-## Chapter 8: Algebraic Expression
-
-## Chapter 9: Rate, Ratio, Proportion, and Percentage
-
-## Chapter 10: Length, Area, Volume, and Capacity
-
-## Chapter 11: Mass, Weight, and Density
-
-## Chapter 12: Time
-
-## Chapter 13: Linear Equatins
-
-## Chapter 14: Commercial Arithmetic
-
-## Chapter 15: Co-Ordinates and Graphs
-
-## Chapter 16: Angles and Plane Figures
-
-## Chapter 17: Geometrical Constructions
-
-## Chapter 18: Scale Drawing

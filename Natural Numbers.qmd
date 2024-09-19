@@ -159,7 +159,8 @@ b\) 3 440
 c\) 0.009
 :::
 
-### Problems to solve
+::: {.callout-note collapse="false"}
+## Problems to solve
 
 1.  Round off the following numbers to the nearest numbers indicated in the brackets:
 
@@ -182,6 +183,7 @@ c\) 0.009
 4.  What is the difference between 14.643 rounded off to the nearest tenth and 21.247 rounded off the nearest hundredth? $(2mks)$
 
 5.  Kelvin, Grace, Ciru, and Njihia are playing a game. The winner is the person whose number is smallest when rounded to the nearest tenth. Kelvin's number is 0.355, Grace's number is 0.199, Ciru's number is 0.261, and Njihia's number is 0.959. Who is the winner? $(2mks)$
+:::
 
 ## Operations
 

@@ -70,6 +70,7 @@ $$
   24&\,&9&\,&?
  \end{matrix}
 $$ ![](images/Ratio_Ex2.png)
+
 $$Days\, needed: \cancelto{\frac{1}{2}}{\frac{12}{24}}\times\cancelto{\frac{2}{3}}{\frac{6}{9}}\times12=4$$
 $\therefore$ The laborers would take $4$ days
 :::
@@ -133,22 +134,27 @@ bath. \hspace {14.8 cm} $(3 mks)$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-**The 3 taps rate of filling the bath in 1 min:** $$
+**The 3 taps rate of filling the bath in 1 min:** 
+
+$$
 \begin{split}
 Cold \,water\, tap &=\frac{1}{15}& \\
 Hot\, water \,tap &=\frac{1}{10}& \\
 Drainage \,tap &=\frac{1}{8}& \\
-\textbf{Fraction\, by \,hot \.and\, cold \,tap\, in \,2 min:}\\
+\textbf{Fraction by hot and cold tap in 2 min:}\\
 \left (\frac{1}{15}+\frac{1}{10}\right)*2&=\frac{1}{3}
 \end{split}
-$$ **Fraction of water unfilled**:
+$$ 
+**Fraction of water unfilled**:
 
 $$\Rightarrow 1-\frac{1}{3}=\frac{2}{3}$$
 
 **Fraction of water by 3 taps in 1 min:**
+
 $$\frac{1}{15}+\frac{1}{10}-\frac{1}{8}=\frac{1}{24}$$
 
 **Time to fill the remaining water:**
+
 $$\frac{2}{3}\div \frac{1}{24}\Rightarrow \frac{2}{\cancel{3}} \times \cancel{24}^8=16 $$
 
 $\therefore$ Total time $\Rightarrow 16+2=18$ min.

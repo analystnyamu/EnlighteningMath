@@ -30,7 +30,7 @@ There are three methods used to solve simultaneous equations:
 $$
 \begin{align*}
 2x-3y&=-13... \hspace{3.3cm} (i)\\
-y&=2x+7 ...   \hspace{2.6cm} (ii)
+y&=2x+7 ...   \hspace{2.65cm} (ii)
 \end{align*}
 $$
 :::
@@ -38,8 +38,9 @@ $$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
+ Substituting equation __(ii)__ into __(i)__;
+ 
 $$
-  Substituting\, equation \,(ii) \,into \,(i);
  \begin{align*}
  2x-3(2x+7)&=-13\\
  2x-6x-21&=-13\\
@@ -171,12 +172,14 @@ $$
 \end{split}
 $$
 
-2.  Solve the simultaneous equations. \hspace{8.7 cm} $(3mks)$ $$
+2.  Solve the simultaneous equations. \hspace{8.7 cm} $(3mks)$ 
+
+$$
     \begin{align*}
     2x+3y &= 4\\
     x + 4y &= 7
     \end{align*}
-    $$
+$$
 
 3.  Solve the simultaneous equations: \hspace{8.5 cm} $(3mks)$
 

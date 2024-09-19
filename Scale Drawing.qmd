@@ -183,7 +183,7 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 
     1.  The scale of a map is given as $1:50,000$. Find the actual area
         in hectares of a region represented by a right-angled triangle
-        of base 5cm and height 6cm. $\hspace{1.5cm}      (3mks)$
+        of base 5cm and height 6cm. $\hspace{1.5cm} (3mks)$
 
     2.  The angle of elevation of the top of a flag post from point A on
         a level ground is $24\,^{\circ}$. The angle of elevation of the
@@ -212,7 +212,8 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
         is 140km on a compass bearing of $N\,60^0\, E$ from port B. Port
         C is 180km on a compass bearing of $S\,30^0\, E$ from A. A ship
         S is docked in the sea, 90km on a bearing of $190^0$ from port
-        B.
+
+        B.  
 
         a\) Using a scale of 1cm to represent 20km, draw a diagram to
         show the position of ports A, B, C, and ship S.
@@ -343,10 +344,10 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
         b\) i) Using the scale drawing find; the distance and bearing of
         Y and X. $\hspace{1cm} (2mks)$
 
-         ii) The distance of Z from the harbour. $\hspace{6.0cm} (2mks)$
+        ii) The distance of Z from the harbour. $\hspace{6.0cm} (2mks)$
 
-         iii) The distance and compass bearing of Z from X.
-        $\hspace{4.0cm} (3mks)$
+        iii) The distance and compass bearing of Z from X.
+             $\hspace{4.0cm} (3mks)$
 
     11. An aircraft leaves point A and flies on a bearing of
         $030\,^{\circ}$ to a second point B, which is 500km from A. From
@@ -380,9 +381,9 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 
         b\) From the diagram determine
 
-         i) The distance in km of V from Z $\hspace{7.9cm} (1mk)$
+        i)  The distance in km of V from Z $\hspace{7.9cm} (1mk)$
 
-         ii) The Compass bearing of Y from W $\hspace{7.2cm} (2mks)$
+        ii) The Compass bearing of Y from W $\hspace{7.2cm} (2mks)$
 
         c\) A plane heading to town X takes off from town Y and flies
         upwards of a constant angle which is less than $90\,^{\circ}$.
@@ -403,8 +404,8 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
         b\) i) From your diagram measure the distance and compass
         bearing of P from R. $\hspace{0.0cm} (3mks)$
 
-         ii) The distance of S from R in metres. $\hspace{7cm} (1mk)$
+        ii) The distance of S from R in metres. $\hspace{7cm} (1mk)$
 
-         iii) The distance and bearing of S from P in metres.
-        $\hspace{4.8cm} (2mk)$
+        iii) The distance and bearing of S from P in metres.
+             $\hspace{4.8cm} (2mk)$
     :::
