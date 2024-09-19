@@ -36,35 +36,28 @@ b\) 196 $(2mks)$
 :::
 :::
 
-::: {.callout-note collapse="false}
+::: {.callout-note collapse="\"false"}
 ## Problems to solve
 
 Express the following numbers in terms of their prime factors:
 
-a\)  1859 	  \hspace{11.2cm}                                       	$(2mks)$
+a\) 1859 \hspace{11.2cm} $(2mks)$
 
-b\) 105               \hspace{11.4cm}                                      $(2mks)$
+b\) 105 \hspace{11.4cm} $(2mks)$
 
-c\) 900 \hspace{11.4cm}   $(2mks)$
+c\) 900 \hspace{11.4cm} $(2mks)$
 
-d\) 700    \hspace{11.4cm} $(2mks)$
+d\) 700 \hspace{11.4cm} $(2mks)$
 
-e\) 5929 \hspace{11.4cm}    $(2mks)$
+e\) 5929 \hspace{11.4cm} $(2mks)$
 
-f\) 1078    \hspace{11.4cm}  $(2mks)$
+f\) 1078 \hspace{11.4cm} $(2mks)$
 
-g\) 2057   \hspace{11.4cm}    $(2mks)$
+g\) 2057 \hspace{11.4cm} $(2mks)$
 
-h\) 1386     \hspace{11.4cm}  $(2mks)$
+h\) 1386 \hspace{11.4cm} $(2mks)$
 
-i\) 1573    \hspace{11.4cm}     $(2mks)$
+i\) 1573 \hspace{11.4cm} $(2mks)$
 
-j\) 993       \hspace{11.4cm}   $(2mks)$
-
-
+j\) 993 \hspace{11.4cm} $(2mks)$
 :::
-
-
-
-
-
