@@ -1,6 +1,7 @@
 ---
-number-sections: true
-bibliography: references.bib
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
 ---
 
 # Chapter 1: Natural Numbers
@@ -54,16 +55,14 @@ a)  The number formed is: $7 \,532$
 
 b)  Total value is as calculated below:
 
-```{=tex}
-\begin{split}
-Total~value 
-&=place~value ~ \times~the~digit \\
-
-&=100~\times~5 \\
-
-&=500
-\end{split}
-```
+$$
+\begin{align*}
+\text{Total value} 
+&= \text{place value} \times \text{the digit} \\
+&= 100 \times 5 \\
+&= 500
+\end{align*}
+$$
 :::
 
 ::: {.callout-note collapse="false"}

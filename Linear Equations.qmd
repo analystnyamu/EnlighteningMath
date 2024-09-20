@@ -1,4 +1,8 @@
 ---
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
+  
 filters:
   - parse-latex
 editor: 
@@ -38,8 +42,8 @@ $$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
- Substituting equation __(ii)__ into __(i)__;
- 
+Substituting equation **(ii)** into **(i)**;
+
 $$
  \begin{align*}
  2x-3(2x+7)&=-13\\
@@ -172,7 +176,7 @@ $$
 \end{split}
 $$
 
-2.  Solve the simultaneous equations. \hspace{8.7 cm} $(3mks)$ 
+2.  Solve the simultaneous equations. \hspace{8.7 cm} $(3mks)$
 
 $$
     \begin{align*}

@@ -1,7 +1,7 @@
 ---
-editor: 
-  markdown: 
-    wrap: 72
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
 ---
 
 # Chapter Seventeen: Geometrical Constructions

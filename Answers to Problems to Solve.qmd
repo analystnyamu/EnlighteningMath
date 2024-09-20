@@ -1,3 +1,9 @@
+---
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
+---
+
 # SECTION THREE {.unnumbered}
 
 # Answers to Problems to Solve

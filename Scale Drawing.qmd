@@ -1,7 +1,7 @@
 ---
-editor: 
-  markdown: 
-    wrap: 72
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
 ---
 
 # Chapter Eighteen: Scale Drawing
@@ -84,15 +84,15 @@ b\) By measurement from your scale drawing determine:
 
 \(b\)
 
-\(i\) Distance of A from $C = 139 ± 1 m$ ;
+\(i\) Distance of A from $C = 139 ? 1 m$ ;
 
-Compass bearing of A from $C = N 75^0 ± 10 W$
+Compass bearing of A from $C = N 75^0 ? 10 W$
 
-\(ii\) Distance of D from $C = 58 ± 1m$
+\(ii\) Distance of D from $C = 58 ? 1m$
 
-\(iii\) Distance of A from $D = 164 ± 1m$ ;
+\(iii\) Distance of A from $D = 164 ? 1m$ ;
 
-Compass bearing of A from $D = N 55^0 ± 10 W$
+Compass bearing of A from $D = N 55^0 ? 10 W$
 :::
 
 ::: {.callout-note collapse="false"}

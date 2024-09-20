@@ -1,77 +1,76 @@
+project:
+  type: book
+  output-dir: _book
 
-  project:
-    type: book
-    output-dir: _book
+book:
+  title: "Enlightening Mathematics Revision Book Volume 1"
+  # Enable reader mode if needed by uncommenting
+  # reader-mode: true
 
-  book:
-    title: "Enlightening Mathematics Revision Book Volume 1"
-    #reader-mode: true
-    
-    
-    page-footer:
-      left: |
-        Enlightening Mathematics Revision Book Volume (2e) was written by Martin Nyamu and Ken Gatungo.
-      right: |
-       This book was built with <a href="https://quarto.org/">Quarto</a>.
-       
-    author: "Martin Nyamu and Ken Gatungo"
-    date: "10/01/2023"
-    search: true
-    repo-url: https://github.com/analystnyamu/EnlighteningMath/
-    repo-branch: main
-    repo-actions: [edit, issue]
-    downloads: [epub,pdf]
-    sharing: [twitter, facebook]
-  
-    chapters:
-      - index.qmd
-      - intro.qmd
-      - Natural Numbers.qmd
-      - Factors.qmd
-      - Divisibility Test.qmd
-      - GCD and LCM.qmd
-      - Integers.qmd
-      - Fractions.qmd
-      - Decimals Sqr & Sqrt.qmd
-      - Algebraic Expression.qmd
-      - Rate Ratio, Proportion and Percentage.qmd
-      - Length Area Volume and Capacity.qmd
-      - Mass Weight and Density.qmd
-      - Time.qmd
-      - Linear Equations.qmd
-      - Commercial Arithmetic.qmd
-      - Co-Ordinates and Graphs.qmd
-      - Angles and Plane Figures.qmd
-      - Geometrical Constructions.qmd
-      - Scale Drawing.qmd
-      - Model Sample Papers.qmd
-      - Answers to Problems to Solve.qmd
-      - Answers to Model Sample Papers.qmd
-    
-    
-  comments:
-    hypothesis: true
-  
-  format:
-    pdf:
-      documentclass: scrbook
-      papersize: a4paper
-      toc: true
-      number-sections: true
-      geometry: "left=1in, right=1in, top=1in, bottom=1in"  # Margins for PDF
-      colorlinks: true
-    html:
-      toc-depth: 2              # Depth of table of contents in HTML
-      theme: cosmo              # Use the 'cosmo' theme for HTML
-      css: styles.css           # Optional custom CSS for styling
-      code-link: true
-    epub:
-      toc: true                 # Table of contents in EPUB
+  author: "Martin Nyamu and Ken Gatungo"
+  date: "10/01/2023"
 
+  page-footer:
+    left: |
+      Enlightening Mathematics Revision Book Volume (2e) was written by Martin Nyamu and Ken Gatungo.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
 
-  # Options for code execution
-  execute:
-    echo: true         # Show R code in output
-    warning: false     # Suppress warnings
-    error: false       # Suppress errors
+  search: true
+  repo-url: https://github.com/analystnyamu/EnlighteningMath/
+  repo-branch: main
+  repo-actions: [edit, issue]
+  downloads: [epub, pdf]
+  sharing: [twitter, facebook]
 
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - Natural Numbers.qmd
+    - Factors.qmd
+    - Divisibility Test.qmd
+    - GCD and LCM.qmd
+    - Integers.qmd
+    - Fractions.qmd
+    - Decimals Sqr & Sqrt.qmd
+    - Algebraic Expression.qmd
+    - Rate Ratio, Proportion and Percentage.qmd
+    - Length Area Volume and Capacity.qmd
+    - Mass Weight and Density.qmd
+    - Time.qmd
+    - Linear Equations.qmd
+    - Commercial Arithmetic.qmd
+    - Co-Ordinates and Graphs.qmd
+    - Angles and Plane Figures.qmd
+    - Geometrical Constructions.qmd
+    - Scale Drawing.qmd
+    - Model Sample Papers.qmd
+    - Answers to Problems to Solve.qmd
+    - Answers to Model Sample Papers.qmd
+
+comments:
+  hypothesis: true
+
+format:
+  pdf:
+    documentclass: scrbook       # Use 'scrbook' document class for PDF
+    papersize: a4paper           # Set paper size to A4
+    toc: true                    # Enable table of contents for PDF
+    number-sections: true        # Enable section numbering
+    geometry: "left=1in, right=1in, top=1in, bottom=1in"  # Set margins for PDF
+    colorlinks: true             # Enable colored links in PDF
+
+  html:
+    toc-depth: 2                 # Depth of table of contents in HTML
+    theme: cosmo                 # Use the 'cosmo' theme for HTML
+    css: styles.css              # Link to custom CSS file for styling (optional)
+    code-link: true              # Add links to code in the output
+
+  epub:
+    toc: true                    # Enable table of contents for EPUB
+
+# Options for code execution
+execute:
+  echo: true                     # Display code in the output
+  warning: false                 # Suppress warnings in the output
+  error: false                   # Suppress errors in the output

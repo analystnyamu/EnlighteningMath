@@ -1,7 +1,7 @@
 ---
-editor: 
-  markdown: 
-    wrap: 72
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
 ---
 
 # Chapter Fifteen: Co-Ordinates and Graphs
@@ -161,9 +161,9 @@ and y are: $x=4$ and $y=5$
     \hspace{4.6cm}(1mk)
 
     c\) Use your graphs to solve the simultaneous equations.
-    \hspace{4.8 cm}(1mk) 
-    
-  $$
+    \hspace{4.8 cm}(1mk)
+
+$$
     \begin{split}
     -2x+3y&=8 \\
     5x-y&=6

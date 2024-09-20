@@ -1,8 +1,13 @@
 ---
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
+
 pdf_document: default
 latex_engine: xelatex
 keep_tex: true
 classoption: landscape
+
 ---
 
 # Chapter Sixteen: Angles and Plane Figures

@@ -1,17 +1,15 @@
 ---
-filters:
-  - parse-latex
-editor: 
-  markdown: 
-    wrap: 72
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
 ---
 
 # Chapter Eleven: Mass, Weight and Density
 
 # Mass, Weight and Density {.unnumbered}
 
-**Mass**, is the quantity of matter in an object? The Mass of an
-object is constant everywhere. Its SI unit is Kilogram (K.g).
+**Mass**, is the quantity of matter in an object? The Mass of an object
+is constant everywhere. Its SI unit is Kilogram (K.g).
 
 **Weight**, is the pull of the earth on an object. The weight of an
 object varies from one place to another on the earth's surface. Its SI
@@ -20,8 +18,8 @@ force (g).
 
 $Weight (N) = mass (kg) \times gravity (N/kg).$
 
-**Density**, is mass per unit volume. Its SI unit is Kilogram per
-Cubic meter ($kgm^-3$)
+**Density**, is mass per unit volume. Its SI unit is Kilogram per Cubic
+meter ($kgm^-3$)
 
 $$Density= \frac{mass}{volume}$$
 $$Density \,of\, mixture=\frac{mass \,of\, mixture}{volume\, of \,mixture} $$
@@ -87,9 +85,8 @@ the second coil. $(3mks)$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-**Note:** Since mass is proportional to volume for the same
-density, the volume of the first coil is equal to volume of the second
-coil. 
+**Note:** Since mass is proportional to volume for the same density, the
+volume of the first coil is equal to volume of the second coil.
 
 $$
 \begin{align*}
@@ -114,19 +111,19 @@ wide, and 0.4 m high. The metal used in making box is 1.0 cm thick and
 has a density of 0.85 g/cm3. If the box contains 40 packets of 12
 similar tools each and each tool has a mass of 115 g, calculate:
 
-a\) The volume of metal used in making the box.   $\hspace{1cm}        (4mks)$
+a\) The volume of metal used in making the box. $\hspace{1cm} (4mks)$
 
-b\) The mass of the empty box in Kilograms to 3 significant figures.      $\hspace{1cm}    (3mks)$
+b\) The mass of the empty box in Kilograms to 3 significant figures.
+$\hspace{1cm} (3mks)$
 
-c\) The total mass of the box in kilograms to 3 significant figures.      $\hspace{1cm}      (3mks)$
+c\) The total mass of the box in kilograms to 3 significant figures.
+$\hspace{1cm} (3mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-a\) 
-$$
-\begin{align*}
+a\) \$\$ \begin{align*}
 \textbf{Volume of the Cuboid (v):} \\
 v&=Length\times Width\times Height\\
 
@@ -138,20 +135,17 @@ Height&=40 cm\\
 \textbf{Internal Measurement:} \\
 thickness&=1 cm\\
 Length&=158 cm\\
-\end{align*}
-$$
-$$
-\begin{align*}
+\end{align*} $$
+
+$$ \begin{align*}
 Width&=68 cm\\
 Height&=38 cm\\ \textbf{External volume:} \\
 160\times 70\times 40&=448,000\,cm^3\\ \textbf{Internal Volume:}\\
 158\times 68 \times 38&=408,272\,cm^3\\
 448,000\,cm^3-408,272\,cm^3&=39,728\,cm^3\\ \therefore \textbf{Volume of the metal}&=39,728 \,cm^3
-\end{align*}
-$$
+\end{align*} \$\$
 
-b\) 
-$$
+b\) $$
 \begin{align*}
 Mass&=density\times volume\\
 &=0.85 g/cm^3\times 39,728 cm^3\\ 
@@ -161,8 +155,7 @@ Mass&=density\times volume\\
 \end{align*}
 $$
 
-c\) 
-$$
+c\) $$
 \begin{align*}
 \textbf{Mass of tools:}\\
 12\times 40 \times 115&=55,200\, g\\

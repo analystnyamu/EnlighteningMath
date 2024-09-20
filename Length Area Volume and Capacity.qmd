@@ -1,4 +1,8 @@
 ---
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
+  
 filters:
   - parse-latex
 editor: 
@@ -198,9 +202,10 @@ down and recast into a spherical ball. Calculate to 1 decimal place the
 surface area of this ball.\hspace{5 cm} $(4mks)$
 :::
 
-::: {.callout-caution collapse="true"} 
+::: {.callout-caution collapse="true"}
 ## Solution
-**Radius (R) of the cylinder:**  $R= 7cm$
+
+**Radius (R) of the cylinder:** $R= 7cm$
 
 **Height (h) of the cylinder:** $h= 5 cm$
 
@@ -247,8 +252,7 @@ $$
 4.  The figure below shows a circle Centre O. Chord AB subtends $30^0$
     at the Centre. If the area of the minor segment is
     $5\frac{16}{21} cm^2$, find the radius of the circle.(hint area of
-    $\triangle \,OAB=\frac{1}{2}r^2sin(\theta)$ \hspace{14.5cm}
-    $(3mks)$
+    $\triangle \,OAB=\frac{1}{2}r^2sin(\theta)$ \hspace{14.5cm} $(3mks)$
 
 ![](images/circle.png)
 

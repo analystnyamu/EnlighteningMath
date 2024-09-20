@@ -1,4 +1,8 @@
 ---
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
+    
 filters:
   - parse-latex
 editor: 
@@ -134,7 +138,7 @@ bath. \hspace {14.8 cm} $(3 mks)$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-**The 3 taps rate of filling the bath in 1 min:** 
+**The 3 taps rate of filling the bath in 1 min:**
 
 $$
 \begin{split}
@@ -144,8 +148,7 @@ Drainage \,tap &=\frac{1}{8}& \\
 \textbf{Fraction by hot and cold tap in 2 min:}\\
 \left (\frac{1}{15}+\frac{1}{10}\right)*2&=\frac{1}{3}
 \end{split}
-$$ 
-**Fraction of water unfilled**:
+$$ **Fraction of water unfilled**:
 
 $$\Rightarrow 1-\frac{1}{3}=\frac{2}{3}$$
 

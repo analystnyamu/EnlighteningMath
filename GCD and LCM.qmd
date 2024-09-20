@@ -1,3 +1,9 @@
+---
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
+---
+
 # Chapter 4: G.C.D and L.C.M
 
 # Greatest Common Divisor and Least Common Divisor {.unnumbered}
@@ -93,4 +99,3 @@ The G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 
 
 19. Three similar pieces of timber of length 240cm, 320cm, and 380cm are cut into equal pieces. Find the largest possible area of a square that can be made from any of the three pieces. \hspace{14.2cm} $(3mks)$
 :::
-

@@ -1,7 +1,7 @@
 ---
-editor: 
-  markdown: 
-    wrap: 72
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{graphicx}  # Example package for graphics
 ---
 
 # Chapter Fourteen: Commercial Arithmetic
@@ -27,11 +27,11 @@ $\hspace{5.1cm} Buying\hspace{2.9cm} Selling$
 1 UK £ $\hspace{4cm}132.30 \hspace{3cm} 132.95$
 
 A European tourist arriving in Kenya from Britain had 12,600 UK Sterling
-pounds (£). He converted the pounds to Kenya shillings at a
-commission of 5%. While in Kenya, he spent $\frac{4}{5}$ of this money.
-He changed the balance to US dollars after his stay. If he was not
-charged any commission for this last transaction, calculate to the
-nearest US dollars, the amount he received.
+pounds (£). He converted the pounds to Kenya shillings at a commission
+of 5%. While in Kenya, he spent $\frac{4}{5}$ of this money. He changed
+the balance to US dollars after his stay. If he was not charged any
+commission for this last transaction, calculate to the nearest US
+dollars, the amount he received.
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -46,8 +46,7 @@ $$
 He\, received &=12,500 \times 132.30 \\&=Ksh. 1,666,980\\
 After \,commission,\, he \,gets:\\ &= \frac{95}{100}\times 1,666,980\\&=1,583,631\\
 \end{align*}
-$$ 
-Balance after spending $\frac{4}{5}$ of his money:
+$$ Balance after spending $\frac{4}{5}$ of his money:
 
 $$
  \begin{align*}
