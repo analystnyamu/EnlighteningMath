@@ -1,0 +1,8 @@
+{
+  "name": "my-quarto-book",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@netlify/plugin-lifecycle": "^1.0.0"
+  }
+}
