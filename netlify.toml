@@ -1,0 +1,9 @@
+[build]
+  publish = "_book"  # directory where the rendered book will be placed
+  command = "quarto render"  # command to render your Quarto project
+
+[build.environment]
+  NODE_VERSION = "16"  # set a Node version if needed for your dependencies
+
+[[plugins]]
+  package = "@netlify/plugin-lifecycle"
