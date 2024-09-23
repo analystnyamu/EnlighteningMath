@@ -9,6 +9,7 @@ book:
 
   author: "Martin Nyamu and Ken Gatungo"
   date: "10/01/2023"
+  cover-image: "cover.png"  # or wherever your cover image is stored
 
   page-footer:
     left: |
