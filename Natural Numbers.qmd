@@ -1,8 +1,3 @@
----
-header-includes:
-  - \usepackage{amsmath}  # Example package
-  - \usepackage{graphicx}  # Example package for graphics
----
 
 # Chapter 1: Natural Numbers
 
@@ -55,14 +50,13 @@ a)  The number formed is: $7 \,532$
 
 b)  Total value is as calculated below:
 
-$$
-\begin{align*}
-\text{Total value} 
-&= \text{place value} \times \text{the digit} \\
-&= 100 \times 5 \\
-&= 500
-\end{align*}
-$$
+```{=latex}
+\begin{align}
+  \text{Total value} &= \text{place value} \times \text{the digit} \\
+  &= 100 \times 5 \\
+  &= 500
+\end{align}
+```
 :::
 
 ::: {.callout-note collapse="false"}
@@ -76,7 +70,8 @@ In a 3-digit number, the tens digit is thrice the unit digit and the hundreds di
 ## Solution
 
 ::: {.column width="55%"}
-Let the digits be xyz $$
+Let the digits be xyz
+$$
 \begin{split}
 y&=3z\\x&=4z\\
 x+y+z&=16\\4z+3z+z&=16\\
