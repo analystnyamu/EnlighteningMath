@@ -1,10 +1,8 @@
 {
-  "name": "Enlightening Mathematics",
+  "name": "your-project-name",
   "version": "1.0.0",
   "scripts": {
     "build": "quarto render"
   },
-  "dependencies": {
-    "quarto": "^1.0.0"
-  }
+  "dependencies": {}
 }

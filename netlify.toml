@@ -1,3 +1,4 @@
 [build]
   command = "curl -sSL https://github.com/quarto-dev/quarto-cli/releases/latest/download/quarto-linux-amd64 -o /opt/build/repo/quarto && chmod +x /opt/build/repo/quarto"
   publish = "_book"
+
