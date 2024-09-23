@@ -1,6 +1,10 @@
-"scripts": {
-  "build": "quarto render",
-  "prebuild": "echo 'Running pre-build tasks...'",
-  "postbuild": "echo 'Running post-build tasks...'"
+{
+  "name": "Enlightening Mathematics",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "quarto render"
+  },
+  "dependencies": {
+    "quarto": "^1.0.0"
+  }
 }
-
