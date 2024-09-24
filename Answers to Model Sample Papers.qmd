@@ -537,7 +537,8 @@ editor:
 
     ![](figures/M6_19.png)
 
-    b\) i) Area is given as follows: $$
+    b\) i) Area is given as follows: 
+    ```{=latex}
             \begin{align*}
             L1&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times45&=1350\,m^2\\
             L2&\Rightarrow\frac{1}{\cancel2}\times\cancelto{30}{60}\times(45+75)&=3600\,m^2\\
@@ -547,7 +548,7 @@ editor:
             L6&\Rightarrow\frac{1}{\cancel2}\times\cancelto{45}{90}\times60&=2700\,m^2\\
             Total&\Rightarrow 1350+...+2700&=13,590\,m^2\\
             \end{align*}
-    $$
+    ```
 
     $\therefore$ The area of the field is equal to $13,590\,m^2$
 

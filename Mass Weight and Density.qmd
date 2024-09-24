@@ -27,13 +27,15 @@ $$Density \,of\, mixture=\frac{mass \,of\, mixture}{volume\, of \,mixture} $$
 ::: {.callout-note collapse="false"}
 ## Conversion of Units
 
-$$
+```{=latex}
+\begin{equation}
 \begin{split}
 1 \,tonne &= 1,000\, Kilograms\\
 1 \,kilogram &= 1,000 \,grams\\
 1g/cm^3& = 1,000 Kg/m^3
 \end{split}
-$$
+\end{equation}
+```
 :::
 
 ## Solved Examples
@@ -50,25 +52,27 @@ of the mixture in its SI unit. \hspace{4.2 cm} (3mks)
 ## Solution
 
 $$Density \,of \,Mixture (D.M)=\frac{Mass\, of\,mixture}{Volume\, of \,mixture}$$
+$$
+\begin{aligned}
+\text{Volume of water} &= 2,500 \, \text{cm}^3 \\
+\text{Mass of water} &= 2,500 \, \text{cm}^3 \times 1 \, \text{g/cm}^3 \\
+&= 2,500 \, \text{g} \\
+\text{Volume of alcohol} &= 4,000 \, \text{cm}^3 \\
+\text{Mass of alcohol} &= 4,000 \, \text{cm}^3 \times 0.8 \, \text{g/cm}^3 \\
+&= 3,200 \, \text{g}
+\end{aligned}
+$$
 
 $$
-\begin{split}
-Volume \,of \,water&=2,500 cm^3 \\
-Mass \,of\, water&=(2,500 cm^3\times 1g/cm^3)\\
-&=2,500g&\\
-Volume\, of\, alcohol&=4,000 cm^3\\
-Mass \,of \,alcohol&=(4,000 cm^3 \times 0.8g/cm^3)\\
-&=3,200g
-\end{split}
-$$
-
-$$
-\begin{split}
-Mass\, of\, Mixture&=(2,500g+3,200g)\\&=5,700g\\
-Volume\, of \,mixture&=(2,500 cm^3+4,000 cm^3)\\&=6,500 cm^3\\
-\therefore D.M&=\frac{5,7\cancel{0}\cancel{0}}{6,5\cancel{0}\cancel{0}}\\&=0.8769 g/cm^3\\
-&=877 Kg/m^3
-\end{split}
+\begin{aligned}
+\text{Mass of Mixture} &= 2,500 \, \text{g} + 3,200 \, \text{g} \\
+&= 5,700 \, \text{g} \\
+\text{Volume of mixture} &= 2,500 \, \text{cm}^3 + 4,000 \, \text{cm}^3 \\
+&= 6,500 \, \text{cm}^3 \\
+\therefore \text{Density (D.M.)} &= \frac{5,700}{6,500} \, \text{g/cm}^3 \\
+&= 0.8769 \, \text{g/cm}^3 \\
+&= 877 \, \text{Kg/m}^3
+\end{aligned}
 $$
 :::
 
@@ -89,17 +93,21 @@ the second coil. $(3mks)$
 volume of the first coil is equal to volume of the second coil.
 
 $$
-\begin{align*}
-\textbf{First coil volume:}\\
-\frac{22}{7}\times \left(\frac{5.4}{2}\right)^2\times 648,000&=14,846,605.71 \,mm^3\\
-\textbf{Second coil volume:}\\
-\frac{22}{7}\times r^2\times 450,000&=1,414,285.714r^2 \,mm^3\\
-\textbf{Second coil volume}&=\textbf{First coil volume}\\
-1,414,285.714r^2 \,mm^3&=14,846,605.71 \,mm^3\\
-\frac{\cancel{1,414,285.714}r^2}
-{\cancel{1,414,285.714}}&=\frac{\cancelto{10.4976}{14,846,605.71}}{\cancel{1,414,285.714}}\\r^2&=10.4976 \,mm^2\\
-\therefore r&=3.24\, mm
-\end{align*}
+\begin{aligned}
+\textbf{First coil volume:} \\
+\frac{22}{7} \times \left(\frac{5.4}{2}\right)^2 \times 648,000 &= 14,846,605.71 \, \text{mm}^3 \\
+\\
+\textbf{Second coil volume:} \\
+\frac{22}{7} \times r^2 \times 450,000 &= 1,414,285.714r^2 \, \text{mm}^3 \\
+\\
+\textbf{Equating second coil volume to first coil volume:} \\
+1,414,285.714r^2 &= 14,846,605.71 \, \text{mm}^3 \\
+\\
+\frac{\cancel{1,414,285.714}r^2}{\cancel{1,414,285.714}} &= \frac{\cancelto{10.4976}{14,846,605.71}}{\cancel{1,414,285.714}} \\
+r^2 &= 10.4976 \, \text{mm}^2 \\
+\\
+\therefore \, r &= 3.24 \, \text{mm}
+\end{aligned}
 $$
 :::
 
@@ -123,47 +131,68 @@ $\hspace{1cm} (3mks)$
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-a\) \$\$ \begin{align*}
-\textbf{Volume of the Cuboid (v):} \\
-v&=Length\times Width\times Height\\
+a\) 
 
-\textbf{External Measurement:}\\
-Length&=160 cm\\
-Width&=70 cm\\
-Height&=40 cm\\
-
-\textbf{Internal Measurement:} \\
-thickness&=1 cm\\
-Length&=158 cm\\
-\end{align*} $$
-
-$$ \begin{align*}
-Width&=68 cm\\
-Height&=38 cm\\ \textbf{External volume:} \\
-160\times 70\times 40&=448,000\,cm^3\\ \textbf{Internal Volume:}\\
-158\times 68 \times 38&=408,272\,cm^3\\
-448,000\,cm^3-408,272\,cm^3&=39,728\,cm^3\\ \therefore \textbf{Volume of the metal}&=39,728 \,cm^3
-\end{align*} \$\$
-
-b\) $$
-\begin{align*}
-Mass&=density\times volume\\
-&=0.85 g/cm^3\times 39,728 cm^3\\ 
-&=33,768.8g\\
-\frac{33,768.8}{1000}&=33.7688 \,Kg\\
-\therefore \textbf{Mass of the empty box}&=33.8\,Kg
-\end{align*}
+```{=latex}
 $$
-
-c\) $$
-\begin{align*}
-\textbf{Mass of tools:}\\
-12\times 40 \times 115&=55,200\, g\\
- \frac{55,200}{1000}&=55.2 \, Kg\\
-\therefore \textbf{The total Mass}&=55.2+33.8\\
-&=89.0 \,Kg
-\end{align*}
+\begin{aligned}
+\textbf{Volume of the Cuboid (v):} & \\
+v &= \text{Length} \times \text{Width} \times \text{Height} \\
+\textbf{External Measurement:} & \\
+\text{Length} &= 160 \, \text{cm} \\
+\text{Width} &= 70 \, \text{cm} \\
+\text{Height} &= 40 \, \text{cm} \\
+\textbf{Internal Measurement:} & \\
+\text{Thickness} &= 1 \, \text{cm} \\
+\text{Internal Length} &= 158 \, \text{cm} \\
+\text{Internal Width} &= 68 \, \text{cm} \\
+\text{Internal Height} &= 38 \, \text{cm} \\ 
+\end{aligned}
 $$
+```
+
+```{=latex}
+\[
+\begin{aligned}
+\text{Width} &= 68 \, \text{cm} \\
+\text{Height} &= 38 \, \text{cm} \\ 
+\textbf{External Volume:} \\
+160 \times 70 \times 40 &= 448,000 \, \text{cm}^3 \\ 
+\textbf{Internal Volume:} \\
+158 \times 68 \times 38 &= 408,272 \, \text{cm}^3 \\ 
+448,000 \, \text{cm}^3 - 408,272 \, \text{cm}^3 &= 39,728 \, \text{cm}^3 \\ 
+\therefore \textbf{Volume of the metal} &= 39,728 \, \text{cm}^3 
+\end{aligned}
+\]
+```
+
+b\) 
+
+```{=latex}
+\[
+\begin{aligned}
+\text{Mass} &= \text{density} \times \text{volume} \\
+&= 0.85 \, \text{g/cm}^3 \times 39,728 \, \text{cm}^3 \\ 
+&= 33,768.8 \, \text{g} \\ 
+\frac{33,768.8}{1000} &= 33.7688 \, \text{Kg} \\ 
+\therefore \textbf{Mass of the empty box} &= 33.8 \, \text{Kg}
+\end{aligned}
+\]
+```
+
+c\) 
+
+```{=latex}
+\[
+\begin{aligned}
+\textbf{Mass of tools:} \\
+12 \times 40 \times 115 &= 55,200 \, \text{g} \\
+\frac{55,200}{1000} &= 55.2 \, \text{Kg} \\
+\therefore \textbf{The total Mass} &= 55.2 + 33.8 \\
+&= 89.0 \, \text{Kg}
+\end{aligned}
+\]
+```
 :::
 
 ::: {.callout-note collapse="false"}

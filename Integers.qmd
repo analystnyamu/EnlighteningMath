@@ -89,17 +89,18 @@ $$
 
 **Using BODMAS**
 
-```{=tex}
+```{=latex}
+\begin{equation}
 \begin{split}
- Numerator &=2(4+3)-12\div3+2\\
-&=14-4+2\\
-&=12\\
-Denominator&=-6\times-3+ -2\times4 \\
-&=18+-8\\
-&=10\\
-\therefore
-&=\frac{12}{10}=\frac{6}{5}=1 \frac{1}{5}\\
-\end {split}
+\text{Numerator} & = 2(4+3) - 12 \div 3 + 2 \\
+& = 14 - 4 + 2 \\
+& = 12 \\
+\text{Denominator} & = -6 \times -3 + -2 \times 4 \\
+& = 18 + -8 \\
+& = 10 \\
+\therefore & = \frac{12}{10} = \frac{6}{5} = 1 \frac{1}{5} \\
+\end{split}
+\end{equation}
 ```
 :::
 

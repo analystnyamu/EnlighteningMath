@@ -22,12 +22,19 @@ $$Perimeter \,of \,a \,square\,=\,4 \times length$$
 
 The circumference of a circle is given by the formula:
 
-$$
-\begin{align*}
-Circumference \,of\, a \,circle &=\pi D\\&=2\pi r
-\end{align*} 
-$$ The length of an arc (l) of a circle subtended by an angle, $\theta$
-, at the center of the circle is given by the formula:
+```{=latex}
+\begin{align}
+\text{Volume} & = \pi r^2 h \\ 
+\text{Old volume} & = \pi r^2 h \\ 
+\text{New radius} & = 1.225r \\ 
+\text{New height} & = 0.7h \\ 
+\text{New volume} & = \pi(1.225r)^2(0.7h) \\ 
+& = 1.225^2 \times 0.7 \times r^2 \times h \\ 
+& \approx 1.05044 \pi r^2 h 
+\end{align}
+```
+The length of an arc (l) of a circle subtended by an angle, $\theta$ ,
+at the center of the circle is given by the formula:
 
 $$ l=\frac{\theta}{360}\times 2\pi r$$
 
@@ -58,12 +65,11 @@ $$A=\frac{1st\, diagonal \times 2nd \,diagonal}{2}$$
 
 \textbf{Area of a trapezium  (A):}
 
+
 $$
-\begin{align*}
-A&=\frac{1}{2} \times height\times (sum \,of \,the\, two \,parallel \,sides)\\
-&=\frac{1}{2} \times h \times (a+b)
-\end{align*}
-$$
+A = \frac{1}{2} \times \text{height} \times \left(\text{sum of the two parallel sides}\right) = \frac{1}{2} \times h \times (a + b)
+$$ 
+
 
 \textbf{Area of a circle (A):}
 
@@ -77,20 +83,20 @@ $$A=\frac{\theta}{360} \times\pi r^2$$
 
 \textbf{Surface area of a cuboid:}
 
-$$
+```{=latex}
 \begin{align*}
 S.A&=2(length \times width)+2(width \times height)+2(length\times height)\\
 &=2(lw)+2(wh)+2(lh)\\
 &=2(lw+wh+lh)
 \end{align*}
-$$
+```
+\textbf{Surface area of a cylinder:}
 
-\textbf{Surface area of a cylinder:} $$
+```{=latex}
 \begin{align*}
 S.A&=2\pi rh+2\pi r^2\\&=2\pi r(h+r)
 \end{align*}
-$$
-
+```
 \textbf{Surface area of a sphere:}
 
 $$S.A=4\pi r^2$$
@@ -98,42 +104,41 @@ $$S.A=4\pi r^2$$
 \textbf{Volume}, is the amount of space occupied by a matter. Its SI
 unit is a cubic meter ($m^3$).
 
-\textbf{Volume of a cuboid:} $$
+\textbf{Volume of a cuboid:}
+
+```{=latex}
 \begin{align*}
 v&=length \times width \times height\\&=lwh
 \end{align*}
-$$
-
+```
 \textbf{Volume of a cube:}
 
-$$
+```{=latex}
 \begin{align*}
 v&=length \times length \times length \\
 &=l^3 
 \end{align*}
-$$
-
+```
 \textbf{Volume of a cylinder:}
 
 $$ v=\pi r^2 h$$ \textbf{Volume of a sphere:}
 
 $$ v=\frac{4}{3} \pi r^3$$ \textbf{Volume of a prism:}
 
-$$ 
+```{=latex}
 \begin{align*}
 v&=cross-sectional \,area \times length \\
 &=\frac{1}{2}\times base\times height\times length\\
 &=\frac{1}{2}\times bhl
 \end{align*}
-$$
-
+```
 \textbf{Capacity}, is the ability of the container to hold fluids. Its
 SI unit is the litre (l).
 
 ::: {.callout-note collapse="false"}
 ## Conversion of Units
 
-$$ 
+```{=latex}
 \begin{align*}
 1 m &=100 cm \\ 
 1 cm &= 10 mm\\ 
@@ -142,7 +147,7 @@ $$
 10000 m^2 &= 1 \,hectare (ha)\\
 100 m^2 &= 1 \,acre 
 \end{align*}
-$$
+```
 :::
 
 ## Solved Examples
@@ -153,12 +158,9 @@ $$
 An angle of 0.9 radians at the Centre of the circle subtends an arc of
 length 28.8cm. Find in 4 significant figures($\pi radians=180^0$):
 
-```{=tex}
-\begin{enumerate}[(a)]
-\item The radius of the circle              \hspace{10.4 cm}        $(3mks)$
-\item The area of the sector enclosed by the arc and radii.     \hspace{5.5 cm} $(2mks)$
-\end{enumerate}
-```
+a\) The radius of the circle              \hspace{10.4 cm}        $(3mks)$
+
+b\) The area of the sector enclosed by the arc and radii.     \hspace{5.5 cm} $(2mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -172,7 +174,8 @@ length 28.8cm. Find in 4 significant figures($\pi radians=180^0$):
 
 a\)
 
-$$ 
+```{=latex}
+\begin{equation}
 \begin{split}
 \frac{\theta}{360}\times 2\pi r&=length\, of \,the \,arc \\
  28.8 cm &=\frac{162^{0}}{\cancel\pi}\times\frac{1}{\cancelto{180}{360}}\times \cancel2\cancel\pi r\\
@@ -180,18 +183,20 @@ $$
 r&= 28.8 cm \times \frac{180^{0}}{162^{0}}\\
 \therefore r&=32
 \end{split}
-$$
-
+\end{equation}
+```
 b\)
 
-$$
+```{=latex}
+\begin{equation}
 \begin{split}
 Area&=\frac{\theta}{360} \times\pi r^2 \\
 &=\frac{162^{0}}{360^{0}\cancel\pi}\times\cancel\pi \times 32 \times 32\\
 &=\frac{162^{0}}{360^{0}}\times 32 \times 32\\
 &=460.8 cm^2
 \end{split}
-$$
+\end{equation}
+```
 :::
 
 ::: {.callout-note collapse="false"}
@@ -213,7 +218,8 @@ surface area of this ball.\hspace{5 cm} $(4mks)$
 
 **Surface Area (S.A) of the Sphere:** $S.A = 4\pi r^{2}$
 
-$$
+```{=latex}
+\begin{equation}
 \begin{split}
 Volume\, of\, Cylinder &= volume\, of \,Sphere\\
 \cancel\pi R^{2}h &= \frac{4}{3}\cancel\pi r^{3}\\
@@ -222,16 +228,18 @@ r^{3} &=7\times7\times5\times\frac{3}{4}\\
 r &=\sqrt[3]{183.75}\\
 \therefore r& \approx 5.685 cm\\
 \end{split}
-$$
-
-$$
+\end{equation}
+```
+```{=latex}
+\begin{equation}
 \begin{split}
 S.A\,of\,the \,sphere& = 4\pi r^{2}\\
 &=4\times\frac{22}{7}\times 5.685^{2}\\
 &=406.299\\
 &\approx 406.3 cm^{2}
 \end{split}
-$$
+\end{equation}
+```
 :::
 
 ::: {.callout-note collapse="false"}

@@ -157,7 +157,7 @@ a\)
 
 ![](figures/survey.png) b) The Area of the farm is given as follows:
 
-$$
+```{=latex}
 \begin{align*}
 Label \,1 &\Rightarrow &\frac{1}{\cancel2}\times \cancelto{50}{100}\times80&=4,000 \,m^2\\
 Label\,2 &\Rightarrow &\frac{1}{\cancel2}\times \cancelto{60}{120}\times(160+80)&=14,400\,m^2\\
@@ -168,7 +168,7 @@ Label \, 6 &\Rightarrow &\frac{1}{\cancel2}\times \cancelto{20}{40}\times (100+1
 Label \, 7 &\Rightarrow &\frac{1}{\cancel2}\times \cancelto{50}{100}\times(180+120)&=15,000\,m^2\\
 Label \,8 &\Rightarrow &\frac{1}{\cancel2}\times \cancel{90}{180}\times120&=10,800\, m^2\\
 \end{align*}
-$$
+```
 
 $$\therefore The\,total\, Area \, of\, the \,Farm \Rightarrow \frac{75,8\cancel{00}}{10,0\cancel{00}}=7.58 \,ha
 $$
@@ -178,8 +178,8 @@ c\) The farm cost is given by:
 $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 :::
 
-1.  ::: {.callout-note collapse="false"}
-    ## Problems to solve
+::: {.callout-note collapse="false"}
+## Problems to solve
 
     1.  The scale of a map is given as $1:50,000$. Find the actual area
         in hectares of a region represented by a right-angled triangle
@@ -408,4 +408,4 @@ $$\Rightarrow 7.58\times320,000=Ksh. 2,425,600$$
 
         iii) The distance and bearing of S from P in metres.
              $\hspace{4.8cm} (2mk)$
-    :::
+:::

@@ -322,11 +322,16 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Length</strong>, is the distance between two points. Its SI Unit is the meter (m). The perimeter of a rectangle and a square is given by the formula: <span class="math display">\[ Perimeter\, of \,a \,rectangle\,=\,2(length+width)\]</span></p>
 <p><span class="math display">\[Perimeter \,of \,a \,square\,=\,4 \times length\]</span></p>
 <p>The circumference of a circle is given by the formula:</p>
-<p><span class="math display">\[
-\begin{align*}
-Circumference \,of\, a \,circle &amp;=\pi D\\&amp;=2\pi r
-\end{align*}
-\]</span> The length of an arc (l) of a circle subtended by an angle, <span class="math inline">\(\theta\)</span> , at the center of the circle is given by the formula:</p>
+<p><span class="math display">\[\begin{aligned}
+\text{Volume} &amp; = \pi r^2 h \\
+\text{Old volume} &amp; = \pi r^2 h \\
+\text{New radius} &amp; = 1.225r \\
+\text{New height} &amp; = 0.7h \\
+\text{New volume} &amp; = \pi(1.225r)^2(0.7h) \\
+&amp; = 1.225^2 \times 0.7 \times r^2 \times h \\
+&amp; \approx 1.05044 \pi r^2 h
+\end{aligned}\]</span></p>
+<p>The length of an arc (l) of a circle subtended by an angle, <span class="math inline">\(\theta\)</span> , at the center of the circle is given by the formula:</p>
 <p><span class="math display">\[ l=\frac{\theta}{360}\times 2\pi r\]</span></p>
 <p><strong>Area</strong>, is the amount of surface enclosed within the boundaries of a plane shape. Its SI unit is a square meter (<span class="math inline">\(m^2\)</span>).</p>
 <p><strong>Area of a rectangle (A):</strong></p>
@@ -342,10 +347,7 @@ Circumference \,of\, a \,circle &amp;=\pi D\\&amp;=2\pi r
 <p><span class="math display">\[A=\frac{1st\, diagonal \times 2nd \,diagonal}{2}\]</span></p>
 <p><strong>Area of a trapezium (A):</strong></p>
 <p><span class="math display">\[
-\begin{align*}
-A&amp;=\frac{1}{2} \times height\times (sum \,of \,the\, two \,parallel \,sides)\\
-&amp;=\frac{1}{2} \times h \times (a+b)
-\end{align*}
+A = \frac{1}{2} \times \text{height} \times \left(\text{sum of the two parallel sides}\right) = \frac{1}{2} \times h \times (a + b)
 \]</span></p>
 <p><strong>Area of a circle (A):</strong></p>
 <p><span class="math display">\[A=\pi r^2\]</span></p>
@@ -353,43 +355,35 @@ A&amp;=\frac{1}{2} \times height\times (sum \,of \,the\, two \,parallel \,sides)
 <p><span class="math display">\[A=\frac{\theta}{360} \times\pi r^2\]</span></p>
 <p><strong>Surface area of solids (S.A)</strong></p>
 <p><strong>Surface area of a cuboid:</strong></p>
-<p><span class="math display">\[
-\begin{align*}
+<p><span class="math display">\[\begin{aligned}
 S.A&amp;=2(length \times width)+2(width \times height)+2(length\times height)\\
 &amp;=2(lw)+2(wh)+2(lh)\\
 &amp;=2(lw+wh+lh)
-\end{align*}
-\]</span></p>
-<p><strong>Surface area of a cylinder:</strong> <span class="math display">\[
-\begin{align*}
+\end{aligned}\]</span></p>
+<p><strong>Surface area of a cylinder:</strong></p>
+<p><span class="math display">\[\begin{aligned}
 S.A&amp;=2\pi rh+2\pi r^2\\&amp;=2\pi r(h+r)
-\end{align*}
-\]</span></p>
+\end{aligned}\]</span></p>
 <p><strong>Surface area of a sphere:</strong></p>
 <p><span class="math display">\[S.A=4\pi r^2\]</span></p>
 <p><strong>Volume</strong>, is the amount of space occupied by a matter. Its SI unit is a cubic meter (<span class="math inline">\(m^3\)</span>).</p>
-<p><strong>Volume of a cuboid:</strong> <span class="math display">\[
-\begin{align*}
+<p><strong>Volume of a cuboid:</strong></p>
+<p><span class="math display">\[\begin{aligned}
 v&amp;=length \times width \times height\\&amp;=lwh
-\end{align*}
-\]</span></p>
+\end{aligned}\]</span></p>
 <p><strong>Volume of a cube:</strong></p>
-<p><span class="math display">\[
-\begin{align*}
+<p><span class="math display">\[\begin{aligned}
 v&amp;=length \times length \times length \\
 &amp;=l^3
-\end{align*}
-\]</span></p>
+\end{aligned}\]</span></p>
 <p><strong>Volume of a cylinder:</strong></p>
 <p><span class="math display">\[ v=\pi r^2 h\]</span> <strong>Volume of a sphere:</strong></p>
 <p><span class="math display">\[ v=\frac{4}{3} \pi r^3\]</span> <strong>Volume of a prism:</strong></p>
-<p><span class="math display">\[
-\begin{align*}
+<p><span class="math display">\[\begin{aligned}
 v&amp;=cross-sectional \,area \times length \\
 &amp;=\frac{1}{2}\times base\times height\times length\\
 &amp;=\frac{1}{2}\times bhl
-\end{align*}
-\]</span></p>
+\end{aligned}\]</span></p>
 <p><strong>Capacity</strong>, is the ability of the container to hold fluids. Its SI unit is the litre (l).</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
@@ -403,16 +397,14 @@ Conversion of Units
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse show">
 <div class="callout-body-container callout-body">
-<p><span class="math display">\[
-\begin{align*}
+<p><span class="math display">\[\begin{aligned}
 1 m &amp;=100 cm \\
 1 cm &amp;= 10 mm\\
 1000 cm^3 &amp;= 1 \,litre =1 m^3\\
 1 cm^3&amp; = 1\, ml\\
 10000 m^2 &amp;= 1 \,hectare (ha)\\
 100 m^2 &amp;= 1 \,acre
-\end{align*}
-\]</span></p>
+\end{aligned}\]</span></p>
 </div>
 </div>
 </div>
@@ -431,10 +423,8 @@ Example 1
 <div id="callout-2" class="callout-2-contents callout-collapse collapse show">
 <div class="callout-body-container callout-body">
 <p>An angle of 0.9 radians at the Centre of the circle subtends an arc of length 28.8cm. Find in 4 significant figures(<span class="math inline">\(\pi radians=180^0\)</span>):</p>
-<ol type="a">
-<li><p>The radius of the circle <span class="math inline">\((3mks)\)</span></p></li>
-<li><p>The area of the sector enclosed by the arc and radii. <span class="math inline">\((2mks)\)</span></p></li>
-</ol>
+<p>a) The radius of the circle <span class="math inline">\((3mks)\)</span></p>
+<p>b) The area of the sector enclosed by the arc and radii. <span class="math inline">\((2mks)\)</span></p>
 </div>
 </div>
 </div>
@@ -454,24 +444,20 @@ Solution
 <p><strong>Given that:</strong> <span class="math inline">\(\pi\,rad=180^{0}\)</span></p>
 <p><strong>The length of the arc (l) is given by:</strong></p>
 <p>a)</p>
-<p><span class="math display">\[
-\begin{split}
+<p><span class="math display">\[\begin{split}
 \frac{\theta}{360}\times 2\pi r&amp;=length\, of \,the \,arc \\
 28.8 cm &amp;=\frac{162^{0}}{\cancel\pi}\times\frac{1}{\cancelto{180}{360}}\times \cancel2\cancel\pi r\\
 \frac{162^{0}}{180^{0}}r &amp;= 28.8 cm \\
 r&amp;= 28.8 cm \times \frac{180^{0}}{162^{0}}\\
 \therefore r&amp;=32
-\end{split}
-\]</span></p>
+\end{split}\]</span></p>
 <p>b)</p>
-<p><span class="math display">\[
-\begin{split}
+<p><span class="math display">\[\begin{split}
 Area&amp;=\frac{\theta}{360} \times\pi r^2 \\
 &amp;=\frac{162^{0}}{360^{0}\cancel\pi}\times\cancel\pi \times 32 \times 32\\
 &amp;=\frac{162^{0}}{360^{0}}\times 32 \times 32\\
 &amp;=460.8 cm^2
-\end{split}
-\]</span></p>
+\end{split}\]</span></p>
 </div>
 </div>
 </div>
@@ -507,24 +493,20 @@ Solution
 <p><strong>Height (h) of the cylinder:</strong> <span class="math inline">\(h= 5 cm\)</span></p>
 <p><strong>Radius (r) of the sphere:</strong> <span class="math inline">\(r=?\)</span></p>
 <p><strong>Surface Area (S.A) of the Sphere:</strong> <span class="math inline">\(S.A = 4\pi r^{2}\)</span></p>
-<p><span class="math display">\[
-\begin{split}
+<p><span class="math display">\[\begin{split}
 Volume\, of\, Cylinder &amp;= volume\, of \,Sphere\\
 \cancel\pi R^{2}h &amp;= \frac{4}{3}\cancel\pi r^{3}\\
 7^2\times5 &amp;=\frac{4}{3}r^{3} \\
 r^{3} &amp;=7\times7\times5\times\frac{3}{4}\\
 r &amp;=\sqrt[3]{183.75}\\
 \therefore r&amp; \approx 5.685 cm\\
-\end{split}
-\]</span></p>
-<p><span class="math display">\[
-\begin{split}
+\end{split}\]</span></p>
+<p><span class="math display">\[\begin{split}
 S.A\,of\,the \,sphere&amp; = 4\pi r^{2}\\
 &amp;=4\times\frac{22}{7}\times 5.685^{2}\\
 &amp;=406.299\\
 &amp;\approx 406.3 cm^{2}
-\end{split}
-\]</span></p>
+\end{split}\]</span></p>
 </div>
 </div>
 </div>

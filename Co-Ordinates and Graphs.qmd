@@ -132,7 +132,7 @@ ggplot(dat1, aes(x=x)) +
 ```
 
 The solution of the two simultaneous equations is at the point of
-interception as displayed in @fig-cap: From the graph, the values of x
+interception as displayed in the figure above: From the graph, the values of x
 and y are: $x=4$ and $y=5$
 :::
 
@@ -163,10 +163,12 @@ and y are: $x=4$ and $y=5$
     c\) Use your graphs to solve the simultaneous equations.
     \hspace{4.8 cm}(1mk)
 
-$$
+    ```{=latex}
+    \begin{equation}
     \begin{split}
     -2x+3y&=8 \\
     5x-y&=6
     \end{split}
-  $$
+    \end{equation}
+    ```
 :::

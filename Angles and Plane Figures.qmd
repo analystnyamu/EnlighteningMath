@@ -52,17 +52,19 @@ The sum of interior angles of two regular polygons of sides; n and $n + 2$ are i
 ::: {.callout-caution collapse="true"}
 # Solution
 
-$$
+```{=latex}
 \begin{align}
 1^{st}\,Polygon&=180^0(n-2)\\
 2^{nd}\, Polygon&=180^0(n+2-2)\\ \frac{\cancel{180^0}(n-2)}{\cancel{180^0}n}&=\frac{5}{7}\\7n-14&=5n
 \end{align}
-$$ $$
+```
+
+```{=latex}
 \begin{align}
 \frac{\cancel{2}n}{\cancel{2}}&=\frac{\cancelto{7}{14}}{\cancel2}\\&=7\,sides\\
 \therefore n\, sided \,polygon&=180^0(5)\\&=900^0
 \end{align}
-$$
+```
 :::
 
 ::: {.callout-note collapse="false"}
@@ -74,18 +76,18 @@ The exterior angle of a regular polygon is equal to two-thirds of the interior a
 ::: {.callout-caution collapse="true"}
 # Solution
 
-$$
+```{=latex}
 \begin{align}
 Sum\,Exterior\,angles&=360^0\\Sum \,interior\,angles&=180^0(n-2)\\
 Exterior\,angle+Interior\,angle&=180^0\\If\, interior\, angle&=x^0,\\Exterior \,angle&=\frac{2}{3}x
 \end{align}
-$$
+```
 
-$$
+```{=latex}
 \begin{align}
 x+\frac{2}{3}x&=180^0\\\frac{\cancel3}{\cancel5}\times \frac{\cancel5}{\cancel3}x&=\cancelto{36}{180^0}\times\frac{3}{\cancel5}\\&=36\times3\\\therefore interior\,angle\,&=108^0\\Exterior\, angle&=180^0-108^0\\\frac{360}{n}&=72\\n&=5;\, Pentagon
 \end{align}
-$$
+```
 :::
 
 ::: {.callout-note collapse="false"}
@@ -97,11 +99,11 @@ The sum of the interior angles of an n-sided polygon is $1260^0$. Find the value
 ::: {.callout-caution collapse="true"}
 ## Solution
 
-$$
+```{=latex}
 \begin{align}
 Sum\,interior\,angles&=180(n-2)\\180(n-2)&=1260^0\\n-2&=7\\n&=9;\,Nonagon
 \end{align}
-$$
+```
 :::
 
 ::: {.callout-note collapse="false"}

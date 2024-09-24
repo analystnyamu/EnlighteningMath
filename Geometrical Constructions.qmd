@@ -85,7 +85,7 @@ The measure of the $\angle BAC$ is $30^0$
 Using a ruler and pair of compasses only, construct triangle ABC in
 which $AB = 5cm, BC = 7cm$ and angle $ABC =60 \,^{\circ}$. Drop a
 perpendicular from A to meet BC at M. Measure AM and AC.
-\hspace\*{14.5cm} (3mks)
+\hspace{14.5cm} (3mks)
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -103,7 +103,7 @@ Use a ruler and a pair of compasses only for all constructions in this
 question.
 
 a\) Construct a triangle ABC in which $BC=9\, cm$, angle $ABC=45^0$ and
-angle $ACB=75^0$ \hspace\*{14.2cm} (2mks)
+angle $ACB=75^0$ \hspace{14.2cm} (2mks)
 
 b\) Measure AB and AC. \hspace{10.6cm} (2mks)
 
@@ -113,7 +113,7 @@ d\) Measure AD and hence calculate the area of triangle
 ABC.\hspace{4.4cm} (3mks)
 
 e\) Mark a point P on DA produced such that the area of triangle BPC is
-half the area of triangle ABC. \hspace\*{13.3cm} (1mk)
+half the area of triangle ABC. \hspace{13.3cm} (1mk)
 
 f\) Complete triangle BPC and measure PC \hspace{7.5cm} (1mk)
 :::

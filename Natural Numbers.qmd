@@ -81,14 +81,16 @@ $$
 :::
 
 ::: {.column width="45%"}
-$$
+```{=latex}
+\begin{equation}
 \begin{split}
 z&=\frac{\cancelto{2}{16}}{\cancel8}\\z&=2\\
 y&=3(2)\\&=6\\
 x&=4(2)\\&=8\\
 \therefore Number&=862
 \end{split}
-$$
+\end{equation}
+```
 :::
 :::
 :::

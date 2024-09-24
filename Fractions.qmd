@@ -36,6 +36,7 @@ $$
 **Using BODMAS**
 
 ```{=tex}
+\begin{equation}
 \begin{split}
 Numerator: 
 &=8\times \left(\frac{1}{3}\times9\right)\div 2-\left (\frac{2}{3}\times144\right)\div12+2\times3\\
@@ -44,8 +45,10 @@ Numerator:
 &=12-8+6\\
 &=10\\
 \end{split}
+\end{equation}
 ```
 ```{=tex}
+\begin{equation}
 \begin{split}
 Denominator:
 &=\left( \frac{3}{4}\times36\right)\div 3-4\div\left (\frac{2}{5}\times10\right)+3\times(-2)\\
@@ -55,6 +58,7 @@ Denominator:
 &=2\\
 \therefore \frac{10}{2} &=5
 \end{split}
+\end{equation}
 ```
 :::
 
@@ -70,23 +74,27 @@ James withdrew some money from a bank. He spent $\frac{3}{8}$ of the money to pa
 
 ::: {.column width="50%"}
 ```{=tex}
+\begin{equation}
 \begin{split}
 Let\,his\, money\, be \,x \\
 Son's\,school\, fees &= \frac{3}{8}x \\
 Daughter's \,school\, fees&=\frac{2}{5}x \\
 Remaining \,fraction&=x-\left( \frac{3}{8}x+\frac{2}{5}x\right)\\ x-\left ( \frac{31}{40}x\right) &=\frac{9}{40}x\\ 
 \end{split}
+\end{equation}
 ```
 :::
 
 ::: {.column width="45%"}
 ```{=tex}
+\begin{equation}
 \begin{split}
 \frac{9}{40}x&=12330\\ multiply\: both \:sides \:by \:\frac{40}{9}\\ \therefore \frac{\cancel{40}}{\cancel9}\times\frac{\cancel9}{\cancel{40}}x&=12330\times\frac{40}{9}\\
 x&=54800\\
 Daughter's\, school \,fees&=\left (\frac{2}{5}\right) \times54800\\
 &=Ksh. \,21,920
 \end{split}
+\end{equation}
 ```
 :::
 :::
@@ -104,6 +112,7 @@ In a certain church, there are 200 more women than men. One-third of the men and
 
 ::: {.column width="50%"}
 ```{=tex}
+\begin{equation}
 \begin{split}
 Let\, \,men&=x\\
 women&=x+200\\
@@ -111,11 +120,13 @@ Elderly \,people&=300\\
 \frac{1}{3}x+\frac{2}{5}(x+200)&=300\\
 \frac{1}{3}x+\frac{2}{5}x+80&=300\\ 
 \end{split}
+\end{equation}
 ```
 :::
 
 ::: {.column width="45%"}
 ```{=tex}
+\begin{equation}
 \begin{split}
 \frac{11}{15}x&=220\\
 \frac{\cancel{15}}{\cancel{11}}\times \frac{\cancel{11}}{\cancel{15}}x&=\cancelto{20}{220}\times \frac{15}{\cancel{11}}\\
@@ -123,6 +134,7 @@ x&=20\times15\\&=300\,men\\
 Total\, number \,of\, people:\\ men + women&=300+300+200\\&=800\\
 young \,people&=800-300\\&=500\\
 \end{split}
+\end{equation}
 ```
 :::
 :::

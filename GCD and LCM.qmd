@@ -81,7 +81,7 @@ The G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 
 
 11. A square room is covered by a number of whole rectangular slabs of sides 60cm by 42 cm. Calculate the least possible area of the room in square meters. \hspace{4cm} $(3mks)$
 
-12. Three metal rods of lengths 234cm, 270cm, and 324cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. \hspace\*{14.2cm} $(4mks)$
+12. Three metal rods of lengths 234cm, 270cm, and 324cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. \hspace{14.2cm} $(4mks)$
 
 13. The GCD of two numbers is 7 and their LCM is 140. If one of the numbers is 20, find the other number. \hspace{12.8cm} $(2mks)$
 
@@ -89,7 +89,7 @@ The G.C.D of two numbers is 12 and their L.C.M is 240. If one of the numbers is 
 
 15. A fruit juice dealer sells the juice in a packet of 300ml, 500ml, and 750ml. Find the size of the smallest container that can fill each of the packets and leave a remainder of 200ml.\hspace{0.6cm} $(3mks)$
 
-16. Mr. Ombogo the principal of Chiga secondary would wish to cover the floor of the new administration block using the square tiles. The floor is a rectangle of sides 12.8m by 8.4m. Find the area of each of the largest tiles which can be used to fit exactly without breaking. \hspace\*{14.2cm} $(3mks)$
+16. Mr. Ombogo the principal of Chiga secondary would wish to cover the floor of the new administration block using the square tiles. The floor is a rectangle of sides 12.8m by 8.4m. Find the area of each of the largest tiles which can be used to fit exactly without breaking. \hspace{14.2cm} $(3mks)$
 
 17. Three numbers, 1400, 1960, and n have a G.C.D and L.C.M of 70 and $2^2\times 5^2\times 7^2 \times 11$ respectively. Find the least possible value of n. \hspace{8.8cm} $(3mks)$
 

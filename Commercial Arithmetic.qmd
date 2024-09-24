@@ -41,20 +41,22 @@ To Convert foreign currency to Kenyan currency, the bank Buys from you
 (use the Buying column. But, from Kenyan currency to foreign currency,
 the bank sells to you (use the Selling column)
 
-$$
+```{=latex}
 \begin{align*}
 He\, received &=12,500 \times 132.30 \\&=Ksh. 1,666,980\\
 After \,commission,\, he \,gets:\\ &= \frac{95}{100}\times 1,666,980\\&=1,583,631\\
 \end{align*}
-$$ Balance after spending $\frac{4}{5}$ of his money:
+```
 
-$$
+Balance after spending $\frac{4}{5}$ of his money:
+
+```{=latex}
  \begin{align*}
  &=\frac{1}{5}\times 1,583,631\\&=Ksh.\, 237,667.20 \\US\, dollars\, he\, received: \\
 &=\frac{237,667.20}{102.80}\\&=2,311.94\\
  \therefore He \,received: \,2,312 \,US \,dollars 
 \end{align*}
-$$
+```
 :::
 
 ::: {.callout-note collapse="false"}
@@ -79,7 +81,7 @@ she received. \hspace{15.2cm} $(3mks)$
 ::: {.callout-caution collapse="true"}
 # Solution
 
-$$
+```{=latex}
 \begin{align*}
 She\, received&=25000\times 147.56\\&=Ksh. 3,689,000\\ Balance \,after \,spending:\\
 &= 3,689,000-2, 610,200\\&=Ksh. 1,078,800\\
@@ -87,7 +89,7 @@ She\, received&=25000\times 147.56\\&=Ksh. 3,689,000\\ Balance \,after \,spendin
 &=\frac{1,078,800}{102.5}\\
 &=10,524.88\\ \therefore \,She\, received: \,&10,525 \,US \,dollars
 \end{align*}
-$$
+```
 :::
 
 ::: {.callout-note collapse="false"}
@@ -105,26 +107,32 @@ make if he does not give a discount. \hspace{11cm} $(3mks)$
 $\textbf{Note:}$ The marked price and the Buying Price (B.P) are always
 100%
 
-Marked Price (M.P) of the radio: $$
+Marked Price (M.P) of the radio: 
+
+```{=latex}
 \begin{align*}
 \frac{1350\times 10\cancel{0}}{9\cancel{0}}&=Ksh.\: 1,500 \\Buying\, Price (B.P):\\ \frac{1,35\cancel{0}\times 100}{12\cancel{0}}&=Ksh. \:1,125
 \end{align*}
-$$
+```
 
-Profit gained if no discount was offered: $$
+Profit gained if no discount was offered: 
+
+```{=latex}
 \begin{align*}
 1,500-1,125&=Ksh. \:375
 \end{align*}
-$$
+```
 
 Percentage profit (P.P):
 
-$$
+```{=latex}
 \begin{align*}
 &=\left(\frac{profit}{B.P}\right)\times 100\\
 P.P&=\frac{375}{1,125}\times 100\\&=33.33\%
 \end{align*}
-$$ $\therefore$ He would make $33\frac{1}{3}\%$ profit
+```
+
+$\therefore$ He would make $33\frac{1}{3}\%$ profit
 :::
 
 ::: {.callout-note collapse="false"}
@@ -153,39 +161,43 @@ a\)
 
 Let the amount of rice be $x$
 
-$$
+```{=latex}
 \begin{align*}
 2Kg \,bags&=\frac{3}{5}x
 \end{align*}
-$$
+```
 
 Selling price (S.P) for 2kg bags:
 
-$$
+```{=latex}
 \begin{align*}
  &=\left(\frac{3}{5}x\right)\frac{160}{2}\\
  &=48x\\ 1Kg\, bags&=x-\frac{3}{5}x\\&=\frac{2}{5}x
  \end{align*}
-$$
+```
 
-Selling price for 1Kg bags: $$
+Selling price for 1Kg bags: 
+
+```{=latex}
 \begin{align*}
 &=\frac{2}{5}x\times 85\\&=34x\\
 Total \,selling \,price&=48x+34x\\&=82x
 \end{align*}
-$$
+```
 
 Buying Price (B.P) of the rice:
 
-$$
+```{=latex}
 \begin{align*}
 &=65x\\
 Profit&=S.P-B.P\\ 82x-65x&=6460 \\ \frac{\cancel{17}x}{\cancel{17}}&=\frac{\cancelto{380}{6460}}{\cancel{17}}\\&=380\\
 \therefore The \,amount \,of \,Rice &=380 \,kg
 \end{align*}
-$$
+```
 
-b\) i) $$
+b\) i) 
+
+```{=latex}
 \begin{align*}
 Percentage\, profit (p.p)&=\frac{profit}{B.p}\times 100\\
 B.p&=380\times 65\\&=24700\\
@@ -193,18 +205,18 @@ B.p&=380\times 65\\&=24700\\
 &\approx 26.154\%\\
 \therefore p.p&= 26.2\%
 \end{align*}
-$$
+```
 
 ii\)
 
-$$
+```{=latex}
 \begin{align*}
 S.p&=\left(\frac{380}{2}\right)160\\&=30400\\
 profit&=30,400-24,700\\&=5700\\
 p.p&=\left(\frac{5700}{247\cancel{00}}\right)\cancel{100}\\ &\approx23.077\%\\
 \therefore p.p&= 23.1\%
 \end{align*}
-$$
+```
 :::
 
 ::: {.callout-note collapse="false"}
