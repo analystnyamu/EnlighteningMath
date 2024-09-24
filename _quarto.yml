@@ -53,6 +53,7 @@ comments:
 format:
   html:
       cover: cover.qmd  # Path to cover image for HTML
+      cover-image: cover.png
       toc-depth: 2                 # Depth of table of contents in HTML
       theme: cosmo                 # Use the 'cosmo' theme for HTML
       css: styles.css              # Link to custom CSS file for styling (optional)

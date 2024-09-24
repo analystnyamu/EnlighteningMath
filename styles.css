@@ -2,5 +2,5 @@
 .cover-image {
   width: 100%;  /* Adjust width */
   height: auto; /* Maintain aspect ratio */
-  margin-bottom: 20px; /* Space below the cover */
+  margin-bottom: 0px; /* Space below the cover */
 }
