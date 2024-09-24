@@ -1,0 +1,6 @@
+/* Example CSS to adjust cover image */
+.cover-image {
+  width: 100%;  /* Adjust width */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 20px; /* Space below the cover */
+}

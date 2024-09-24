@@ -1,0 +1,16 @@
+---
+title: "Enlightening Mathematics Revision Book Volume 1"
+  # Enable reader mode if needed by uncommenting
+  # reader-mode: true
+
+  author: "Martin Nyamu and Ken Gatungo"
+  date: "`r format (Sys.Date (), '%B %d, %Y') `"
+  cover-image: "images/cover.png"  # or wherever your cover image is stored
+---
+
+# Enlightening Mathematics Revision Book Volume 1
+
+
+## About the Authors
+
+Martin, with an MSc in Medical Statistics, and Gatungo, holding a BSc in Mechanical Engineering, both have extensive experience teaching mathematics in various Kenyan schools. Their deep knowledge of mathematical concepts, combined with a clear understanding of the challenges students face while studying the subject, informs their teaching and approach.

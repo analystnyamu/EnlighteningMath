@@ -52,7 +52,7 @@ comments:
 
 format:
   html:
-      cover-image: "images/cover.png"  # Path to cover image for HTML
+      cover: cover.qmd  # Path to cover image for HTML
       toc-depth: 2                 # Depth of table of contents in HTML
       theme: cosmo                 # Use the 'cosmo' theme for HTML
       css: styles.css              # Link to custom CSS file for styling (optional)
@@ -70,7 +70,7 @@ format:
     colorlinks: true             # Enable colored links in PDF
    
   epub:
-    cover-image: "images/cover.png"
+    cover: cover.qmd"
     toc: true                    # Enable table of contents for EPUB
     
 
