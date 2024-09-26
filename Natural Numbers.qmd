@@ -1,3 +1,15 @@
+---
+header-includes:
+  - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
+  - \usepackage{graphicx}  # Example package for graphics
+  
+filters:
+  - parse-latex
+editor: 
+  markdown: 
+    wrap: 72
+---
 
 # Chapter 1: Natural Numbers
 
@@ -71,23 +83,28 @@ In a 3-digit number, the tens digit is thrice the unit digit and the hundreds di
 
 ::: {.column width="55%"}
 Let the digits be xyz
-$$
+```{=latex}
+\begin{equation}
 \begin{split}
 y&=3z\\x&=4z\\
 x+y+z&=16\\4z+3z+z&=16\\
 8z&=16\\
 \end{split}
-$$
+\end{equation}
+```
 :::
 
 ::: {.column width="45%"}
 ```{=latex}
 \begin{equation}
 \begin{split}
-z&=\frac{\cancelto{2}{16}}{\cancel8}\\z&=2\\
-y&=3(2)\\&=6\\
-x&=4(2)\\&=8\\
-\therefore Number&=862
+z &= \frac{16}{8} \\ 
+z &= 2 \\ 
+y &= 3(2) \\ 
+&= 6 \\ 
+x &= 4(2) \\ 
+&= 8 \\ 
+\therefore \text{Number} &= 862 
 \end{split}
 \end{equation}
 ```
@@ -306,5 +323,5 @@ The Amos' monthly payment will be \$ 348.
 
     iv\) $0.0345\times 2.054$ (2mks)
 
-    b\) states the value of the second digit in the product 675 \times 44.4. (2mks)
+    b\) states the value of the second digit in the product 675 $\times$ 44.4. (2mks)
 :::

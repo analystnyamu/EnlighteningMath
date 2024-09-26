@@ -14,27 +14,27 @@ bibliography: references.bib
 
 **Answer all the question in this section**
 
-1.  Evaluate without using tables or calculators. $\hspace{1cm} (3mks)$
+1.  Evaluate without using tables or calculators. $(3mks)$
 
 $$ \frac{\frac{3}{7}\,of\,28\div80\times-\frac{40}{3}}{-2\times5+(14\div7)\times3}$$
 
 2.  Felix has four times as many ducks as hens and three-quarters as many turkeys as ducks.
 
-    a\) If he has x hens, write down a simplified expression in x for the total number of birds $\hspace{1cm}(2mks)$
+    a\) If he has x hens, write down a simplified expression in x for the total number of birds $(2mks)$
 
-    b\) Find the total number of birds given that the Felix has 45 turkeys.$\hspace{1cm} (2mks)$
+    b\) Find the total number of birds given that the Felix has 45 turkeys.$(2mks)$
 
-3.  Given that $x=4,\, y= -2,\, and \,z= -3$ evaluate. $\hspace{1cm} (3mks)$
+3.  Given that $x=4,\, y= -2,\, and \,z= -3$ evaluate. $(3mks)$
 
 $$ \frac{2(x+z)^2-(x-y)(y-z)}{4(x+y)-2(y-z)}$$
 
-4.  Using a ruler and a pair of compasses only, construct triangle PQR in which $PQ = 5.2cm$ $QR=7.5cm$ and Angle $PQR = 45^0$. By construction bisect angle PQR to meet line PR at a point M. find the ratio $PM:MR$.$\hspace{1cm} (3mks)$
+4.  Using a ruler and a pair of compasses only, construct triangle PQR in which $PQ = 5.2cm$ $QR=7.5cm$ and Angle $PQR = 45^0$. By construction bisect angle PQR to meet line PR at a point M. find the ratio $PM:MR$.$(3mks)$
 
-5.  Use square and square root table to evaluate to 4 significant figures, the expression. $\hspace{1cm}(3mks)$
+5.  Use square and square root table to evaluate to 4 significant figures, the expression. $(3mks)$
 
 $$\sqrt[]{24.640-(4.362)^2} $$
 
-6.  The cost of a TV outside is US\$ 1200. Kelvin decides to buy one TV through an agent who deals with Japanese Yen. The agent charges him a commission of 5% on the price of the TV and further 2,000 Yen as important tax. To the nearest Ksh. how much will he need to send to the agent to obtain the TV, given that:- $\hspace{1cm} (3mks)$
+6.  The cost of a TV outside is US\$ 1200. Kelvin decides to buy one TV through an agent who deals with Japanese Yen. The agent charges him a commission of 5% on the price of the TV and further 2,000 Yen as important tax. To the nearest Ksh. how much will he need to send to the agent to obtain the TV, given that:- $(3mks)$
 
     $1\,US\, \$ = 110.95 \,Yen$
 
@@ -42,9 +42,9 @@ $$\sqrt[]{24.640-(4.362)^2} $$
 
 7.  A two --digit number is such that the sum of the ones digit and the tens digit is 4. If the digits are reversed, the number formed exceeds the original number by 18. Find the number. $(3mks)$
 
-8.  Metal block of side 5.6 cm was melted and the molten material used to make a sphere. In three significant figures, find the radius of the sphere in metres (take $\pi =\frac{22}{7}$) $\hspace{1cm} (3mks)$
+8.  Metal block of side 5.6 cm was melted and the molten material used to make a sphere. In three significant figures, find the radius of the sphere in metres (take $\pi =\frac{22}{7}$) $(3mks)$
 
-9.  Solve the simultaneous equations $\hspace{1cm} (3mks)$
+9.  Solve the simultaneous equations $(3mks)$
 
 ```{=latex}
     \begin{align*}
@@ -53,19 +53,19 @@ $$\sqrt[]{24.640-(4.362)^2} $$
     \end{align*}
 ```
 
-10. Kinyua bought soya and millet at Ksh. 70 per kg and Ksh. 40 per kg respectively. He then mixed them and sold the mixture at Ksh. 60 per kg making a profit of 20%. Determine the ratio of soya to millet in mixture. $\hspace{1cm} (3mks)$
+10. Kinyua bought soya and millet at Ksh. 70 per kg and Ksh. 40 per kg respectively. He then mixed them and sold the mixture at Ksh. 60 per kg making a profit of 20%. Determine the ratio of soya to millet in mixture. $(3mks)$
 
-11. An aircraft left Nairobi at 2245h on Monday and arrived in Cape Town on Tuesday at 0300h. It departed from Cape Town at 0330h and arrived in Washington DC at 0630h on Wednesday. Find the travel ling time for the whole journey from Nairobi to Washington DC took? $\hspace{1cm} (3mks)$
+11. An aircraft left Nairobi at 2245h on Monday and arrived in Cape Town on Tuesday at 0300h. It departed from Cape Town at 0330h and arrived in Washington DC at 0630h on Wednesday. Find the travel ling time for the whole journey from Nairobi to Washington DC took? $(3mks)$
 
-12. A town B is 250 km due east of town A. Another town C is 200 km on a compass bearing of $S40^0E$ from town B. use scale drawing to find the distance and bearing of town C from A. $\hspace{1cm}(4mks)$
+12. A town B is 250 km due east of town A. Another town C is 200 km on a compass bearing of $S40^0E$ from town B. use scale drawing to find the distance and bearing of town C from A. $(4mks)$
 
-13. 1.784 kg of sugar whose density is $1.08g/cm^3$ and 0.744kg of salt whose density is $1.04g/cm^3$ are mixed together for a certain experiment. What is the density of the mixture in $kg/m^3$? ( Give the answer to 4. s.f) $\hspace{1cm} (3mks)$
+13. 1.784 kg of sugar whose density is $1.08g/cm^3$ and 0.744kg of salt whose density is $1.04g/cm^3$ are mixed together for a certain experiment. What is the density of the mixture in $kg/m^3$? ( Give the answer to 4. s.f) $(3mks)$
 
-14. The interior angle of a regular polygon is 5 times the exterior angle. How many sides does the polygon have? $\hspace{1 cm} (2mks)$
+14. The interior angle of a regular polygon is 5 times the exterior angle. How many sides does the polygon have? $(2mks)$
 
-15. Find the least number of steps in staircase if, when I go up 3 steps at a time, 4 steps at a time or 6 steps at a time, there is always 1 step remaining at the top. $\hspace{1cm} (3mks)$
+15. Find the least number of steps in staircase if, when I go up 3 steps at a time, 4 steps at a time or 6 steps at a time, there is always 1 step remaining at the top. $(3mks)$
 
-16. An arc of a circle of length 37.4cm subtends an angle of $153^0$ at the centre of the circle. Calculate the area of the sector bounded by this arc. Take $\pi=\frac{22}{7}$. $\hspace{1cm} (4mks)$
+16. An arc of a circle of length 37.4cm subtends an angle of $153^0$ at the centre of the circle. Calculate the area of the sector bounded by this arc. Take $\pi=\frac{22}{7}$. $(4mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -75,49 +75,49 @@ $$\sqrt[]{24.640-(4.362)^2} $$
 
     a\) One day the bus was full on every trip.
 
-    i)  How much money was collected from the passengers that day? $\hspace{1cm} (2mks)$
+    i)  How much money was collected from the passengers that day? $(2mks)$
 
-    ii) How much was the net profit. $\hspace{1cm} (3mks)$
+    ii) How much was the net profit. $(3mks)$
 
-    b\) On another day, the minibus was 80% full on average for the trips how much did Kanze get if the days profit was shared to the ratio 2:3? $\hspace{1cm} (5mks)$
+    b\) On another day, the minibus was 80% full on average for the trips how much did Kanze get if the days profit was shared to the ratio 2:3? $(5mks)$
 
 18. The following measurement were recorded in a field book of a farm using $XY$ as the base line $XY = 450\,m$
 
     ![](images/MP1_Q18.png)
 
-    a\) Using a scale, draw an accurate map of the farm. $\hspace{1cm}(3mks)$
+    a\) Using a scale, draw an accurate map of the farm. $(3mks)$
 
-    b\) Determine the actual area of the farm in hectares. $\hspace{1cm}(4mks)$
+    b\) Determine the actual area of the farm in hectares. $(4mks)$
 
-    c\) If the farm is on sale at Ksh. 280,000 per hectare, find how much the farm costs.$\hspace{1cm} (3mks)$
+    c\) If the farm is on sale at Ksh. 280,000 per hectare, find how much the farm costs.$(3mks)$
 
 19. Four ships are at sea such that a steam-liner W is 250 km on a bearing of $030^0$ from a cargo ship Q. A trawler M is 350 km on a bearing of $145^0$ from the cargo ship Q and a yacht R is due west of Q and on a compass bearing of $N60^0W$ from M
 
-    a\) Using a scale of 1 cm=50 km, draw an accurate scale drawing showing the positions of W, Q, M, and R. $\hspace{1cm} (5mks)$
+    a\) Using a scale of 1 cm=50 km, draw an accurate scale drawing showing the positions of W, Q, M, and R. $(5mks)$
 
     b\) By measurement from your scale drawing determine:
 
-    i\) The distance and bearing of R from W. $\hspace{1cm} (3mks)$
+    i\) The distance and bearing of R from W. $(3mks)$
 
-    ii\) The distance WM. $\hspace{1cm} (1mk)$
+    ii\) The distance WM. $(1mk)$
 
-    iii\) The distance RM. $\hspace{1cm} (1mk)$
+    iii\) The distance RM. $(1mk)$
 
 20. An electronics manufacturer makes speakers and sells them to a distributor at a profit of $20\%$. The distributor sells the speakers to a retailer at a profit of $25\%$. The retailer finally sells the speakers to customers at a profit of $40\%$.
 
-    a\) A customer paid Ksh. 1,680 for a portable speaker. Find how much it had cost the manufacturer to make the speaker. $\hspace{1cm} (3mks)$
+    a\) A customer paid Ksh. 1,680 for a portable speaker. Find how much it had cost the manufacturer to make the speaker. $(3mks)$
 
-    b\) A retailer bought a speaker which had cost the manufacturer Ksh. 5,600 to make. Calculate the amount he paid for it. $\hspace{1cm} (3mks)$
+    b\) A retailer bought a speaker which had cost the manufacturer Ksh. 5,600 to make. Calculate the amount he paid for it. $(3mks)$
 
-    c\) A customer bought a pioneer speaker at Ksh. 6,300. Calculate the much the distributor had paid for the same radio. $\hspace{1cm} (2mks)$
+    c\) A customer bought a pioneer speaker at Ksh. 6,300. Calculate the much the distributor had paid for the same radio. $(2mks)$
 
-    d\) Express as a percentage the amount the customer paid for the speaker in (c) above to the amount the distributor paid for it. $\hspace{1cm} (2mks)$
+    d\) Express as a percentage the amount the customer paid for the speaker in (c) above to the amount the distributor paid for it. $(2mks)$
 
 21. Four trucks A, B, C, and D are used to transport 42,000 bags of maize to a depot. However, trucks A and B together take 40 days to transport the same number of bags while trucks C and D together take 25 days. Truck A carries $1\frac{1}{2}$ times the number of bags B carries and C carries $1\frac{4}{5}$ times as much as D.
 
-    a\) Determine the number of bags of maize transported by each truck per day.$\hspace{1cm} (5mks)$
+    a\) Determine the number of bags of maize transported by each truck per day.$(5mks)$
 
-    b\) All the trucks A, B, C, and D work together for 5 days, after which truck C and D are withdrawn. A and B work together for another 5 days after which truck A breaks down. How long does truck B take to complete the rest of the remaining bags? $\hspace{1cm}(5mks)$
+    b\) All the trucks A, B, C, and D work together for 5 days, after which truck C and D are withdrawn. A and B work together for another 5 days after which truck A breaks down. How long does truck B take to complete the rest of the remaining bags? $(5mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -127,19 +127,19 @@ $$\sqrt[]{24.640-(4.362)^2} $$
 
 **Answer all the question in this section**
 
-1.  Use the tables of squares and square roots only to find the value of; $\hspace{1cm} (3mks)$
+1.  Use the tables of squares and square roots only to find the value of; $(3mks)$
 
 $$ \left(0.0847\right)^\frac{1}{2}+\left(2.35\right)^2$$
 
-2.  Without using calculator, evaluate.$\hspace{1cm} (3mks)$
+2.  Without using calculator, evaluate.$(3mks)$
 
 $$\frac{2\frac{4}{5}+3\frac{1}{5}\div\frac{7}{8}\,of\,4\frac{4}{7}-\frac{3}{5}}{1\frac{3}{4}\div3\frac{1}{2}-\frac{5}{12}+\frac{2}{3}} $$
 
-3.  Two years ago, Musa was three times as old as Ahmed. In four years' time, Musa will be twice as old as Ahmed. Find their present ages $\hspace{1cm}(4mks)$
+3.  Two years ago, Musa was three times as old as Ahmed. In four years' time, Musa will be twice as old as Ahmed. Find their present ages $(4mks)$
 
-4.  On a map with a scale of 1:16,000, a banana plantation covers an area of $70cm^2$. Find the area of the plantation in hectares. $\hspace{1cm} (3mks)$
+4.  On a map with a scale of 1:16,000, a banana plantation covers an area of $70cm^2$. Find the area of the plantation in hectares. $(3mks)$
 
-5.  A Canadian tourist came to Kenya with sterling pounds 4500 which he exchanged to Kenyan shillings. He spent a quarter of the money and exchanged the rest to sterling pounds on leaving. How much in sterling pounds did he receive? $\hspace{1cm} (4mks)$
+5.  A Canadian tourist came to Kenya with sterling pounds 4500 which he exchanged to Kenyan shillings. He spent a quarter of the money and exchanged the rest to sterling pounds on leaving. How much in sterling pounds did he receive? $(4mks)$
 
     Exchange rate in Ksh. per pound
 
@@ -151,35 +151,35 @@ $$\frac{2\frac{4}{5}+3\frac{1}{5}\div\frac{7}{8}\,of\,4\frac{4}{7}-\frac{3}{5}}{
 
 6.  The sums of interior angles of two regular polygons of sides' n-1 and n are in the ratio 3:4. Calculate;
 
-    a\) The value of n. $\hspace{1cm} (2mks)$
+    a\) The value of n. $(2mks)$
 
-    b\) The size of interior angle of each polygon. $\hspace{1cm} (2mks)$
+    b\) The size of interior angle of each polygon. $(2mks)$
 
-7.  John bought six exercise books and three text books for Ksh. 660. If he had bought three similar exercise books and six text books, he would have paid Ksh. 210 more. How much would he pay for five exercise books and five text books? $\hspace{1cm} (3mks)$
+7.  John bought six exercise books and three text books for Ksh. 660. If he had bought three similar exercise books and six text books, he would have paid Ksh. 210 more. How much would he pay for five exercise books and five text books? $(3mks)$
 
-8.  Find the least number of biscuits that can be packed into carton boxes which contain either 4 or 9 or 24 or 40 with none left over.$\hspace{1cm} (3mks)$
+8.  Find the least number of biscuits that can be packed into carton boxes which contain either 4 or 9 or 24 or 40 with none left over.$(3mks)$
 
-9.  In order to complete a certain job in 10 days, a company employs 30 workers to work at the rate of 8 hours a day. Determine how long it would take 20 workers working at the rate of 12 hours a day to complete the same job. $\hspace{1cm} (2mks)$
+9.  In order to complete a certain job in 10 days, a company employs 30 workers to work at the rate of 8 hours a day. Determine how long it would take 20 workers working at the rate of 12 hours a day to complete the same job. $(2mks)$
 
-10. Simplify the expression. $\hspace{1cm} (3mks)$
+10. Simplify the expression. $(3mks)$
 
 $$\frac{y^2-4x-4xy+y}{(y+1)(4x^2-xy)}$$
 
-11. A two digit number is such that the sum of the ones and the tens digit is 11. If the Digits are reversed; the original number exceeds the new number formed by 9. Find the number. $\hspace{1cm} (3mks)$
+11. A two digit number is such that the sum of the ones and the tens digit is 11. If the Digits are reversed; the original number exceeds the new number formed by 9. Find the number. $(3mks)$
 
-12. Joyce on her cycling practice cycled on a bearing of $125^0$ for 5.5km, then on a bearing of $180^0$ for 6.7km finally he turned northwards for 12.5km, by scale drawing determine the distance and compass bearing of her final position from the starting point. $\hspace{1cm} (4mks)$
+12. Joyce on her cycling practice cycled on a bearing of $125^0$ for 5.5km, then on a bearing of $180^0$ for 6.7km finally he turned northwards for 12.5km, by scale drawing determine the distance and compass bearing of her final position from the starting point. $(4mks)$
 
-13. Njoki bought Mike a suit for Ksh. 3600. This price was such that the shopkeeper had allowed a discount of 10% on the marked price in order to make a profit of 20%. Calculate both the marked price and the buying price of the suit. $\hspace{1cm} (3mks)$
+13. Njoki bought Mike a suit for Ksh. 3600. This price was such that the shopkeeper had allowed a discount of 10% on the marked price in order to make a profit of 20%. Calculate both the marked price and the buying price of the suit. $(3mks)$
 
-14. Bronze is made by mixing tin, brass, and zinc in the ratio 3:5:4. A piece of bronze contains 7.2 kg of tin. Determine the total mass of brass and zinc in that piece of steel. $\hspace{1cm}(2mks)$
+14. Bronze is made by mixing tin, brass, and zinc in the ratio 3:5:4. A piece of bronze contains 7.2 kg of tin. Determine the total mass of brass and zinc in that piece of steel. $(2mks)$
 
-15. A cylindrical solid of length 40cm and radius 7cm is melted to form 10 similar spherical solids. Determine the radius of each spherical solid. $\hspace{1cm} (3mks)$
+15. A cylindrical solid of length 40cm and radius 7cm is melted to form 10 similar spherical solids. Determine the radius of each spherical solid. $(3mks)$
 
 16. Starting from midnight the minute hand of a clock moved so that the clock is showing 24 minutes past midnight.
 
-    a\) Find the angle through which the minute hand has moved. $\hspace{1cm} (1mk)$
+    a\) Find the angle through which the minute hand has moved. $(1mk)$
 
-    b\) Given that the minute hand is 14 cm long, calculate the length of the arc it describes in that time. $\hspace{1cm} (2mks)$
+    b\) Given that the minute hand is 14 cm long, calculate the length of the arc it describes in that time. $(2mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -189,47 +189,47 @@ $$\frac{y^2-4x-4xy+y}{(y+1)(4x^2-xy)}$$
 
     a\) Calculate:
 
-    i\) The marked price of the article. $\hspace{1cm} (2mks)$
+    i\) The marked price of the article. $(2mks)$
 
-    ii\) The price at which Simon had bought the article $\hspace{1cm} (2mks)$
+    ii\) The price at which Simon had bought the article $(2mks)$
 
-    b\) If Simon had sold the same article without giving a discount. Calculate the percentage profit he would have made to three significant figures. $\hspace{1 cm} (3mks)$
+    b\) If Simon had sold the same article without giving a discount. Calculate the percentage profit he would have made to three significant figures. $(3mks)$
 
-    c\) To clear his stock, Simon decided to sell the remaining articles at a loss of 20%.Calculate the price at which he sold each article. $\hspace{1cm} (3mks)$
+    c\) To clear his stock, Simon decided to sell the remaining articles at a loss of 20%.Calculate the price at which he sold each article. $(3mks)$
 
-18. \(a\) Using a ruler and a pair of compasses only construct triangle ABC in which $BC = 8cm$, $AB = 6cm$ angle $ABC = 67.5^0$ $\hspace{1cm} (4mks)$
+18. \(a\) Using a ruler and a pair of compasses only construct triangle ABC in which $BC = 8cm$, $AB = 6cm$ angle $ABC = 67.5^0$ $(4mks)$
 
-    \(b\) Measure AC and angle ACB $\hspace{1cm}(2mks)$
+    \(b\) Measure AC and angle ACB $(2mks)$
 
-    \(c\) Construct a circle that passes through AB, AC and BC $\hspace{1cm} (3mks)$
+    \(c\) Construct a circle that passes through AB, AC and BC $(3mks)$
 
-    \(d\) What is the radius of this circle? $\hspace{1cm} (1mk)$
+    \(d\) What is the radius of this circle? $(1mk)$
 
 19. A bus had 48 passengers at the begining of the journey, 20 passengers alighted at the first stop while 12 boarded. 8 of those who boarded at the first stop alighted at the second stop and 16 got in. The bus did not stop again upto the final destination. The charges from the starting point were Ksh. 100 upto the first stop, Ksh. 150 upto the second stop, and Ksh. 220 upto the final destination.
 
-    a\) How many passengers alighted at the final destination? $\hspace{1cm} (3mks)$
+    a\) How many passengers alighted at the final destination? $(3mks)$
 
-    b\) How many passengers were ferried by the bus through the journey? $\hspace{1cm} (2mks)$
+    b\) How many passengers were ferried by the bus through the journey? $(2mks)$
 
-    c\) How much money was collected during the trip? $\hspace{1cm} (5mks)$
+    c\) How much money was collected during the trip? $(5mks)$
 
-20. \(a\) The angle of elevation of the top of a tree from a point P on the horizontal ground $28.5^0$. From another point Q, five meters from P towards the base of the tree, the angle of elevation of the top of the tree is $37.2^0$. By scale drawing calculate to one decimal place the height of the tree.$\hspace{1cm} (4mks)$
+20. \(a\) The angle of elevation of the top of a tree from a point P on the horizontal ground $28.5^0$. From another point Q, five meters from P towards the base of the tree, the angle of elevation of the top of the tree is $37.2^0$. By scale drawing calculate to one decimal place the height of the tree.$(4mks)$
 
     \(b\) Four points A, B, C and D lie on the same plane. Point A is due southwest of point B. Point C is 70 Km on a bearing of $S60^0E$ from B. Point D is equidistant from B, Q and C.
 
-    i\) Using the Scale: 1 cm represents 10km, construct a diagram showing the position of B, C, Q and D. $\hspace{1cm} (4mks)$
+    i\) Using the Scale: 1 cm represents 10km, construct a diagram showing the position of B, C, Q and D. $(4mks)$
 
-    ii\) Determine the distance between A and B $\hspace{1cm} (1mk)$
+    ii\) Determine the distance between A and B $(1mk)$
 
-    iii\) Determine the bearing of D from B. $\hspace{1cm} (1mk)$
+    iii\) Determine the bearing of D from B. $(1mk)$
 
 21. Water flows through a cylindrical pipe of diameter 2.8 cm at a speed of 70m/min.
 
-    a\) Calculate the volume of the water delivered by the pipe per minute in litres.$\hspace{1cm} (3mks)$
+    a\) Calculate the volume of the water delivered by the pipe per minute in litres.$(3mks)$
 
-    b\) A cylindrical storage tank of depth 5m is filled by water from this pipe and at the same rate of flow. Water begins flowing into the empty storage tank at 9.30 p.m. and is full by 2.10 a.m. Calculate the area of the cross-section of this tank in $m^2$. $\hspace{1cm} (4mks)$
+    b\) A cylindrical storage tank of depth 5m is filled by water from this pipe and at the same rate of flow. Water begins flowing into the empty storage tank at 9.30 p.m. and is full by 2.10 a.m. Calculate the area of the cross-section of this tank in $m^2$. $(4mks)$
 
-    c\) A family consumes the capacity of this tank in one month. The cost of water is Ksh. 25 per thousand litres plus a fixed basic charge of Ksh. 1800.60. Calculate the cost of this family's water bill for the month. $\hspace{1cm} (3mks)$
+    c\) A family consumes the capacity of this tank in one month. The cost of water is Ksh. 25 per thousand litres plus a fixed basic charge of Ksh. 1800.60. Calculate the cost of this family's water bill for the month. $(3mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -239,17 +239,19 @@ $$\frac{y^2-4x-4xy+y}{(y+1)(4x^2-xy)}$$
 
 **Answer all the question in this section**
 
-1.  Without using a calculator or mathematical tables, evaluate: $\hspace{1cm} (3mks)$ $$\frac{15-6\times-14-21\div-3}{9\times3+-8(5-(-2))} $$
+1.  Without using a calculator or mathematical tables, evaluate: $(3mks)$ 
+
+$$\frac{15-6\times-14-21\div-3}{9\times3+-8(5-(-2))} $$
 
 2.  Hannah finds that she needs 29 beacons placed 42 m apart when she surveys a length of road. If she was to place the beacons 49 m apart,
 
-    a\) How many beacons would she need? $\hspace{1cm} (2mks)$
+    a\) How many beacons would she need? $(2mks)$
 
-    b\) What is the shortest distance that can be divided into exact portions of 25, 30 or 40 metres giving a remainder of 3 metres. $\hspace{1cm} (2mks)$
+    b\) What is the shortest distance that can be divided into exact portions of 25, 30 or 40 metres giving a remainder of 3 metres. $(2mks)$
 
-3.  Two friends Wakuraya and Muchoki have goats. Wakuraya has more goats than Muchoki and if Muchoki gives Wakuraya one of his goats, Wakuraya will have twice as many goats as Muchoki. If Wakuraya gives Muchoki one of his goat, they will have an equal number of goats. How many goats does each have.$\hspace{1cm} (3mks)$
+3.  Two friends Wakuraya and Muchoki have goats. Wakuraya has more goats than Muchoki and if Muchoki gives Wakuraya one of his goats, Wakuraya will have twice as many goats as Muchoki. If Wakuraya gives Muchoki one of his goat, they will have an equal number of goats. How many goats does each have.$(3mks)$
 
-4.  Simiyu has six times as many one-shilling coins as twenty-shillings coins, a third as many five-shillings coins as one-shilling coins and four times as many ten-shillings coins as twenty-shilling coins. If in total he has Ksh. 228, find the number of coins he has. $\hspace{1cm} (3mks)$
+4.  Simiyu has six times as many one-shilling coins as twenty-shillings coins, a third as many five-shillings coins as one-shilling coins and four times as many ten-shillings coins as twenty-shilling coins. If in total he has Ksh. 228, find the number of coins he has. $(3mks)$
 
 5.  The figure below shows the angles of a polygon ABCDE.
 
@@ -257,43 +259,43 @@ $$\frac{y^2-4x-4xy+y}{(y+1)(4x^2-xy)}$$
 
     Obtain the size of each of the following angles,
 
-    a\) CBA $\hspace{1cm} (2mks)$
+    a\) CBA $(2mks)$
 
-    b\) CDE $\hspace{1cm} (1mk)$
+    b\) CDE $(1mk)$
 
 6.  The figure below is a cross-section of a swimming pool.
 
     ![](figures/fig2.png)
 
-    a)  Find the capacity of the pool in litres given that its length is 27m. $\hspace{1cm} (3mks)$
+    a)  Find the capacity of the pool in litres given that its length is 27m. $(3mks)$
 
-    b)  Given that the water has a density of $1g/cm^3$, calculate the mass of water in the pool $\hspace{1cm} (2mks)$
+    b)  Given that the water has a density of $1g/cm^3$, calculate the mass of water in the pool $(2mks)$
 
-7.  Food aid 492,850 French Franc was donated to the Turkana drought stricken area. The food was purchased from United States of America (USA) and paid for in US dollars. Calculate the exact value of the food aid in dollars if: $\hspace{1cm} (3mks)$
+7.  Food aid 492,850 French Franc was donated to the Turkana drought stricken area. The food was purchased from United States of America (USA) and paid for in US dollars. Calculate the exact value of the food aid in dollars if: $(3mks)$
 
     $1\, French \, Franc = ksh \,12.80\,$ and $\,1 \,Us \,dollars = ksh \,102.50$
 
-8.  Munene is paid commission at the rate of 5 cents in every shilling on all goods he sells. During one month he sold 15 computers at Ksh. 14,200 each, 6 DVD players at Ksh. 6,800 each and 8 laptops at Ksh. 31,500 each. Calculate the total commission he earned in that month. $\hspace{1cm} (3mks)$
+8.  Munene is paid commission at the rate of 5 cents in every shilling on all goods he sells. During one month he sold 15 computers at Ksh. 14,200 each, 6 DVD players at Ksh. 6,800 each and 8 laptops at Ksh. 31,500 each. Calculate the total commission he earned in that month. $(3mks)$
 
-9.  Sarah bought 3 plates and 6 jugs at a total cost of Ksh. 324. If she had bought 1 plate more and 2 jug less, she would have spent Ksh. 48 less. On another occasion Sarah bought 5 plates and 5 jugs at the same prices. Find how much she spent on the second occasion. $\hspace{1cm} (3mks)$
+9.  Sarah bought 3 plates and 6 jugs at a total cost of Ksh. 324. If she had bought 1 plate more and 2 jug less, she would have spent Ksh. 48 less. On another occasion Sarah bought 5 plates and 5 jugs at the same prices. Find how much she spent on the second occasion. $(3mks)$
 
-10. A boat Q is 300m due west of boat P. Another boat R is 240m on a bearing of $155^0$ from boat Q. Using scale drawing, find the distance ad bearing of boat R from P. $\hspace{1cm} (4mks)$
+10. A boat Q is 300m due west of boat P. Another boat R is 240m on a bearing of $155^0$ from boat Q. Using scale drawing, find the distance ad bearing of boat R from P. $(4mks)$
 
-11. Two coils which are made by winding copper wire of different gauges and length have the same mass. The first coil is made by winding 250 metres of wire with cross sectional diameter 2.1mm while the second coil is made by winding a certain length of wire with cross-sectional diameter 1.4mm. Find the length of wire in the second coil. $\hspace{1cm} (3mks)$
+11. Two coils which are made by winding copper wire of different gauges and length have the same mass. The first coil is made by winding 250 metres of wire with cross sectional diameter 2.1mm while the second coil is made by winding a certain length of wire with cross-sectional diameter 1.4mm. Find the length of wire in the second coil. $(3mks)$
 
-12. To prepare hay for the daily animals, green grass is dried and then processed into bails. In the process the mass of green grass decreases in the ratio 5:17. Determine the mass of green grass which must be processed to produce 1.2 tonnes of dry hay.$\hspace{1cm} (3mks)$
+12. To prepare hay for the daily animals, green grass is dried and then processed into bails. In the process the mass of green grass decreases in the ratio 5:17. Determine the mass of green grass which must be processed to produce 1.2 tonnes of dry hay.$(3mks)$
 
-13. Evaluate using squares and square root tables. $\hspace{1cm}(4mks)$
+13. Evaluate using squares and square root tables. $(4mks)$
 
 $$\left[\sqrt[]{27.47}+(0.701)^2 \right]^2$$
 
-14. Simplify: $\hspace{1cm}(3mks)$
+14. Simplify: $(3mks)$
 
 $$\frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2}$$
 
-15. The radius of a cylindrical tin is increased by $24\%$ while its height is reduced by $18\%$. In 4 significant figures find the percentage increase in the volume of the milk in the tin.$\hspace{1cm} (3mks)$
+15. The radius of a cylindrical tin is increased by $24\%$ while its height is reduced by $18\%$. In 4 significant figures find the percentage increase in the volume of the milk in the tin.$(3mks)$
 
-16. Taps A and B can fill a water tank in 40 minutes and 30 minutes respectively while C can empty in 20 minutes. If the three taps are turned on for 15 minutes then B and C closed. How long would it take before the tank is filled? $\hspace{1cm} (3mks)$
+16. Taps A and B can fill a water tank in 40 minutes and 30 minutes respectively while C can empty in 20 minutes. If the three taps are turned on for 15 minutes then B and C closed. How long would it take before the tank is filled? $(3mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -303,11 +305,11 @@ $$\frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2}$$
 
     a\) Calculate:
 
-    i\) To the mass of the empty cuboid to the nearest Kg. $\hspace{1cm} (4mks)$
+    i\) To the mass of the empty cuboid to the nearest Kg. $(4mks)$
 
-    ii\) The capacity of the cuboid in litres $\hspace{1cm} (2mks)$
+    ii\) The capacity of the cuboid in litres $(2mks)$
 
-    b\) If the cuboid is filled with alcohol whose density is $0.75 g/cm^3$, calculate the mass of the cuboid when full of alcohol. $\hspace{1cm}(4mks)$
+    b\) If the cuboid is filled with alcohol whose density is $0.75 g/cm^3$, calculate the mass of the cuboid when full of alcohol. $(4mks)$
 
 18. A bus left Dodoma on Thursday evening and traveled to Mombasa according to the travel table below and arrived there on Saturday morning.
 
@@ -315,39 +317,39 @@ $$\frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2}$$
 
     a)  Calculate the total:
 
-    b)  Travelling time for the whole journey. $\hspace{1cm} (3mks)$
+    b)  Travelling time for the whole journey. $(3mks)$
 
-        i\. Stoppage time in all stations $\hspace{1cm} (3mks)$
+        i\. Stoppage time in all stations $(3mks)$
 
-        ii\. Time taken for the whole journey $\hspace{1cm} (2mks)$
+        ii\. Time taken for the whole journey $(2mks)$
 
-    c)  Given that the average speed of the bus for the whole journey is 60km/h, calculate the distance between Dodoma and Mombasa. $\hspace{1cm} (2mks)$
+    c)  Given that the average speed of the bus for the whole journey is 60km/h, calculate the distance between Dodoma and Mombasa. $(2mks)$
 
 19. Three cargo ships P, Q, and R are at sea such that ship Q is 300 km on a compass bearing of $N35^0W$ from ship P. ship R is 420 km on a bearing of $220^0$ from ship Q. Another ship S is reported to be 475 km from ship R and due south of ship P.
 
-    a\) Draw an accurate scale drawing showing the positions of ships P, Q, R, and S. (use scale 1cm=50 km) $\hspace{1cm} (5mks)$
+    a\) Draw an accurate scale drawing showing the positions of ships P, Q, R, and S. (use scale 1cm=50 km) $(5mks)$
 
     b\) Use your scale drawing to determine the:
 
-    i\) Distance of ship S from P. $\hspace{1cm} (1mk)$
+    i\) Distance of ship S from P. $(1mk)$
 
-    ii\) Distance and bearing of ship S from ship Q $\hspace{1cm} (2mks)$
+    ii\) Distance and bearing of ship S from ship Q $(2mks)$
 
-    iii\) Compass bearing of ship S from ship R $\hspace{1cm} (2mks)$
+    iii\) Compass bearing of ship S from ship R $(2mks)$
 
-20. \(a\) A solution whose volume is 50 litres is made up of $40\%$ water and $60\%$ alcohol. When n litres of water are added the percentage of alcohol drops to $50\%$. Find the value of n. $\hspace{1cm} (4mks)$
+20. \(a\) A solution whose volume is 50 litres is made up of $40\%$ water and $60\%$ alcohol. When n litres of water are added the percentage of alcohol drops to $50\%$. Find the value of n. $(4mks)$
 
-    \(b\) 15 litres of water is added to the new solution. Calculate the percentage of alcohol in the resulting solution. $\hspace{1cm} (2mks)$
+    \(b\) 15 litres of water is added to the new solution. Calculate the percentage of alcohol in the resulting solution. $(2mks)$
 
-    \(c\) If 6 litres of the solution in (b) above is added to 3 litres of the original solution, calculate in the simplest form, the ratio of water to alcohol in the resulting solution. $\hspace{1cm} (4mks)$
+    \(c\) If 6 litres of the solution in (b) above is added to 3 litres of the original solution, calculate in the simplest form, the ratio of water to alcohol in the resulting solution. $(4mks)$
 
 21. Gabriel, an artisan made an article and sold it to a wholesaler to a profit of $25\%$. The wholesaler sold it to a retailer at a profit of $32\%$. The retailer finally sold the article to a customer at a profit of $45\%$.
 
-    a\) If Gabriel used sh 1200 to make the article, find how much the customer paid for it. $\hspace{1cm} (3mks)$
+    a\) If Gabriel used sh 1200 to make the article, find how much the customer paid for it. $(3mks)$
 
-    b\) A customer paid sh 4785 for another article. Calculate how much the wholesaler had paid for it. $\hspace{1cm} (3mks)$
+    b\) A customer paid sh 4785 for another article. Calculate how much the wholesaler had paid for it. $(3mks)$
 
-    c\) During a clearance sale the retailer reduced his prices by $20\%$. Find the percentage profit the retailer made on an article which had cost Gabriel sh 4000 to make it.$\hspace{1cm} (4mks)$
+    c\) During a clearance sale the retailer reduced his prices by $20\%$. Find the percentage profit the retailer made on an article which had cost Gabriel sh 4000 to make it.$(4mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -357,11 +359,11 @@ $$\frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2}$$
 
 **Answer all the question in this section**
 
-1.  Evaluate without using a calculator or Mathematical tables leaving your answer in the simplest form. $\hspace{1cm} (3mks)$
+1.  Evaluate without using a calculator or Mathematical tables leaving your answer in the simplest form. $(3mks)$
 
 $$ \frac{\frac{3}{9}\,of\,\left(\frac{2}{5}-\frac{1}{10}\right)}{\left(4+\frac{2}{3}\right)\div\left(1+\frac{4}{3}\right)}$$
 
-2.  Three similar 21 inch television sets and five similar 17 inch television cost Ksh. 145,000. The difference between the cost of two 21 inch television sets and three 17 inch television Sets is Ksh. 8,000. Calculate the price of a 21- inch television set and that of 17-inch Television set. $\hspace{1cm} (3mks)$
+2.  Three similar 21 inch television sets and five similar 17 inch television cost Ksh. 145,000. The difference between the cost of two 21 inch television sets and three 17 inch television Sets is Ksh. 8,000. Calculate the price of a 21- inch television set and that of 17-inch Television set. $(3mks)$
 
 3.  A Kenya bank buys and sells foreign currencies as shown.
 
@@ -372,41 +374,41 @@ $$ \frac{\frac{3}{9}\,of\,\left(\frac{2}{5}-\frac{1}{10}\right)}{\left(4+\frac{2
     
 ```
 
-A Japanese traveling from France to Kenya had 4500 Euros. He converted all the 4500 Euros to Kenya shilling at the bank. While in Kenya, he spent a total of Ksh.225,600 and then converted the remaining Kenya shilling to Japanese Yens at the bank. Calculate the amount in Japanese Yen that he received. $\hspace{1cm} (3mks)$
+A Japanese traveling from France to Kenya had 4500 Euros. He converted all the 4500 Euros to Kenya shilling at the bank. While in Kenya, he spent a total of Ksh.225,600 and then converted the remaining Kenya shilling to Japanese Yens at the bank. Calculate the amount in Japanese Yen that he received. $(3mks)$
 
-4.  Use tables of square and square roots to evaluate.$\hspace{0cm} (4mks)$
+4.  Use tables of square and square roots to evaluate.$(4mks)$
 
 $$(0.3264)^2+\sqrt[]{364.5}$$
 
-5.  A business woman usually makes a profit of $32\%$ by selling a pair of shoes at sh 1650. If she reduces the price of the shoes by sh 250, calculate the percentage profit she will now make. $\hspace{1cm} (3mks)$
+5.  A business woman usually makes a profit of $32\%$ by selling a pair of shoes at sh 1650. If she reduces the price of the shoes by sh 250, calculate the percentage profit she will now make. $(3mks)$
 
-6.  Kinyua bought soya and millet at Ksh.75 per kg and Ksh.45 per kg respectively. He then mixed them and sold the mixture at Ksh.65 per kg making a profit of $30\%$. Determine the ratio of soya to millet in mixture. $\hspace{1cm} (3mks)$
+6.  Kinyua bought soya and millet at Ksh.75 per kg and Ksh.45 per kg respectively. He then mixed them and sold the mixture at Ksh.65 per kg making a profit of $30\%$. Determine the ratio of soya to millet in mixture. $(3mks)$
 
-7.  The curved surface area of a cylindrical container is $2540cm^2$. If the radius of the container is 28cm, calculate to one decimal place the capacity of the container in litres $(Take \pi=\frac{22}{7} )$. $\hspace{1cm}(4mks)$
+7.  The curved surface area of a cylindrical container is $2540cm^2$. If the radius of the container is 28cm, calculate to one decimal place the capacity of the container in litres $(Take \pi=\frac{22}{7} )$. $(4mks)$
 
-8.  The radius of a cylindrical tin is decreased by $20\%$ while its height is increased by $12\%$. In 4 significant figures find the percentage change in the volume of the milk in the tin and indicate whether it is an increase or a decrease. $\hspace{1cm} (3mks)$
+8.  The radius of a cylindrical tin is decreased by $20\%$ while its height is increased by $12\%$. In 4 significant figures find the percentage change in the volume of the milk in the tin and indicate whether it is an increase or a decrease. $(3mks)$
 
-9.  Wang'ombe, a farmer, uses $\frac{1}{2}$ of his land to plant cassava, $\frac{1}{5}$ for planting sweet potatoes, $\frac{1}{3}$ of the remainder for grazing and the rest for maize plantation. If he uses 10 hectares for grazing, determine how much land he uses for maize plantation. $\hspace{1cm} (4mks)$
+9.  Wang'ombe, a farmer, uses $\frac{1}{2}$ of his land to plant cassava, $\frac{1}{5}$ for planting sweet potatoes, $\frac{1}{3}$ of the remainder for grazing and the rest for maize plantation. If he uses 10 hectares for grazing, determine how much land he uses for maize plantation. $(4mks)$
 
-10. Pauline bought 7 kg of rice and 3 KDF cakes at a total cost of Ksh. 450. Wathitha bought 5 kg of rice and 8 KDF cakes at the same prices and spent Ksh. 70 less than Pauline. Calculate the cost of each item. $\hspace{1cm} (3mks)$
+10. Pauline bought 7 kg of rice and 3 KDF cakes at a total cost of Ksh. 450. Wathitha bought 5 kg of rice and 8 KDF cakes at the same prices and spent Ksh. 70 less than Pauline. Calculate the cost of each item. $(3mks)$
 
-11. \(a\) Using a pair of compasses and a ruler only construct a triangle ABC such that $AB = 6cm,$ $BC = 8cm$ and $ABC = 135^0$. $\hspace{1cm} (2mks)$
+11. \(a\) Using a pair of compasses and a ruler only construct a triangle ABC such that $AB = 6cm,$ $BC = 8cm$ and $ABC = 135^0$. $(2mks)$
 
-    \(b\) Construct the height of triangle ABC in (a) above taking BC as the base and measure the height. $\hspace{1cm} (2mks)$
+    \(b\) Construct the height of triangle ABC in (a) above taking BC as the base and measure the height. $(2mks)$
 
-12. One interior angle of a polygon is equal to $40^0$ and each of the other interior angles are $125^0$.Find the number of sides of the polygon. $\hspace{1cm} (3mks)$
+12. One interior angle of a polygon is equal to $40^0$ and each of the other interior angles are $125^0$.Find the number of sides of the polygon. $(3mks)$
 
-13. Given that $x=2$, $y=-1$, and $z=3$, find the value of; $\hspace{1cm} (3mks)$
+13. Given that $x=2$, $y=-1$, and $z=3$, find the value of; $(3mks)$
 
 $$ \frac{5x^2-4y^2z+6y}{4x^2z+5y^3-z^3}$$
 
 14. Three boats X, Y, and Z are situated in such a way that boat Y is 450 m on a compass bearing of $S55^0E$ from boat X. Boat Z is 600 m on a bearing of $035^0$ from boat Y.
 
-    a\) Draw a sketch showing the positions of X, Y, and Z. $\hspace{1cm} (1mk)$
+    a\) Draw a sketch showing the positions of X, Y, and Z. $(1mk)$
 
-    b\) Calculate the distance of boat Z from boat X. $\hspace{1cm} (2mks)$
+    b\) Calculate the distance of boat Z from boat X. $(2mks)$
 
-15. Pipe P can fill a tank in 6 minutes while pipe Q can fill the same tank in 10 minutes. On the other hand, a drainage pipe R, can empty the same full tank in 5 minutes. If Pipes P and Q are opened and left running for 3 minutes and then the drainage pipe R is then opened and all three left running, determine how many more minutes it takes to fill the drum. $\hspace{1cm}(4mks)$
+15. Pipe P can fill a tank in 6 minutes while pipe Q can fill the same tank in 10 minutes. On the other hand, a drainage pipe R, can empty the same full tank in 5 minutes. If Pipes P and Q are opened and left running for 3 minutes and then the drainage pipe R is then opened and all three left running, determine how many more minutes it takes to fill the drum. $(4mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -416,31 +418,31 @@ $$ \frac{5x^2-4y^2z+6y}{4x^2z+5y^3-z^3}$$
 
     a\) Calculate the number:
 
-    i\) Of buses hired $\hspace{1cm} (4mks)$
+    i\) Of buses hired $(4mks)$
 
-    ii\) Of matatus hired $\hspace{1cm} (1mk)$
+    ii\) Of matatus hired $(1mk)$
 
-    b\) Calculate the number of students who took the trip if each vehicle was filled to capacity.$\hspace{1cm} (3mks)$
+    b\) Calculate the number of students who took the trip if each vehicle was filled to capacity.$(3mks)$
 
-    c\) Each student contributed Ksh 150 towards the cost of the trip and the school paid the remaining amount. Calculate the amount the school paid. $\hspace{1cm}(2mks)$
+    c\) Each student contributed Ksh 150 towards the cost of the trip and the school paid the remaining amount. Calculate the amount the school paid. $(2mks)$
 
 17. Three business dealers Kavula, Nzuki, and Ngina decided to buy a bus. They agreed to pay for the bus in the ratio 6:7:5. Using the marked price of the bus, Kavula was supposed to contribute Ksh. 120,600 more than Ngina. However, the sales agent allowed them a $10\%$ discount after paying it on cash.
 
     a\) Determine:
 
-    i\) The marked price of the bus. $\hspace{1cm} (3mks)$
+    i\) The marked price of the bus. $(3mks)$
 
-    ii\) The price at which they bought the bus. $\hspace{1cm} (2mks)$
+    ii\) The price at which they bought the bus. $(2mks)$
 
-    iii\) How much more Kavula and Ngina paid than Nzuki? $\hspace{1cm} (2mks)$
+    iii\) How much more Kavula and Ngina paid than Nzuki? $(2mks)$
 
-    c\) The dealers agreed that they would share monthly profits from the bus in the ratio of their contribution after setting aside $10\%$ of the profits. If in one month the bus realized Ksh. 120,900 as the profit, how much did Ngina got? $\hspace{1cm} (3mks)$
+    c\) The dealers agreed that they would share monthly profits from the bus in the ratio of their contribution after setting aside $10\%$ of the profits. If in one month the bus realized Ksh. 120,900 as the profit, how much did Ngina got? $(3mks)$
 
-18. A train left Nairobi on Monday evening and travelled to Mombasa according to the travel time table below. The train arrived in Lamu on Wednesday morning of the same week.
+18. A train left Nairobi on Monday evening and traveled to Mombasa according to the travel time table below. The train arrived in Lamu on Wednesday morning of the same week.
 
     ![](figures/Md4_Q18.png)
 
-    a\) Calculate the time the train took to travel between: $\hspace{1cm} (4mks)$
+    a\) Calculate the time the train took to travel between: $(4mks)$
 
     i\) Nairobi and Mtito Andei
 
@@ -450,27 +452,27 @@ $$ \frac{5x^2-4y^2z+6y}{4x^2z+5y^3-z^3}$$
 
     iv\) Mombasa and Lamu
 
-    b\) Determine the total time for the whole journey. $\hspace{1cm} (4mks)$
+    b\) Determine the total time for the whole journey. $(4mks)$
 
-    c\) Given that the railway road distance between Nairobi and Lamu is 1505 Km, calculate the average speed for the whole journey. $\hspace{1cm} (2mks)$
+    c\) Given that the railway road distance between Nairobi and Lamu is 1505 Km, calculate the average speed for the whole journey. $(2mks)$
 
 19. The following measurements were recorded in a field book using XY as the base line. $XY = 400m$.
 
     ![](figures/Md4_Q19.png)
 
-    a\) Using a scale of 1: 4000, draw an accurate map of the farm. $\hspace{1cm} (4mks)$
+    a\) Using a scale of 1: 4000, draw an accurate map of the farm. $(4mks)$
 
-    b\) Determine the actual area of the farm in hectares. $\hspace{1cm} (4mks)$
+    b\) Determine the actual area of the farm in hectares. $(4mks)$
 
-    c\) If the farm is on sale at Ksh. 100,000 per hectare, find how much the farm costs. $\hspace{1cm}(2mks)$
+    c\) If the farm is on sale at Ksh. 100,000 per hectare, find how much the farm costs. $(2mks)$
 
 20. Karani bought some eggs at Ksh 96 per dozen and sold three-quarter of them at Ksh 280 per tray and the remainder at Ksh 270 per tray. In so doing she made a profit of Ksh 675. Given that one tray holds 30 eggs, calculate:
 
-    a\) The number of eggs she bought. $\hspace{1cm} (4mks)$
+    a\) The number of eggs she bought. $(4mks)$
 
-    b\) The percentage profit she made giving your answer to three significant figures. $\hspace{1cm}(3mks)$
+    b\) The percentage profit she made giving your answer to three significant figures. $(3mks)$
 
-    c\) The percentage profit she would have made if she sold all the eggs at sh 280 per tray. $\hspace{1cm} (3mks)$
+    c\) The percentage profit she would have made if she sold all the eggs at sh 280 per tray. $(3mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -480,57 +482,57 @@ $$ \frac{5x^2-4y^2z+6y}{4x^2z+5y^3-z^3}$$
 
 **Answer all the question in this section**
 
-1.  Evaluate. $\hspace{1cm} (3mks)$
+1.  Evaluate. $(3mks)$
 
 $$\frac{\left(32-(-16)\right)}{-8}-\frac{\left(18-(-)(-6)\right)}{3}$$
 
-2.  The cost of 5 skirts and 3 blouses is Ksh. 1750. Afro's wife bought three skirts and one of the blouses for Ksh. 850. Find the cost of each item. $\hspace{1cm} (3mks)$
+2.  The cost of 5 skirts and 3 blouses is Ksh. 1750. Afro's wife bought three skirts and one of the blouses for Ksh. 850. Find the cost of each item. $(3mks)$
 
-3.  Last year, Gaceru was four times as old as his son, Kairu; in four years' time the sum of their ages will be 55. Determine their present ages. $\hspace{1cm} (3mks)$
+3.  Last year, Gaceru was four times as old as his son, Kairu; in four years' time the sum of their ages will be 55. Determine their present ages. $(3mks)$
 
-4.  Given that $x=4$, $y= -3$, and $z= -1$ evaluate. $\hspace{1cm} (3mks)$
+4.  Given that $x=4$, $y= -3$, and $z= -1$ evaluate. $(3mks)$
 
 $$\frac{3(x+z)^2-2(x-y)(y-z)}{3(x+z)-(y-z)}$$
 
 5.  A plastic test tube is made up of hemispherical bottom and a cylindrical stem, both of internal radius 0.7cm.
 
-    a\) Calculate the capacity of the test tube, given that its height is 12cm. $\hspace{1cm}(3mks)$
+    a\) Calculate the capacity of the test tube, given that its height is 12cm. $(3mks)$
 
-    b\) Given that the test tube is filled with a liquid of density $0.75 g/cm^3$, calculate the mass in g of the liquid in the test tube $\hspace{1cm}(1mk)$
+    b\) Given that the test tube is filled with a liquid of density $0.75 g/cm^3$, calculate the mass in g of the liquid in the test tube $(1mk)$
 
-6.  A saleslady earns commission at the rate of 3.5 cents per shilling for all sales up to Ksh 350,000 and at the rate of 4.5 cents per shilling on any sales above that. During a certain month she sold 26 pieces of second hand computers at Ksh 14,500 per computer, 6 laptop batteries at Ksh. 4,500 each and 60 pieces of laptop chargers at Ksh 1,200 each. Calculate the total commission she earned in that month. $\hspace{1cm}(3mks)$
+6.  A saleslady earns commission at the rate of 3.5 cents per shilling for all sales up to Ksh 350,000 and at the rate of 4.5 cents per shilling on any sales above that. During a certain month she sold 26 pieces of second hand computers at Ksh 14,500 per computer, 6 laptop batteries at Ksh. 4,500 each and 60 pieces of laptop chargers at Ksh 1,200 each. Calculate the total commission she earned in that month. $(3mks)$
 
-7.  Water and milk are mixed such that the ratio of the volume of water to that of milk are 4:1. Taking the density of water as $1g/cm^3$ and that of milk as $1.25g/cm^3$, find the mass in grams of 2.4 litres of the mixture. $\hspace{1cm}(3mks)$
+7.  Water and milk are mixed such that the ratio of the volume of water to that of milk are 4:1. Taking the density of water as $1g/cm^3$ and that of milk as $1.25g/cm^3$, find the mass in grams of 2.4 litres of the mixture. $(3mks)$
 
-8.  An arc of a circle of length 9.24cm subtends an angle of $108^0$ at the centre of the circle. Calculate the area of the sector bounded by this arc. Take $\pi=\frac{22}{7}$. $\hspace{1cm} (3mks)$
+8.  An arc of a circle of length 9.24cm subtends an angle of $108^0$ at the centre of the circle. Calculate the area of the sector bounded by this arc. Take $\pi=\frac{22}{7}$. $(3mks)$
 
-9.  When maize seeds are dried up after harvest the mass decreases in the ratio 7:15. Find the mass of dried maize which is obtained after drying 1725 kg of green maize. $\hspace{1cm}(3mks)$
+9.  When maize seeds are dried up after harvest the mass decreases in the ratio 7:15. Find the mass of dried maize which is obtained after drying 1725 kg of green maize. $(3mks)$
 
-10. Bag X contains 672 sweets, bag Y 504 sweets and bag Z 360 sweets all of different types. The sweets are to be shared among a group of students in such a way each gets the same number of each type. Find the largest possible number of students.$\hspace{1cm} (3mks)$
+10. Bag X contains 672 sweets, bag Y 504 sweets and bag Z 360 sweets all of different types. The sweets are to be shared among a group of students in such a way each gets the same number of each type. Find the largest possible number of students.$(3mks)$
 
-11. On a map with a scale of $1:50000$, a banana plantation covers an area of $100\,cm^2$. Find the area of the plantation in hectares. $\hspace{1cm} (3mks)$
+11. On a map with a scale of $1:50000$, a banana plantation covers an area of $100\,cm^2$. Find the area of the plantation in hectares. $(3mks)$
 
-12. The radius of a cylindrical tin is increased by $30\%$ while its height is decreased by $25\%$. If the capacity of the old tin is $400 cm^3$, find the capacity of the new tin. $\hspace{1cm}(3mks)$
+12. The radius of a cylindrical tin is increased by $30\%$ while its height is decreased by $25\%$. If the capacity of the old tin is $400 cm^3$, find the capacity of the new tin. $(3mks)$
 
 13. Three towns P, Q, and R are such that tow Q is 90 km on a bearing of $147^0$ from town P and town R is 120 km on a bearing of $057^0$ from town Q.
 
-    a\) Draw a sketch showing the positions of the three towns. $\hspace{1cm} (1mk)$
+    a\) Draw a sketch showing the positions of the three towns. $(1mk)$
 
-    b\) Calculate the distance between town P and R. $\hspace{1cm} (2mks)$
+    b\) Calculate the distance between town P and R. $(2mks)$
 
-14. Find the exact value of: $\hspace{1cm}(4mks)$
+14. Find the exact value of: $(4mks)$
 
     $1.\dot{3}\dot{2}-0.5\dot{3}$
 
-15. Simplify the following expression by reducing it to a single fraction $\hspace{1cm}(3mks)$
+15. Simplify the following expression by reducing it to a single fraction $(3mks)$
 
     $$\frac{4a-5}{5}-\frac{2a-3}{3}=\frac{1-a}{6}$$
 
 16. Starting from midnight the minute hand of a clock moved so that the clock is showing quarter to one.
 
-    a\) Find the angle through which the minute hand has moved. $\hspace{1cm} (1mk)$
+    a\) Find the angle through which the minute hand has moved. $(1mk)$
 
-    b\) Determine the area of the sector described by the minute hand given that its length is 10.5 cm to 4 s.f. $\hspace{1cm} (2mks)$
+    b\) Determine the area of the sector described by the minute hand given that its length is 10.5 cm to 4 s.f. $(2mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -538,7 +540,7 @@ $$\frac{3(x+z)^2-2(x-y)(y-z)}{3(x+z)-(y-z)}$$
 
 17. Using the linear equations below:
 
-    a\) Complete the tables below and then write down the point in coordinate form (x,y) as shown. $\hspace{1cm} (4mks)$
+    a\) Complete the tables below and then write down the point in coordinate form (x,y) as shown. $(4mks)$
 
     $2x+y=6$
 
@@ -548,7 +550,7 @@ $$\frac{3(x+z)^2-2(x-y)(y-z)}{3(x+z)-(y-z)}$$
 
     ![](figures/Md5_Q17b.png)
 
-    b\) Use graphical method by plotting the two linear equations on the same grid to solve the simultaneous equations: $\hspace{1cm} (4mks)$
+    b\) Use graphical method by plotting the two linear equations on the same grid to solve the simultaneous equations: $(4mks)$
 
 ```{=latex}
 \begin{equation}
@@ -559,7 +561,7 @@ $$\frac{3(x+z)^2-2(x-y)(y-z)}{3(x+z)-(y-z)}$$
 \end{equation}
 ```
 
-c)  The line $2x+y=6$ meets x-axis and the line y-axis at the points A and B respectively. From the graph state the co-ordinates of A and B. $\hspace{1cm}(2mks)$
+c)  The line $2x+y=6$ meets x-axis and the line y-axis at the points A and B respectively. From the graph state the co-ordinates of A and B. $(2mks)$
 
 <!-- -->
 
@@ -567,33 +569,33 @@ c)  The line $2x+y=6$ meets x-axis and the line y-axis at the points A and B res
 
     a\) Calculate:
 
-    i\) The area of the copper which forms the cuboid.$\hspace{0.6cm} (2mks)$
+    i\) The area of the copper which forms the cuboid.$(2mks)$
 
-    ii\) The mass of the empty cuboid in Kilograms. $\hspace{1cm} (4mks)$
+    ii\) The mass of the empty cuboid in Kilograms. $(4mks)$
 
-    b\) If the cuboid is filled with water whose density is $1 g/cm^3$, calculate the mass of the cuboid when full of water. $\hspace{1cm} (4mks)$
+    b\) If the cuboid is filled with water whose density is $1 g/cm^3$, calculate the mass of the cuboid when full of water. $(4mks)$
 
 19. At 1400hr, two ships A and B leave port P and sail out to sea. Ship A sails at a steady speed of 55km/h on a bearing of $060^0$ while ship B sails at a steady speed of 40km/h on a bearing of $140^0$. At 1800hr both ships radio back to port giving their positions. At the same time a third ship C gives its position as 300km due east of P.
 
-    a\) Using a ruler and a pair of compass only, construct a scale drawing showing the positions of P, A, B, and C at 1800hr. $\hspace{1cm} (4mks)$
+    a\) Using a ruler and a pair of compass only, construct a scale drawing showing the positions of P, A, B, and C at 1800hr. $(4mks)$
 
     b\) Use your scale drawing to determine:
 
-    i\) Distance and compass bearing of B from A $\hspace{1cm} (4mks)$
+    i\) Distance and compass bearing of B from A $(4mks)$
 
-    ii\) Distance of C from A $\hspace{1cm} (2mks)$
+    ii\) Distance of C from A $(2mks)$
 
-    iii\) Distance Of B from C $\hspace{1cm} (2mks)$
+    iii\) Distance Of B from C $(2mks)$
 
-20. In the year 2016 Muriithi had 40 more hens than cocks and half as many ducks as cocks. In the year 2017 his hens increased by $60\%$, his ducks increased by $40\%$ and his cocks decreased by $20\%$. At the end of 2017 all his birds were 1335. Determine the percentage increase in the number of his birds in the year 2017. $\hspace{1cm} (10mks)$
+20. In the year 2016 Muriithi had 40 more hens than cocks and half as many ducks as cocks. In the year 2017 his hens increased by $60\%$, his ducks increased by $40\%$ and his cocks decreased by $20\%$. At the end of 2017 all his birds were 1335. Determine the percentage increase in the number of his birds in the year 2017. $(10mks)$
 
-21. \(a\) Using a ruler and a pair of compasses only, construct triangle $ABC$ in which $BC=6$ cm, $AB=8.8$ cm and angle $ABC=22.5^0$. $\hspace{1cm}(4mks)$
+21. \(a\) Using a ruler and a pair of compasses only, construct triangle $ABC$ in which $BC=6$ cm, $AB=8.8$ cm and angle $ABC=22.5^0$. $(4mks)$
 
-    \(b\) Measure AC and angle ACB. $\hspace{1cm} (2mks)$
+    \(b\) Measure AC and angle ACB. $(2mks)$
 
-    \(c\) Construct a circle that passes through A, B and C. $\hspace{1cm}(3mks)$
+    \(c\) Construct a circle that passes through A, B and C. $(3mks)$
 
-    \(d\) What is the radius of this circle? $\hspace{1cm} (1mk)$
+    \(d\) What is the radius of this circle? $(1mk)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -603,25 +605,27 @@ c)  The line $2x+y=6$ meets x-axis and the line y-axis at the points A and B res
 
 **Answer all the question in this section**
 
-1.  Evaluate: $\hspace{1cm} (3mks)$
+1.  Evaluate: $(3mks)$
 
 $$\frac{8\times \frac{1}{3} \,of \,9\div 2-\frac{2}{3} \,of \,144 \div 12+2\times3}{\frac{3}{4} \,of\, 36 \div 3-4\div \frac{2}{5} of 10+3\times-2}$$
 
-2.  Nyamu bought 5 pairs of trousers and 3 pairs of socks for sh 2,540. If the cost of three pairs of trousers and 5 pairs of socks is sh 1780, calculate the cost of two pairs of trousers and 6 pairs of socks. $\hspace{1cm} (4mks)$
+2.  Nyamu bought 5 pairs of trousers and 3 pairs of socks for sh 2,540. If the cost of three pairs of trousers and 5 pairs of socks is sh 1780, calculate the cost of two pairs of trousers and 6 pairs of socks. $(4mks)$
 
-3.  Simplify: $\hspace{0.6cm} (3mks)$ $$ \frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2}$$
+3.  Simplify: $(3mks)$ 
 
-4.  Taps P and Q can fill a water tank in 25 minutes and 20 minutes respectively while R can empty in 15 minutes. If the three taps are turned on for 12 minutes then Q and R closed. How long would it take before the tank is filled? $\hspace{1cm} (3 mks)$
+$$ \frac{(4a+b)^2-(b-4a)^2}{(a+b)^2-(b-a)^2}$$
 
-5.  The G.C.D of three numbers is 42 and their L.C.M is 1764. If two of the numbers are 84 and 294, what is the other smallest number? $\hspace{1cm} (3 mks)$
+4.  Taps P and Q can fill a water tank in 25 minutes and 20 minutes respectively while R can empty in 15 minutes. If the three taps are turned on for 12 minutes then Q and R closed. How long would it take before the tank is filled? $(3 mks)$
 
-6.  Gatungo sold a pullover to a customer for Ksh. 1240 after allowing her a 20% discount on the marked price. Find the price at which the pullover was marked. $\hspace{1cm}(2mks)$
+5.  The G.C.D of three numbers is 42 and their L.C.M is 1764. If two of the numbers are 84 and 294, what is the other smallest number? $(3 mks)$
 
-7.  After harvesting the green maize, the seed are dried, treated and then packed in 70 kg bags. The mass of undried maize decreases in the ratio 4:7. Calculate the mass of the undried maize that must be dried to produce 8 such bags when packed. $\hspace{1cm}(3mks)$
+6.  Gatungo sold a pullover to a customer for Ksh. 1240 after allowing her a 20% discount on the marked price. Find the price at which the pullover was marked. $(2mks)$
 
-8.  Hannah paid rent which was $\frac{3}{10}$ of her net salary. She used $\frac{1}{2}$ the remaining amount to make a down payment for a plot. She gave her mother Ksh. 3,200 and did shopping worth Ksh. 5,000 for herself. She saved the remainder which was Ksh. 12,800. How much was the down payment that she made. $\hspace{1cm} (4mks)$
+7.  After harvesting the green maize, the seed are dried, treated and then packed in 70 kg bags. The mass of undried maize decreases in the ratio 4:7. Calculate the mass of the undried maize that must be dried to produce 8 such bags when packed. $(3mks)$
 
-9.  The interior angles of an hexagon are $(2x + 30)^0$, $(3x - 15)^0$, $(2x + 45)^0$, $3x^0$, $(3x - 40)^0$ and $x^0$. Find the value of the smallest exterior angle. $\hspace{1cm} (3mks)$
+8.  Hannah paid rent which was $\frac{3}{10}$ of her net salary. She used $\frac{1}{2}$ the remaining amount to make a down payment for a plot. She gave her mother Ksh. 3,200 and did shopping worth Ksh. 5,000 for herself. She saved the remainder which was Ksh. 12,800. How much was the down payment that she made. $(4mks)$
+
+9.  The interior angles of an hexagon are $(2x + 30)^0$, $(3x - 15)^0$, $(2x + 45)^0$, $3x^0$, $(3x - 40)^0$ and $x^0$. Find the value of the smallest exterior angle. $(3mks)$
 
 10. A Kenya company received y US Dollars. The money was converted into Kenya Shillings in a bank which buys and sells foreign currencies.
 
@@ -632,33 +636,33 @@ $$\frac{8\times \frac{1}{3} \,of \,9\div 2-\frac{2}{3} \,of \,144 \div 12+2\time
   
 ```
 
-a)  If the company received Ksh.12,452,658, calculate the amount, y received to the nearest US Dollar $\hspace{1cm} (2mks)$
+a)  If the company received Ksh.12,452,658, calculate the amount, y received to the nearest US Dollar $(2mks)$
 
-b)  The company exchanged the above Kenya shillings into Sterling pounds to buy a car in Britain. Calculate the cost of the car to the nearest Sterling pound. $\hspace{1cm} (2mks)$
+b)  The company exchanged the above Kenya shillings into Sterling pounds to buy a car in Britain. Calculate the cost of the car to the nearest Sterling pound. $(2mks)$
 
 <!-- -->
 
-11. item Juma, Ali and Hassan share the profit of their business in the ratio 2: 3: 5 respectively. If Juma receives ksh. 56, 000. How much profit did the hassan get. $\hspace{1cm}(3mks)$
+11. item Juma, Ali and Hassan share the profit of their business in the ratio 2: 3: 5 respectively. If Juma receives ksh. 56, 000. How much profit did the hassan get. $(3mks)$
 
 12. Three police posts are such that Q is on a bearing of $220^0$ and 14 km from P while R is on a bearing of $145^0$ and 10 km from P.
 
-    a\) Using a suitable scale, draw a diagram to represent the above situation. $\hspace{1cm}(2mks)$
+    a\) Using a suitable scale, draw a diagram to represent the above situation. $(2mks)$
 
     b\) From the scale drawing determine:
 
-    i\) The distance and bearing of Q from R $\hspace{1cm} (2mks)$
+    i\) The distance and bearing of Q from R $(2mks)$
 
-13. Eighteen laborers takes 15 days to plough 6 acres of land. Find the number of laborers required to plough 8 acres in 12 days. $\hspace{1cm} (2mks)$
+13. Eighteen laborers takes 15 days to plough 6 acres of land. Find the number of laborers required to plough 8 acres in 12 days. $(2mks)$
 
 14. Starting from noon the minute hand of a clock moved so that the clock is showing 18 minutes to one.
 
-    a\) Find the angle through which the minute hand has moved. $\hspace{1cm} (1mk)$
+    a\) Find the angle through which the minute hand has moved. $(1mk)$
 
-    b\) Given that the minute hand is 15 cm long, find the length of the arc it describes in that time. $\hspace{1cm} (2mks)$
+    b\) Given that the minute hand is 15 cm long, find the length of the arc it describes in that time. $(2mks)$
 
-15. Two coils of the same mass are made by winding brass wire of different gauges and length. If the first coil is made by winding 324 m of the wire with 3.36 mm cross-sectional diameter and the second coil is made by winding a certain length of the wire with a cross-sectional diameter of 2.52 mm, find the length of the second coil wire. $\hspace{1cm} (3mks)$
+15. Two coils of the same mass are made by winding brass wire of different gauges and length. If the first coil is made by winding 324 m of the wire with 3.36 mm cross-sectional diameter and the second coil is made by winding a certain length of the wire with a cross-sectional diameter of 2.52 mm, find the length of the second coil wire. $(3mks)$
 
-16. A Juakali artisan reduced the base radius of a cone shaped container by 15% but, increased its height by 45%. Find the in three s.f percentage change in its volume and state whether if the volume increased or decreased.(volume of a cone$=\frac{1}{3}\pi r^2h$) $\hspace{1cm} (3mks)$
+16. A Juakali artisan reduced the base radius of a cone shaped container by 15% but, increased its height by 45%. Find the in three s.f percentage change in its volume and state whether if the volume increased or decreased.(volume of a cone$=\frac{1}{3}\pi r^2h$) $(3mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -666,51 +670,51 @@ b)  The company exchanged the above Kenya shillings into Sterling pounds to buy 
 
 17. From a reservoir, water flows through a cylindrical pipe of diameter 0.3m at a rate of 0.28m per second.
 
-    a\) Determine the number of litres of water discharged from reservoir in one hour. $\hspace{1cm} (4mks)$
+    a\) Determine the number of litres of water discharged from reservoir in one hour. $(4mks)$
 
-    b\) The water flows from the reservoir for 15 hours per day for 22 days per month and serves a population of 3,000 families. Determine the average consumption of water per family per month giving your answer to the nearest 1 litres. $\hspace{1cm} (4mks)$
+    b\) The water flows from the reservoir for 15 hours per day for 22 days per month and serves a population of 3,000 families. Determine the average consumption of water per family per month giving your answer to the nearest 1 litres. $(4mks)$
 
-    c\) The water is charged at the rate of Ksh. 10.50 per 100 litres. Calculate to the nearest Kenya shilling the average water in a family per month. $\hspace{1cm} (2mks)$
+    c\) The water is charged at the rate of Ksh. 10.50 per 100 litres. Calculate to the nearest Kenya shilling the average water in a family per month. $(2mks)$
 
 18. At noon, three ships P, Q, and R start together from port A and sail out to sea. Ship P sails at a steady speed of 40 km/h on a bearing of $055^0$. Ship Q sails steadily at a speed of 60km/h due east of A and ship R sails steadily at 50km/h on a bearing of $152^0$. At 1530hr all three ships radio back to port giving their positions.
 
-    a\) Draw a sketch diagram showing the position of ships P, Q, and R at 1500hr. $\hspace{1cm}(1mk)$
+    a\) Draw a sketch diagram showing the position of ships P, Q, and R at 1500hr. $(1mk)$
 
-    b\) Use a ruler and a pair of compasses only to construct a scale drawing showing the positions of the ships P, Q, and R with respect to port A at 1500 hrs (1cm=25km). $\hspace{1cm}(5mks)$
+    b\) Use a ruler and a pair of compasses only to construct a scale drawing showing the positions of the ships P, Q, and R with respect to port A at 1500 hrs (1cm=25km). $(5mks)$
 
     c\) By measurement use your scale drawing to determine:
 
-    i\) The distance and bearing of ship P from ship Q. $\hspace{1cm} (2mks)$
+    i\) The distance and bearing of ship P from ship Q. $(2mks)$
 
-    ii\) The distance of ship R from ship Q. $\hspace{1cm} (1mk)$
+    ii\) The distance of ship R from ship Q. $(1mk)$
 
-    iii\) The distance of ship P from ship R. $\hspace{1cm} (1mk)$
+    iii\) The distance of ship P from ship R. $(1mk)$
 
 19. \(a\) A small field was surveyed and the measurements recorded in a surveyor's field book as in the table below.
 
     ![](figures/Md6_Q19a.png)
 
-    Using a scale of 1cm to 15 m make an accurate drawing of the map of the field. $\hspace{1cm} (4mks)$
+    Using a scale of 1cm to 15 m make an accurate drawing of the map of the field. $(4mks)$
 
     \(b\)
 
-    i\) Find the area of the field. $\hspace{1cm} (3mks)$
+    i\) Find the area of the field. $(3mks)$
 
-    ii\) Assuming that the baseline in (a) runs in a northern direction give the position of D relative to A using compass bearing and distance. $\hspace{1cm} (3mks)$
+    ii\) Assuming that the baseline in (a) runs in a northern direction give the position of D relative to A using compass bearing and distance. $(3mks)$
 
 20. Four trucks A, B, C and D are used to transport 27,000 bags of maize to a depot. However, trucks A and B together take 24 days to transport the same number of bags while trucks C and D together take 15 days. Truck A carries $1\frac{1}{4}$ times the number of bags B carries and C carries $1\frac{2}{5}$ times as much as D.
 
-    a\) Determine the number of bags of maize transported by each truck per day. $\hspace{1cm}(5mks)$
+    a\) Determine the number of bags of maize transported by each truck per day. $(5mks)$
 
-    b\) All the trucks A, B C and D work together for 5 days, after which truck C and D are withdrawn. A and B work together for another 5 days after which truck A breaks down. How long does truck B take to complete the rest of the remaining bags? $\hspace{1cm}(5mks)$
+    b\) All the trucks A, B C and D work together for 5 days, after which truck C and D are withdrawn. A and B work together for another 5 days after which truck A breaks down. How long does truck B take to complete the rest of the remaining bags? $(5mks)$
 
 21. A solution whose volume is 160 litres is made up of $40\%$ water and the rest alcohol. When x litres of water is added the percentage of alcohol drops to $30\%$
 
-    a\) Find the value of x $\hspace{1cm} (4mks)$
+    a\) Find the value of x $(4mks)$
 
-    b\) If 1 litres of alcohol are added to the new solution, calculate the percentage of water in the resulting solution. $\hspace{1cm} (2mks)$
+    b\) If 1 litres of alcohol are added to the new solution, calculate the percentage of water in the resulting solution. $(2mks)$
 
-    c\) A blend is made by mixing 25 litres of the solution in (b) above with 20 litres of the original solution. Calculate in the simplest form, the ratio of water to that of alcohol in the blend. $\hspace{1cm} (4mks)$
+    c\) A blend is made by mixing 25 litres of the solution in (b) above with 20 litres of the original solution. Calculate in the simplest form, the ratio of water to that of alcohol in the blend. $(4mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -720,45 +724,47 @@ b)  The company exchanged the above Kenya shillings into Sterling pounds to buy 
 
 **Answer all the question in this section**
 
-1.  Evaluate $\hspace{1cm} (3mks)$
+1.  Evaluate $(3mks)$
 
 $$\frac{1\frac{1}{4}\,of\,20+3\frac{3}{4}\div \frac{3}{8}-4\frac{1}{2}\times3\frac{1}{3}}{5\frac{4}{9}\times1\frac{2}{7}-4\div \frac{2}{3}+\frac{3}{4}\,of\,12}$$
 
-2.  Use squares and square root tables to evaluate. $\hspace{1cm}(4mks)$
+2.  Use squares and square root tables to evaluate. $(4mks)$
 
 $$ (0.9233)^2+\sqrt[]{15.2453}-0.223$$
 
-3.  A UK tourist comes to Kenya with $\pounds, 65, 000$. He pays $25\%$ commission at the airport and his expenses in Kenya amounted to Ksh. 890,000. How much money did he remain with in Ksh? (Take $1\, UK \pounds = Ksh. 130.50$) $\hspace{1cm} (3mks)$
+3.  A UK tourist comes to Kenya with $\pounds, 65, 000$. He pays $25\%$ commission at the airport and his expenses in Kenya amounted to Ksh. 890,000. How much money did he remain with in Ksh? (Take $1\, UK \pounds = Ksh. 130.50$) $(3mks)$
 
-4.  All prime numbers less than 10 are arranged in a descending order to form a number which forms a quotient of 1883 with a certain number. Calculate the number $\hspace{1cm} (3mks)$
+4.  All prime numbers less than 10 are arranged in a descending order to form a number which forms a quotient of 1883 with a certain number. Calculate the number $(3mks)$
 
-5.  Solve the equation $\hspace{1cm} (2mks)$ $$\frac{1}{2y}=\frac{3}{4y+1}$$
+5.  Solve the equation $(2mks)$ 
 
-6.  Daniel deposited 48 different notes in the bank. He had eight times as many two-hundred shilling notes as one-thousand shilling notes and half as many one-hundred shilling notes as two-hundred shilling notes. The rest were fifty shilling notes. If he deposited a total of Ksh. 9,450, find the number of fifty shilling notes he deposited. $\hspace{1cm} (3mks)$
+$$\frac{1}{2y}=\frac{3}{4y+1}$$
 
-7.  Esther bought maize and sorghum flour from a vendor. She then mixed them in the ratio 4:3. She bought the maize flour at ksh.50 per kg and the millet flour at ksh. 71 per kg. If she was to sell and make a profit of $25\%$. What should be the selling price of 1kg of the mixture? Give you answer correct to the nearest 10 cent. $\hspace{1cm} (3mks)$
+6.  Daniel deposited 48 different notes in the bank. He had eight times as many two-hundred shilling notes as one-thousand shilling notes and half as many one-hundred shilling notes as two-hundred shilling notes. The rest were fifty shilling notes. If he deposited a total of Ksh. 9,450, find the number of fifty shilling notes he deposited. $(3mks)$
 
-8.  Teresia sold a dress at Ksh. 1,290 after allowing a discount of Ksh. 160. If she did not allow any discount to the customer, she would have made a profit of $25\%$. Calculate the percentage profit she made. $\hspace{1cm} (3mks)$
+7.  Esther bought maize and sorghum flour from a vendor. She then mixed them in the ratio 4:3. She bought the maize flour at ksh.50 per kg and the millet flour at ksh. 71 per kg. If she was to sell and make a profit of $25\%$. What should be the selling price of 1kg of the mixture? Give you answer correct to the nearest 10 cent. $(3mks)$
 
-9.  Nyambura bought 4 sufurias and 6 cups for Ksh. 850 from a hawker. If she had bought 3 sufurias and 9 cups she would have saved Ksh. 55. Calculate the cost of one sufuria. $\hspace{1cm} (3mks)$
+8.  Teresia sold a dress at Ksh. 1,290 after allowing a discount of Ksh. 160. If she did not allow any discount to the customer, she would have made a profit of $25\%$. Calculate the percentage profit she made. $(3mks)$
 
-10. Omondi is now two-third as old as his sister and twice as old as his younger brother. In six years' time Omondi's age will be 26 years less than the sum of ages of his sister and brother. Determine Omondi's present age. $\hspace{1cm} (3mks)$
+9.  Nyambura bought 4 sufurias and 6 cups for Ksh. 850 from a hawker. If she had bought 3 sufurias and 9 cups she would have saved Ksh. 55. Calculate the cost of one sufuria. $(3mks)$
 
-11. A Juakali artisan reduced the base radius of a cone shaped container by $15\%$ but, increased its height by $45\%$. Find the in three s.f percentage change in its volume and state whether if the volume increased or decreased (volume of a cone $=\frac{1}{3}\pi r^2h$ $\hspace{1cm} (3mks)$
+10. Omondi is now two-third as old as his sister and twice as old as his younger brother. In six years' time Omondi's age will be 26 years less than the sum of ages of his sister and brother. Determine Omondi's present age. $(3mks)$
 
-12. The sum of the interior angles of an n-sided polygon is $720^0$. Find the value of n and hence give the name of the polygon. $\hspace{1cm} (3mks)$
+11. A Juakali artisan reduced the base radius of a cone shaped container by $15\%$ but, increased its height by $45\%$. Find the in three s.f percentage change in its volume and state whether if the volume increased or decreased (volume of a cone $=\frac{1}{3}\pi r^2h$ $(3mks)$
 
-13. A rectangular water tank has a base measuring 4.5m by 2m. This tank has water to a height of 90cm. Water is then pumped into this tank continuously from 2030 hours to 2140 hours at the rate of 1.2 litres per second. Find the new depth of water in the tank after this period of time giving your result in metres. $\hspace{1cm} (3mks)$
+12. The sum of the interior angles of an n-sided polygon is $720^0$. Find the value of n and hence give the name of the polygon. $(3mks)$
 
-14. Four strings measuring 15cm, 20cm, 25cm and 30cm are cut into pieces of equal length so that exact number of pieces is obtained from each string without wastage. Find the longest length of each string. $\hspace{1cm} (2mks)$
+13. A rectangular water tank has a base measuring 4.5m by 2m. This tank has water to a height of 90cm. Water is then pumped into this tank continuously from 2030 hours to 2140 hours at the rate of 1.2 litres per second. Find the new depth of water in the tank after this period of time giving your result in metres. $(3mks)$
 
-15. The number of students at Lorna Waddington High School is 600. On a particular day $\frac{1}{5}$ of the boys and $\frac{1}{4}$ of the girls attended a sports meeting. If 468 students were left behind, find how many more boys than girls attended the meeting. $\hspace{1cm} (4mks)$
+14. Four strings measuring 15cm, 20cm, 25cm and 30cm are cut into pieces of equal length so that exact number of pieces is obtained from each string without wastage. Find the longest length of each string. $(2mks)$
+
+15. The number of students at Lorna Waddington High School is 600. On a particular day $\frac{1}{5}$ of the boys and $\frac{1}{4}$ of the girls attended a sports meeting. If 468 students were left behind, find how many more boys than girls attended the meeting. $(4mks)$
 
 16. Using ruler and a pair of compasses only:
 
-    i\) Construct triangle ABC in which BC = 7.5 cm and angle $ABC = 105^0$ and angle $BAC = 30^0$. $\hspace{1cm} (3mks)$
+    i\) Construct triangle ABC in which BC = 7.5 cm and angle $ABC = 105^0$ and angle $BAC = 30^0$. $(3mks)$
 
-    ii\) Drop a perpendicular from A to meet line BC at P. Determine the area of triangle ABC. $\hspace{1cm} (2mks)$
+    ii\) Drop a perpendicular from A to meet line BC at P. Determine the area of triangle ABC. $(2mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -768,43 +774,43 @@ $$ (0.9233)^2+\sqrt[]{15.2453}-0.223$$
 
     a\) Calculate:
 
-    i\) The number of buses hired $\hspace{1cm} (4mks)$
+    i\) The number of buses hired $(4mks)$
 
-    ii\) The number of matatus hired $\hspace{1cm} (1mk)$
+    ii\) The number of matatus hired $(1mk)$
 
-    b\) Calculate the number of youths ferried to Embu if each vehicle was filled to capacity and no vehicle made a double trip. $\hspace{1cm} (3mks)$
+    b\) Calculate the number of youths ferried to Embu if each vehicle was filled to capacity and no vehicle made a double trip. $(3mks)$
 
-    c\) Each youth contributed Ksh. 200 towards the cost of the trip and the church paid the remaining amount. How much did the church pay? $\hspace{1cm} (2mks)$
+    c\) Each youth contributed Ksh. 200 towards the cost of the trip and the church paid the remaining amount. How much did the church pay? $(2mks)$
 
 18. Three business partners Muhammed, Maimuna , and Hasan decided to start a business. Muhammed contributed Ksh. 25,000, Maimuna contributed Ksh. 35,000, and Hasan contributed Ksh. 45,000 as business capital exclusive of rental fee. They rented a business premises that needed to be paid Ksh. 15,000 which was to be shared equally among them. They agreed to put $25\%$ of the profit obtained annually back in to the business and share the rest in the ratio of their contributions. The business realized Ksh. 128,000 as gross profits.
 
-    a\) Find the ratio in which they contributed business capital and rental fees. $\hspace{1cm} (3mks)$
+    a\) Find the ratio in which they contributed business capital and rental fees. $(3mks)$
 
     b\) Calculate:
 
-    i\) The profits shared. $\hspace{1cm} (2mks)$
+    i\) The profits shared. $(2mks)$
 
-    ii\) Each partner's share of the profits. $\hspace{1cm} (3mks)$
+    ii\) Each partner's share of the profits. $(3mks)$
 
-    iii\) The percentage of Hasan share to the sum of Maimuna and Muhammed share. $\hspace{1cm}(2mks)$
+    iii\) The percentage of Hasan share to the sum of Maimuna and Muhammed share. $(2mks)$
 
 19. In 2008, the number of students in Mucagara Secondary School was 240, a $20\%$ increase over the number of students in 2007. The number of students dropped by $5\%$ in 2009 but, increased by $25\%$ in the year 2010.
 
     a\) Determine the number of students:
 
-    i\) In the year 2007 $\hspace{1cm} (2mks)$
+    i\) In the year 2007 $(2mks)$
 
-    ii\) In the year 2009 $\hspace{1cm} (2mks)$
+    ii\) In the year 2009 $(2mks)$
 
-    iii\) In the year 2010 $\hspace{1cm} (2mks)$
+    iii\) In the year 2010 $(2mks)$
 
-    b\) Express as a percentage the increase in the number students in the year 2010 over the that in the year 2008 $\hspace{1cm} (2mks)$
+    b\) Express as a percentage the increase in the number students in the year 2010 over the that in the year 2008 $(2mks)$
 
-    c\) What was the percentage increase in student population between 2007 and 2009. $\hspace{1cm}(2mks)$
+    c\) What was the percentage increase in student population between 2007 and 2009. $(2mks)$
 
 20. Use the given linear equations to:
 
-    a\) Complete the table below $\hspace{1cm} (4mks)$
+    a\) Complete the table below $(4mks)$
 
     $3x+y=9$
 
@@ -814,7 +820,7 @@ $$ (0.9233)^2+\sqrt[]{15.2453}-0.223$$
 
     ![](figures/Md7_Q20b.png)
 
-    b\) Using graph solve the simultaneous equations: $\hspace{1cm} (4mks)$
+    b\) Using graph solve the simultaneous equations: $(4mks)$
 
 ```{=latex}
 \begin{equation}
@@ -824,21 +830,21 @@ x-2y&= -4\\
 \end {split}
 \end{equation}
 ```
-c)  If the line $3x+y= 9$ cuts the x-axis and y-axis at A and B respectively, state the coordinates of A and B. $\hspace{1cm} (2mks)$
+c)  If the line $3x+y= 9$ cuts the x-axis and y-axis at A and B respectively, state the coordinates of A and B. $(2mks)$
 
 21. A Parrot flies from a tree X to another tree Y which is 70m on a bearing of $035^0$ from X. From Y the dove flies 100 m due west to another tree Z and finally flies due south to another tree W which is on a bearing of $230^0$ from X.
 
-    a\) Using a ruler and a pair of compasses only construct an accurate scale drawing showing the positions of X, Y, Z, and W. (scale : 1 cm=10 cm) $\hspace{1cm} (4mks)$
+    a\) Using a ruler and a pair of compasses only construct an accurate scale drawing showing the positions of X, Y, Z, and W. (scale : 1 cm=10 cm) $(4mks)$
 
     b\) By measurement from your scale drawing determine:
 
-    i\) The distance and bearing of Z from X. $\hspace{1cm} (2mks)$
+    i\) The distance and bearing of Z from X. $(2mks)$
 
-    ii\) The distance of W from Z $\hspace{1cm} (1mk)$
+    ii\) The distance of W from Z $(1mk)$
 
-    iii\) The distance of W from X $\hspace{1cm} (1mk)$
+    iii\) The distance of W from X $(1mk)$
 
-    c\) The compass bearing of W from Y. $\hspace{1cm} (2mks)$
+    c\) The compass bearing of W from Y. $(2mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -848,41 +854,41 @@ c)  If the line $3x+y= 9$ cuts the x-axis and y-axis at A and B respectively, st
 
 **Answer all the question in this section**
 
-1.  Evaluate: $\hspace{0.5cm} (3mks)$
+1.  Evaluate: $(3mks)$
 
 $$ \frac{6\times\frac{1}{3}\,of\,12\div2-\frac{1}{3}\,of\,36\div6+3\times4}{\frac{1}{4}\,of\,24\div2-24\div\frac{3}{5}\,of\,10+5\times(-2)}$$
 
-2.  Factorize completely $\hspace{0.5cm} (3mks)$
+2.  Factorize completely $(3mks)$
 
     $$(x+y)(4x-5y)-(x+y)^2$$
 
 3.  Murimi, a cattle keeping farmer, has twenty five times as many cows as goats, and three-fifth as many sheep as goats.
 
-    a\) If there are g goats, write down a simplified expression in g for the total number of animals Murimi has. $\hspace{0.5cm}(1mk)$
+    a\) If there are g goats, write down a simplified expression in g for the total number of animals Murimi has. $(1mk)$
 
-    b\) Given that there are 75 sheep, calculate as a percentage the sum of goats and sheep to the number of cows Murimi had. $\hspace{0.5cm}(3mks)$
+    b\) Given that there are 75 sheep, calculate as a percentage the sum of goats and sheep to the number of cows Murimi had. $(3mks)$
 
-4.  Four interior angles of a hexagon are $120^0$, $115^0$, $135^0$ and $80^0$. The fifth interior angle is twice times the sixth. Find, in degrees the sixth interior angle. $\hspace{0.5cm} (3mks)$
+4.  Four interior angles of a hexagon are $120^0$, $115^0$, $135^0$ and $80^0$. The fifth interior angle is twice times the sixth. Find, in degrees the sixth interior angle. $(3mks)$
 
-5.  Munyiti uses $\frac{1}{3}$ of his farm for planting mangoes, $\frac{1}{4}$ for planting macadamia and $\frac{2}{5}$ of the remainder for grazing and home stead. He still has 6 hectares of unused land. Find the size of land Munyiti used for planting mangoes.$\hspace{0.5cm} (3mks)$
+5.  Munyiti uses $\frac{1}{3}$ of his farm for planting mangoes, $\frac{1}{4}$ for planting macadamia and $\frac{2}{5}$ of the remainder for grazing and home stead. He still has 6 hectares of unused land. Find the size of land Munyiti used for planting mangoes.$(3mks)$
 
-6.  Use tables and squares roots to evaluate to 4 significant figures. $\hspace{0.5cm} (4mks)$
+6.  Use tables and squares roots to evaluate to 4 significant figures. $(4mks)$
 
 $$\left(\sqrt[]{245.6}+(4.436)^2\right)^\frac{1}{2}$$
 
-7.  A speaker coil which is made by winding 750 m of copper wire of cross-sectional diameter of 1.89 mm has the same mass as another coil of copper wire with cross-sectional diameter of 2.1 mm. Find the length of the wire making the second coil. $\hspace{0.5cm} (3mks)$
+7.  A speaker coil which is made by winding 750 m of copper wire of cross-sectional diameter of 1.89 mm has the same mass as another coil of copper wire with cross-sectional diameter of 2.1 mm. Find the length of the wire making the second coil. $(3mks)$
 
-8.  Three children shared some money. Rose got $0.\dot{5}$ of the money and Mutua $0.\dot3$ of the remainder. Loice received the rest which was Ksh. 400. How much did Mutua get? $\hspace{0.5cm} (4mks)$
+8.  Three children shared some money. Rose got $0.\dot{5}$ of the money and Mutua $0.\dot3$ of the remainder. Loice received the rest which was Ksh. 400. How much did Mutua get? $(4mks)$
 
-9.  The sum of the interior angles of an n-sided polygon is $1080^0$. Find the value of n and hence calculate the size of each exterior angle. $\hspace{0.5cm} (3mks)$
+9.  The sum of the interior angles of an n-sided polygon is $1080^0$. Find the value of n and hence calculate the size of each exterior angle. $(3mks)$
 
-10. Three metal rods of lengths 243cm, 270cm and 198cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. $\hspace{0.5cm} (3mks)$
+10. Three metal rods of lengths 243cm, 270cm and 198cm were cut into shorter pieces all of the same length to make window grills. Calculate the length of the longest piece that can be cut from each of the rods and hence the total number of pieces that can be obtained from the rods. $(3mks)$
 
-11. A blend of juice is made from pineapple and passion. The cost of two limes of pineapple is Ksh. 162 and three limes of passion is Ksh. 414. In what ratio should the juice be mixed such that by selling the mixture at Ksh. 140 per lime a profit of $40\%$ is realized? $\hspace{0.5cm} (3mks)$
+11. A blend of juice is made from pineapple and passion. The cost of two limes of pineapple is Ksh. 162 and three limes of passion is Ksh. 414. In what ratio should the juice be mixed such that by selling the mixture at Ksh. 140 per lime a profit of $40\%$ is realized? $(3mks)$
 
-12. Awino bought a shirt for Ksh. 1400 and sold it to a customer at a profit of $35\%$. What is the marked price of the shirt if selling the shirt she had allowed her customer a $10\%$ discount on the marked price? $\hspace{0.5cm}(4mks)$
+12. Awino bought a shirt for Ksh. 1400 and sold it to a customer at a profit of $35\%$. What is the marked price of the shirt if selling the shirt she had allowed her customer a $10\%$ discount on the marked price? $(4mks)$
 
-13. Sarah bought 3 plates and 6 jugs at a total cost of Ksh. 324. If she had bought 1 plate more and 2 jug less, she would have spent Ksh. 48 less. On another occasion Sarah bought 5 plates and 5 jugs at the same prices. Find how much she spent on the second occasion. $\hspace{0.5cm} (3mks)$
+13. Sarah bought 3 plates and 6 jugs at a total cost of Ksh. 324. If she had bought 1 plate more and 2 jug less, she would have spent Ksh. 48 less. On another occasion Sarah bought 5 plates and 5 jugs at the same prices. Find how much she spent on the second occasion. $(3mks)$
 
 14. A Kenyan tourist left Berlin, Germany for Nairobi, Kenya through Geneva, Switzerland. While in Geneva, he bought a watch worth 110.6 Deutsche marks. Using the exchange rates below:
 
@@ -894,13 +900,13 @@ $$\left(\sqrt[]{245.6}+(4.436)^2\right)^\frac{1}{2}$$
 
 15. Find the value of the watch in:
 
-    a\) Swiss Francs $\hspace{0.5cm} (2mks)$
+    a\) Swiss Francs $(2mks)$
 
-    b\) Kenya shillings $\hspace{0.5cm} (1mk)$
+    b\) Kenya shillings $(1mk)$
 
-16. Using a ruler and a pair of compasses only construct triangle ABC such that $AB= 5.8\,cm$, $BC = 7\,cm$ and angle $CBA = 75^0$. Measure angle $CAB$. $\hspace{0.5cm} (3mks)$
+16. Using a ruler and a pair of compasses only construct triangle ABC such that $AB= 5.8\,cm$, $BC = 7\,cm$ and angle $CBA = 75^0$. Measure angle $CAB$. $(3mks)$
 
-17. Two pipes A and B each running alone can fill a Jerican in 6 hours and 10 hours respectively. a drainage pipe C can empty the full Jerican in 15 hours. If pipe A and B are turned on and left running for $1\frac{1}{2}$ hours and then the drainage pipe C is opened and all three left running, find how much longer it takes to fill the Jerican. $\hspace{0.5cm} (4mks)$
+17. Two pipes A and B each running alone can fill a Jerican in 6 hours and 10 hours respectively. a drainage pipe C can empty the full Jerican in 15 hours. If pipe A and B are turned on and left running for $1\frac{1}{2}$ hours and then the drainage pipe C is opened and all three left running, find how much longer it takes to fill the Jerican. $(4mks)$
 
 [**SECTION B (50 MARKS)**]{.underline}
 
@@ -908,59 +914,59 @@ $$\left(\sqrt[]{245.6}+(4.436)^2\right)^\frac{1}{2}$$
 
 18. Peter bought a second hand probox and later sold it through a sales agent who charges $6.5\%$ commission on the price of the probox. He received Ksh. 392,700 from the agent after the latter had deducted his commission. Peter incurred a loss of $30\%$ on the price at which he had bought the probox.
 
-    a\) Determine the price at which the agent sold the probox. $\hspace{0.5cm}(2mks)$
+    a\) Determine the price at which the agent sold the probox. $(2mks)$
 
-    b\) Find the price at which Peter had bought the probox $\hspace{0.5cm} (3mks)$
+    b\) Find the price at which Peter had bought the probox $(3mks)$
 
-    c\) If the amount Peter paid for the probox was $25\%$ less than the price of the new probox, calculate the price of the new probox. $\hspace{0.5cm} (3mks)$
+    c\) If the amount Peter paid for the probox was $25\%$ less than the price of the new probox, calculate the price of the new probox. $(3mks)$
 
-    d\) Express as a percentage the amount Peter received for his probox to its price when new. $\hspace{0.5cm} (2mks)$
+    d\) Express as a percentage the amount Peter received for his probox to its price when new. $(2mks)$
 
 19. Nyakio and Anyango went to buy clothes for their business. Nyakio spent Ksh. 20,150 to buy a number of dresses and skirts from a wholesaler A at Ksh. 450 per dress and Ksh. 200 per skirt. Anyango bought the same number of dresses and skirts from wholesaler B where she paid $20\%$ less per dress and $10\%$ more per skirt. It was found that Anyango spent Ksh. 2,710 less than Nyakio.
 
-    a\) Determine the number of dresses and skirts each cloth dealer bought.$\hspace{0.5cm} (4mks)$
+    a\) Determine the number of dresses and skirts each cloth dealer bought.$(4mks)$
 
-    b\) Nyakio sold all her clothes at a profit of $20\%$ per dress and $40\%$ per skirt. How much profit did she make? $\hspace{0.5cm} (3mks)$
+    b\) Nyakio sold all her clothes at a profit of $20\%$ per dress and $40\%$ per skirt. How much profit did she make? $(3mks)$
 
-    c\) Anyango also sold all her clothes at a profit of $20\%$ per dress and $40\%$ per skirt. Calculate to three significant figures the percentage profit she made. $\hspace{0.5cm} (3mks)$
+    c\) Anyango also sold all her clothes at a profit of $20\%$ per dress and $40\%$ per skirt. Calculate to three significant figures the percentage profit she made. $(3mks)$
 
 20. A metal sheet measuring $1 \,m$ long and $80 \,cm$ wind is $2\,mm$ thick and its density is $2.5 g/cm^3$. A square of side $x\, cm$ is removed from each of the four corners and the remaining part folded to form an open cuboid.
 
-    a\) Calculate the area of the remaining part in terms of $x$. $\hspace{0.5cm} (2mks)$
+    a\) Calculate the area of the remaining part in terms of $x$. $(2mks)$
 
-    b\) Given that the area of the remaining part is $0.76 \,m^2$, calculate the value of $x$ and hence state the internal dimensions of the cuboid.$\hspace{0.5cm}(3mks)$
+    b\) Given that the area of the remaining part is $0.76 \,m^2$, calculate the value of $x$ and hence state the internal dimensions of the cuboid.$(3mks)$
 
-    c\) Calculate the mass in kg of the empty cuboid to two significant figures.$\hspace{0.5cm}(2mks)$
+    c\) Calculate the mass in kg of the empty cuboid to two significant figures.$(2mks)$
 
-    d\) If the cuboid is filled with a liquid of density $d \,g/cm^3$ and its mass when full of the liquid is 39.8 kg, calculate the value of $d$.$\hspace{0.5cm}(3mks)$
+    d\) If the cuboid is filled with a liquid of density $d \,g/cm^3$ and its mass when full of the liquid is 39.8 kg, calculate the value of $d$.$(3mks)$
 
 21. Use a ruler and a pair of compasses only for all the constructions in this question.
 
-    a\) Construct a triangle $ABC$ in which $BC=7cm$, $AC=9cm$, and angle $ACB=135^0$ $\hspace{0.5cm}(3mks)$
+    a\) Construct a triangle $ABC$ in which $BC=7cm$, $AC=9cm$, and angle $ACB=135^0$ $(3mks)$
 
-    b\) Measure AB and angle ABC $\hspace{0.5cm} (2mks)$
+    b\) Measure AB and angle ABC $(2mks)$
 
-    c\) From A drop a perpendicular to meet BC produced at D. $\hspace{0.5cm}(1mk)$
+    c\) From A drop a perpendicular to meet BC produced at D. $(1mk)$
 
-    d\) Measure AD and hence calculate the area of triangle ABC. $\hspace{0.5cm}(2mks)$
+    d\) Measure AD and hence calculate the area of triangle ABC. $(2mks)$
 
-    e\) Mark a point E on AD such that area of triangle BEC is 1.5 the area of triangle ABC. $\hspace{0.5cm} (1mk)$
+    e\) Mark a point E on AD such that area of triangle BEC is 1.5 the area of triangle ABC. $(1mk)$
 
-    f\) Complete triangle BEC and measure EC. $\hspace{0.5cm} (1mk)$
+    f\) Complete triangle BEC and measure EC. $(1mk)$
 
 22. Town B is 250 km from a bearing of $050^0$ from town A. Town C is 350 km from town B and on a compass bearing of $S57^0E$ from town B. A fourth town D is on a bearing of $240^0$ from town C and due south of town A.
 
-    a\) Using a scale of $1\,cm=50 \,km$, draw an accurate scale drawing showing the positions of towns A, B, C, and D. $\hspace{0.5cm} (5mks)$
+    a\) Using a scale of $1\,cm=50 \,km$, draw an accurate scale drawing showing the positions of towns A, B, C, and D. $(5mks)$
 
     b\) By measurement from your scale drawing, determine:
 
-    i\) The distance AC $\hspace{0.5cm} (1mk)$
+    i\) The distance AC $(1mk)$
 
-    ii\) The distance AD $\hspace{0.5cm} (1mk)$
+    ii\) The distance AD $(1mk)$
 
-    iii\) The distance CD $\hspace{0.5cm} (1mk)$
+    iii\) The distance CD $(1mk)$
 
-    iv\) The bearing of B from C $\hspace{0.5cm} (2mks)$
+    iv\) The bearing of B from C $(2mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -970,33 +976,33 @@ $$\left(\sqrt[]{245.6}+(4.436)^2\right)^\frac{1}{2}$$
 
 **Answer all the question in this section**
 
-1.  Evaluate: $\hspace{0.5cm} (3mks)$
+1.  Evaluate: $(3mks)$
 
 $$\frac{\frac{3}{5}\,of\,30+5\frac{5}{6}\div\frac{7}{12}-2\frac{2}{3}\times 1\frac{1}{2}}{5\frac{5}{8}\times1\frac{7}{9}-1\frac{1}{4}\,of\,4\frac{4}{5}+2\frac{4}{5}\div\frac{7}{10}}$$
 
-2.  A law firm bought 60 files at a total cost of Ksh. 10,000. Some files cost Ksh. 150 each while others cost Ksh. 250 each. Find the number of files which were bought at Ksh. 150 each. $\hspace{1cm}(3mks)$
+2.  A law firm bought 60 files at a total cost of Ksh. 10,000. Some files cost Ksh. 150 each while others cost Ksh. 250 each. Find the number of files which were bought at Ksh. 150 each. $(3mks)$
 
-3.  Mutheu is now 10 years older than her younger brother. Six years ago the She was three times as old as his brother. Find their present ages. $\hspace{1cm} (3mks)$
+3.  Mutheu is now 10 years older than her younger brother. Six years ago the She was three times as old as his brother. Find their present ages. $(3mks)$
 
-4.  Wambui marked a skirt at Ksh. 400 and sold it to a customer at a discount of $15\%$. Find the percentage profit She made if she had bought the skirt at Ksh. 280. $\hspace{1cm}(3mks)$
+4.  Wambui marked a skirt at Ksh. 400 and sold it to a customer at a discount of $15\%$. Find the percentage profit She made if she had bought the skirt at Ksh. 280. $(3mks)$
 
-5.  Use tables to evaluate:- $\hspace{1cm} (4mks)$
+5.  Use tables to evaluate:- $(4mks)$
 
 $$(6.342+3.289)^2-\sqrt[]{(432.85-124.45)}$$
 
 6.  Osinya constructed a closed wooden box with external measurements 1.5 metres long, 1.4 metres wide and 0.6 metres high. The wood used in constructing the box was 10.0cm thick and has a density of $0.75g/cm^3$. Determine the:
 
-    a\) Volume in $cm^3$ of the wood used in constructing the box. $\hspace{1cm} (3mks)$
+    a\) Volume in $cm^3$ of the wood used in constructing the box. $(3mks)$
 
-    b\) Mass of the box in kilograms correct to 1 decimal place. $\hspace{1cm} (1mk)$
+    b\) Mass of the box in kilograms correct to 1 decimal place. $(1mk)$
 
-7.  Factorize completely $\hspace{1cm} (3mks)$
+7.  Factorize completely $(3mks)$
 
     $$(x-3y)(4x+3y)-(x-3y)^2$$
 
-8.  16 workers working at the rate of 9 hours a day can complete a piece of work in 14 days. How many more workers working at the rate of 7 hours a day wound complete the same job in 12 days. $\hspace{1cm} (3mks)$
+8.  16 workers working at the rate of 9 hours a day can complete a piece of work in 14 days. How many more workers working at the rate of 7 hours a day wound complete the same job in 12 days. $(3mks)$
 
-9.  In a form one class there are 5 more boys than girls. On a certain day one-quarter of the boys and one-fifth of the girls went for a football games. If 8 students from this class went for the football game, find the number of students in the class. $\hspace{1cm}(3mks)$
+9.  In a form one class there are 5 more boys than girls. On a certain day one-quarter of the boys and one-fifth of the girls went for a football games. If 8 students from this class went for the football game, find the number of students in the class. $(3mks)$
 
 10. Kamau toured Switerland from Germany. In Switzerland he bought his wife a present worth 150 Deutsche marks. If
 
@@ -1006,21 +1012,21 @@ $$(6.342+3.289)^2-\sqrt[]{(432.85-124.45)}$$
 
     Find the value of the present in:
 
-    a\) Swiss Francs correct to 2 decimal places. $\hspace{1cm} (1mk)$
+    a\) Swiss Francs correct to 2 decimal places. $(1mk)$
 
-    b\) Kenya shillings correct to the nearest Ksh $\hspace{1cm}(2mks)$
+    b\) Kenya shillings correct to the nearest Ksh $(2mks)$
 
-11. Find the least number of biscuits that can be packed into carton boxes which contain either 10 or 15 or 21 or 24 with leaving 5 biscuits unpacked. $\hspace{1cm} (3mks)$
+11. Find the least number of biscuits that can be packed into carton boxes which contain either 10 or 15 or 21 or 24 with leaving 5 biscuits unpacked. $(3mks)$
 
-12. A polygon of n sides has half of the interior angles $140^0$ each and the rest $160^0$ each. Find the value of n. $\hspace{1cm} (2mks)$
+12. A polygon of n sides has half of the interior angles $140^0$ each and the rest $160^0$ each. Find the value of n. $(2mks)$
 
-13. A coffee dealer mixes two brands of coffee, P and Q to obtain 50kg of the mixture worth Ksh. 60. If brand P is valued at Ksh. 80 per kg and brand Q is valued at Ksh. 50 per kg. Calculate the ratio in its simplest form in which brands P and Q are mixed. $\hspace{1cm}(4mks)$
+13. A coffee dealer mixes two brands of coffee, P and Q to obtain 50kg of the mixture worth Ksh. 60. If brand P is valued at Ksh. 80 per kg and brand Q is valued at Ksh. 50 per kg. Calculate the ratio in its simplest form in which brands P and Q are mixed. $(4mks)$
 
-14. In a 3 digit number, the hundreds digits is 3 more than the units digit and the tens digit is thrice the hundreds digit. If the sum of the digits is 12, find the three digits. Write the number. $\hspace{1cm}(3mks)$
+14. In a 3 digit number, the hundreds digits is 3 more than the units digit and the tens digit is thrice the hundreds digit. If the sum of the digits is 12, find the three digits. Write the number. $(3mks)$
 
-15. Three similar pieces of timber of length 150cm, 140cm and 180cm are cut into equal pieces. Find the largest possible area of a square which can be made from any of the three pieces. $\hspace{1cm} (3mks)$
+15. Three similar pieces of timber of length 150cm, 140cm and 180cm are cut into equal pieces. Find the largest possible area of a square which can be made from any of the three pieces. $(3mks)$
 
-16. Arrange the following fractions in descending order. $\hspace{1cm} (3mks)$ 
+16. Arrange the following fractions in descending order. $(3mks)$ 
 
 $$ \frac{3}{5},\frac{8}{9},\frac{1}{3},\frac{4}{7},\frac{3}{4}$$
 
@@ -1030,17 +1036,17 @@ $$ \frac{3}{5},\frac{8}{9},\frac{1}{3},\frac{4}{7},\frac{3}{4}$$
 
 17. Melvin bought a second hand minibus at later sold it through a sales agent who charged $8\%$ commission on the price at which she sold the minibus. She received Ksh. 699,200 from the agent after she had deducted her commission. Melvin made a profit of $15\%$ on the price at which she had bought the vehicle.
 
-    a\) Calculate the price at which the sales agent sold the minibus. $\hspace{1cm} (2mks)$
+    a\) Calculate the price at which the sales agent sold the minibus. $(2mks)$
 
-    b\) Find the amount Melvin paid for the minibus. $\hspace{1cm} (3mks)$
+    b\) Find the amount Melvin paid for the minibus. $(3mks)$
 
-    c\) If the amount Melvin paid was 50% less than the price of the new minibus, calculate its price when new. $\hspace{1cm} (3mks)$
+    c\) If the amount Melvin paid was 50% less than the price of the new minibus, calculate its price when new. $(3mks)$
 
-    d\) Express as a percentage the amount Melvin received for the minibus to its price when new. $\hspace{1cm} (2mks)$
+    d\) Express as a percentage the amount Melvin received for the minibus to its price when new. $(2mks)$
 
 18. Given linear equations $2x+y=7$ and $5x-3y=12$:
 
-    a\) Complete the following tables: $\hspace{1cm} (4mks)$
+    a\) Complete the following tables: $(4mks)$
 
     $2x+y=7$
 
@@ -1050,7 +1056,7 @@ $$ \frac{3}{5},\frac{8}{9},\frac{1}{3},\frac{4}{7},\frac{3}{4}$$
 
     ![](figures/Md9_Q18b.png)
 
-    b\) Use graphical method to solve the simultaneous equations: $\hspace{1cm}(4mks)$
+    b\) Use graphical method to solve the simultaneous equations: $(4mks)$
 
     ```{=latex}
     \begin{equation}
@@ -1061,35 +1067,35 @@ $$ \frac{3}{5},\frac{8}{9},\frac{1}{3},\frac{4}{7},\frac{3}{4}$$
     \end{equation}
     ```
 
-    c\) If the line $2x+y-7=0$ cuts x-axis and y-axis at point A and B respectively, state the coordinates of A and B. $\hspace{1cm} (2mks)$
+    c\) If the line $2x+y-7=0$ cuts x-axis and y-axis at point A and B respectively, state the coordinates of A and B. $(2mks)$
 
-19. \(a\) Solution whose volume is 100 litres is made up of $30\%$ water and $70\%$ milk. When y litres of water are added the percentage of milk drops to $40\%$. Find the value of y. $\hspace{1cm} (4mks)$
+19. \(a\) Solution whose volume is 100 litres is made up of $30\%$ water and $70\%$ milk. When y litres of water are added the percentage of milk drops to $40\%$. Find the value of y. $(4mks)$
 
-    \(b\) Twenty five litres of water is added to the new solution. Calculate the percentage of milk in the resulting solution. $\hspace{1cm} (2mks)$
+    \(b\) Twenty five litres of water is added to the new solution. Calculate the percentage of milk in the resulting solution. $(2mks)$
 
-    \(c\) If 8 litres of the solution in (b) above is added to 16 litres of the original solution, calculate in the simplest form, the ratio of water to milk in the resulting solution. $\hspace{1cm}(4mks)$
+    \(c\) If 8 litres of the solution in (b) above is added to 16 litres of the original solution, calculate in the simplest form, the ratio of water to milk in the resulting solution. $(4mks)$
 
 20. Kiptanui's farm produced 13,600 bags of wheat in 2015 which was a decrease of $15\%$ over the production in 2014. In 2016, the production was a $25\%$ increase of the previous year but, in 2017 Kiptanui farm produced 16,405 bags of wheat.
 
     a\) Calculate the number of bags of wheat Kiptanui's farm produced:
 
-    i\) In 2014 $\hspace{1cm}(2mks)$
+    i\) In 2014 $(2mks)$
 
-    ii\) In 2016 $\hspace{1cm} (2mks)$
+    ii\) In 2016 $(2mks)$
 
-    b\) What was the percentage decrease in production in 2017 over that of the previous year? $\hspace{1cm} (2mks)$
+    b\) What was the percentage decrease in production in 2017 over that of the previous year? $(2mks)$
 
-    c\) Determine the percentage increase in production in 2017 over that in 2014. Give your answer in 3 significant figure $\hspace{1cm} (2mks)$
+    c\) Determine the percentage increase in production in 2017 over that in 2014. Give your answer in 3 significant figure $(2mks)$
 
-    d\) Calculate the percentage increase in production in 2016 over that in 2014. $\hspace{1cm} (2mks)$
+    d\) Calculate the percentage increase in production in 2016 over that in 2014. $(2mks)$
 
 21. The external measurements of a closed wooden box are 1.0 m long, 70 cm wide, and 40 cm high. The wood used in making the box is 1.5 cm thick and has a density of $0.8 g/cm^3$. Given that the box contains 25 packets of tools and each packet holds a dozen tools each weighing 108.5 g, calculate:
 
-    a\) The volume of wood used in making the box. $\hspace{1cm} (4mks)$
+    a\) The volume of wood used in making the box. $(4mks)$
 
-    b\) The mass of the empty box in kilograms to four significant figures. $\hspace{1cm}(3mks)$
+    b\) The mass of the empty box in kilograms to four significant figures. $(3mks)$
 
-    c\) The total mass of the box in kilograms to 3 significant figures. $\hspace{1cm} (3mks)$
+    c\) The total mass of the box in kilograms to 3 significant figures. $(3mks)$
 :::
 
 ::: {.callout-note collapse="false"}
@@ -1099,55 +1105,55 @@ $$ \frac{3}{5},\frac{8}{9},\frac{1}{3},\frac{4}{7},\frac{3}{4}$$
 
 **Answer all the question in this section**
 
-1.  Without using a calculator, evaluate: $\hspace{1cm} (3mks)$
+1.  Without using a calculator, evaluate: $(3mks)$
 
 $$\frac{3\frac{1}{5}+\frac{2}{7}\,of\,1\frac{3}{4}-\frac{7}{10}}{1\frac{3}{4}-1\frac{4}{5}\div3\frac{3}{5}+3\frac{3}{4}}$$
 
 2.  The sum of the ages of three friends Kiama, Murugi, and Naomi is 78 years. Murugi is two and a third as old as Naomi and seven years older than Kiama. Calculate their ages. $(3mks)$
 
-3.  A shirt which is marked for ksh. 750 is sold to a customer for Ksh. 673.50. What percentage discount is the customer allowed? $\hspace{1cm} (2mks)$
+3.  A shirt which is marked for ksh. 750 is sold to a customer for Ksh. 673.50. What percentage discount is the customer allowed? $(2mks)$
 
 4.  Starting from noon the minute hand of a clock moved so that the clock is showing 25 minutes to one.
 
-    a\) Find the angle through which the minute hand has moved. $\hspace{1cm} (1mk)$
+    a\) Find the angle through which the minute hand has moved. $(1mk)$
 
-    b\) Given that the minute hand is 14 cm long, find the length of the arc it describes in that time. $\hspace{1cm} (2mks)$
+    b\) Given that the minute hand is 14 cm long, find the length of the arc it describes in that time. $(2mks)$
 
-5.  A cylindrical tank of diameter 2.8 m and height 2.0 m is three-quarter full of water. This water is transferred to an empty rectangular container measuring 1.4 m long and 80 cm wide. Calculate the height of the water in the container in centimeters. $\hspace{1cm} (3mks)$
+5.  A cylindrical tank of diameter 2.8 m and height 2.0 m is three-quarter full of water. This water is transferred to an empty rectangular container measuring 1.4 m long and 80 cm wide. Calculate the height of the water in the container in centimeters. $(3mks)$
 
 6.  Three towns P, Q, and R are situated such that town Q is 40 km on a bearing of $060^0$ from town P. Town R is 90 km on a bearing of $150^0$ from town Q.
 
-    a\) Draw a sketch showing the positions of towns P, Q, and R. $\hspace{1cm} (1mk)$
+    a\) Draw a sketch showing the positions of towns P, Q, and R. $(1mk)$
 
     b\) Calculate:
 
-    i\) The size of angle PQR $\hspace{1cm} (1mk)$
+    i\) The size of angle PQR $(1mk)$
 
-    ii\) The distance of R from P $\hspace{1cm} (2mks)$
+    ii\) The distance of R from P $(2mks)$
 
 7.  A school bought 40 books at a total cost of Ksh 10,800. Some books cost Ksh 200 each while others cost Ksh 300 each. Find the number of books which were bought at Ksh 200 each. $(3mks)$
 
-8.  Muthoni is now four times as old as his daughter. In sixteen years' time she will be twice as old as her daughter. Find their present ages. $\hspace{1cm} (3mks)$
+8.  Muthoni is now four times as old as his daughter. In sixteen years' time she will be twice as old as her daughter. Find their present ages. $(3mks)$
 
-9.  Ali sold goods which were marked at Ksh. 450, 000 allowing a discount of $5\%$ to the customer. If he received Ksh. 35,055 as a commission for this sale, calculate the percentage rate of commission he was paid. $\hspace{1cm} (3mks)$
+9.  Ali sold goods which were marked at Ksh. 450, 000 allowing a discount of $5\%$ to the customer. If he received Ksh. 35,055 as a commission for this sale, calculate the percentage rate of commission he was paid. $(3mks)$
 
-10. Solve the following expression $\hspace{1cm} (3mks)$
+10. Solve the following expression $(3mks)$
 
 $$\frac{3y-4}{2}-\frac{1-2y}{3}=\frac{2y-1}{4}$$
 
-11. \(a\) The angles of a triangle are $(2x-15)^0$, $(x+35)^0$ and $(5x-40)^0$. Write down an equation in x with three terms only for the sum of the angles of the triangle. $\hspace{1cm} (1mk)$
+11. \(a\) The angles of a triangle are $(2x-15)^0$, $(x+35)^0$ and $(5x-40)^0$. Write down an equation in x with three terms only for the sum of the angles of the triangle. $(1mk)$
 
-    \(b\) Solve the equation in (a) above and hence find the size of the largest angle. $\hspace{1cm}(2mks)$
+    \(b\) Solve the equation in (a) above and hence find the size of the largest angle. $(2mks)$
 
-12. Gladys house is 25 km from the office where she works. She uses her car to travel to and from her office every day for 5 days a week. Her car consumes petrol at the rate of 1 litre for every 12 km and petrol costs Ksh. 112.20 per litre. Allowing 4 weeks for holidays in a year, calculate the amount of money Gladys spends on petrol going to and from her office in one year. $\hspace{1cm} (3mks)$
+12. Gladys house is 25 km from the office where she works. She uses her car to travel to and from her office every day for 5 days a week. Her car consumes petrol at the rate of 1 litre for every 12 km and petrol costs Ksh. 112.20 per litre. Allowing 4 weeks for holidays in a year, calculate the amount of money Gladys spends on petrol going to and from her office in one year. $(3mks)$
 
-13. The radius of a water can in form of cylinder is increased by $20\%$ while its height decreased by $15\%$. If the capacity of the old can is $250 cm^3$, find the capacity of the new can. $\hspace{1cm} (3mks)$
+13. The radius of a water can in form of cylinder is increased by $20\%$ while its height decreased by $15\%$. If the capacity of the old can is $250 cm^3$, find the capacity of the new can. $(3mks)$
 
-14. In a certain school there are 30 more boys than girls. One-quarter of the boys and two-thirds of the girls are boarders. If there are 255 boarders, find the number of students in that school. $\hspace{14.2cm} (3mks)$
+14. In a certain school there are 30 more boys than girls. One-quarter of the boys and two-thirds of the girls are boarders. If there are 255 boarders, find the number of students in that school. $(3mks)$
 
-15. After work a hawker had four times as many ten-shilling coins as twenty-shilling coins, eight times as many five-shilling coins as twenty-shilling coins and thrice as many one-shilling coins as ten-shilling coins. After counting his money he found that he had a total of Ksh. 560. Calculate the number of coins he had. $\hspace{1cm} (3mks)$
+15. After work a hawker had four times as many ten-shilling coins as twenty-shilling coins, eight times as many five-shilling coins as twenty-shilling coins and thrice as many one-shilling coins as ten-shilling coins. After counting his money he found that he had a total of Ksh. 560. Calculate the number of coins he had. $(3mks)$
 
-16. Given that $x=4$, $y= -3$, and $z= -1$ evaluate. $\hspace{1cm} (3mks)$
+16. Given that $x=4$, $y= -3$, and $z= -1$ evaluate. $(3mks)$
 
 $$\frac{3x^2yz^2-4xy^2z^2+5x^2y^2z^2}{4xy^2z+3x^2yz-x^2y^2z}$$
 
@@ -1157,33 +1163,33 @@ $$\frac{3x^2yz^2-4xy^2z^2+5x^2y^2z^2}{4xy^2z+3x^2yz-x^2y^2z}$$
 
 17. Tum bought a number of T-shirts and a number of trousers at Ksh 100 and Ksh 250 respectively from a wholesaler in which he spend Ksh 9,500. Kerich bought the same number of T-shirts and trousers from another wholesaler where he paid $25\%$ more for a T-shirt and $14\%$ less for a trouser. Therefore, Kerich spent Ksh 550 less than Tum.
 
-    a\) Determine the number of T-shirts and trousers each guy bought. $\hspace{1cm}(4mks)$
+    a\) Determine the number of T-shirts and trousers each guy bought. $(4mks)$
 
-    b\) If Tum sold all his clothes at a profit of $40\%$ per T-shirt and $20\%$ per trouser, determine the profit he would make. $\hspace{1cm}(3mks)$
+    b\) If Tum sold all his clothes at a profit of $40\%$ per T-shirt and $20\%$ per trouser, determine the profit he would make. $(3mks)$
 
-    c\) Similarly, if kerich sold all his clothes at a profit of $20\%$ per T-shirt and $40\%$ per trouser, calculate the percentage profit he would make on the sale of all his clothes. $\hspace{1cm} (3mks)$
+    c\) Similarly, if kerich sold all his clothes at a profit of $20\%$ per T-shirt and $40\%$ per trouser, calculate the percentage profit he would make on the sale of all his clothes. $(3mks)$
 
 18. A rectangular sheet is 90 cm long and 70 cm wide. The sheet is 1.8 mm thick and made of material whose density is $2.5g/cm^3$. A square of side t cm is removed from each corner and the remaining part folded to form an open cuboid.
 
-    a\) Given that the area of the remaining part is $A \,cm^2$, write down an equation for $A$ in terms of $t$. $\hspace{1cm} (2mks)$
+    a\) Given that the area of the remaining part is $A \,cm^2$, write down an equation for $A$ in terms of $t$. $(2mks)$
 
-    b\) Calculate to one decimal place the mass of the empty cuboid in kg given that $t= 5cm$. $\hspace{1cm} (3mks)$
+    b\) Calculate to one decimal place the mass of the empty cuboid in kg given that $t= 5cm$. $3mks)$
 
-    c\) Find the dimensions of the cuboid and hence calculate its capacity in litres. $\hspace{1cm} (3mks)$
+    c\) Find the dimensions of the cuboid and hence calculate its capacity in litres. $(3mks)$
 
-    d\) If the cuboid is filled with liquid whose density is $d\, g/cm^3$ and its mass found to be 19.6 kg, calculate the value of $d$. $\hspace{1cm} (2mks)$
+    d\) If the cuboid is filled with liquid whose density is $d\, g/cm^3$ and its mass found to be 19.6 kg, calculate the value of $d$. $(2mks)$
 
 19. Boat A is 160 m from the base of a vertical cliff. From A the angle of elevation of the top of the cliff is $38^0$. From another boat B nearer to the base of the cliff, the angle of elevation of the top of the cliff is $60^0$. The two boats are on the same straight line in front of the cliff.
 
-    a\) Using a scale of $1 cm=20 m$, draw an accurate scale drawing to represent the above information. $\hspace{1cm} (4mks)$
+    a\) Using a scale of $1 cm=20 m$, draw an accurate scale drawing to represent the above information. $(4mks)$
 
     b\) Use your scale drawing to determine:
 
-    i\) The height of the cliff $\hspace{1cm} (2mks)$
+    i\) The height of the cliff $(2mks)$
 
-    ii\) The distance between the two boats $\hspace{1cm} (2mks)$
+    ii\) The distance between the two boats $(2mks)$
 
-    iii\) The distance of boat B from the base of the cliff $\hspace{1cm}(2mks)$
+    iii\) The distance of boat B from the base of the cliff $(2mks)$
 
 20. A truck left Uganda on Wednesday evening and travelled to Mombasa according to the travel time table below arriving there on Friday morning.
 
@@ -1191,7 +1197,7 @@ $$\frac{3x^2yz^2-4xy^2z^2+5x^2y^2z^2}{4xy^2z+3x^2yz-x^2y^2z}$$
 
     a\) Calculate:
 
-    b\) The time taken by the truck to travel from: $\hspace{1cm} (4mks)$
+    b\) The time taken by the truck to travel from: $(4mks)$
 
     i\) Kampala to Busia
 
@@ -1201,19 +1207,19 @@ $$\frac{3x^2yz^2-4xy^2z^2+5x^2y^2z^2}{4xy^2z+3x^2yz-x^2y^2z}$$
 
     iv\) Nairobi to Mombasa
 
-    c\) The total travelleing time between Kampala and Mombasa. $\hspace{1cm} (2mks)$
+    c\) The total travelleing time between Kampala and Mombasa. $(2mks)$
 
-    d\) The total stoppage time during the whole journey $\hspace{1cm} (2mks)$
+    d\) The total stoppage time during the whole journey $(2mks)$
 
-    e\) The average speed for the whole journey given that the distance between Kampala and Mombasa is 1995 km $\hspace{1cm} (2mks)$
+    e\) The average speed for the whole journey given that the distance between Kampala and Mombasa is 1995 km $(2mks)$
 
 21. Wanja, Murimi, Kareb, and Elisha decided to buy a minibus. They acceded to pay for the cost of the minibus in the ratio $9:7:4:5$. Basing their calculations on the marked price of the minibus, they found that Wanja would pay Ksh. 320,500, more than Kareb. The sales operator however allowed them a $20\%$ discount on cash payment.
 
     a\) Calculate:
 
-    i\) The marked price of the minibus. $\hspace{1cm} (2mks)$
+    i\) The marked price of the minibus. $(2mks)$
 
-    ii\) How much more Murimi and Kareb paid than Wanja.$\hspace{1cm} (5mks)$
+    ii\) How much more Murimi and Kareb paid than Wanja.$(5mks)$
 
-    b\) The four friends agreed to divide their profit obtained from the minibus in the ratio of their contributions after setting aside 15% of the profits for maintenance. If the minibus made Ksh. 96,500 as the profit during one month, how much did Elisha received that month? $\hspace{1cm}(3mks)$
+    b\) The four friends agreed to divide their profit obtained from the minibus in the ratio of their contributions after setting aside 15% of the profits for maintenance. If the minibus made Ksh. 96,500 as the profit during one month, how much did Elisha received that month? $(3mks)$
 :::

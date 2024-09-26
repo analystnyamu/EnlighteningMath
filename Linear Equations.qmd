@@ -1,6 +1,7 @@
 ---
 header-includes:
   - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
   
 filters:
@@ -32,12 +33,10 @@ There are three methods used to solve simultaneous equations:
 ## Example 1
 
 ```{=latex}
-$$
-\begin{aligned}
+\begin{align*}
 2x - 3y & = -13 \quad \quad \quad (i) \\
 y & = 2x + 7 \quad \quad \quad (ii)
-\end{aligned}
-$$
+\end{align*}
 ```
 :::
 

@@ -1,6 +1,7 @@
 ---
 header-includes:
   - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
 
 pdf_document: default
@@ -70,7 +71,7 @@ The sum of interior angles of two regular polygons of sides; n and $n + 2$ are i
 ::: {.callout-note collapse="false"}
 # Example 2
 
-The exterior angle of a regular polygon is equal to two-thirds of the interior angle. Calculate the number of sides of the polygon and give its name.\hspace{6.8cm} $(4mks)$
+The exterior angle of a regular polygon is equal to two-thirds of the interior angle. Calculate the number of sides of the polygon and give its name. $(4mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -109,9 +110,9 @@ Sum\,interior\,angles&=180(n-2)\\180(n-2)&=1260^0\\n-2&=7\\n&=9;\,Nonagon
 ::: {.callout-note collapse="false"}
 ## Problems to solve
 
-1.  The size of an interior angle of a regular polygon is $x^2$ while its exterior angle is $3x$. Find the number of sides of the polygon \hspace{9.2cm} $(4mks)$
+1.  The size of an interior angle of a regular polygon is $x^2$ while its exterior angle is $3x$. Find the number of sides of the polygon  $(4mks)$
 
-2.  One interior angle of a polygon is equal to $60\,^{\circ}$ and each of the other interior angles is $132\,^{\circ}$. Find the number of sides and name of the polygon. \hspace{6.2cm} $(3mks)$
+2.  One interior angle of a polygon is equal to $60\,^{\circ}$ and each of the other interior angles is $132\,^{\circ}$. Find the number of sides and name of the polygon.  $(3mks)$
 
 3.  The difference between the exterior and interior angle of a regular polygon is $120\,^{\circ}$. Determine the number of sides of the polygon. \hspace{8.3cm} $(3mks)$
 

@@ -2,6 +2,7 @@
 header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{graphicx}  # Example package for graphics
+  - \usepackage{cancel}
 ---
 
 # Chapter 5: Integers

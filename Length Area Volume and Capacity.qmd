@@ -1,6 +1,7 @@
 ---
 header-includes:
   - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
   
 filters:

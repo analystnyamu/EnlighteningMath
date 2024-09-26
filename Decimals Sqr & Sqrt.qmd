@@ -1,6 +1,7 @@
 ---
 header-includes:
   - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
@@ -23,9 +24,7 @@ Decimal fractions are usually written in a special way, e.g., $\frac{3}{10}$ wri
 
 Without using table or calculators, evaluate:
 
-$$
-\sqrt[]{\frac{0.0032+0.0608}{1.44\times 0.4}} \hspace{12cm} (3mks)
-$$
+$$\sqrt[]{\frac{0.0032+0.0608}{1.44\times 0.4}} \hspace{12cm} (3mks)$$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -50,9 +49,7 @@ $$
 
 Express as a fraction:
 
-$$
-3.2\dot{5}\dot{6}  \hspace{14cm} (3mks)
-$$
+$$3.2\dot{5}\dot{6}  \hspace{14cm} (3mks)$$
 :::
 
 ::: columns
@@ -90,11 +87,9 @@ r & = \frac{3224}{990} \\
 ::: {.callout-note collapse="false"}
 # Example 3
 
-Use tables of square and square roots to evaluate.
+Use tables of square and square roots to evaluate.  (3mks)
 
-$$
-\sqrt[]{337.5}-\left(3.375\right)^2 \hspace{11.5cm} (3mks)
-$$
+$$\sqrt{337.5} - \left(3.375\right)^2$$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -106,54 +101,44 @@ $$
 ::: {.callout-note collapse="false"}
 ## Problem to Solve
 
-1.  Use the tables of squares and square roots only to find the value of: $$
-    \left(0.0546\right)^{\frac{1}{2}} \hspace{12.1cm} (2mks)
-    $$
+1.  Use the tables of squares and square roots only to find the value of: (2mks)
+$$\left(0.0546\right)^{\frac{1}{2}}$$
 
-2.  Evaluate without using a calculator. $$
-    \frac{23.4-2(5.2+5.3)}{3.2\times 1.2} \hspace{10.6cm} (3mks)
-    $$
+2.  Evaluate without using a calculator. (3mks)
+$$\frac{23.4-2(5.2+5.3)}{3.2\times 1.2}$$
 
-3.  Use square tables to evaluate, to 4 significant figures. $$
-    \left(8.254\right)^2 \hspace{12.5cm} (2mks)
-    $$
+3.  Use square tables to evaluate, to 4 significant figures. (2mks)
+$$\left(8.254\right)^2$$
 
-4.  Evaluate without using tables or calculator. $$
-    \frac{2.5\times\sqrt[]{324}}{3\times\sqrt[]{729}} \hspace{12.4cm} (3mks)
-    $$
+4.  Evaluate without using tables or calculator. (3mks)
+$$\frac{2.5\times\sqrt[]{324}}{3\times\sqrt[]{729}}$$
 
-5.  Find the exact value of:\
-    $$
-    2.\dot{4}\dot{1}-0.\dot{3}\dot{2} \hspace{12.2cm} (3mks)
-    $$
+5.  Find the exact value of:(3mks)
+    
+$$2.\dot{4}\dot{1}-0.\dot{3}\dot{2}$$
 
 6.  The number $5.\dot{8}\dot{1}$ contains an integral part and a recurring decimal. Convert the number into an improper fraction and hence a mixed fraction.\hspace{7cm} $(3mks)$
 
-7.  Without using a calculator or mathematical tables find the value of: $$
-    \frac{0.0060\times2.4\times0.3^2}{0.9\times0.00015\times160} \hspace{11cm} (3mks)
-    $$
+7.  Without using a calculator or mathematical tables find the value of:(3mks) 
+$$\frac{0.0060\times2.4\times0.3^2}{0.9\times0.00015\times160}$$
 
-8.  Express the recurring decimal below as a fraction; $0.3\dot{7}\dot{2}$ leaving your answer in the form of $\frac{a}{b}$ where $a$ and $b$ are integers.
+8.  Express the recurring decimal below as a fraction; $0.3\dot{7}\dot{2}$ leaving your answer in the form of $\frac{a}{b}$ where $a$ and $b$ are integers.(3mks)
 
-9.  Use the square and square-root tables to evaluate to 4 significant figures the expression. $$
-    \left(43.46\right)^2-\sqrt[]{3785.4}\hspace{11.5cm} (4mks)
-    $$
+9.  Use the square and square-root tables to evaluate to 4 significant figures the expression. (4mks)
+$$\left(43.46\right)^2-\sqrt[]{3785.4}$$
 
-10. Using tables of square roots and reciprocals, evaluate : $$
-    \sqrt[]{0.1964}+(0.478)^2\hspace{11.5cm} (3mks)
-    $$
+10. Using tables of square roots and reciprocals, evaluate: (3mks)
+$$\sqrt[]{0.1964}+(0.478)^2$$
 
 11. Convert $0.63\dot{3}\dot{1}$ into a fraction without using a calculator. \hspace{4.75cm} $(3mks)$
 
-12. Use square and square root tables to calculate to 3 significant figures the value of: $$
-    \sqrt[]{\left(0.04766\right)^2-(0.00972)^2} \hspace{10.1cm} (4mks)
-    $$
+12. Use square and square root tables to calculate to 3 significant figures the value of: (4mks) 
+$$\sqrt[]{\left(0.04766\right)^2-(0.00972)^2}$$
 
-13. Use square roots and square tables to evaluate the expression: $$
-    \left(0.005467\right)^2+\left(0.04328\right)^2 \hspace{9.95cm} (3mks)
-    $$
+13. Use square roots and square tables to evaluate the expression: (3mks)
+$$\left(0.005467\right)^2+\left(0.04328\right)^2 \hspace{9.95cm}$$
 
-14. The surface area of a sphere of radius,r is given by the formula $A = 4\pi r^2$. using square root tables, calculate the radius of the sphere whose surface area is $120 cm^2$ \hspace{3.2cm} \$(3mks) \$
+14. The surface area of a sphere of radius,r is given by the formula $A = 4\pi r^2$. using square root tables, calculate the radius of the sphere whose surface area is $120 cm^2$ \hspace{3.2cm} $(3mks)$
 
 15. The periodic time for the swing of a pendulum in seconds is given by the formula,$T =2\pi\sqrt[]{\frac{l}{g}}$. Using square root tables, calculate the value of $T$ when $l = 23.7cm$ and $g = 1000 cms^{-2}$. \hspace*{14.2cm} $(3mks)$
 :::

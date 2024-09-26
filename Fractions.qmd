@@ -86,13 +86,15 @@ Remaining \,fraction&=x-\left( \frac{3}{8}x+\frac{2}{5}x\right)\\ x-\left ( \fra
 :::
 
 ::: {.column width="45%"}
-```{=tex}
+```{=latex}
 \begin{equation}
 \begin{split}
-\frac{9}{40}x&=12330\\ multiply\: both \:sides \:by \:\frac{40}{9}\\ \therefore \frac{\cancel{40}}{\cancel9}\times\frac{\cancel9}{\cancel{40}}x&=12330\times\frac{40}{9}\\
-x&=54800\\
-Daughter's\, school \,fees&=\left (\frac{2}{5}\right) \times54800\\
-&=Ksh. \,21,920
+\frac{9}{40}x &= 12330 \\ 
+\text{Multiply both sides by } \frac{40}{9} & \\
+\therefore x &= 12330 \times \frac{40}{9} \\ 
+x &= 54800 \\ 
+\text{Daughter's school fees} &= \left( \frac{2}{5} \right) \times 54800 \\ 
+&= \text{Ksh. } 21,920 
 \end{split}
 \end{equation}
 ```
@@ -125,14 +127,18 @@ Elderly \,people&=300\\
 :::
 
 ::: {.column width="45%"}
-```{=tex}
+```{=latex}
 \begin{equation}
 \begin{split}
-\frac{11}{15}x&=220\\
-\frac{\cancel{15}}{\cancel{11}}\times \frac{\cancel{11}}{\cancel{15}}x&=\cancelto{20}{220}\times \frac{15}{\cancel{11}}\\
-x&=20\times15\\&=300\,men\\ 
-Total\, number \,of\, people:\\ men + women&=300+300+200\\&=800\\
-young \,people&=800-300\\&=500\\
+\frac{11}{15}x &= 220 \\
+\frac{\cancel{15}}{\cancel{11}} \times \frac{\cancel{11}}{\cancel{15}}x &= \cancelto{20}{220} \times \frac{15}{\cancel{11}} \\
+x &= 20 \times 15\\
+&= 300 \, \text{men}\\ 
+\text{Total number of people:} \\
+\text{men + women} &= 300 + 300 + 200\\
+&= 800\\
+\text{young people} &= 800 - 300\\
+&= 500\\
 \end{split}
 \end{equation}
 ```
@@ -155,11 +161,13 @@ young \,people&=800-300\\&=500\\
 
 $$
 \frac{2\frac{1}{5}+\frac{2}{3}\,of\,3\frac{3}{4}-4\frac{1}{6}}{1\frac{1}{4}+2\frac{2}{5}\div 1\frac{1}{3}+3\frac{3}{4}}  
-$$ 6. Without using a calculator, evaluate \hspace{11.5cm} $(3mks)$
+$$ 
+6. Without using a calculator, evaluate \hspace{11.5cm} $(3mks)$
 
 $$
 \frac{\frac{3}{4}+1\frac{5}{7}\div \frac{4}{7}\,of\, 2\frac{1}{3}}{\left (1\frac{3}{7}-\frac{5}{8}\right)\times\frac{2}{3}}  
-$$ 7. Evaluate \hspace{9.5cm} $(3mks)$
+$$ 
+7. Evaluate \hspace{9.5cm} $(3mks)$
 
 $$
 \frac{\frac{3}{5}\,of\,60-2\frac{2}{3}\times1\frac{1}{2}}{5\frac{5}{8}\times1\frac{7}{9}-\frac{5}{4}\,of\,4\frac{4}{5}+2\frac{4}{5}\div\frac{7}{10}} 
@@ -170,19 +178,19 @@ $$
 9.  Evaluate without using a calculator. $(3mks)$
 
 $$
-\frac{\left( 2\frac{3}{7}-1\frac{5}{6}\right)\div\frac{5}{6}}{\frac{2}{3}\,of\,2\frac{1}{4}-1\frac{1}{7}} \hspace{12cm}
+\frac{\left( 2\frac{3}{7}-1\frac{5}{6}\right)\div\frac{5}{6}}{\frac{2}{3}\,of\,2\frac{1}{4}-1\frac{1}{7}}
 $$
 
 10. Evaluate: $(3mks)$
 
 $$
-\frac{\sqrt[]{\frac{1}{4}}\,of\,3\frac{1}{2}+\frac{3}{2}\left(\frac{5}{2}-\frac{2}{3}\right)}{\frac{3}{4}\,of\,2\frac{1}{2}\div\frac{1}{4}} \hspace{10.8cm} 
+\frac{\sqrt[]{\frac{1}{4}}\,of\,3\frac{1}{2}+\frac{3}{2}\left(\frac{5}{2}-\frac{2}{3}\right)}{\frac{3}{4}\,of\,2\frac{1}{2}\div\frac{1}{4}} 
 $$
 
 11. Without using a calculator, evaluate: $(3mks)$
 
 $$
-\frac{1\frac{4}{5}\,of\,\frac{25}{18}\div1\frac{2}{3}\times24}{2\frac{1}{3}-\frac{1}{4}\,of\,12\div\frac{5}{3}}  \hspace{11.2cm}    
+\frac{1\frac{4}{5}\,of\,\frac{25}{18}\div1\frac{2}{3}\times24}{2\frac{1}{3}-\frac{1}{4}\,of\,12\div\frac{5}{3}}    
 $$
 
 12. Evaluate \hspace{12.8cm} $(6mks)$
@@ -200,7 +208,7 @@ $$
 
     a\) How much was shared among the five businesswomen? \hspace{4.3cm} $(3mks)$
 
-    b\) How much did Jepchoge get? \hspace{8.5cm} \$(2mks)\$
+    b\) How much did Jepchoge get? \hspace{8.5cm} $(2mks)$
 
     c\) Jane, Jepchoge, and Chepkoech invested their money and earned a profit of $Ksh.\, 12,000$. A third of the profit was left to maintain the business and the rest was shared according to their investments. Find how much each got.\hspace{6.5cm} $(5mks)$
 :::

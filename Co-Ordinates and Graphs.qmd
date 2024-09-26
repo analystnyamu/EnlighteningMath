@@ -1,6 +1,7 @@
 ---
 header-includes:
   - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
@@ -54,7 +55,7 @@ litres.
 
 a\) The graph is depicted in the figure 15.1:
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE, fig.cap= "The Graph of Volume against Temperature", fig.align="left"}
+```{r, echo = TRUE, warning = FALSE, message = FALSE, fig.cap= "The Graph of Volume against Temperature", fig.align="left"}
 
 library(ggplot2)
 #library(dplyr)
@@ -101,12 +102,16 @@ The temperature of the gas at 2.3 litres is $98\,^{\circ}\mathrm{C}$
 ::: {.callout-note collapse="false"}
 # Example 2
 
-Solving simultaneous linear equations using graphical methods $$
+Solving simultaneous linear equations using graphical methods 
+
+```{=latex}
+\begin{equation}
 \begin{split}
 2x-y&=3 \\
 x + 2y &= 14
 \end{split}
-$$
+\end{equation}
+```
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -114,7 +119,7 @@ $$
 
 ![](images/Cpt15_table2.png)
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE, fig.cap= "Solving simultaneous linear equations using graphical methods", fig.align="left"}
+```{r, echo = TRUE, warning = FALSE, message = FALSE, fig.cap= "Solving simultaneous linear equations using graphical methods", fig.align="left"}
 
 x <- 0:8
 y1 <- c(-3,-1,1,3,5,7,9,11,13)
@@ -140,19 +145,26 @@ and y are: $x=4$ and $y=5$
 ## Problems to solve
 
 1.  a\) Use a graphical method to solve the following simultaneous
-    equations: \hspace{2.5cm}(7mks) $$
-    \begin{split}
-    3x-y&=4 \\
-    x+4y&=10
-    \end{split}
-    $$ b) If the lines cut the y-axis at points P and Q respectively,
+    equations: \hspace{2.5cm}(7mks)
+    
+```{=latex}
+\begin{equation}
+\begin{split}
+3x-y&=4 \\
+x+4y&=10
+\end{split}
+\end{equation}
+```
+     b) If the lines cut the y-axis at points P and Q respectively,
     Write down the co-ordinates of the points P and Q.
     \hspace{11cm}(3mks)
 
 2.  Copy and complete the tables below for:
 
     a\) The linear equations $3y=8+2x$ and $y=5x-6$ respectively.
-    \hspace{3.2cm}(4mks) ![](images/Cpt15_Q2.png)
+    \hspace{3.2cm}(4mks) 
+    
+    ![](images/Cpt15_Q2.png)
 
     b\) On a graph paper and on the same grid draw the two linear
     equations in (a) above. \hspace{3.2cm} (4mks)

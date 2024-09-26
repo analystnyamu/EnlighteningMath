@@ -1,6 +1,7 @@
 ---
 header-includes:
   - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
@@ -203,7 +204,7 @@ c\)
     the radius of the cylinder to four significant figures. Take
     $\pi=\frac{22}{7}$ \hspace{13.7 cm} $(3mks)$
 
-2.  $2000 cm\^3$ of a mixture consists of 2.5 kg of substance x and 7.5
+2.  $2000\, \text{cm}^3$ of a mixture consists of 2.5 kg of substance x and 7.5
     kg of substance y. find the density of mixture in $g/cm^3$
     \hspace{11 cm} $(3mks)$
 
