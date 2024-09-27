@@ -3,17 +3,11 @@ header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
-  
-filters:
-  - parse-latex
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-# Chapter 15: Linear Equations
+# Chapter 15: Linear Equations {.unnumbered}
 
-# Linear Equations {.unnumbered}
+## Linear Equations {.unnumbered}
 
 Linear equations are equations of straight lines involving one or two
 unknown variables. A system of two linear equations forms simultaneous

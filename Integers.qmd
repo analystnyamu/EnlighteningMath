@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{cancel}
 ---
 
-# Chapter 5: Integers
+# Chapter 5: Integers {.unnumbered}
 
-# Integers {.unnumbered}
+## Integers {.unnumbered}
 
 ## The Number Line
 
@@ -32,6 +32,9 @@ Important properties to note while working with integers:
 > -   $(-)\div(+) = -$
 >
 > -   $(-)\div(-) = +$
+
+
+
 
 ## Solved Examples
 

@@ -3,17 +3,11 @@ header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
-    
-filters:
-  - parse-latex
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-# Chapter Nine: Rate, Ratio, Proportion, and Percentage
+# Chapter Nine: Rate, Ratio, Proportion, and Percentage {.unnumbered}
 
-# Rate, Ratio, Proportion, and Percentage {.unnumbered}
+## Rate, Ratio, Proportion, and Percentage {.unnumbered}
 
 **Rate**, is a comparison of one quantity with another of a different
 kind. If a van takes three hours to travel a distance of $180 \,Km$,

@@ -5,7 +5,7 @@ bibliography: references.bib
 
 # SECTION TWO {.unnumbered}
 
-# Model Samples Papers
+## Model Samples Papers
 
 ::: {.callout-note collapse="false"}
 ## Model Sample Paper 1

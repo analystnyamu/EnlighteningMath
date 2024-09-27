@@ -6,11 +6,11 @@ header-includes:
 
 # SECTION FOUR {.unnumbered}
 
-# Answers to Model Sample Papers
+## Answers to Model Sample Papers {.unnumbered}
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Model Sample Paper 1
+### Model Sample Paper 1
 
 ::: {.column width="50%"}
 **SECTION A (50 MARKS)**

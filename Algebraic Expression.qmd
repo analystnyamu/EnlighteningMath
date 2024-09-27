@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Eight: Algebraic Expressions
+# Chapter Eight: Algebraic Expressions {.unnumbered}
 
-# Algebraic Expressions {.unnumbered}
+## Algebraic Expressions {.unnumbered}
 
 **Algebraic expression**, is an expression built up from integer constants, variables, and algebraic operations (Addition, subtraction, division and multiplication).
 

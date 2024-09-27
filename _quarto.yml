@@ -35,7 +35,7 @@ book:
     - Time.qmd
     - Linear Equations.qmd
     - Commercial Arithmetic.qmd
-    - Co-Ordinates and Graphs.qmd
+    - Coordinates_and_Graphs.qmd
     - Angles and Plane Figures.qmd
     - Geometrical Constructions.qmd
     - Scale Drawing.qmd
@@ -47,6 +47,7 @@ metadata:
   crossref:
     chapters: true
   documentclass: scrbook
+  documentclassoptions: [openany]
   comments:
     hypothesis: true
   # Math and header includes remain unchanged
@@ -71,13 +72,18 @@ format:
     
   pdf:
     pdf-engine: xelatex
+    includes:
+      in-header: header.tex  # This is a custom LaTeX file for additional formatting
     header-includes:
       - \let\cleardoublepage\clearpage
       - \usepackage{cancel}  # Include the cancel package
       - \sloppy
+      - \usepackage{caption}
+      - \captionsetup{justification=centering, margin=1cm}
       - \usepackage{scrhack}
       - \usepackage{etoolbox}  # Package for modifying existing commands
       - |
+        \usepackage{etoolbox}
         \makeatletter
         \patchcmd{\chapter}{\clearpage}{}{}{}
         \patchcmd{\section}{\clearpage}{}{}{}
@@ -86,7 +92,7 @@ format:
     colorlinks: true
     fig_caption: true  # Ensure figure captions are enabled
     keep_tex: true     # Keep the .tex file for debugging
-    geometry: a4paper  # Set the paper size to A4
+    geometry: a4paper, margin=1in  # Set the paper size to A4
     toc: true  # Enable table of contents
     number-sections: true  # Enable section numbering
     cover-image: "images/cover.png"  # Path to your cover image

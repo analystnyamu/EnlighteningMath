@@ -1,12 +1,13 @@
 ---
 header-includes:
   - \usepackage{amsmath}  # Example package
+  - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter 6: Fractions
+# Chapter 6: Fractions {.unnumbered}
 
-# Fractions {.unnumbered}
+## Fractions {.unnumbered}
 
 A fraction is written in the form of $\frac{x}{y}$ where $x$ and $y$ are numbers and $y\neq0$. The number on the upper side $(x)$ is called numerator and the number on the lower side $(y)$ is called Denominator.
 

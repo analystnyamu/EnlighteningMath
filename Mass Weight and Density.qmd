@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Eleven: Mass, Weight and Density
+# Chapter Eleven: Mass, Weight and Density {.unnumbered}
 
-# Mass, Weight and Density {.unnumbered}
+## Mass, Weight and Density {.unnumbered}
 
 **Mass**, is the quantity of matter in an object? The Mass of an object
 is constant everywhere. Its SI unit is Kilogram (K.g).

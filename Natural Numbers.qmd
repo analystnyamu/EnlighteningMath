@@ -3,17 +3,11 @@ header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
-  
-filters:
-  - parse-latex
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-# Chapter 1: Natural Numbers
+# Chapter 1: Natural Numbers {.unnumbered}
 
-# Natural Numbers {.unnumbered}
+## Natural Numbers {.unnumbered}
 
 Natural Numbers are also called **Counting numbers**. They consist of
 $0, 1, 2, 3, 4, 5, 6, 7, 8,$ $and\, 9$ digits. Place value is the

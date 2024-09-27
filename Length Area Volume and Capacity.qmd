@@ -3,17 +3,11 @@ header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
-  
-filters:
-  - parse-latex
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-# Chapter Ten: Length, Area, Volume, and Capacity
+# Chapter Ten: Length, Area, Volume, and Capacity {.unnumbered}
 
-# Length, Area, Volume, and Capacity {.unnumbered}
+## Length, Area, Volume, and Capacity {.unnumbered}
 
 \textbf{Length}, is the distance between two points. Its SI Unit is the
 meter (m). The perimeter of a rectangle and a square is given by the

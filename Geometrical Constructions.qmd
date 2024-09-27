@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Seventeen: Geometrical Constructions
+# Chapter Seventeen: Geometrical Constructions {.unnumbered}
 
-# Geometrical Constructions {.unnumbered}
+## Geometrical Constructions {.unnumbered}
 
 **Note:** To circumscribe a circle around a triangle, we bisect two
 sides of the triangle and the point of intersection is the center of the

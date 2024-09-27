@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Eighteen: Scale Drawing
+# Chapter Eighteen: Scale Drawing {.unnumbered}
 
-# Scale Drawing {.unnumbered}
+## Scale Drawing {.unnumbered}
 
 ## Bearing and Distance, Angles of Elevation and Depression
 

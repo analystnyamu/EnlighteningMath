@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter 2: Factors
+# Chapter 2: Factors {.unnumbered}
 
-# Factors {.unnumbered}
+## Factors {.unnumbered}
 
 Factors are all numbers that divide a given number without leaving a remainder.
 

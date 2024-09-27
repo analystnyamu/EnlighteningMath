@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Seven: Decimals, Squares, and Square Roots
+# Chapter Seven: Decimals, Squares, and Square Roots {.unnumbered}
 
-# Decimals, Squares, and Square Roots {.unnumbered}
+## Decimals, Squares, and Square Roots {.unnumbered}
 
 **Decimal fraction** (Decimal), is a fraction whose denominator can be written as a power of $10$, e.g.$\frac{1}{10},\,\frac{3}{100}, and\,\frac{50}{100}$.
 

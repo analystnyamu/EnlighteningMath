@@ -5,9 +5,9 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Fourteen: Commercial Arithmetic
+# Chapter Fourteen: Commercial Arithmetic {.unnumbered}
 
-# Commercial Arithmetic {.unnumbered}
+## Commercial Arithmetic {.unnumbered}
 
 Currency is the medium of any business transaction. In Kenya, shillings
 are used as the basic currency unit. 1 Kenyan shilling $(Ksh)$ is equal

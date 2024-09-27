@@ -6,13 +6,11 @@ header-includes:
 
 # SECTION THREE {.unnumbered}
 
-# Answers to Problems to Solve
-
-# chapter 1
+## Answers to Problems to Solve {.unnumbered}
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Natural Numbers
+## chapter 1: Natural Numbers {.unnumbered}
 
 ::: {.column width="50%"}
 1.  \(a\) 210
@@ -46,7 +44,7 @@ header-includes:
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Rounding off
+### Rounding off
 
 ::: {.column width="50%"}
 1.  \(a\) 37,600,000
@@ -70,7 +68,7 @@ header-includes:
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Operations
+### Operations
 
 ::: {.column width="50%"}
 1.  \(a\) Ksh. 1,374
@@ -156,11 +154,9 @@ $\Rightarrow$ $(600+120+935+105+180)=Ksh. 1,940$
 :::
 :::
 
-# chapter 2
-
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Factors
+## chapter 2: Factors {.unnumbered}
 
 ::: {.column width="50%"}
 1.  \(a\) $11\times 13^2$
@@ -190,7 +186,8 @@ $\Rightarrow$ $(600+120+935+105+180)=Ksh. 1,940$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Divisibility Test
+
+## chapter 3 Divisibility Test {.unnumbered}
 
 ::: {.column width="50%"}
 1.  a\) Yes
@@ -234,7 +231,7 @@ c\) No
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 4: G.C.D and L.C.M
+## Chapter 4: G.C.D and L.C.M {.unnumbered}
 
 ::: {.column width="50%"}
 1.  90, 180, and 450
@@ -286,7 +283,7 @@ c\) No
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 5: Integers
+## Chapter 5: Integers {.unnumbered}
 
 ::: {.column width="50%"}
 1.  -2
@@ -312,7 +309,7 @@ c\) No
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 6: Fractions
+## Chapter 6: Fractions {.unnumbered}
 
 ::: {.column width="50%"}
 1.  Ksh. 200,000
@@ -362,7 +359,7 @@ c\) No
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 7: Decimals, Squares, and Square Roots
+## Chapter 7: Decimals, Squares, and Square Roots {.unnumbered}
 
 ::: {.column width="50%"}
 1.  $0.2334$
@@ -402,7 +399,7 @@ c\) No
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 8: Algebraic Expression
+## Chapter 8: Algebraic Expression {.unnumbered}
 
 ::: {.column width="50%"}
 1.  $4$
@@ -486,7 +483,7 @@ c\) No
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 9: Rate, Ratio, Proportion, and Percentage
+## Chapter 9: Rate, Ratio, Proportion, and Percentage {.unnumbered}
 
 ::: {.column width="50%"}
 1.  $7:5$
@@ -626,7 +623,7 @@ c\) No
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 10: Length, Area, Volume, and Capacity
+## Chapter 10: Length, Area, Volume, and Capacity {.unnumbered}
 
 ::: {.column width="50%"}
 1.  $\left(\frac{180x}{p}\right)cm$
@@ -672,7 +669,7 @@ $PR=18 \,cm$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 11: Mass, Weight, and Density
+## Chapter 11: Mass, Weight, and Density {.unnumbered}
 
 ::: {.column width="50%"}
 1.  $36.24\, cm$
@@ -699,7 +696,7 @@ $PR=18 \,cm$
 :::
 
 ::: {.callout-caution collapse="true"}
-## Chapter 12: Time
+## Chapter 12: Time {.unnumbered}
 
 1.  2:51 pm
 
@@ -714,7 +711,7 @@ $PR=18 \,cm$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 13: Linear Equations
+## Chapter 13: Linear Equations {.unnumbered}
 
 ::: {.column width="50%"}
 1.  $x=3$
@@ -772,7 +769,7 @@ $y=2$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 14: Commercial Arithmetic
+## Chapter 14: Commercial Arithmetic {.unnumbered}
 
 ::: {.column width="50%"}
 1.  2,093 Japanese Yens
@@ -848,7 +845,7 @@ $y=2$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 15: Co-Ordinates and Graphs
+## Chapter 15: Co-Ordinates and Graphs {.unnumbered}
 
 ::: {.column width="50%"}
 1.  \(a\) x=2; y=2
@@ -872,7 +869,7 @@ $y=2$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 16: Angles and Plane Figures
+## Chapter 16: Angles and Plane Figures {.unnumbered}
 
 ::: {.column width="50%"}
 1.  5 sides
@@ -906,7 +903,7 @@ $y=2$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 17: Geometrical Constructions
+## Chapter 17: Geometrical Constructions {.unnumbered}
 
 ::: {.column width="50%"}
 1.  a\)
@@ -978,7 +975,7 @@ $y=2$
 
 ::: columns
 ::: {.callout-caution collapse="true"}
-## Chapter 18: Scale Drawing
+## Chapter 18: Scale Drawing {.unnumbered}
 
 ::: {.column width="50%"}
 1.  375 ha
