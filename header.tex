@@ -1,0 +1,17 @@
+\usepackage{geometry}
+\geometry{
+  left=1cm,  % Adjust margins as needed
+  right=1cm,
+  top=2cm,
+  bottom=2cm
+}
+
+% Remove chapter breaks
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}{\chaptername\ \thechapter}{20pt}{\huge}
+\renewcommand{\chapterline}{\par\vspace{-10cm}}  % Adjust this value to minimize chapter break space
+
+% Optional: Modify spacing
+\usepackage{setspace}
+\setstretch{1.25}  % Change line spacing if needed

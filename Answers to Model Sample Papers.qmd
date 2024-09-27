@@ -2,10 +2,6 @@
 header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{graphicx}  # Example package for graphics
-
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
 # SECTION FOUR {.unnumbered}

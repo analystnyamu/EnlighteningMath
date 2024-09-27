@@ -1,9 +1,26 @@
 ---
-bibliography: references.bib
+ bibliography:
+    - references.bib
 ---
 
 # Preface {.unnumbered}
 
-This book is aligned with the objectives of the secondary education system. **Secondary Mathematics Revision Volume 1 Book** has been developed to meet the goals outlined in the new syllabus, keeping students' needs in mind. Mathematics plays a critical role in everyday life, helping create order and prevent chaos. It nurtures key qualities such as reasoning skills, creativity, abstract and spatial thinking, critical thinking, problem-solving ability, and effective communication.
+This book, **Enlightening Mathematics Revision Book Volume 1**, serves as a comprehensive revision guide for students, particularly at the secondary school level. It covers a range of foundational topics in mathematics, structured to support students in mastering key mathematical concepts and problem-solving techniques. The book is carefully curated to make challenging concepts easier to understand, with detailed explanations, worked examples, and practice exercises.
 
-The book is organized in a clear and accessible style. Each topic begins with well-explained examples and ends with related questions and problems to solve, with answers provided at the back. The book is divided into four sections: the first introduces each topic along with practice problems; the second presents 10 model sample papers following the **K.C.S.E** format; the third provides answers to the topic-specific questions; and the fourth section includes answers to the model sample papers.
+**Key features of the book include:**
+
+- **Clear Explanations:** Each chapter provides step-by-step explanations of mathematical principles, making it ideal for both self-study and classroom use.
+
+- **Worked Examples:** The book offers numerous worked examples that demonstrate how to apply mathematical concepts to solve problems.
+
+- **Practice Exercises:** After each topic, students can practice their skills with well-structured exercises that reinforce learning.
+
+- **Comprehensive Coverage:** Topics such as Natural Numbers, Factors, Decimals, Algebraic Expressions, Linear Equations, and Geometry are presented in a logical progression, ensuring that students build on their knowledge progressively.
+
+- **Solutions:** The book includes answers to problems and model sample papers, allowing students to check their work and understand mistakes.
+
+- **User-Friendly Design:** The layout is designed to be easy to follow, with a focus on clarity, making it accessible to a wide range of learners.
+
+This first volume in the series covers the majority of Form 1 mathematics topics, providing a strong foundation in essential mathematical principles. Future volumes will build on this groundwork, extending students' knowledge into more advanced areas of mathematics.
+
+Authored by **Martin Nyamu and Ken Gatungo**, the book is designed to equip learners with the skills and confidence they need to excel in mathematics. It serves as a valuable resource for exam preparation and ongoing study, guiding students through key concepts while supporting their long-term academic success.

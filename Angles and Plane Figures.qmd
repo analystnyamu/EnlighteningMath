@@ -3,17 +3,11 @@ header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
-
-pdf_document: default
-latex_engine: xelatex
-keep_tex: true
-classoption: landscape
-
 ---
 
 # Chapter Sixteen: Angles and Plane Figures
 
-# Angles and Plane Figures {.unnumbered}
+## Angles and Plane Figures {.unnumbered}
 
 A plane is a flat surface, such as the walls of a classroom. Two planes always intersect in a straight line. A vertex is a point where two lines meet to form an angle.
 

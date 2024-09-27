@@ -3,17 +3,11 @@ header-includes:
   - \usepackage{amsmath}  # Example package
   - \usepackage{cancel}
   - \usepackage{graphicx}  # Example package for graphics
-    
-filters:
-  - parse-latex
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
 # Chapter Twelve: Time
 
-# Time {.unnumbered}
+## Time {.unnumbered}
 
 **Time** can be given in either a 12-hour clock system or a 24-hour
 system. In a 12-hour system, time is counted from midnight (12:00

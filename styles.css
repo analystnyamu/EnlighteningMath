@@ -1,6 +1,29 @@
-/* Example CSS to adjust cover image */
-.cover-image {
-  width: 100%;  /* Adjust width */
-  height: auto; /* Maintain aspect ratio */
-  margin-bottom: 0px; /* Space below the cover */
+/* Style for the cover page */
+.book-cover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('images/cover.png');  /* Path to your cover image */
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.book-title {
+  font-size: 4rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.book-author {
+  font-size: 2rem;
+  color: white;
+  margin-top: 1rem;
+}
+
+.book-date {
+  font-size: 1.5rem;
+  color: white;
+  margin-top: 0.5rem;
 }

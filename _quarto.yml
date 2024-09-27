@@ -1,29 +1,3 @@
-metadata:
-  crossref:
-    chapters: true
-  documentclass: scrbook
-  geometry: a4paper
-  block-headings: true
-  comments:
-    hypothesis: true
-  math:
-    mathjax:
-      url: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js'
-      config: TeX-AMS_HTML
-      extensions:
-        - cancel
-  header-includes:
-    - \let\cleardoublepage\clearpage
-    - \usepackage{cancel}  # Include the cancel package
-  geometry: margin=1in
-  cover-image: images/cover.png
-  colorlinks: true
-  bibliography:
-    - references.bib
-  title: "Enlightening Mathematics Revision Book Volume 1"
-  author: "Martin Nyamu and Ken Gatungo"
-  date: "10/01/2023"
-
 project:
   type: book
   output-dir: _book
@@ -31,8 +5,7 @@ project:
 book:
   title: "Enlightening Mathematics Revision Book Volume 1"
   author: "Martin Nyamu and Ken Gatungo"
-  date: "10/01/2023"
-  cover-image: "images/cover.png"  # Path to your cover image
+  date: "2023-10-01"
 
   page-footer:
     left: |
@@ -42,7 +15,7 @@ book:
   repo-url: https://github.com/analystnyamu/EnlighteningMath/
   repo-branch: main
   repo-actions: [edit, issue]
-  downloads: [epub, pdf]
+  downloads: [epub,pdf]  # Removed pdf from downloads
   sharing: [twitter, facebook]
 
   chapters:
@@ -70,37 +43,58 @@ book:
     - Answers to Problems to Solve.qmd
     - Answers to Model Sample Papers.qmd
 
-comments:
-  hypothesis: true
+metadata:
+  crossref:
+    chapters: true
+  documentclass: scrbook
+  comments:
+    hypothesis: true
+  # Math and header includes remain unchanged
 
 format:
+  html:
+    theme:
+      - cosmo
+      - EM.scss
+    code-link: true
+    toc: true
+    number-sections: true
+    colorlinks: true
+    author-meta: "Martin Nyamu & Kenneth Gatungo"
+    # Avoiding a single-page format
+    paginate: true                   # Ensure pagination is enabled
+    toc-depth: 2  # Define the depth of sections in the TOC
+    number-chapters: true
+    next-chapter: true              # Include next chapter navigation
+    previous-chapter: true          # Include previous chapter navigation
+    cover-image: "images/cover.png"
+    
   pdf:
-    toc: true                        # Enable table of contents for PDF
-    number-sections: true            # Enable section numbering
-    cover-image: "images/cover.png"  # Path to cover image for PDF
-    colorlinks: true                 # Enable colored links in PDF
+    pdf-engine: xelatex
+    header-includes:
+      - \let\cleardoublepage\clearpage
+      - \usepackage{cancel}  # Include the cancel package
+      - \sloppy
+      - \usepackage{scrhack}
+      - \usepackage{etoolbox}  # Package for modifying existing commands
+      - |
+        \makeatletter
+        \patchcmd{\chapter}{\clearpage}{}{}{}
+        \patchcmd{\section}{\clearpage}{}{}{}
+        \makeatother
+    fontfamily: times
+    colorlinks: true
+    fig_caption: true  # Ensure figure captions are enabled
+    keep_tex: true     # Keep the .tex file for debugging
+    geometry: a4paper  # Set the paper size to A4
+    toc: true  # Enable table of contents
+    number-sections: true  # Enable section numbering
+    cover-image: "images/cover.png"  # Path to your cover image
 
-  epub:
-    cover: cover.qmd                # Path to cover image for EPUB
-    toc: true                        # Enable table of contents for EPUB
-
-# Options for code execution
+# Options for code execution remain unchanged
 execute:
-  echo: true                       # Display code in the output
-  warning: false                   # Suppress warnings in the output
-  error: false                     # Suppress errors in the output
-  eval: true     # Execute the R code
-  include: true   # Include both code and output in the final document
-
-# Pandoc-specific options
-pandoc:
-  to: latex
-  standalone: true
-  toc: true
-  number-sections: true
-  top-level-division: chapter
-  pdf-engine: pdflatex
-  variables:
-    graphics: true
-    tables: true
-  default-image-extension: pdf
+  echo: false
+  warning: false
+  error: false
+  eval: true
+  include: true

@@ -7,7 +7,7 @@ header-includes:
 
 # Chapter Fifteen: Co-Ordinates and Graphs
 
-# Co-Ordinates and Graphs {.unnumbered}
+## Co-Ordinates and Graphs {.unnumbered}
 
 A coordinate is an ordered pair of numbers used to locate the position
 of a point in a plane and written in the form (x, y). The first number,
@@ -55,7 +55,7 @@ litres.
 
 a\) The graph is depicted in the figure 15.1:
 
-```{r, echo = TRUE, warning = FALSE, message = FALSE, fig.cap= "The Graph of Volume against Temperature", fig.align="left"}
+```{r, echo = FALSE,include=TRUE, warning = FALSE, message = FALSE, fig.cap= "The Graph of Volume against Temperature", fig.align="left", fig.path="Co-Ordinates-and-Graphs_files"}
 
 library(ggplot2)
 #library(dplyr)
@@ -77,11 +77,6 @@ ggplot(data, aes(x=Volume, y=Temp)) +
        caption="The Graph of Volume against Temperature"
        )+ xlim(0, 100)+ stat_smooth(method="lm",fullrange=TRUE,colour="red",se=FALSE)+
    theme_bw(16)
-# + theme(plot.caption= element_text(size=13,
-#                                    color="black",
-#                                    face="bold",
-#                                    vjust = 1))
-
 ```
 
 \b)
@@ -119,7 +114,7 @@ x + 2y &= 14
 
 ![](images/Cpt15_table2.png)
 
-```{r, echo = TRUE, warning = FALSE, message = FALSE, fig.cap= "Solving simultaneous linear equations using graphical methods", fig.align="left"}
+```{r, echo = FALSE, include=TRUE, warning = FALSE, message = FALSE, fig.cap= "Solving simultaneous linear equations using graphical methods", fig.align="left", fig.path="Co-Ordinates-and-Graphs_files"}
 
 x <- 0:8
 y1 <- c(-3,-1,1,3,5,7,9,11,13)
@@ -132,7 +127,7 @@ ggplot(dat1, aes(x=x)) +
   geom_line(aes(y=y2, color="x + 2y = 14"),size=1) + xlab("x-axis") + ylab("y-axis")+
   labs(color="Legend",
        subtitle="Graphical Method",
-       caption="Solving simultaneous linear equations using graphical methods")+
+       caption="Solving simultaneous linear equations")+
   theme_bw(16)
 ```
 
@@ -155,32 +150,30 @@ x+4y&=10
 \end{split}
 \end{equation}
 ```
+     
      b) If the lines cut the y-axis at points P and Q respectively,
-    Write down the co-ordinates of the points P and Q.
-    \hspace{11cm}(3mks)
+    Write down the co-ordinates of the points P and Q.(3mks)
 
 2.  Copy and complete the tables below for:
 
     a\) The linear equations $3y=8+2x$ and $y=5x-6$ respectively.
-    \hspace{3.2cm}(4mks) 
+    (4mks) 
     
-    ![](images/Cpt15_Q2.png)
+![](images/Cpt15_Q2.png)
 
     b\) On a graph paper and on the same grid draw the two linear
-    equations in (a) above. \hspace{3.2cm} (4mks)
+    equations in (a) above.  (4mks)
 
-    c\) What is the nature of the two graphs you have drawn?
-    \hspace{4.6cm}(1mk)
+    c\) What is the nature of the two graphs you have drawn? (1mk)
 
-    c\) Use your graphs to solve the simultaneous equations.
-    \hspace{4.8 cm}(1mk)
+    c\) Use your graphs to solve the simultaneous equations.(1mk)
 
-    ```{=latex}
-    \begin{equation}
-    \begin{split}
-    -2x+3y&=8 \\
-    5x-y&=6
-    \end{split}
-    \end{equation}
-    ```
+```{=latex}
+\begin{equation}
+\begin{split}
+-2x+3y&=8 \\
+5x-y&=6
+\end{split}
+\end{equation}
+```
 :::
