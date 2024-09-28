@@ -64,7 +64,7 @@ A number is divisible by 11 if the sum of its **1st, 3rd, 5th, 7th, 9th**, etc. 
 ::: {.callout-note collapse="false"}
 # Problems to solve
 
-1.  In each of the following numbers without doing actual division, determine whether the first number is divisible by the second number: \hspace{8.8 cm} $(5mks)$
+1.  In each of the following numbers without doing actual division, determine whether the first number is divisible by the second number:  $(5mks)$
 
     a\) 3409122; 6
 
@@ -76,7 +76,7 @@ A number is divisible by 11 if the sum of its **1st, 3rd, 5th, 7th, 9th**, etc. 
 
     e\) 3501804; , 4
 
-2.  Which of the following numbers has 9 as a factor? \hspace{6cm} $(2mks)$
+2.  Which of the following numbers has 9 as a factor?  $(2mks)$
 
     a\) 394683
 
@@ -84,7 +84,7 @@ A number is divisible by 11 if the sum of its **1st, 3rd, 5th, 7th, 9th**, etc. 
 
     c\) 5172354
 
-3.  a\) Which are the smallest numbers that can be added to the following numbers to make them divisible by 11? \hspace{10.8cm} $(4mks)$
+3.  a\) Which are the smallest numbers that can be added to the following numbers to make them divisible by 11?  $(4mks)$
 
     i\) 5,234
 
@@ -94,11 +94,11 @@ A number is divisible by 11 if the sum of its **1st, 3rd, 5th, 7th, 9th**, etc. 
 
     iv\) 27,992
 
-    b\) Which are the smallest numbers that can be subtracted from the following numbers to make them divisible by 11? \hspace{10cm} $(2mks)$
+    b\) Which are the smallest numbers that can be subtracted from the following numbers to make them divisible by 11?  $(2mks)$
 
     i\) 96,287 ii) 24,535
 
-4.  Test whether 712,038 is divisible by: \hspace{8.5cm} $(3mks)$
+4.  Test whether 712,038 is divisible by:  $(3mks)$
 
     i\) 2
 

@@ -24,7 +24,7 @@ There are three types of fractions:
 ::: {.callout-note collapse="false"}
 # Example 1
 
-Evaluate: \hspace{9cm} $(3mks)$
+Evaluate: $(3mks)$
 
 $$
 \frac{8\times \frac{1}{3} \, of\, 9\div 2-\frac{2}{3}\, of \,144 \div 12+2 \times 3}{\frac{3}{4}\, of \,36 \div 3-4\div \frac{2}{5} \,of \,10+3 \times (-2)}  
@@ -36,7 +36,6 @@ $$
 
 **Using BODMAS**
 
-```{=tex}
 \begin{equation}
 \begin{split}
 Numerator: 
@@ -46,10 +45,7 @@ Numerator:
 &=12-8+6\\
 &=10\\
 \end{split}
-\end{equation}
-```
-```{=tex}
-\begin{equation}
+\end{equation} \begin{equation}
 \begin{split}
 Denominator:
 &=\left( \frac{3}{4}\times36\right)\div 3-4\div\left (\frac{2}{5}\times10\right)+3\times(-2)\\
@@ -60,21 +56,19 @@ Denominator:
 \therefore \frac{10}{2} &=5
 \end{split}
 \end{equation}
-```
 :::
 
 ::: {.callout-note collapse="false"}
 # Example 2
 
-James withdrew some money from a bank. He spent $\frac{3}{8}$ of the money to pay for his son's school fees and $\frac{2}{5}$ to pay for his daughter's school fees. If he remained with $Ksh. 12, 330$, calculate the amount of money he paid for his daughter's school fees. \hspace{9.7cm} $(3mks)$
+James withdrew some money from a bank. He spent $\frac{3}{8}$ of the money to pay for his son's school fees and $\frac{2}{5}$ to pay for his daughter's school fees. If he remained with $Ksh. 12, 330$, calculate the amount of money he paid for his daughter's school fees. $(3mks)$
 :::
 
-::: columns
-::: {.callout-caution collapse="true"}
+:::::: columns
+::::: {.callout-caution collapse="true"}
 # Solution
 
 ::: {.column width="50%"}
-```{=tex}
 \begin{equation}
 \begin{split}
 Let\,his\, money\, be \,x \\
@@ -83,11 +77,9 @@ Daughter's \,school\, fees&=\frac{2}{5}x \\
 Remaining \,fraction&=x-\left( \frac{3}{8}x+\frac{2}{5}x\right)\\ x-\left ( \frac{31}{40}x\right) &=\frac{9}{40}x\\ 
 \end{split}
 \end{equation}
-```
 :::
 
 ::: {.column width="45%"}
-```{=latex}
 \begin{equation}
 \begin{split}
 \frac{9}{40}x &= 12330 \\ 
@@ -98,23 +90,21 @@ x &= 54800 \\
 &= \text{Ksh. } 21,920 
 \end{split}
 \end{equation}
-```
 :::
-:::
-:::
+:::::
+::::::
 
 ::: {.callout-note collapse="false"}
 # Example 3
 
-In a certain church, there are 200 more women than men. One-third of the men and two-fifths of the women are elderly people. If there are 300 elderly people in the meeting, find out how many young people attend the church.\hspace{12.1cm} $(3mks)$
+In a certain church, there are 200 more women than men. One-third of the men and two-fifths of the women are elderly people. If there are 300 elderly people in the meeting, find out how many young people attend the church. $(3mks)$
 :::
 
-::: columns
-::: {.callout-caution collapse="true"}
+:::::: columns
+::::: {.callout-caution collapse="true"}
 # Solution
 
 ::: {.column width="50%"}
-```{=tex}
 \begin{equation}
 \begin{split}
 Let\, \,men&=x\\
@@ -124,11 +114,9 @@ Elderly \,people&=300\\
 \frac{1}{3}x+\frac{2}{5}x+80&=300\\ 
 \end{split}
 \end{equation}
-```
 :::
 
 ::: {.column width="45%"}
-```{=latex}
 \begin{equation}
 \begin{split}
 \frac{11}{15}x &= 220 \\
@@ -142,59 +130,59 @@ x &= 20 \times 15\\
 &= 500\\
 \end{split}
 \end{equation}
-```
 :::
-:::
-:::
+:::::
+::::::
 
 ::: {.callout-note collapse="false"}
 # Problems to solve
 
-1.  Three people Karimi, Omondi, and Ali contributed money to start a business. Karimi contributed a quarter of the total amount and Omondi two-fifths of the remainder. Ali's contribution was one and a half times that of Karimi. They borrowed the rest of the money from the bank which was $Ksh.\, 60, 000$ less than Ali's contribution, find the total amount required to start the business. \hspace{14.3cm} $(4mks)$
+1.  Three people Karimi, Omondi, and Ali contributed money to start a business. Karimi contributed a quarter of the total amount and Omondi two-fifths of the remainder. Ali's contribution was one and a half times that of Karimi. They borrowed the rest of the money from the bank which was $Ksh.\, 60, 000$ less than Ali's contribution, find the total amount required to start the business. $(4mks)$
 
-2.  Three people Gatungo, Martin, and Albert contributed money to purchase a flour mill. Gatungo contributed $\frac{1}{3}$ of the total amount, Martin contributed $\frac{3}{8}$ of the remaining amount and Albert contributed the rest of the money. The difference in contribution between Martin and Albert was $Ksh. \,40, 000$. Calculate the price of the flour mill. \hspace{6cm} $(3mks)$
+2.  Three people Gatungo, Martin, and Albert contributed money to purchase a flour mill. Gatungo contributed $\frac{1}{3}$ of the total amount, Martin contributed $\frac{3}{8}$ of the remaining amount and Albert contributed the rest of the money. The difference in contribution between Martin and Albert was $Ksh. \,40, 000$. Calculate the price of the flour mill. $(3mks)$
 
-3.  Agnes paid rent which was $\frac{1}{10}$ of her net salary. She used $\frac{1}{2}$ of the remaining amount to make a down payment for a plot. She gave her mother $Ksh.\, 2,500$ and did shopping worth $Ksh.\, 7,500$ for herself. She saved the remainder which was $Ksh.\, 12,500$. How much was the down payment that she made? \hspace{11.9cm} $(4mks)$
+3.  Agnes paid rent which was $\frac{1}{10}$ of her net salary. She used $\frac{1}{2}$ of the remaining amount to make a down payment for a plot. She gave her mother $Ksh.\, 2,500$ and did shopping worth $Ksh.\, 7,500$ for herself. She saved the remainder which was $Ksh.\, 12,500$. How much was the down payment that she made? $(4mks)$
 
-4.  King'oo spends one-third of his salary on food, one-quarter on rent, three--fifths of the remainder on transport, and saves the rest. If he spends $Ksh. \,1,800$ on transport, find how much money he saves.\hspace{13.3cm} $(3mks)$
+4.  King'oo spends one-third of his salary on food, one-quarter on rent, three--fifths of the remainder on transport, and saves the rest. If he spends $Ksh. \,1,800$ on transport, find how much money he saves. $(3mks)$
 
-5.  Without using a calculator or mathematical table evaluate: \hspace{5.3cm} $(3mks)$
-
-$$
-\frac{2\frac{1}{5}+\frac{2}{3}\,of\,3\frac{3}{4}-4\frac{1}{6}}{1\frac{1}{4}+2\frac{2}{5}\div 1\frac{1}{3}+3\frac{3}{4}}  
-$$ 
-6. Without using a calculator, evaluate \hspace{11.5cm} $(3mks)$
+5.  Without using a calculator or mathematical table evaluate: $(3mks)$
 
 $$
-\frac{\frac{3}{4}+1\frac{5}{7}\div \frac{4}{7}\,of\, 2\frac{1}{3}}{\left (1\frac{3}{7}-\frac{5}{8}\right)\times\frac{2}{3}}  
-$$ 
-7. Evaluate \hspace{9.5cm} $(3mks)$
+    \frac{2\frac{1}{5}+\frac{2}{3}\,of\,3\frac{3}{4}-4\frac{1}{6}}{1\frac{1}{4}+2\frac{2}{5}\div 1\frac{1}{3}+3\frac{3}{4}}  
+    $$
+
+6.  Without using a calculator, evaluate $(3mks)$
 
 $$
-\frac{\frac{3}{5}\,of\,60-2\frac{2}{3}\times1\frac{1}{2}}{5\frac{5}{8}\times1\frac{7}{9}-\frac{5}{4}\,of\,4\frac{4}{5}+2\frac{4}{5}\div\frac{7}{10}} 
+    \frac{\frac{3}{4}+1\frac{5}{7}\div \frac{4}{7}\,of\, 2\frac{1}{3}}{\left (1\frac{3}{7}-\frac{5}{8}\right)\times\frac{2}{3}}  
+    $$
+
+7.  Evaluate $(3mks)$
+
 $$
+    \frac{\frac{3}{5}\,of\,60-2\frac{2}{3}\times1\frac{1}{2}}{5\frac{5}{8}\times1\frac{7}{9}-\frac{5}{4}\,of\,4\frac{4}{5}+2\frac{4}{5}\div\frac{7}{10}} 
+    $$
 
-8.  Two boys and a girl shared some money. The younger boy $\frac{5}{8}$ of it. The elder boy got $\frac{7}{12}$ of the remainder and the girl got the rest. Find the percentage share of the younger boy to the girl's share. \hspace{13.2cm} $(2mks)$
-
+8.  Two boys and a girl shared some money. The younger boy $\frac{5}{8}$ of it. The elder boy got $\frac{7}{12}$ of the remainder and the girl got the rest. Find the percentage share of the younger boy to the girl's share. $(2mks)$
 9.  Evaluate without using a calculator. $(3mks)$
 
 $$
-\frac{\left( 2\frac{3}{7}-1\frac{5}{6}\right)\div\frac{5}{6}}{\frac{2}{3}\,of\,2\frac{1}{4}-1\frac{1}{7}}
-$$
+    \frac{\left( 2\frac{3}{7}-1\frac{5}{6}\right)\div\frac{5}{6}}{\frac{2}{3}\,of\,2\frac{1}{4}-1\frac{1}{7}}
+    $$
 
 10. Evaluate: $(3mks)$
 
 $$
-\frac{\sqrt[]{\frac{1}{4}}\,of\,3\frac{1}{2}+\frac{3}{2}\left(\frac{5}{2}-\frac{2}{3}\right)}{\frac{3}{4}\,of\,2\frac{1}{2}\div\frac{1}{4}} 
-$$
+    \frac{\sqrt[]{\frac{1}{4}}\,of\,3\frac{1}{2}+\frac{3}{2}\left(\frac{5}{2}-\frac{2}{3}\right)}{\frac{3}{4}\,of\,2\frac{1}{2}\div\frac{1}{4}} 
+    $$
 
 11. Without using a calculator, evaluate: $(3mks)$
 
 $$
-\frac{1\frac{4}{5}\,of\,\frac{25}{18}\div1\frac{2}{3}\times24}{2\frac{1}{3}-\frac{1}{4}\,of\,12\div\frac{5}{3}}    
-$$
+    \frac{1\frac{4}{5}\,of\,\frac{25}{18}\div1\frac{2}{3}\times24}{2\frac{1}{3}-\frac{1}{4}\,of\,12\div\frac{5}{3}}    
+    $$
 
-12. Evaluate \hspace{12.8cm} $(6mks)$
+12. Evaluate $(6mks)$
 
     a\) $$\frac{5\frac{3}{5}\times 1\frac{3}{4}+8\frac{1}{3} \div \frac{5}{9}}{5\frac{1}{6}\times 1\frac{1}{5}}$$
 
@@ -203,13 +191,13 @@ $$
 13. A man spent $\frac{1}{9}$ his salary on food and $\frac{1}{4}$ the remainder on electricity and water bills. He paid fees with $20\%$ of his salary and invested $16\%$ of what was left on business.\
     After taking a game drive on which he spent $Ksh. \,2,000$, he saved $Ksh.\,5,350$. Calculate his monthly earnings. $(3mks)$
 
-14. In a mixed secondary school there are 60 more boys than girls. Half of the boys and $\frac{2}{3}$ of the girls are boarders. If there are 240 boarders, find the total number of students in the school. \hspace{14.2cm} $(3mks)$
+14. In a mixed secondary school there are 60 more boys than girls. Half of the boys and $\frac{2}{3}$ of the girls are boarders. If there are 240 boarders, find the total number of students in the school. $(3mks)$
 
 15. Five members of 'SILK', a self-supporting enterprise Jane, Jepchoge, Esther, Mama Charo, and Chepkoech were given a certain amount of money to share amongst themselves.Jane got $\frac{3}{8}$ of the total amount while Jepchoge got $\frac{2}{5}$ of the remainder.The remaining amount was shared equally among Esther, Mama Charo, and Chepkoech each of which received $Ksh.\, 6,000$;
 
-    a\) How much was shared among the five businesswomen? \hspace{4.3cm} $(3mks)$
+    a\) How much was shared among the five businesswomen? $(3mks)$
 
-    b\) How much did Jepchoge get? \hspace{8.5cm} $(2mks)$
+    b\) How much did Jepchoge get? $(2mks)$
 
-    c\) Jane, Jepchoge, and Chepkoech invested their money and earned a profit of $Ksh.\, 12,000$. A third of the profit was left to maintain the business and the rest was shared according to their investments. Find how much each got.\hspace{6.5cm} $(5mks)$
+    c\) Jane, Jepchoge, and Chepkoech invested their money and earned a profit of $Ksh.\, 12,000$. A third of the profit was left to maintain the business and the rest was shared according to their investments. Find how much each got. $(5mks)$
 :::

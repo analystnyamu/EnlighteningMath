@@ -41,7 +41,7 @@ v\) Sum of an interior angle and an exterior angle is equal to $180^0$
 ::: {.callout-note collapse="false"}
 # Example 1
 
-The sum of interior angles of two regular polygons of sides; n and $n + 2$ are in the ratio $5:7$ Calculate the sum of the interior angles of the polygon with n sides. \hspace{0.5cm} $(4 mks)$
+The sum of interior angles of two regular polygons of sides; n and $n + 2$ are in the ratio $5:7$ Calculate the sum of the interior angles of the polygon with n sides.  $(4 mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -108,35 +108,35 @@ Sum\,interior\,angles&=180(n-2)\\180(n-2)&=1260^0\\n-2&=7\\n&=9;\,Nonagon
 
 2.  One interior angle of a polygon is equal to $60\,^{\circ}$ and each of the other interior angles is $132\,^{\circ}$. Find the number of sides and name of the polygon.  $(3mks)$
 
-3.  The difference between the exterior and interior angle of a regular polygon is $120\,^{\circ}$. Determine the number of sides of the polygon. \hspace{8.3cm} $(3mks)$
+3.  The difference between the exterior and interior angle of a regular polygon is $120\,^{\circ}$. Determine the number of sides of the polygon. $(3mks)$
 
 4.  A regular polygon has internal angle of $120\,^{\circ}$ and side of length 18cm.
 
-    a\) Find the number of sides of the polygon. \hspace{6.5cm} $(2mks)$
+    a\) Find the number of sides of the polygon.  $(2mks)$
 
-    b\) Find the perimeter of the polygon. \hspace{7.5cm} $(2mks)$
+    b\) Find the perimeter of the polygon.  $(2mks)$
 
 5.  The sum of the interior angles of a regular polygon is $1800\,^{\circ}$. Calculate
 
-    a\) The number of sides of the polygon \hspace{7.4cm} $(2mks)$
+    a\) The number of sides of the polygon  $(2mks)$
 
-    b\) The sizes of the exterior and interior angles of the polygon. \hspace{3.3cm} $(2mks)$
+    b\) The sizes of the exterior and interior angles of the polygon.  $(2mks)$
 
-6.  The interior angle of a regular polygon is $30\,^{\circ}$ more than four times the exterior angle of the same polygon. Determine the number of sides of the polygon. \hspace{4cm} $(3mks)$
+6.  The interior angle of a regular polygon is $30\,^{\circ}$ more than four times the exterior angle of the same polygon. Determine the number of sides of the polygon.  $(3mks)$
 
-7.  The size of an exterior angle of a regular polygon is $\frac{2}{3}$ times the size of its interior angle. Find the number of sides of this polygon. \hspace{8.2cm} $(3mks)$
+7.  The size of an exterior angle of a regular polygon is $\frac{2}{3}$ times the size of its interior angle. Find the number of sides of this polygon.  $(3mks)$
 
-8.  The sum of the interior angles of an n-sided polygon is $1440^0$. Find the value of n and hence deduce the name of the polygon. \hspace{9cm} $(3mks)$
+8.  The sum of the interior angles of an n-sided polygon is $1440^0$. Find the value of n and hence deduce the name of the polygon.  $(3mks)$
 
-9.  The sum of the interior angles of an n-sided polygon is $1080^0$. Find the value of n and hence give the name of the polygon. \hspace{10cm} $(3mks)$
+9.  The sum of the interior angles of an n-sided polygon is $1080^0$. Find the value of n and hence give the name of the polygon.  $(3mks)$
 
-10. A nine-sided polygon has three of its angles equal to and the other angles are $(2\theta - 30)$, $(\theta- 28)$, $3(\theta - 4)$, $\theta -45$, $3\theta-20$, and $(126 - \theta)$. Calculate the value of $\theta$. \hspace{4.2cm} $(3mks)$
+10. A nine-sided polygon has three of its angles equal to and the other angles are $(2\theta - 30)$, $(\theta- 28)$, $3(\theta - 4)$, $\theta -45$, $3\theta-20$, and $(126 - \theta)$. Calculate the value of $\theta$.  $(3mks)$
 
 11. On a graph paper,
 
-    a\) Plot the points $A(4, -1)$, $B(5, -3)$, $C(4, -4)$ and $D(3, -3)$ and join the Points to form a polygon PQRS. State the name of the polygon formed. \hspace{4.5cm} $(2mks)$
+    a\) Plot the points $A(4, -1)$, $B(5, -3)$, $C(4, -4)$ and $D(3, -3)$ and join the Points to form a polygon PQRS. State the name of the polygon formed.  $(2mks)$
 
-    b\) Write down the equation of the line of symmetry of the polygon. \hspace{3.2cm}$(1mk)$
+    b\) Write down the equation of the line of symmetry of the polygon. $(1mk)$
 
 12. In the figure below $MNO =54\,^{\circ}$ and $PLM =50\,^{\circ}$, $PN = NM$ and PO is parallel to LM. Find the value of $\sphericalangle LPM$
 

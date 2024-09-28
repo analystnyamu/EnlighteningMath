@@ -153,9 +153,9 @@ SI unit is the litre (l).
 An angle of 0.9 radians at the Centre of the circle subtends an arc of
 length 28.8cm. Find in 4 significant figures($\pi radians=180^0$):
 
-a\) The radius of the circle              \hspace{10.4 cm}        $(3mks)$
+a\) The radius of the circle                      $(3mks)$
 
-b\) The area of the sector enclosed by the arc and radii.     \hspace{5.5 cm} $(2mks)$
+b\) The area of the sector enclosed by the arc and radii.      $(2mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -199,7 +199,7 @@ Area&=\frac{\theta}{360} \times\pi r^2 \\
 
 A solid metal cylinder with a radius of 7cm and height of 5cm is melted
 down and recast into a spherical ball. Calculate to 1 decimal place the
-surface area of this ball.\hspace{5 cm} $(4mks)$
+surface area of this ball.  $(4mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -242,31 +242,30 @@ S.A\,of\,the \,sphere& = 4\pi r^{2}\\
 
 1.  An arc of length 'x' cm subtends an angle of, $(\frac{p}{\pi})^0$,at
     the center of the circle. Find an expression for the radius, r, of
-    the circle in terms of x and p. \hspace{6.2 cm} $(3mks)$
+    the circle in terms of x and p.  $(3mks)$
 
 2.  Find the length of the minute hand of a wall clock if the tip of the
     minute hand traces a length of 6p cm between 11:25 am and 11:45 am
-    (Give your answer in terms of $\pi$). \hspace{2 cm} $(3mks)$
+    (Give your answer in terms of $\pi$).  $(3mks)$
 
 3.  The diagonal of a rectangular flower garden is 20m. If the width of
     this garden is 12m, calculate its length and perimeter to 3
-    significant figures. \hspace{6.7 cm} $(3mks)$
+    significant figures.  $(3mks)$
 
 4.  The figure below shows a circle Centre O. Chord AB subtends $30^0$
     at the Centre. If the area of the minor segment is
     $5\frac{16}{21} cm^2$, find the radius of the circle.(hint area of
-    $\triangle \,OAB=\frac{1}{2}r^2sin(\theta)$ \hspace{14.5cm} $(3mks)$
+    $\triangle \,OAB=\frac{1}{2}r^2sin(\theta)$  $(3mks)$
 
 ![](images/circle.png)
 
 5.  The curved surface area of a cylindrical container is $2,112\,cm^2$.
     If the radius of the container is 21cm, calculate to one decimal
-    place the capacity of the container in litres \hspace{2.1 cm}
-    $(3mks)$
+    place the capacity of the container in litres     $(3mks)$
 
 6.  The base of a triangle is 3cm longer than its height. Given that the
     area of the triangle is $35cm^2$, determine the base of the
-    triangle. \hspace{7.2 cm} $(3mks)$
+    triangle.  $(3mks)$
 
 7.  A carpenter constructed a closed wooden box with internal
     measurements 1.8 m long, 0.8 m wide, and 0.6 m high. The wood used
@@ -274,40 +273,40 @@ S.A\,of\,the \,sphere& = 4\pi r^{2}\\
     $0.75g/cm^{3}$. Determine the:
 
     a\) Volume in $cm^3$ of the wood used in constructing the box.
-    \hspace{4.2 cm} $(3mks)$
+     $(3mks)$
 
     b\) Mass of the box in kilograms correct to 4 significant figures.
-    \hspace{3.6 cm} $(1mk)$
+     $(1mk)$
 
 8.  A solid hemisphere of radius 7cm has the same volume as a cube. Find
-    the length of the cube to 3 significant figures. \hspace{10.4 cm}
+    the length of the cube to 3 significant figures. 
     $(3mks)$
 
 9.  Mango juice in a factory is stored in a rectangular tank whose
     internal dimensions are 1.8m by 1.4m by 2.5m one day the tank was
     80% full of Mango juice. Calculate the volume of Mango juice in the
-    tank in litres. \hspace{10 cm} $(3mks)$
+    tank in litres.  $(3mks)$
 
 10. An open box has an external breadth of 12 cm, a height 10 cm, and a
     length of 15 cm. If the thickness of the material of the box is 1
-    cm, find the total surface area of the box. \hspace{3.7cm} $(5mks)$
+    cm, find the total surface area of the box.   $(5mks)$
 
 11. A triangular plot PQR is such that the length of the side PQ is
     two-thirds that of QR. The ratio of the lengths $PQ: PR = 4:9$ and
     the angle at Q is obtuse. If the perimeter of the plot is 38m
     calculate the length of the 3 sides of $\triangle PQR$
-    \hspace{7.5cm} $(4mks)$
+     $(4mks)$
 
 12. A metallic cuboid 10cm by 12cm by 15cm is melted. Half of it is used
     to make a cylinder of radius 4.2cm, the remaining is used to make a
     sphere. Determine in 4 significant figures using $\pi= \frac{22}{7}$
 
     a\) The height and surface area of the cylinder to 2 decimal places.
-    \hspace{3.2 cm} $(4mks)$
+     $(4mks)$
 
     b\) The radius and surface area of the sphere are correct to 3
-    significant figures. \hspace{1.5 cm} $(4mks)$
+    significant figures.  $(4mks)$
 
     c\) The difference between the surface area of the sphere and the
-    cylinder. \hspace{1.7cm} $(2mks)$
+    cylinder.  $(2mks)$
 :::

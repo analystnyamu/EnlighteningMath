@@ -18,8 +18,7 @@ to 100 cents $(ct)$.
 ::: {.callout-note collapse="false"}
 # Example 1
 
-Use the exchange rates below to answer this question. \hspace{6cm}
-$(3mks)$
+Use the exchange rates below to answer this question. $(3mks)$
 
 $\hspace{5.1cm} Buying\hspace{2.9cm} Selling$
 
@@ -76,7 +75,7 @@ A foreign woman arrived in Kenya with 25,000 Euros. He converted all the
 Euros into Kenyan Shillings at the bank. He spent $Ksh.\, 2, 610,200$
 while in Kenya and converted the remaining Kenya shillings into U.S
 Dollars at the bank. Calculate to the nearest dollars the amount that
-she received. \hspace{15.2cm} $(3mks)$
+she received.  $(3mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -99,7 +98,7 @@ She\, received&=25000\times 147.56\\&=Ksh. 3,689,000\\ Balance \,after \,spendin
 Mr. Albert who deals in electronics sells a radio to a customer at
 $Ksh.\, 1,350$ after giving him a discount of 10% but finds that he
 still makes a 20% profit. Find the percentage profit Mr. Albert would
-make if he does not give a discount. \hspace{11cm} $(3mks)$
+make if he does not give a discount.  $(3mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -145,14 +144,14 @@ $Ksh.\, 160$. She packed the remaining in 1 kg bags and sold each bag at
 $Ksh.\, 85$. After selling all the rice she found that she had made a
 profit of $Ksh. \, 6460$.
 
-a\) Calculate the amount of rice she bought \hspace{8cm} $(6mks)$
+a\) Calculate the amount of rice she bought  $(6mks)$
 
 b\) In three significant figures, determine:
 
-i\) The percentage profit she made. \hspace{8.2cm} $(2mks)$
+i\) The percentage profit she made.  $(2mks)$
 
 ii\) The percentage profit he would have made if sold all the rice in 2
-kg bags. \hspace{1.5cm} $(2mks)$
+kg bags.  $(2mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -235,7 +234,7 @@ A Japanese traveling from France to Kenya had 5,000 Euros. He converted
 all the 5,000 Euros to Kenya shillings at the bank. While in Kenya, he
 spent a total of $Ksh.\, 389,850$ and then converted the remaining Kenya
 shilling to Japanese Yens at the bank. Calculate the amount in Japanese
-Yen that he received. \hspace{9.1cm} $(3mks)$
+Yen that he received.  $(3mks)$
 
 2.  A Kenyan bank buys and sells foreign currency as shown below.
 
@@ -249,7 +248,7 @@ A foreigner traveling from Britain arrives in Kenya with 6,500 Euros. He
 converts all the Euros to Kenya shillings at the bank. While in Kenya he
 spends a total of $KSh.\, 459,650$ and then converts the remaining Kenya
 shillings to US dollars at the bank. Calculate (to the nearest dollar)
-the amount he receives. \hspace{10.2cm } $(3mks)$
+the amount he receives.  $(3mks)$
 
 3.  A forex bureau buys and sells American dollars in Kenya shillings at
     the rate shown below.
@@ -260,7 +259,7 @@ $\hspace{2.3cm} 102.40 \hspace{3.7cm}102.81$
 
 An American woman at the end of her tour in Kenya had $Ksh. \,107,500$
 which he converted to the dollar through the Forex bureau. How many
-dollars did she get? \hspace{3.3cm}$(2mks)$
+dollars did she get? $(2mks)$
 
 4.  A tourist arrived from Los Angeles and changed his US Dollar 3,650
     to $Ksh.$ He spent $Ksh. \, 3,000$ per night in a hotel for 20
@@ -268,42 +267,42 @@ dollars did she get? \hspace{3.3cm}$(2mks)$
     left for South Africa having changed the balance to South African
     Rand. Calculate the amount of South African Rands he left with, if
     the bank buys and sells currencies using the table below.
-    \hspace{14.3cm} $(3mks)$
+     $(3mks)$
 
     ![](Cpt14_Q4.png)
 
 5.  Kavula sold a bag of potatoes for $Ksh.\, 420$ and made a profit. If
     she sold it at $Ksh. \,320$, she could have made a loss. Given that
     the profit is thrice the loss, how much did she pay for the bag of
-    potatoes? \hspace{11.4cm} $(3mks)$
+    potatoes?  $(3mks)$
 
 6.  The marked price of a Toyota car in a dealer's shop was
     $Ksh. \, 450,000$. Tom bought the car at 7% discount. The dealer
     still made a profit of 13%. Calculate the amount of money the dealer
-    had paid for the car. \hspace{11.4cm} $(3mks)$
+    had paid for the car.  $(3mks)$
 
 7.  A 6kg gas cylinder was bought at $Ksh.\,2,250$ and then later sold
     for $Ksh.\,2,790$. Calculate:-
 
-    a\) The percentage profit. \hspace{9.6cm} $(2mks)$
+    a\) The percentage profit.  $(2mks)$
 
     b\) The price at which it should be sold to make a profit of 28%.
-    \hspace{3.5cm}$(2mks)$
+    $(2mks)$
 
 8.  Mwikali paid $Ksh. 160$ for a blouse after getting a discount of
     20%.The vendor made a profit of 25% on the sale of this blouse. What
     percentage profit would the vendor have made if no discount was
-    allowed? \hspace{12.1cm} $(3mks)$
+    allowed?  $(3mks)$
 
 9.  Mr. Nyamu who deals in computer accessories sells a laptop to a
     customer at $Ksh.\, 21,500$ after giving him a discount of 10% but
     finds that he still makes a 25% profit. Find the profit Mr.Nyamu
-    would make if he does not give a discount. \hspace{7.1cm} $(3mks)$
+    would make if he does not give a discount.  $(3mks)$
 
 10. The marked price of a pro-box in a dealer's shop was
     $Ksh.\, 850,000$. Mucai bought the car at 8% discount. The dealer
     still made a profit of 15%. Calculate the amount of money the dealer
-    had paid for the car. \hspace{10.8cm} $(3mks)$
+    had paid for the car.  $(3mks)$
 
 <!-- -->
 
@@ -311,21 +310,21 @@ dollars did she get? \hspace{3.3cm}$(2mks)$
     cost $Ksh.\, 25,750$ each. The government imposed an import duty of
     20% and a sales tax of 15%. If the company decides to make a 20%
     profit on sales, calculate to the nearest shillings the selling
-    price of each speaker. \hspace{14.2cm} $(4mks)$
+    price of each speaker.  $(4mks)$
 
 12. A manufacturer sells an empty crate of soda to a trader at a profit
     of 50%. The trader sells it for $Ksh.\, 360$ at a profit of 20%.
     Find
 
-    a\) The trader's buying price. \hspace{9cm} $(2mks)$
+    a\) The trader's buying price.  $(2mks)$
 
-    The cost of manufacture of an empty crate. \hspace{6cm} $(3mks)$
+    The cost of manufacture of an empty crate.  $(3mks)$
 
 13. A Kenyan tradesman owes US \$ 180,000 to a company in the United
     States of America. The Kenyan can either pay through his account in
     Kenya or through his account in the United Kingdom. Which method is
     cheaper and by how much? (Give your answer in Kenyan shillings given
-    that: \hspace{12.3cm} $(4mks)$
+    that:  $(4mks)$
 
 $\hspace{1cm} 1\, US \,dollar \,= 102.74\, Kenyan \,shillings.$
 
@@ -346,11 +345,11 @@ A merchant from China converted 205,250 Chinese Yuan into Kenya
 Shillings.
 
 a)  Calculate the amount of Money, in Kenya shillings, that she
-    received. \hspace{2cm} $(1mk)$
+    received.  $(1mk)$
 
 b)  While in Kenya, the merchant spent $Ksh.\, 1,858,000$ and then
     converted the balance to South African Rand. Calculate the amount of
-    money, to the nearest Rand, that he received. \hspace{13.5cm}
+    money, to the nearest Rand, that he received. 
     $(3mks)$
 
 <!-- -->
@@ -360,32 +359,32 @@ b)  While in Kenya, the merchant spent $Ksh.\, 1,858,000$ and then
     $Ksh. 1.5 \,million$ each, 5 probox at $Ksh.\, 650,000$ each and 5
     vans at $Ksh.\, 1.8 \,million$ each. If he was paid a total
     commission of $Ksh.\, 720,000$, calculate the percentage rate of
-    commission he was paid in 3 significant figures. \hspace{6.8cm}
+    commission he was paid in 3 significant figures. 
     $(3mks)$
 
 16. Kang'ethe bought a pair of shoes for $Ksh.\, 1,600$ and marked it at
     a price such that after allowing his customer a 20% discount, he
     would make a profit of 25%. Calculate the marked price of the shoes.
-    \hspace{13.1cm} $(4mks)$
+     $(4mks)$
 
 17. Muringo bought a skirt at $Ksh.\, 600$ and marked it at a price such
     that after allowing her customer a 5% discount she would make a
-    profit of 33%. Find the marked price of the skirt. \hspace{14.3cm}
+    profit of 33%. Find the marked price of the skirt.
     $(4mks)$
 
 18. Noah sold a second-hand computer which was marked at $Ksh. 24,000$
     to a customer at 19% discount. If he still made a 20% profit on the
-    cost price, what was its cost price? \hspace{3cm} $(4mks)$
+    cost price, what was its cost price?  $(4mks)$
 
 19. A businessman sold a pair of shoes which was marked at
     $Ksh.\, 2,700$ to a customer allowing a 15% discount. If he still
     made a 35% profit on the cost price, determine how much he had paid
-    for the pair of shoes. \hspace{12cm} $(4mks)$
+    for the pair of shoes. $(4mks)$
 
 20. The marked price of a second-hand car was $Ksh.\, 625,000$. Mwendia
     sold the car at a discount of 7.2% and received $Ksh.\, 49,300$ as a
     commission of the sale. Calculate the percentage rate of commission
-    he was paid. \hspace{10.3cm}$(3mks)$
+    he was paid. $(3mks)$
 
 21. Three partners Ndirangu, Isa, and Mukami contributed
     $Ksh. \,700,000$, $Ksh.\, 500,000$ and $Ksh.\, 900,000$ respectively
@@ -394,21 +393,21 @@ b)  While in Kenya, the merchant spent $Ksh.\, 1,858,000$ and then
     The mini-bus makes two round trips each day and ever full. Each day
     $Ksh.\, 8,000$ is used to cover running costs and wages.
 
-    a\) Calculate their net profit per day. \hspace{7.6cm} $(2mks)$
+    a\) Calculate their net profit per day.  $(2mks)$
 
     b\) The matatu works for 25 days per month and is serviced every
     month at a cost of $Ksh.\,12, 000$. Calculate their monthly in July.
-    \hspace{6.4cm} $(1mk)$
+     $(1mk)$
 
     c\) The three partners agreed to save 42% of the profit, 75% of the
     remainder to be shared in the ratio of their contribution. Calculate
-    Mukami's share in the month of July. \hspace{1.8cm} $(4mks)$
+    Mukami's share in the month of July.  $(4mks)$
 
     d\) The mini-bus developed mechanical problems and they decided to
     sell it through an agent who charged a commission of 5% on the
     selling price. Each partner received $Ksh.\, 520,000$ from the agent
     after he had taken his commission. Determine the price at which the
-    agent sold the matatu. \hspace{11.25cm} $(3mks)$
+    agent sold the matatu.  $(3mks)$
 
 22. Wangari bought some sugar at $Ksh.\, 80$ per kg. She packed
     five-eighths of the sugar in $\frac {1}{2}$ kg packets which she
@@ -416,16 +415,16 @@ b)  While in Kenya, the merchant spent $Ksh.\, 1,858,000$ and then
     kg packets and sold them at $Ksh.\, 110$ per packet. She sold all
     the sugar in this way and made a profit of $Ksh.\, 10,875$.
 
-    a\) Determine the amount of sugar she bought. \hspace{6.5cm}$(4mks)$
+    a\) Determine the amount of sugar she bought. $(4mks)$
 
     b\) Calculate to one decimal place:
 
     c\)
 
-    i\) The percentage profit she made. \hspace{7.3cm} $(3mks)$
+    i\) The percentage profit she made.  $(3mks)$
 
     ii\) The percentage profit she would have made if she had sold all
-    the sugar at $\frac{1}{2}$ kg packets. \hspace{12.8cm} $(3mks)$
+    the sugar at $\frac{1}{2}$ kg packets.  $(3mks)$
 
 23. A manufacturer made a mattress and sold it to a wholesaler at a
     profit of 25%. The wholesaler sold the mattress to a shopkeeper at a
@@ -433,15 +432,15 @@ b)  While in Kenya, the merchant spent $Ksh.\, 1,858,000$ and then
     customer at 50% profit.
 
     a\) Determine how much a customer paid for the mattress that had
-    cost the manufacturer $Ksh.\, 1800$ to make. \hspace{11cm} $(3mks)$
+    cost the manufacturer $Ksh.\, 1800$ to make.  $(3mks)$
 
     b\) A customer paid $Ksh.\, 3,465$ for another mattress. Determine
     how much it had cost the manufacturer to make the mattress.
-    \hspace{8.2cm} $(3mks)$
+     $(3mks)$
 
     c\) The shopkeeper bought the mattress which had cost the wholesaler
     $Ksh.\, 3,500$. He marked the mattress at a price such that after
     allowing his customer a discount of 10%, he would still make a
     profit of 50%. Find the price at which the mattress was
-    marked.\hspace{1cm} $(4mks)$
+    marked. $(4mks)$
 :::

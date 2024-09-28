@@ -86,7 +86,7 @@ The measure of the $\angle BAC$ is $30^0$
 Using a ruler and pair of compasses only, construct triangle ABC in
 which $AB = 5cm, BC = 7cm$ and angle $ABC =60 \,^{\circ}$. Drop a
 perpendicular from A to meet BC at M. Measure AM and AC.
-\hspace{14.5cm} (3mks)
+ $(3mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -104,19 +104,19 @@ Use a ruler and a pair of compasses only for all constructions in this
 question.
 
 a\) Construct a triangle ABC in which $BC=9\, cm$, angle $ABC=45^0$ and
-angle $ACB=75^0$ \hspace{14.2cm} (2mks)
+angle $ACB=75^0$  (2mks)
 
-b\) Measure AB and AC. \hspace{10.6cm} (2mks)
+b\) Measure AB and AC.  $(2mks)$
 
-c\) At A drop a perpendicular to meet BC at D. \hspace{7cm} (1mk)
+c\) At A drop a perpendicular to meet BC at D.  $(1mk)$
 
 d\) Measure AD and hence calculate the area of triangle
-ABC.\hspace{4.4cm} (3mks)
+ABC. $(3mks)$
 
 e\) Mark a point P on DA produced such that the area of triangle BPC is
-half the area of triangle ABC. \hspace{13.3cm} (1mk)
+half the area of triangle ABC.  $(1mk)$
 
-f\) Complete triangle BPC and measure PC \hspace{7.5cm} (1mk)
+f\) Complete triangle BPC and measure PC  $(1mk)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -141,14 +141,14 @@ Use a ruler and a pair of compasses only for all constructions in this
 question.
 
 a\) Construct triangle PQR in which QR=8.5cm, PQ=7cm and angle
-PQR$=60^0$ \hspace{1.2cm} (3 mks)
+PQR$=60^0$  $(3 mks)$
 
-b\) Measure PR and angle QPR. \hspace{9cm} (2 mks)
+b\) Measure PR and angle QPR.  $(2 mks)$
 
 c\) Construct a circle which is inscribed inside triangle
-PQR.\hspace{4.7cm}(4mks)
+PQR. $(4mks)$
 
-d\) Measure the radius of this circle. \hspace{8.4cm} (1 mk)
+d\) Measure the radius of this circle.  $(1 mk)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -166,95 +166,97 @@ c\) Radius$=2.2\pm 0.1\,cm$
 
 1.  a\) Using a pair of compasses and a ruler only construct a triangle
     ABC such that \$AB= 6.5cm, BC = 5cm \$ and angle
-    $ABC = 135\,^{\circ}$ \hspace{5cm} (2mks)
+    $ABC = 135\,^{\circ}$  $(2mks)$
 
     b\) Construct the height of triangle ABC in (a) above taking AB as
-    the base, hence calculating the area of triangle ABC. \hspace{8.9cm}
-    (2mks)
+    the base, hence calculating the area of triangle ABC. 
+    $(2mks)$
 
 2.  Using compass and ruler only construct a triangle ABC such that AB
     7cm, BC = 6cm and angle $ABC = 67.5\,^{\circ}$ measure the length of
-    AC. \hspace{6.1cm} ( 4mks)
+    AC.  $( 4mks)$
 
 3.  Use a ruler and a pair of compasses only for all the constructions
     in this question.
 
     a\) Construct a triangle PQR in which PQ=9 cm, QR=6 cm and angle
-    PQR$=30^0$ \hspace{0.2cm} (3mks)
+    PQR$=30^0$  $(3mks)$
 
     b\) From P drop a perpendicular to meet QR produced at
-    S.\hspace{4cm} (1mk)
+    S.   $(1mk)$
 
     c\) Measure PS and hence calculate the area of triangle
-    PQR.\hspace{3.4cm} (2mks)
+    PQR. $(2mks)$
 
     d\) Locate a point T on SP produced such that the area of triangle
-    QTR is $\frac{4}{3}$ times the area of triangle PQR. \hspace{10.8cm}
-    (2mks)
+    QTR is $\frac{4}{3}$ times the area of triangle PQR. 
+    $(2mks)$
 
     e\) Complete triangle QTR and measure RT and angle
-    TQR.\hspace{3.9cm} (2mks)
+    TQR. $(2mks)$
 
 4.  Use a ruler and a pair of compasses only for all constructions in
     this question.
 
     a\) Construct triangle ABC in which BC=AC=7 cm and angle
-    ACB$=37.5^0$ \hspace{1.4cm}(3mks) b) Measure AB. \hspace{10.9cm}
-    (1mk)
+    ACB$=37.5^0$  $(3mks)$ 
+    
+    b\) Measure AB. $(1mk)$
 
     c\) From A drop a perpendicular to meet BC produced at
-    D.\hspace{4cm} (1mk)
+    D.    $(1mk)$
 
     d\) Measure AD and hence calculate the area of triangle
-    ABC.\hspace{3.4cm} (2mks)
+    ABC.   $(2mks)$
 
     e\) Mark a point P on AD such that the area of triangle PBC is half
-    the area of triangle ABC. \hspace{12.2cm} (1mk)
+    the area of triangle ABC.  $(1mk)$
 
-    f\) Complete triangle PBC and measure angle PBC \hspace{5.1cm}
-    (2mks)
+    f\) Complete triangle PBC and measure angle PBC 
+    $(2mks)$
 
 5.  Use a ruler and a pair of compasses only for all constructions in
     this question.
 
     a\) Construct triangle PQR in which QR=5cm, PR=7 cm and PRQ$=150^0$
-    \hspace{1.4cm}(3mks) b) Measure PQ and angle PQR. \hspace{8cm}
-    (2mks)
+    $(3mks)$ 
+    
+    b\) Measure PQ and angle PQR. $(2mks)$
 
     c\) From P drop a perpendicular to meet QR produced at
-    D.\hspace{3.8cm} (1mk)
+    D.   $(1mk)$
 
     d\) Mark a point T on DP produced such that the area of triangle TQR
-    is twice the area of triangle PQR \hspace{10.8cm} (2mks)
+    is twice the area of triangle PQR  $(2mks)$
 
-    e\) Complete triangle TQR and measure angle QRT. \hspace{5cm} (2mks)
+    e\) Complete triangle TQR and measure angle QRT.  $(2mks)$
 
 6.  Use a ruler and a pair of compasses only for all constructions in
     this question
 
     a\) Construct triangle ABC in which BC=7 cm, and angle ABC$=45^0$
-    and angle ACB$=60^0$. \hspace{13.25cm}(3mks)
+    and angle ACB$=60^0$. $(3mks)$
 
-    b\) Measure AB and AC \hspace{9.6cm} (2mks)
+    b\) Measure AB and AC  $(2mks)$
 
     c\) Construct a circle that touches BC at B and passes through
-    A.\hspace{3cm}(4mks)
+    A.  $(4mks)$
 
-    d\) Measure the radius of the circle \hspace{7.8cm} (1mk)
+    d\) Measure the radius of the circle  $(1mk)$
 
 7.  Use a ruler and a pair of compasses only for all constructions in
     this question.
 
     a\) Construct triangle ABC in which BC=7cm, angle ABC=22.50 and
-    angle ACB$=120^0$. \hspace{12.9cm} (4mks)
+    angle ACB$=120^0$.  $(4mks)$
 
-    b\) Measure AC \hspace{10.8cm} (1mk)
+    b\) Measure AC  $(1mk)$
 
     c\) Produce AB to D and AC to E and bisect angle CBD and angle
-    BCE.\hspace{1.4cm} (2mks)
+    BCE. $(2mks)$
 
     d\) Construct a circle which touches all three sides AD, BC, and
-    AE.\hspace{1.7cm}(2mks)
+    AE.  $(2mks)$
 
-    e\) What is the radius of this circle? \hspace{7.4cm} (1mk)
+    e\) What is the radius of this circle?  $(1mk)$
 :::
