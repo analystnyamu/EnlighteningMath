@@ -243,8 +243,7 @@ c\) 0.009
 
 \newpage  <!-- This forces a page break in PDF -->
 
-## Operations
-
+## Operations  
 This includes addition, subtraction, multiplication and division of
 numbers.
 
@@ -262,7 +261,6 @@ he end up being with? $(2mks)$
 :::  
 
 
-
 ::: {.callout-caution collapse="true"}
 ## Solution
 
@@ -276,18 +274,17 @@ Amount~of~beans~left~ &=231,120-119,160\\
 &=111,960~Kg
 \end{split}
 $$
-:::
 
-::: {.callout-caution collapse="true"}
-## Solution
+b\) 
 
-b\) $$
+$$
 \begin{split}
 (632\times90) + 111,960\,Kg
 &=56,880+111,960 \\ & =168,840\,Kg.
 \end{split}
 $$
 :::
+
 
 ::: {.callout-note collapse="false"}
 ## Example 2

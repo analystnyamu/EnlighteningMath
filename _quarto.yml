@@ -90,6 +90,11 @@ format:
       - \patchcmd{\chapter}{\clearpage}{}{}{}
       - \patchcmd{\section}{\clearpage}{}{}{}
       - \makeatother
+      - \setlength{\parskip}{0pt}  % Set paragraph spacing to zero
+      - \usepackage{setspace}
+      - \setstretch{1.0}  % Adjust line spacing (1.0 is single spacing, 1.5 for 1.5 spacing, etc.)
+      - \usepackage[margin=1in]{geometry}  % Adjusts the page margins (1 inch in this example)
+      -  \usepackage[skip=0pt]{caption}  % Reduces space before figure captions
     fontsize: 12pt
     colorlinks: true
     fig_caption: true  # Ensure figure captions are enabled
