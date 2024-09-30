@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Fourteen: Commercial Arithmetic {.unnumbered}
+# Chapter 14: Commercial Arithmetic {.unnumbered}
 
 ## Commercial Arithmetic {.unnumbered}
 

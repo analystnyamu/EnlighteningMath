@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Eleven: Mass, Weight and Density {.unnumbered}
+# Chapter 11: Mass, Weight and Density {.unnumbered}
 
 ## Mass, Weight and Density {.unnumbered}
 

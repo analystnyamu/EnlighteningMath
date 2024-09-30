@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Eight: Algebraic Expressions {.unnumbered}
+# Chapter 8: Algebraic Expressions {.unnumbered}
 
 ## Algebraic Expressions {.unnumbered}
 

@@ -5,11 +5,11 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Ten: Length, Area, Volume, and Capacity {.unnumbered}
+# Chapter 10: Length, Area, Volume, and Capacity {.unnumbered}
 
 ## Length, Area, Volume, and Capacity {.unnumbered}
 
-\textbf{Length}, is the distance between two points. Its SI Unit is the
+**Length**, is the distance between two points. Its SI Unit is the
 meter (m). The perimeter of a rectangle and a square is given by the
 formula: $$ Perimeter\, of \,a \,rectangle\,=\,2(length+width)$$
 

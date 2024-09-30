@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Seven: Decimals, Squares, and Square Roots {.unnumbered}
+# Chapter 7: Decimals, Squares, and Square Roots {.unnumbered}
 
 ## Decimals, Squares, and Square Roots {.unnumbered}
 

@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Three: Divisibility Test {.unnumbered}
+# Chapter 3: Divisibility Test {.unnumbered}
 
 ## Divisibility Test {.unnumbered}
 

@@ -30,8 +30,8 @@
 
 
 @font-face {
-    font-family: 'Helvetica Rounded';
-    src: url('path/to/HelveticaRounded.ttf') format('truetype'); /* Local font path */
+    font-family: 'Kingster';
+    src: url('path/to/Kingster.ttf') format('truetype'); /* Local font path */
 }
 
 @font-face {
@@ -40,7 +40,7 @@
 }
 
 body {
-    font-family: 'Helvetica Rounded', Arial, sans-serif; /* Body text with fallbacks */
+    font-family: 'Kingster', 'Helvetica Rounded', Arial, sans-serif; /* Body text with fallbacks */
 }
 
 h1, h2, h3, h4, h5, h6 {

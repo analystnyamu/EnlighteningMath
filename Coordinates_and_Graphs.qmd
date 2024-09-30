@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Fifteen: Co-Ordinates and Graphs {.unnumbered}
+# Chapter 15: Co-Ordinates and Graphs {.unnumbered}
 
 ## Co-Ordinates and Graphs {.unnumbered}
 

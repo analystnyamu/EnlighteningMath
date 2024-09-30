@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Sixteen: Angles and Plane Figures {.unnumbered}
+# Chapter 16: Angles and Plane Figures {.unnumbered}
 
 ## Angles and Plane Figures {.unnumbered}
 

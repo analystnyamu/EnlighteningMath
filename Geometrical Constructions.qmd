@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Seventeen: Geometrical Constructions {.unnumbered}
+# Chapter 17: Geometrical Constructions {.unnumbered}
 
 ## Geometrical Constructions {.unnumbered}
 

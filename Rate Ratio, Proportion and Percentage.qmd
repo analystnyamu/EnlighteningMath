@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Nine: Rate, Ratio, Proportion, and Percentage {.unnumbered}
+# Chapter 9: Rate, Ratio, Proportion, and Percentage {.unnumbered}
 
 ## Rate, Ratio, Proportion, and Percentage {.unnumbered}
 

@@ -5,7 +5,7 @@ header-includes:
   - \usepackage{graphicx}  # Example package for graphics
 ---
 
-# Chapter Twelve: Time {.unnumbered}
+# Chapter 12: Time {.unnumbered}
 
 ## Time {.unnumbered}
 
