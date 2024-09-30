@@ -5,9 +5,7 @@ project:
 book:
   title: "Enlightening Mathematics Revision Book Volume 1"
   author: "Martin Nyamu and Ken Gatungo"
-  date: "08 Nov 2018"
-  
-copyright: "© 2024 Martin Wanjiru and Kenneth Gatungo. All rights reserved."
+  date: "29 Sep 2024"
 
   page-footer:
     left: |
@@ -46,6 +44,7 @@ copyright: "© 2024 Martin Wanjiru and Kenneth Gatungo. All rights reserved."
     - Answers to Model Sample Papers.qmd
 
 metadata:
+  copyright: "© 2024 Martin Wanjiru and Kenneth Gatungo. All rights reserved."
   crossref:
     chapters: true
   documentclass: scrbook

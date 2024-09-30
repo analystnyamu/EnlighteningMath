@@ -7,6 +7,8 @@
 
 This book, **Enlightening Mathematics Revision Book Volume 1**, serves as a comprehensive revision guide for students, particularly at the secondary school level. It covers a range of foundational topics in mathematics, structured to support students in mastering key mathematical concepts and problem-solving techniques. The book is carefully curated to make challenging concepts easier to understand, with detailed explanations, worked examples, and practice exercises.
 
+*© 2024 Martin Wanjiru and Kenneth Gatungo. All rights reserved.*
+
 **Key features of the book include:**
 
 - **Clear Explanations:** Each chapter provides step-by-step explanations of mathematical principles, making it ideal for both self-study and classroom use.
