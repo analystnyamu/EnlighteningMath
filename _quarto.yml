@@ -108,8 +108,8 @@ format:
     
     # Define fonts
 font-family:
-  main: "Helvetica Rounded, Arial, sans-serif"  # Body text
-  headings: "Avenir, sans-serif, Futura, Gill Sans"  # Headings
+  main: "Avenir, Arial, sans-serif"  # Body text
+  headings: "Futura, sans-serif,Helvetica Rounded , Gill Sans"  # Headings
   math: "Liberation Serif, Times New Roman, serif"  # Math functions
 
 # Options for code execution remain unchanged

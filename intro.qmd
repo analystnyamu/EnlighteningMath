@@ -7,4 +7,6 @@ bibliography: references.bib
 
 **Enlightening Mathematics Volume 1 Book** is designed primarily for **Form 1** students, but is suitable for revision across **Form 1-4** levels. While it aligns with the secondary school mathematics syllabus, it can also benefit students pursuing similar courses both within and outside Kenya. Each topic is introduced in a concise and easily understandable format, accompanied by clear examples that simplify key mathematical concepts. These examples serve as a foundation for a variety of practice questions at the end of each topic. The book is crafted to ensure even students with weaker skills can grasp the calculations and apply the learned techniques to solve the provided problems. Model Sample Papers are presented in the **K.C.S.E** format for effective exam preparation.
 
-**© 2024 Martin Wanjiru and Kenneth Gatungo. All rights reserved.**
+\newline
+
+*© 2024 Martin Wanjiru and Kenneth Gatungo. All rights reserved.*

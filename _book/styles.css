@@ -30,21 +30,21 @@
 
 
 @font-face {
+    font-family: 'Helvetica Rounded';
+    src: url('path/to/HelveticaRounded.ttf') format('truetype'); /* Local font path */
+}
+
+@font-face {
     font-family: 'Avenir';
     src: url('path/to/Avenir.ttf') format('truetype'); /* Local font path */
 }
 
-@font-face {
-    font-family: 'Helvetica Rounded';
-    src: url('path/to/Helvetica Rounded.ttf') format('truetype'); /* Local font path */
-}
-
 body {
-    font-family: 'Avenir', Arial, sans-serif; /* Body text with fallbacks */
+    font-family: 'Helvetica Rounded', Arial, sans-serif; /* Body text with fallbacks */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Helvetica Rounded', 'Helvetica Neue', Arial, sans-serif; /* Headings with fallbacks */
+    font-family: 'Avenir', 'Helvetica Neue', Arial, sans-serif; /* Headings with fallbacks */
 }
 
 /* Math Functions */
