@@ -79,7 +79,7 @@ b)  Total value is as calculated below:
 
 In a 3-digit number, the tens digit is thrice the unit digit and the
 hundreds digit is four times the unit digit. Also, the sum of its digits
-is 16. Find the number. \hspace{4.9cm} (3mks)
+is 16. Find the number.  $(3mks)$
 :::
 
 ::: columns
@@ -171,6 +171,8 @@ x &= 4(2) \\
     $(3mks)$
 :::
 
+\newpage  <!-- This forces a page break in PDF -->
+
 ## Rounding Off
 
 The following examples explain in detail how to round off a whole number
@@ -212,7 +214,7 @@ c\) 0.009
 
     b\) 324 481 (ten thousands) $(1mk)$
 
-    c\) 46.18702 (Hundredth) \hspace{9.85cm} $(1mk)$
+    c\) 46.18702 (Hundredth)  $(1mk)$
 
 2.  A firm was reported to have made a profit of $Ksh. ~90,578,463.$ Two
     daily newspaper gave the figure, one to the nearest $1,000,000$ and
@@ -239,15 +241,15 @@ c\) 0.009
     $(2mks)$
 :::
 
-## Operations
+\newpage  <!-- This forces a page break in PDF -->
 
+## Operations  
 This includes addition, subtraction, multiplication and division of
 numbers.
 
-### Solved Examples
-
+### Solved Examples  
 ::: {.callout-note collapse="false"}
-## Example 1
+## Example 1  
 
 Njoroge had $2,568$ bags of beans each weighing $90 Kg$., he sold
 $1,324$ of them.
@@ -256,7 +258,8 @@ a\) How many kilograms of beans were left? $(2mks)$
 
 b\) If he added 632 more bags of beans, how many kilograms of beans did
 he end up being with? $(2mks)$
-:::
+:::  
+
 
 ::: {.callout-caution collapse="true"}
 ## Solution
@@ -271,18 +274,17 @@ Amount~of~beans~left~ &=231,120-119,160\\
 &=111,960~Kg
 \end{split}
 $$
-:::
 
-::: {.callout-caution collapse="true"}
-## Solution
+b\) 
 
-b\) $$
+$$
 \begin{split}
 (632\times90) + 111,960\,Kg
 &=56,880+111,960 \\ & =168,840\,Kg.
 \end{split}
 $$
 :::
+
 
 ::: {.callout-note collapse="false"}
 ## Example 2

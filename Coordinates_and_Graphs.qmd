@@ -140,7 +140,7 @@ and y are: $x=4$ and $y=5$
 ## Problems to solve
 
 1.  a\) Use a graphical method to solve the following simultaneous
-    equations: \hspace{2.5cm}(7mks)
+    equations: $(7mks)$
     
 ```{=latex}
 \begin{equation}

@@ -5,7 +5,7 @@ project:
 book:
   title: "Enlightening Mathematics Revision Book Volume 1"
   author: "Martin Nyamu and Ken Gatungo"
-  date: "2023-10-01"
+  date: "08 Nov 2018"
   
 copyright: "© 2024 Martin Wanjiru and Kenneth Gatungo. All rights reserved."
 
@@ -76,6 +76,9 @@ format:
     pdf-engine: xelatex
     includes:
       in-header: header.tex  # This is a custom LaTeX file for additional formatting
+      text: |
+        \usepackage{libertinus}     # Use Libertinus font for text and math
+        \usepackage{libertinust1math} # Libertinus math font package
     header-includes:
       - \let\cleardoublepage\clearpage
       - \usepackage{cancel}  # Include the cancel package
@@ -84,13 +87,17 @@ format:
       - \captionsetup{justification=centering, margin=1cm}
       - \usepackage{scrhack}
       - \usepackage{etoolbox}  # Package for modifying existing commands
-      - |
-        \usepackage{etoolbox}
-        \makeatletter
-        \patchcmd{\chapter}{\clearpage}{}{}{}
-        \patchcmd{\section}{\clearpage}{}{}{}
-        \makeatother
-    fontfamily: times
+      - \usepackage{etoolbox}
+      - \makeatletter
+      - \patchcmd{\chapter}{\clearpage}{}{}{}
+      - \patchcmd{\section}{\clearpage}{}{}{}
+      - \makeatother
+      - \setlength{\parskip}{0pt}  % Set paragraph spacing to zero
+      - \usepackage{setspace}
+      - \setstretch{1.0}  % Adjust line spacing (1.0 is single spacing, 1.5 for 1.5 spacing, etc.)
+      - \usepackage[margin=1in]{geometry}  % Adjusts the page margins (1 inch in this example)
+      -  \usepackage[skip=0pt]{caption}  % Reduces space before figure captions
+    fontsize: 12pt
     colorlinks: true
     fig_caption: true  # Ensure figure captions are enabled
     keep_tex: true     # Keep the .tex file for debugging

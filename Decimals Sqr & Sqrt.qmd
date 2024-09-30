@@ -22,9 +22,9 @@ Decimal fractions are usually written in a special way, e.g., $\frac{3}{10}$ wri
 ::: {.callout-note collapse="false"}
 # Example 1
 
-Without using table or calculators, evaluate:
+Without using table or calculators, evaluate: $(3mks)$
 
-$$\sqrt[]{\frac{0.0032+0.0608}{1.44\times 0.4}} \hspace{12cm} (3mks)$$
+$$\sqrt[]{\frac{0.0032+0.0608}{1.44\times 0.4}}$$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -47,9 +47,9 @@ $$\sqrt[]{\frac{0.0032+0.0608}{1.44\times 0.4}} \hspace{12cm} (3mks)$$
 ::: {.callout-note collapse="false"}
 # Example 2
 
-Express as a fraction:
+Express as a fraction: $(3mks)$
 
-$$3.2\dot{5}\dot{6}  \hspace{14cm} (3mks)$$
+$$3.2\dot{5}\dot{6}$$
 :::
 
 ::: columns
@@ -117,7 +117,7 @@ $$\frac{2.5\times\sqrt[]{324}}{3\times\sqrt[]{729}}$$
     
 $$2.\dot{4}\dot{1}-0.\dot{3}\dot{2}$$
 
-6.  The number $5.\dot{8}\dot{1}$ contains an integral part and a recurring decimal. Convert the number into an improper fraction and hence a mixed fraction.\hspace{7cm} $(3mks)$
+6.  The number $5.\dot{8}\dot{1}$ contains an integral part and a recurring decimal. Convert the number into an improper fraction and hence a mixed fraction. $(3mks)$
 
 7.  Without using a calculator or mathematical tables find the value of:(3mks) 
 $$\frac{0.0060\times2.4\times0.3^2}{0.9\times0.00015\times160}$$
@@ -130,15 +130,15 @@ $$\left(43.46\right)^2-\sqrt[]{3785.4}$$
 10. Using tables of square roots and reciprocals, evaluate: (3mks)
 $$\sqrt[]{0.1964}+(0.478)^2$$
 
-11. Convert $0.63\dot{3}\dot{1}$ into a fraction without using a calculator. \hspace{4.75cm} $(3mks)$
+11. Convert $0.63\dot{3}\dot{1}$ into a fraction without using a calculator. $(3mks)$
 
 12. Use square and square root tables to calculate to 3 significant figures the value of: (4mks) 
 $$\sqrt[]{\left(0.04766\right)^2-(0.00972)^2}$$
 
-13. Use square roots and square tables to evaluate the expression: (3mks)
-$$\left(0.005467\right)^2+\left(0.04328\right)^2 \hspace{9.95cm}$$
+13. Use square roots and square tables to evaluate the expression: $(3mks)$
+$$\left(0.005467\right)^2+\left(0.04328\right)^2$$
 
-14. The surface area of a sphere of radius,r is given by the formula $A = 4\pi r^2$. using square root tables, calculate the radius of the sphere whose surface area is $120 cm^2$ \hspace{3.2cm} $(3mks)$
+14. The surface area of a sphere of radius,r is given by the formula $A = 4\pi r^2$. using square root tables, calculate the radius of the sphere whose surface area is $120 cm^2$  $(3mks)$
 
-15. The periodic time for the swing of a pendulum in seconds is given by the formula,$T =2\pi\sqrt[]{\frac{l}{g}}$. Using square root tables, calculate the value of $T$ when $l = 23.7cm$ and $g = 1000 cms^{-2}$. \hspace*{14.2cm} $(3mks)$
+15. The periodic time for the swing of a pendulum in seconds is given by the formula,$T =2\pi\sqrt[]{\frac{l}{g}}$. Using square root tables, calculate the value of $T$ when $l = 23.7cm$ and $g = 1000 cms^{-2}$.  $(3mks)$
 :::

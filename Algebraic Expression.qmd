@@ -299,7 +299,8 @@ $$\frac{(4p+2q)^2-(2q-4p)^2}{(2p+q)^2-(q-2p)^2} $$
 
 $$
 (p-2q)(3p+2q)-(p-2q)^2
-$$ 11. Simplify the following expression by reducing it to a single fraction $(3 mks)$
+$$ 
+11. Simplify the following expression by reducing it to a single fraction $(3 mks)$
 
 $$
 \frac{4p-3}{3}-\frac{3p-4}{4}=\frac{3-p}{6}

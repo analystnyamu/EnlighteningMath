@@ -46,7 +46,7 @@ $$Density \,of\, mixture=\frac{mass \,of\, mixture}{volume\, of \,mixture} $$
 
 2.5 litres of water of density $1g/cm^3$ is added to 4 litres of alcohol
 of density $0.8 g/cm^3$. Calculate in 3 significant figures, the density
-of the mixture in its SI unit. \hspace{4.2 cm} (3mks)
+of the mixture in its SI unit.  (3mks)
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -120,13 +120,13 @@ wide, and 0.4 m high. The metal used in making box is 1.0 cm thick and
 has a density of 0.85 g/cm3. If the box contains 40 packets of 12
 similar tools each and each tool has a mass of 115 g, calculate:
 
-a\) The volume of metal used in making the box. $\hspace{1cm} (4mks)$
+a\) The volume of metal used in making the box. $(4mks)$
 
 b\) The mass of the empty box in Kilograms to 3 significant figures.
-$\hspace{1cm} (3mks)$
+$(3mks)$
 
 c\) The total mass of the box in kilograms to 3 significant figures.
-$\hspace{1cm} (3mks)$
+$(3mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -202,32 +202,32 @@ c\)
 1.  A solid block in the shape of a cylinder has a height of 14cm and
     weighs 26kg. If it is made of material of density $0.45g/cm^3$, find
     the radius of the cylinder to four significant figures. Take
-    $\pi=\frac{22}{7}$ \hspace{13.7 cm} $(3mks)$
+    $\pi=\frac{22}{7}$    $(3mks)$
 
 2.  $2000\, \text{cm}^3$ of a mixture consists of 2.5 kg of substance x and 7.5
     kg of substance y. find the density of mixture in $g/cm^3$
-    \hspace{11 cm} $(3mks)$
+     $(3mks)$
 
 3.  An artisan has 63kg of metal of density $7g/cm^3$. He intends to use
     it to make a rectangular pipe with external dimensions 12cm by 15cm
     and internal dimensions 10cm by 12 cm. Calculate the length of the
-    pipe in metres. \hspace{9.8 cm} $(3mks)$
+    pipe in metres.  $(3mks)$
 
 4.  A solid metal cuboid 2.1m long, 0.8m wide, and 0.75m high of
     material of density $0.75g/cm^3$. Calculate its mass in kilograms.
-    \hspace{8.8 cm} $(2mks)$
+     $(2mks)$
 
 5.  A metal R is an alloy of two metals X and Y. Metal X has a mass of
     70g and a density of $16000kg/m^3$. Metal Y has a mass of 42g and a
     density of $4000 kg/m^3$. In 4 significant figures, calculate the
-    density of the metal R in its SI unit. \hspace{6cm} $(4mks)$
+    density of the metal R in its SI unit.  $(4mks)$
 
 6.  Two coils of the same mass are made by winding aluminum wire of
     different gauges and lengths. If the first coil is made by winding
     540 m of the wire with diameter 1.96 mm cross-sectional diameter and
     the second coil is made by winding a certain length of the wire with
     a cross-sectional diameter of 2.94 mm, find the length of the second
-    coil wire. \hspace{4.3cm} $(3mks)$
+    coil wire.  $(3mks)$
 
 7.  The external measurements of a wooden box are 1.2 m long, 65 cm
     wide, and 40 cm high. The wood used in making the box is 2 cm thick
@@ -235,11 +235,11 @@ c\)
     packets of tools and each packet holds a dozen tools each weighing
     125 g, calculate:
 
-    a\) The volume of wood used in making the box. \hspace{6cm} $(4mks)$
+    a\) The volume of wood used in making the box.  $(4mks)$
 
     b\) The mass of the empty box in kilograms to four significant
-    figures. \hspace{3cm}$(3mks)$
+    figures. $(3mks)$
 
     c\) The total mass of the box in kilograms to 3 significant figures.
-    \hspace{3.8cm}$(3mks)$
+    $(3mks)$
 :::

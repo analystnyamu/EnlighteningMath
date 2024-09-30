@@ -23,33 +23,27 @@ than 13, or pm if the original value is 13 or more).
 ::: {.callout-note collapse="false"}
 ## Problems to Solve
 
-1. A car left town A for town B at 1000h and had a puncture after traveling for 2 h 30 min fixing a new tyre took 36 minutes. The car then traveled for another 1 hour 45 min before reaching town B. At what time did it arrive?        \hspace{9.7 cm}    $(3mks)$
+1. A car left town A for town B at 1000h and had a puncture after traveling for 2 h 30 min fixing a new tyre took 36 minutes. The car then traveled for another 1 hour 45 min before reaching town B. At what time did it arrive?            $(3mks)$
 
 2. An airplane left Nairobi at 2045h and arrived in London at 0320h.  It stayed for $1\frac{1}{2}$ hours for rest and refreshment of passengers and crew.   It then headed for Washington D.C and took $9  \frac{1}{4}$ hours.
 
-a\) How long did the journey from Nairobi to London take in hours and minutes?    \hspace{0.5 cm}     $(2mks)$
+a\) How long did the journey from Nairobi to London take in hours and minutes?         $(2mks)$
 
-b\) At what time did it arrive in Washington D.C.? \hspace{5.6 cm}    $(2mks)$
+b\) At what time did it arrive in Washington D.C.?     $(2mks)$
 
-3. A watch that loses a half-minute every hour was set to read the correct time at 0445h on Monday. Determine the time, in the 12-hour system, the watch will show on the following Friday at 1845h. \hspace{13 cm}                      $(3mks)$
+3. A watch that loses a half-minute every hour was set to read the correct time at 0445h on Monday. Determine the time, in the 12-hour system, the watch will show on the following Friday at 1845h.                    $(3mks)$
 
-4. The average lap time for 3 athletes in a long-distance race is 36 seconds, 40 seconds, and 48 seconds respectively.  If they all start the race at the same time, find the number of times the slowest runner will have been overlapped by the fastest at the time they all cross the starting point together again. \hspace{10.7 cm}                     $(3mks)$
+4. The average lap time for 3 athletes in a long-distance race is 36 seconds, 40 seconds, and 48 seconds respectively.  If they all start the race at the same time, find the number of times the slowest runner will have been overlapped by the fastest at the time they all cross the starting point together again.   $(3mks)$
 
 5. The travel timetable below shows the departure and arrival time for a bus plying between two towns M and R, 450 kilometers apart. 
 
+| **TOWN** | **ARRIVAL** | **DEPARTURE** |
+|----------|-------------|----------------|
+| M        |             | 0830h         |
+| N        | 1000h      | 1020h          |
+| P        | 1310h      | 1340h          |
+| Q        | 1510h      | 1520h          |
+| R        | 1600h      |                |
 
-\begin{center}
-    \begin{tabular}{l|c|r} 
-      \textbf{TOWN} & \textbf{ARRIVAL} & \textbf{DEPARTURE}\\
-      \hline
-      M & &0830h \\
-      N &       1000h   &       1020h \\
-P       &   1310h       &   1340h \\
-Q       &   1510h       &   1520h \\
-R       &   1600h&         \\
-
-\end{tabular}
-\end{center}
-
-6. Calculate the average speed for the whole journey.  \hspace{7 cm}       $(3mks)$
+6. Calculate the average speed for the whole journey.       $(3mks)$
 :::

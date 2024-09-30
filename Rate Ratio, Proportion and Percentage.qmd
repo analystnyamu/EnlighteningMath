@@ -29,8 +29,7 @@ the same way,\$ a:b =3:5, b:c = 5:7,\$ and $a:c = 3:7$.
 ::: {.callout-note collapse="false"}
 ## Example 1
 
-If ,$a:b=3:5$ and $b:c=7:9$, Find the ratio: $a:c$. \hspace{6.5 cm}
-$(3mks)$
+If ,$a:b=3:5$ and $b:c=7:9$, Find the ratio: $a:c$. $(3mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -56,7 +55,7 @@ $$ $\therefore \, a:c=21:45$
 
 Twelve laborers each working six hours a day, take twelve days to plough
 a piece of land. How long would it take 24 laborers each working 9 hours
-a day to plough the same piece of land? \hspace{0.6cm} $(3mks)$
+a day to plough the same piece of land?  $(3mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -80,8 +79,7 @@ $\therefore$ The laborers would take $4$ days
 A blend of juice is made from mango and passion. The cost of four limes
 of mango is $Ksh.\, 180$ and two limes of passion is $Ksh. \,160$. In
 what ratio should the juice be mixed such that by selling the mixture at
-$Ksh.\, 90$ per lime, a profit of 20% is realized? \hspace{5.5 cm}
-$(3 mks)$
+$Ksh.\, 90$ per lime, a profit of 20% is realized? $(3 mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -127,7 +125,7 @@ A cold water tap can fill a bath in 15 minutes while a hot water tap can
 fill it in 10 minutes. The drainage pipe can empty it in 8 minutes. The
 cold water and hot water taps are opened for 2 minutes. After two
 minutes all three taps are opened. Find the total time taken to fill the
-bath. \hspace {14.8 cm} $(3 mks)$
+bath.  $(3 mks)$
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -169,7 +167,7 @@ $\therefore$ Total time $\Rightarrow 16+2=18$ min.
 A plastic container manufacturer increased the radius of a cylindrical
 can by 22.5% but, decreased its height by 30%. Calculate in two decimal
 places the percentage increase in the volume of the can.
-\hspace{15cm}$(3mks)$
+$(3mks)$
 :::
 
 ::: columns
@@ -215,160 +213,160 @@ Percentage \,increase &=\frac{Increase}{Old \,volume}\times 100\\
 
 1.  A photograph is reduced in the ratio $2:7$ for a newspaper, and
     further reduced in the ratio $5:7$ for an exercise book. Find the
-    ratio of the newspaper size to textbook size. \hspace{2 cm} $(3mks)$
+    ratio of the newspaper size to textbook size.  $(3mks)$
 
 2.  Five plows working 8 hours daily complete a piece of work in 6 days.
     How long will it take 12 plows working 5 hours a day to complete the
-    same work? \hspace{4.6 cm} $(2mks)$
+    same work?  $(2mks)$
 
 3.  There are two grades of beans, grade A and grade B. Grade A costs
     $Ksh. \,100$ per kg and grade B costs $Ksh.\, 80$ per kg. In what
     ratio must the two grades be mixed in order to produce a blend worth
-    $Ksh.\, 95$ per kg? \hspace{10.6cm} $(3mks)$
+    $Ksh.\, 95$ per kg?  $(3mks)$
 
 4.  A tradesman blends 340kg of tea costing $Ksh. \,80$ per kg with
     160kg of tea costing $Ksh.\, 100$ per kg. At what price must he sell
-    the mixture, to make a 25% profit? \hspace{3.6cm} $(3mks)$
+    the mixture, to make a 25% profit?  $(3mks)$
 
 5.  Oil flows through a pipe whose cross-sectional radius is 7cm at a
     rate of 2m/min. Calculate how long it will take the pipe to fill a
-    28,000 litres tank. \hspace{5.5cm} $(3 mks)$
+    28,000 litres tank.  $(3 mks)$
 
 6.  Nyamu and Gatungo working together can do a piece of work in 6 days.
     Gatungo working alone would take 10 days to complete the work. They
     start working together but, after 4 days Gatungo leaves and the
     remaining work is done by Nyamu. Find how long Nyamu takes to
-    complete the remaining work. \hspace{11.5 cm} $(4mks)$
+    complete the remaining work.  $(4mks)$
 
 7.  Five constructors can build a 25-meter-long wall in 10 days. What
     length of wall can 10 constructors working at the same rate build in
-    8 days? \hspace{5.8 cm} $(3mks)$
+    8 days?  $(3mks)$
 
 8.  A businesswoman bought 160 mangoes at $Ksh. 50$ for every four
     mangoes. She sold some of them at $Ksh. \,30$ for every three and
     the rest at $Ksh.\, 30$ for every four. If she made a
     33$\frac{1}{2}$% loss, calculate the number of mangoes sold at
-    $Ksh.\, 30$ for every four. \hspace{5 cm} $(3mks)$
+    $Ksh.\, 30$ for every four.  $(3mks)$
 
 9.  One hundred and twenty examiners each marking 90 papers per day are
     needed to mark an examination in 2 weeks. How many days would 180
     examiners each marking 35 papers per day take to mark the same
-    examination? \hspace{8.2 cm} $(3mks)$
+    examination?  $(3mks)$
 
 10. A group of 15 soldiers set off with enough food to last 6 days.
     After 6 soldiers evacuated. How many more days will the food last
-    for the remaining soldiers? \hspace{4 cm} $(3 mks)$
+    for the remaining soldiers?  $(3 mks)$
 
 11. In the Moi University Christian Union choir, the ratio of male to
     female is $2:3$. On one Sunday service, 10 male members were absent
     and six new female members joined the choir as guests for that day.
     If on this day the ratio of males to females was,\$ 1:3\$,, how many
-    regular members does the choir have? \hspace{11.8 cm} $(3mks)$
+    regular members does the choir have?  $(3mks)$
 
 12. The ratio of men to women in Njega Boys High School B.O.G which
     consists of 45 members is $7: 2$. Find the number of women required
     to join the existing members so that the ratio of men to women
-    changes to $5: 4$. \hspace{10.1cm} $(3mks)$
+    changes to $5: 4$.  $(3mks)$
 
 13. A coffee trader mixes two brands of coffee, A and B to obtain 40kg
     of the mixture worth $Ksh.\, 2,600$. If brand A is valued at
     $Ksh.\, 70$ per kg and brand B is valued at $Ksh.\, 55$ per kg.
     Calculate the ratio in its simplest form in which brands A and B are
-    mixed. \hspace{3.7 cm} $(4mks)$
+    mixed.  $(4mks)$
 
 14. Nyamu bought sorghum and millet at $Ksh.\,65$ per kg and $Ksh.\,40$
     per kg respectively. He then mixed them and sold the mixture at
     $Ksh.\,60$ per kg making a profit of 20%. Determine the ratio of
-    sorghum to millet in the mixture. \hspace{8.5 cm} $(3mks)$
+    sorghum to millet in the mixture.  $(3mks)$
 
 15. The ratio of a spherical balloon increases by 4% as it rises up in
     the air. Find the percentage increase in its;
 
-    a\) Surface area. \hspace{11 cm} $(2mks)$
+    a\) Surface area.  $(2mks)$
 
-    b\) Volume \hspace{12 cm} $(2mks)$
+    b\) Volume  $(2mks)$
 
 16. A dealer has two types of grades of tea, x and y. Grade x costs
     $Ksh.\, 150$ per kg and grade y costs $Ksh.\, 170$ per kg. If he
     mixes $x$ and $y$ in the ratio $2:3$ to make a brand of tea which he
     sells at $Ksh.\, 180$ per kg, calculate the percentage profit that
-    he makes.\hspace{2.5cm} $(3 mks)$
+    he makes.  $(3 mks)$
 
 17. In what ratio will coffee grade A cost $Ksh.\, 85$ per kg to be
     mixed with grade B costing $Ksh.\,55$ per kg so that a profit of 25%
     is realized by selling the mixture at $ksh.\,80$ per kg?
-    \hspace{14.2cm} $(3mks)$
+     $(3mks)$
 
 18. A mixture contains two powders A and B with masses in the ration
     $4: 10$. If the mixture costs $Ksh.\, 650$ per kg and powder A costs
     $Ksh. \,550$ per kg, find the cost of a kg of powder B.
-    \hspace{14.1 cm} $(3 mks)$
+     $(3 mks)$
 
 19. It would take 20 workers 12 days to spray a piece of land. If they
     work for 8 hours a day, how long will it take 24 workers if they
     work 12 hours a day to three-quarters of the same land?
-    \hspace{14.3cm} $(3mks)$
+     $(3mks)$
 
 20. A farmer has enough feed to last 35 pigs for 24 days. If he buys 5
-    more pigs, how long will the feed last? \hspace{12.5 cm} $(3mks)$
+    more pigs, how long will the feed last?  $(3mks)$
 
 21. Mukami, a juice blender mixes two brands of Juice A and B to obtain
     90ml of the mixture worth $Ksh.\, 165$ per litre. If brand A is
     valued at $Ksh.\, 175$ per 1 litre bottle and brand B at
     $Ksh.\, 150$ per 1-litre bottle, calculate the ratio in which the
-    bands A and B are mixed.\hspace{3cm} $(2mks)$
+    bands A and B are mixed.  $(2mks)$
 
 22. Twelve men can build 6 huts in 21 days. Find the number of men
     working at the same rate that will build 9 similar huts in 14 days.
-    \hspace{8.5cm} $(3mks)$
+     $(3mks)$
 
 23. A rectangular dam with a surface area of 24 ares has a uniform depth
     of 5 m is to be drained for renovation. A pipe drains it at the rate
     of 250 litres per second. How long does it take to empty the dam?
-    \hspace{12.7 cm} $(2mks)$
+     $(2mks)$
 
 24. Tap A can fill a tank in 12 minutes while tap B can fill the same
     tank in 15 minutes. Another tap C can empty the tank when full in 20
     minutes. Starting with an empty tank, the three taps are left open
     for 4 minutes after which tap A is closed. How much longer does it
-    take to fill the tank? \hspace{13.2 cm} $(3mks)$
+    take to fill the tank?  $(3mks)$
 
 25. The radius of a cylindrical tin is increased by 20% while its height
     is decreased by 10%. If the capacity of the old tin is $250\,cm^3$,
-    find the capacity of the new tin. \hspace{4cm} $(3mks)$
+    find the capacity of the new tin.  $(3mks)$
 
 26. The radius of a cylindrical container is increased by 28% while its
     height is reduced by 15%. In 4 significant figures find the
     percentage increase in the volume of the juice in the
-    container.\hspace{0cm} $(3mks)$
+    container. $(3mks)$
 
 27. Pipe X and Y can fill a tank in 15 minutes and 30 minutes
     respectively. Pipe Z can empty the full tank in 25 minutes. Starting
     with an empty tank, how long does it take to fill the tank if:
 
-    a\) All the three pipes are open? \hspace{8.6 cm} $(1mk)$
+    a\) All the three pipes are open?  $(1mk)$
 
-    b\) Pipe Y is closed after 10 minutes? \hspace{7.8 cm} $(3mks)$
+    b\) Pipe Y is closed after 10 minutes?  $(3mks)$
 
 28. $2,280 \,cm^3$, of milk was shared by three children, Josephine,
     Florence, and Moses in the ratio
     $\frac{1}{4}:\frac{1}{2}:\frac{1}{5}$,, What volume did Moses get:
-    \hspace{8.2 cm} $(2mks)$
+     $(2mks)$
 
 29. Sewage is flowing through a cylindrical pipe at the speed of
     $0.95\,m/s$. If the pipe has an internal radius of 14cm, Calculate:
 
     a\) The volume of sewage delivered by the pipe per second in $cm^3$
-    (Take = $\frac{22}{7}$) \hspace{1 cm} $(2mks)$
+    (Take = $\frac{22}{7}$)    $(2mks)$
 
     b\) The depth to which the pipe fills a rectangular tank of base
     dimensions $6.5m \times 5.2m$ in one hour to the nearest 0.1 metres.
-    \hspace{8.5 cm} $(3mks)$
+     $(3mks)$
 
     c\) The time is taken, to the nearest second for the pipe to fill a
     50,000-litre tank tub (initially empty) which has a hole at the base
     that drains the tub at the rate of 524 litres per minute.
-    \hspace{13.5 cm} $(5mks)$
+     $(5mks)$
 
 30. Three potters; A, B, and C work together to make a certain number of
     pots. If Potter C was to work alone he would take 4$\frac{4}{9}$,
@@ -378,11 +376,11 @@ Percentage \,increase &=\frac{Increase}{Old \,volume}\times 100\\
     left 20min later. Potter A took a further 1hr 46min. Calculate how
     long it would take if all the potters were made by:
 
-    a\) Potter A alone? \hspace{10.8 cm} $(6mks)$
+    a\) Potter A alone?  $(6mks)$
 
-    b\) Potter B alone? \hspace{10.8 cm} $(2mks)$
+    b\) Potter B alone?  $(2mks)$
 
-    c\) Potter A and C alone? \hspace{9.8 cm} $(2mks)$
+    c\) Potter A and C alone?  $(2mks)$
 
 31. Boniface purchased 3 brands of coffee A, B, and C. The cost prices
     of the brands were $Ksh.\, 50$, $Ksh.\, 68$ and $Ksh. \,75$ per
@@ -390,31 +388,31 @@ Percentage \,increase &=\frac{Increase}{Old \,volume}\times 100\\
     respectively. After selling the mixture, he made a profit of 32%.
 
     a\) How much profit did he make per kilogram of the mixture?
-    \hspace{4 cm} $(4mks)$
+     $(4mks)$
 
     b\) After one year, the cost price of each brand was increased by
     15%.
 
     i\) For how much did he sell one kilogram of the mixture to make 20%
-    Profit.\hspace{1.3cm} $(3mks)$
+    Profit.  $(3mks)$
 
     ii\) What would have been his percentage profit if he sold one
-    kilogram of the mixture at $Ksh. \,85.60$? \hspace{10.6 cm} $(3mks)$
+    kilogram of the mixture at $Ksh. \,85.60$?   $(3mks)$
 
 32. A solution whose volume is 160 litres is made up of 75% milk and the
     rest water. When x litres of milk is added the percentage of water
     drops to 20%
 
-    a\) Find the value of $x$ \hspace{10.4 cm} $(4mks)$
+    a\) Find the value of $x$  $(4mks)$
 
     b\) The new solution is diluted further by the addition of 120
     litres of water. Calculate the percentage of milk in the resulting
-    solution. \hspace{7.7 cm} $(2mks)$
+    solution.  $(2mks)$
 
     c\) A blend is made by mixing 10 litres of the solution in (b) above
     with 20 liters of the original solution. Calculate in the simplest
     form, the ratio of water to that of milk in the blend.
-    \hspace{13.5 cm} $(4mks)$
+     $(4mks)$
 
 33. Four hundred and twenty litres of homogeneous paint is made by
     mixing three paints P, Q, and R. The ratio by volume of paint P to
@@ -422,14 +420,14 @@ Percentage \,increase &=\frac{Increase}{Old \,volume}\times 100\\
     $Ksh.\, 150$ per litre, paint Q $Ksh. \,180$ per litre and paint R
     $Ksh.\, 120.50$ per litre. Determine:
 
-    a\) The volume of each type of paint in the mixture. \hspace{5.9 cm}
+    a\) The volume of each type of paint in the mixture. 
     $(5mks)$
 
     b\) The amount of money spent in making one litre of the mixture.
-    \hspace{3.5 cm} $(3mks)$
+     $(3mks)$
 
     c\) The percentage profit made by selling the mixture at
-    $Ksh.\, 205$ per litre. \hspace{1.7cm} $(2mks)$
+    $Ksh.\, 205$ per litre.  $(2mks)$
 
 34. Olemapenzi's cows decreased by 16% in 2014 to stand at 2100 cows at
     the beginning of 2015. The number of cows increased by 24% in 2015
@@ -437,15 +435,15 @@ Percentage \,increase &=\frac{Increase}{Old \,volume}\times 100\\
 
     a\) Determine the number of cows Olemapenzi had at the beginning of:
 
-    i\) The year 2014 \hspace{10.4cm} $(2mks)$
+    i\) The year 2014  $(2mks)$
 
-    ii\) The year 2016 \hspace{10cm} $(2mks)$
+    ii\) The year 2016  $(2mks)$
 
-    iii\) The year 2017 \hspace{10cm} $(2mks)$
+    iii\) The year 2017  $(2mks)$
 
     b\) Determine the percentage increase in Olemapenzi's cows between:
 
-    i\) 2014 and 2016 \hspace{10cm} $(2mks)$
+    i\) 2014 and 2016  $(2mks)$
 
-    ii\) 2014 and 2017 \hspace{10cm} $(2mks)$
+    ii\) 2014 and 2017  $(2mks)$
 :::
