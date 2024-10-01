@@ -4,18 +4,18 @@ project:
 
 book:
   title: "Enlightening Mathematics Revision Book Volume 1"
-  author: "Martin Nyamu and Ken Gatungo"
+  author: "Martin Wanjiru and Kenneth Gatungo"
   date: "29 Sep 2024"
 
   page-footer:
     left: |
-      Enlightening Mathematics Revision Book Volume 1 (2e) was written by Martin Nyamu and Ken Gatungo.
+      Enlightening Mathematics Revision Book Volume 1 (2e) was written by Martin Wanjiru and Kenneth Gatungo.
 
   search: true
   repo-url: https://github.com/analystnyamu/EnlighteningMath/
   repo-branch: main
-  repo-actions: [edit, issue]
-  downloads: [epub,pdf]  # Removed pdf from downloads
+  repo-actions: [issue]
+  downloads: [epub]  # Removed pdf from downloads
   sharing: [twitter, facebook]
 
   chapters:

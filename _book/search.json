@@ -302,31 +302,31 @@
   {
     "objectID": "Mass Weight and Density.html",
     "href": "Mass Weight and Density.html",
-    "title": "Chapter 7: Mass, Weight and Density",
+    "title": "Chapter 11: Mass, Weight and Density",
     "section": "",
     "text": "Mass, Weight and Density\nMass, is the quantity of matter in an object? The Mass of an object is constant everywhere. Its SI unit is Kilogram (K.g).\nWeight, is the pull of the earth on an object. The weight of an object varies from one place to another on the earth’s surface. Its SI unit is Newton (N). It is given by mass multiplied by the gravitational force (g).\n\\(Weight (N) = mass (kg) \\times gravity (N/kg).\\)\nDensity, is mass per unit volume. Its SI unit is Kilogram per Cubic meter (\\(kgm^-3\\))\n\\[Density= \\frac{mass}{volume}\\] \\[Density \\,of\\, mixture=\\frac{mass \\,of\\, mixture}{volume\\, of \\,mixture} \\]",
     "crumbs": [
-      "Chapter 7: Mass, Weight and Density"
+      "Chapter 11: Mass, Weight and Density"
     ]
   },
   {
     "objectID": "Mass Weight and Density.html#mass-weight-and-density",
     "href": "Mass Weight and Density.html#mass-weight-and-density",
-    "title": "Chapter 7: Mass, Weight and Density",
+    "title": "Chapter 11: Mass, Weight and Density",
     "section": "",
     "text": "Conversion of Units\n\n\n\n\n\n\\[\\begin{equation}\n\\begin{split}\n1 \\,tonne &= 1,000\\, Kilograms\\\\\n1 \\,kilogram &= 1,000 \\,grams\\\\\n1g/cm^3& = 1,000 Kg/m^3\n\\end{split}\n\\end{equation}\\]",
     "crumbs": [
-      "Chapter 7: Mass, Weight and Density"
+      "Chapter 11: Mass, Weight and Density"
     ]
   },
   {
     "objectID": "Mass Weight and Density.html#solved-examples",
     "href": "Mass Weight and Density.html#solved-examples",
-    "title": "Chapter 7: Mass, Weight and Density",
+    "title": "Chapter 11: Mass, Weight and Density",
     "section": "Solved Examples",
     "text": "Solved Examples\n\n\n\n\n\n\nExample 1\n\n\n\n\n\n2.5 litres of water of density \\(1g/cm^3\\) is added to 4 litres of alcohol of density \\(0.8 g/cm^3\\). Calculate in 3 significant figures, the density of the mixture in its SI unit. (3mks)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\\[Density \\,of \\,Mixture (D.M)=\\frac{Mass\\, of\\,mixture}{Volume\\, of \\,mixture}\\] \\[\n\\begin{aligned}\n\\text{Volume of water} &= 2,500 \\, \\text{cm}^3 \\\\\n\\text{Mass of water} &= 2,500 \\, \\text{cm}^3 \\times 1 \\, \\text{g/cm}^3 \\\\\n&= 2,500 \\, \\text{g} \\\\\n\\text{Volume of alcohol} &= 4,000 \\, \\text{cm}^3 \\\\\n\\text{Mass of alcohol} &= 4,000 \\, \\text{cm}^3 \\times 0.8 \\, \\text{g/cm}^3 \\\\\n&= 3,200 \\, \\text{g}\n\\end{aligned}\n\\]\n\\[\n\\begin{aligned}\n\\text{Mass of Mixture} &= 2,500 \\, \\text{g} + 3,200 \\, \\text{g} \\\\\n&= 5,700 \\, \\text{g} \\\\\n\\text{Volume of mixture} &= 2,500 \\, \\text{cm}^3 + 4,000 \\, \\text{cm}^3 \\\\\n&= 6,500 \\, \\text{cm}^3 \\\\\n\\therefore \\text{Density (D.M.)} &= \\frac{5,700}{6,500} \\, \\text{g/cm}^3 \\\\\n&= 0.8769 \\, \\text{g/cm}^3 \\\\\n&= 877 \\, \\text{Kg/m}^3\n\\end{aligned}\n\\]\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\nwo coils of the same mass are made by winding zinc of different gauges and lengths. The first coil is made by winding 648 m of wire with a cross-sectional diameter of 5.4mm and the second coil is made by winding 450 m with different cross-sections. Find the cross-sectional radius of the second coil. \\((3mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\nNote: Since mass is proportional to volume for the same density, the volume of the first coil is equal to volume of the second coil.\n\\[\n\\begin{aligned}\n\\textbf{First coil volume:} \\\\\n\\frac{22}{7} \\times \\left(\\frac{5.4}{2}\\right)^2 \\times 648,000 &= 14,846,605.71 \\, \\text{mm}^3 \\\\\n\\\\\n\\textbf{Second coil volume:} \\\\\n\\frac{22}{7} \\times r^2 \\times 450,000 &= 1,414,285.714r^2 \\, \\text{mm}^3 \\\\\n\\\\\n\\textbf{Equating second coil volume to first coil volume:} \\\\\n1,414,285.714r^2 &= 14,846,605.71 \\, \\text{mm}^3 \\\\\n\\\\\n\\frac{\\cancel{1,414,285.714}r^2}{\\cancel{1,414,285.714}} &= \\frac{\\cancelto{10.4976}{14,846,605.71}}{\\cancel{1,414,285.714}} \\\\\nr^2 &= 10.4976 \\, \\text{mm}^2 \\\\\n\\\\\n\\therefore \\, r &= 3.24 \\, \\text{mm}\n\\end{aligned}\n\\]\n\n\n\n\n\n\n\n\n\nExample 3\n\n\n\n\n\nThe external measurements of a closed metal box are 1.6 m long, 0.7 m wide, and 0.4 m high. The metal used in making box is 1.0 cm thick and has a density of 0.85 g/cm3. If the box contains 40 packets of 12 similar tools each and each tool has a mass of 115 g, calculate:\na) The volume of metal used in making the box. \\((4mks)\\)\nb) The mass of the empty box in Kilograms to 3 significant figures. \\((3mks)\\)\nc) The total mass of the box in kilograms to 3 significant figures. \\((3mks)\\)\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\na)\nb)\nc)\n\n\n\n\n\n\n\n\n\nProblems to Solve\n\n\n\n\n\n\nA solid block in the shape of a cylinder has a height of 14cm and weighs 26kg. If it is made of material of density \\(0.45g/cm^3\\), find the radius of the cylinder to four significant figures. Take \\(\\pi=\\frac{22}{7}\\) \\((3mks)\\)\n\\(2000\\, \\text{cm}^3\\) of a mixture consists of 2.5 kg of substance x and 7.5 kg of substance y. find the density of mixture in \\(g/cm^3\\) \\((3mks)\\)\nAn artisan has 63kg of metal of density \\(7g/cm^3\\). He intends to use it to make a rectangular pipe with external dimensions 12cm by 15cm and internal dimensions 10cm by 12 cm. Calculate the length of the pipe in metres. \\((3mks)\\)\nA solid metal cuboid 2.1m long, 0.8m wide, and 0.75m high of material of density \\(0.75g/cm^3\\). Calculate its mass in kilograms. \\((2mks)\\)\nA metal R is an alloy of two metals X and Y. Metal X has a mass of 70g and a density of \\(16000kg/m^3\\). Metal Y has a mass of 42g and a density of \\(4000 kg/m^3\\). In 4 significant figures, calculate the density of the metal R in its SI unit. \\((4mks)\\)\nTwo coils of the same mass are made by winding aluminum wire of different gauges and lengths. If the first coil is made by winding 540 m of the wire with diameter 1.96 mm cross-sectional diameter and the second coil is made by winding a certain length of the wire with a cross-sectional diameter of 2.94 mm, find the length of the second coil wire. \\((3mks)\\)\nThe external measurements of a wooden box are 1.2 m long, 65 cm wide, and 40 cm high. The wood used in making the box is 2 cm thick and has a density of \\(950 Kg/m^3\\). Given that the box contains 30 packets of tools and each packet holds a dozen tools each weighing 125 g, calculate:\na) The volume of wood used in making the box. \\((4mks)\\)\nb) The mass of the empty box in kilograms to four significant figures. \\((3mks)\\)\nc) The total mass of the box in kilograms to 3 significant figures. \\((3mks)\\)",
     "crumbs": [
-      "Chapter 7: Mass, Weight and Density"
+      "Chapter 11: Mass, Weight and Density"
     ]
   },
   {
@@ -352,31 +352,31 @@
   {
     "objectID": "Linear Equations.html",
     "href": "Linear Equations.html",
-    "title": "Chapter 15: Linear Equations",
+    "title": "Chapter 13: Linear Equations",
     "section": "",
     "text": "Linear Equations\nLinear equations are equations of straight lines involving one or two unknown variables. A system of two linear equations forms simultaneous equations.\nThere are three methods used to solve simultaneous equations:",
     "crumbs": [
-      "Chapter 15: Linear Equations"
+      "Chapter 13: Linear Equations"
     ]
   },
   {
     "objectID": "Linear Equations.html#linear-equations",
     "href": "Linear Equations.html#linear-equations",
-    "title": "Chapter 15: Linear Equations",
+    "title": "Chapter 13: Linear Equations",
     "section": "",
     "text": "Elimination method\nSubstitution method\nGraphical method",
     "crumbs": [
-      "Chapter 15: Linear Equations"
+      "Chapter 13: Linear Equations"
     ]
   },
   {
     "objectID": "Linear Equations.html#solved-examples",
     "href": "Linear Equations.html#solved-examples",
-    "title": "Chapter 15: Linear Equations",
+    "title": "Chapter 13: Linear Equations",
     "section": "Solved examples",
     "text": "Solved examples\n\nSubstitution method\n\n\n\n\n\n\nExample 1\n\n\n\n\n\n\\[\\begin{align*}\n2x - 3y & = -13 \\quad \\quad \\quad (i) \\\\\ny & = 2x + 7 \\quad \\quad \\quad (ii)\n\\end{align*}\\]\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\nSubstituting equation (ii) into (i);\n\\[\\begin{align*}\n  2x - 3(2x + 7) & = -13 \\\\\n  2x - 6x - 21 & = -13 \\\\\n  -4x & = -13 + 21 \\\\\n  \\frac{\\cancel{-4}x}{\\cancel{-4}} & = \\frac{\\cancelto{-2}{8}}{\\cancel{-4}} \\\\\n  x & = -2\n\\end{align*}\\]\n\n\n\n\n\n\n\n\n\nExample 2\n\n\n\n\n\n\\[\\begin{align*}\n7x + 15y &= 22...\\hspace{2cm} (i)\\\\\n8x + 17y &= 25...\\hspace{2cm} (ii)\\\\\n\\end{align*}\\]\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\\[\\begin{align*}\nSolving\\, for\\, x\\, in \\,(i);\\\\\nx&=\\frac{22-15y}{7}\\\\\nsubstituting \\,x=\\frac{22-15y}{7} \\,in \\,(ii)\\\\\n8\\left(\\frac{22-15y}{7}\\right)+17y&=25\\\\\nMultiplying \\,both\\, side\\, by \\,7;\\\\\n176-120y+119y&=175\\\\\n\\cancel{-}y&=\\cancel{-}1\\\\\ny&=1\\\\ then \\, , \\,x&=\\frac{22-15(1)}{7}\\\\\n&x=1\\\\\n\\therefore Solution \\,set&=(1,1)\n\\end{align*}\\]\n\n\n\n\n\nElimination method\n\n\n\n\n\n\nExample 3\n\n\n\n\n\n\\[\\begin{align*}\n3x-7y&=13... \\hspace{2cm} (i)\\\\\n6x - 5y& = 8...  \\hspace{2.1cm} (ii)\n\\end{align*}\\]\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\nTo eliminate x multiply equation (i) by 2 and (ii) by 1 and then subtract (ii) from (i);\n\nPlugging y=-2 in (i) or (ii) to determine the value of x;\n\\[\\begin{align*}\n3x-7(-2)&=13\\\\\n3x+14&=13\\\\3x&=-1\\\\\n\\frac{\\cancel{3}x}{\\cancel{3}}&=-\\frac{1}{3}\\\\\nx&=\\frac{-1}{3}\\\\ Solution\\, set&=(-\\frac{1}{3},-2)\n\\end{align*}\\]\n\n\n\n\n\n\n\n\n\nExample 4\n\n\n\n\n\nSolve the following linear equations \\((4mks)\\)\n\\[\\frac{x+y}{6}-\\frac{x+y}{4}=-\\frac{1}{4}\\] \\[\\frac{x-y}{5} + \\frac{x-y}{6}=1\\frac{1}{10}\\]\n\n\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\nSimplifying the two equations;\nMultiply the 1st equation by 12;\n\\[\\left(\\frac{x+y}{6}-\\frac{x+y}{4}=\\frac{-1}{4}\\right)12\\] \\[2x+2y-3x-3y=-3\\] \\[-x-y=-3 \\,\\ldots \\ldots\\ldots(i)\\]\nMultiply the 2nd equation by 30;\n\\[\\left(\\frac{x-y}{5}+\\frac{x-y}{6}=\\frac{11}{10}\\right)30\\] \\[6x-6y+5x-5y=33\\]\n\\[11x-11y=33 \\, \\ldots\\ldots\\ldots (ii)\\]\nMultiply equation (i) by 11 and add to equation (ii) to eliminate x;\n\nPlugging \\(y= 0\\) in (i) or (ii) to determine the value of x;\n\\[\\begin{align*}\n-x-y(0)&=-3\\\\\n-x&=-3\\\\x&=3\\\\\n\\therefore Solution \\,set&=(3,0)\n\\end{align*}\\]\n\n\n\n\n\n\n\n\n\nProblems to Solve\n\n\n\n\n\n\nSolve the following equations \\((4mks)\\)\n\n\\[\\begin{equation}\n\\begin{split}\n\\frac{3y-2x}{15}+\\frac{2x+1}{3}&=2\\\\\n\\frac{2x-3y}{15}-\\frac{1-x}{3}&=1\n\\end{split}\n\\end{equation}\\]\n\nSolve the simultaneous equations. \\((3mks)\\)\n\n\nSolve the simultaneous equations: \\((3mks)\\)\n\n\\[\\begin{align*}\n2x -y+ 2 &= 0 \\\\\n-3y + x &= -6\n\\end{align*}\\]\n\nMercy a student at Mucagara mixed Secondary bought 5 pens and 3 exercise books from Magunas supermarket at Ksh. 135, at the same time Murugi her class mate also bought 4 pens and 5 exercise books and spent Ksh. 25 more than Mercy. Find the cost of each pen and exercise book. \\((4mks)\\)\nIn July, Kiama donated \\(\\frac{1}{6}\\)th of his salary to a children’s home while Joshua donated \\(\\frac{1}{5}\\)th of his salary to the same children’s home. Their total donation for July was \\(Ksh.\\, 14,820\\). In August, Kiama donated \\(\\frac{1}{8}\\)th of his salary to the children’s home while Joshua donated \\(\\frac{1}{12}\\)th of his salary to the children’s home. Their total donation for August was \\(Ksh.\\, 8,675\\). Calculate Kiama’s monthly salary. \\((4mks)\\)\nThree spoons and four plates cost \\(Ksh. \\,87\\). Two spoons and five plates cost \\(Ksh.\\, 93\\). Find the cost of one spoon and one plate. \\((4mks)\\)\nMwendia bought 8 pairs of trousers and six socks at \\(Ksh.\\, 4,160\\). Had he bought twice as many socks and half as many trousers, he would have saved \\(Ksh.\\, 100\\). Find the cost of each item. \\((3mks)\\)\nEsther bought 144 mangoes at \\(Ksh.\\, 100\\) for every six mangoes. She sold some of them at \\(Ksh.\\, 72\\) for every three and the rest at \\(Ksh.\\, 60\\) for every two. If she made a 45% profit, calculate the number of mangoes sold at \\(Ksh.\\, 72\\) for every three. \\((3mks)\\)\nFour men took their cows to the market. John had two more cows than Enoch. Alex had as many cows as John, whereas Jeff had 10 cows less than the sum of both John and Alex.\na) Write a simplified expression with one variable, representing the total number of cows. \\((1mk)\\)\nb) Three butchers bought all the cows and shared them equally. If each butcher got 17 cows, how many did Jeff sell to the butchers \\((3mks)\\)\nWanjiru bought three cups and four plates for Ksh. 324. Moraa bought five cups and Anyango bought two plates of the same type as those bought by Wanjiru. Moraa paid \\(Ksh.\\, 228\\) more than Anyango. Find the price of each cup and spoon. \\((3mks)\\)\nDaniel and Sokoro bought the same types of pens and blades from the same shop. Daniel bought 2 pens and 3 blades for \\(Ksh.\\, 78\\). Sokoro bought 3 pens and 4 blades and spent \\(Ksh.\\, 36\\) more than Daniel. Calculate the cost of each item \\((3mks)\\)\nKarani bought 4 pencils and 6 blades for \\(Ksh.\\, 66\\) and Kanuni bought 2 pencils and 5 blades for \\(Ksh.\\, 51\\).\na) Find the price of each item. \\((3mks)\\)\nb) Naomi spent Ksh. 228 to buy the same type of pencils and blades. If the number of blades she bought was 4 more than the number of pencils, find the number of pencils bought. \\((3mks)\\)\nA retailer bought 50 plates and 30 spoons from a wholesaler P for \\(Ksh.\\, 4260\\). Had she bought 15 plates less and half spoons more, she would have paid \\(Ksh. \\,990\\) less. Had the retailer bought from wholesaler Q, she would have paid 50% more for a plate and 25% less for a spoon. How much would she have lost if she had bought the 50 plates and the 30 spoons from wholesaler Q.? \\((10mks)\\)",
     "crumbs": [
-      "Chapter 15: Linear Equations"
+      "Chapter 13: Linear Equations"
     ]
   },
   {
