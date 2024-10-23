@@ -20,6 +20,7 @@ The source code and material for this book can be found on GitHub: [Enlightening
 This book is available in multiple formats:
 - [html](https://analystnyamu.github.io/EnlighteningMath/)
 - [ePub](https://analystnuamu.quarto.pub/enlightening-mathematics-revision-book-volume-1)
+- [vercel](https://enlightening-math.vercel.app/)
 
 You can also share this book on:
 - [Twitter](https://twitter.com/share?url=https://x.com/MartinNyamu3)
