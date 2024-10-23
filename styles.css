@@ -1,0 +1,53 @@
+/* Style for the cover page */
+.book-cover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('images/cover.png');  /* Path to your cover image */
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.book-title {
+  font-size: 4rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.book-author {
+  font-size: 2rem;
+  color: white;
+  margin-top: 1rem;
+}
+
+.book-date {
+  font-size: 1.5rem;
+  color: white;
+  margin-top: 0.5rem;
+}
+
+
+@font-face {
+    font-family: 'Kingster';
+    src: url('path/to/Kingster.ttf') format('truetype'); /* Local font path */
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('path/to/Avenir.ttf') format('truetype'); /* Local font path */
+}
+
+body {
+    font-family: 'Kingster', 'Helvetica Rounded', Arial, sans-serif; /* Body text with fallbacks */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Avenir', 'Helvetica Neue', Arial, sans-serif; /* Headings with fallbacks */
+}
+
+/* Math Functions */
+.math {
+    font-family: 'Liberation Serif', Georgia, serif; /* Math functions font with fallbacks */
+}

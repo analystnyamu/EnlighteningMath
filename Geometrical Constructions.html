@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Martin Nyamu &amp; Kenneth Gatungo">
+
+<title>Chapter 17: Geometrical Constructions – Enlightening Mathematics Revision Book Volume 1</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./Scale Drawing.html" rel="next">
+<link href="./Angles and Plane Figures.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
+</head><body class="nav-sidebar floating">\usepackage{amsmath}
+\usepackage{cancel}
+\usepackage{graphicx}
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+
+
+
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Geometrical Constructions.html">Chapter 17: Geometrical Constructions</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Enlightening Mathematics Revision Book Volume 1</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://github.com/analystnyamu/EnlighteningMath/" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="./Enlightening-Mathematics-Revision-Book-Volume-1.epub" title="Download ePub" class="quarto-navigation-tool px-1" aria-label="Download ePub"><i class="bi bi-journal"></i></a>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Natural Numbers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 1: Natural Numbers</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Factors.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 2: Factors</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Divisibility Test.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 3: Divisibility Test</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./GCD and LCM.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 4: G.C.D and L.C.M</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Integers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 5: Integers</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Fractions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 6: Fractions</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Decimals Sqr &amp; Sqrt.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 7: Decimals, Squares, and Square Roots</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Algebraic Expression.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 8: Algebraic Expressions</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Rate Ratio, Proportion and Percentage.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 9: Rate, Ratio, Proportion, and Percentage</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Length Area Volume and Capacity.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 10: Length, Area, Volume, and Capacity</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Mass Weight and Density.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 11: Mass, Weight and Density</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Time.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 12: Time</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Linear Equations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 13: Linear Equations</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Commercial Arithmetic.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 14: Commercial Arithmetic</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Coordinates_and_Graphs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 15: Co-Ordinates and Graphs</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Angles and Plane Figures.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 16: Angles and Plane Figures</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Geometrical Constructions.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Chapter 17: Geometrical Constructions</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Scale Drawing.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter 18: Scale Drawing</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Model Sample Papers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">SECTION TWO</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Answers to Problems to Solve.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">SECTION THREE</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Answers to Model Sample Papers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">SECTION FOUR</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul class="collapse">
+  <li><a href="#geometrical-constructions" id="toc-geometrical-constructions" class="nav-link active" data-scroll-target="#geometrical-constructions">Geometrical Constructions</a></li>
+  <li><a href="#solved-examples" id="toc-solved-examples" class="nav-link" data-scroll-target="#solved-examples">Solved Examples</a></li>
+  </ul>
+<div class="toc-actions"><ul class="collapse"><li><a href="https://github.com/analystnyamu/EnlighteningMath/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Chapter 17: Geometrical Constructions</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="geometrical-constructions" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="geometrical-constructions">Geometrical Constructions</h2>
+<p><strong>Note:</strong> To circumscribe a circle around a triangle, we bisect two sides of the triangle and the point of intersection is the center of the circle.</p>
+<p>To inscribe a circle inside a triangle, we bisect two angles of the triangle and the point of intersection is the center of the circle.</p>
+<p><strong>Geometrical construction</strong> is the drawing of accurate figures. The figures are constructed using a pair of compasses and a ruler only</p>
+<p><strong>Perpendicular Lines</strong></p>
+<p>Figure 17.1 shows XY as a perpendicular bisector of a given line AB</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Images/FIG1.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 17.1: Perpendicular Bisector</figcaption>
+</figure>
+</div>
+<p>Figure 17.2 shows PR, a perpendicular from point P to a given line AB.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Images/FIG2.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 17.2: Perpendicular Bisector from a Point</figcaption>
+</figure>
+</div>
+<p><strong>Constructing Angles of</strong> <span class="math inline">\(60\,^{\circ}, \,120\,^{\circ},\, and \,30\,^{\circ}\)</span></p>
+<p>In this section, we will consider the construction of some angles with special sizes using a pair of compasses and a ruler only.</p>
+<p><strong>Constructing a</strong> <span class="math inline">\(60^0\)</span> <strong>Angle</strong></p>
+<p><strong>Step 1:</strong> Draw the line AB.</p>
+<p><strong>Step 2:</strong> Place the tip of the compass at A and draw an arc of any measure to cut the line AB at some point (say R).</p>
+<p><strong>Step 3:</strong> Keeping the width unchanged, place the tip of the compass on point R and draw another arc cutting the arc drawn in the previous step at some point (say S)</p>
+<p><strong>Step 4:</strong> Connect the points A and S with a straight line and extend it to form a line AC.</p>
+<p>The measure of the <span class="math inline">\(\angle BAC\)</span> is <span class="math inline">\(60^0\)</span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Images/FIG3.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 17.3: An Angle of <span class="math inline">\(60^0\)</span></figcaption>
+</figure>
+</div>
+<p><strong>Constructing a</strong> <span class="math inline">\(120^0\)</span> <strong>Angle</strong></p>
+<p><strong>Step 1:</strong> Draw the line AB. <strong>{Step 2:</strong> Place the tip of the compass at A and draw an arc of any measure to cut the line AB at some point (say P). <strong>Step 3:</strong> Keeping the width unchanged, place the tip of the compass on point P and draw another arc cutting the arc drawn in the previous step at some point (say S) <strong>Step 4:</strong> With the same width place the tip of the compass at point S and draw another arc cutting the arc drawn in step 2 at some point (say T) <strong>Step 5:</strong> Connect the points A and T with a straight line and extend it to form a line AC.</p>
+<p>The measure of the <span class="math inline">\(\angle BAC\)</span> is <span class="math inline">\(120^0\)</span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Images/FIG4.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 17.4: An Angle of <span class="math inline">\(120^0\)</span></figcaption>
+</figure>
+</div>
+<p><strong>Constructing a</strong> <span class="math inline">\(30^0\)</span> <strong>Angle</strong></p>
+<p>To construct the angle of <span class="math inline">\(30^0\)</span>, Construct the angle of <span class="math inline">\(60^0\)</span> as described above and then bisect it as shown below.</p>
+<p>The measure of the <span class="math inline">\(\angle BAC\)</span> is <span class="math inline">\(30^0\)</span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Images/FIG5.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 17.5: An Angle of <span class="math inline">\(30^0\)</span></figcaption>
+</figure>
+</div>
+</section>
+<section id="solved-examples" class="level2">
+<h2 class="anchored" data-anchor-id="solved-examples">Solved Examples</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example 1
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>Using a ruler and pair of compasses only, construct triangle ABC in which <span class="math inline">\(AB = 5cm, BC = 7cm\)</span> and angle <span class="math inline">\(ABC =60 \,^{\circ}\)</span>. Drop a perpendicular from A to meet BC at M. Measure AM and AC. <span class="math inline">\((3mks)\)</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Solution
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><img src="figures/Images/triangle1.png" class="img-fluid"></p>
+<p><span class="math display">\[AM=4.4\pm 0.1 \,cm\]</span> <span class="math display">\[AC=6.3\pm 0.1 \, cm\]</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example 2
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>Use a ruler and a pair of compasses only for all constructions in this question.</p>
+<p>a) Construct a triangle ABC in which <span class="math inline">\(BC=9\, cm\)</span>, angle <span class="math inline">\(ABC=45^0\)</span> and angle <span class="math inline">\(ACB=75^0\)</span> (2mks)</p>
+<p>b) Measure AB and AC. <span class="math inline">\((2mks)\)</span></p>
+<p>c) At A drop a perpendicular to meet BC at D. <span class="math inline">\((1mk)\)</span></p>
+<p>d) Measure AD and hence calculate the area of triangle ABC. <span class="math inline">\((3mks)\)</span></p>
+<p>e) Mark a point P on DA produced such that the area of triangle BPC is half the area of triangle ABC. <span class="math inline">\((1mk)\)</span></p>
+<p>f) Complete triangle BPC and measure PC <span class="math inline">\((1mk)\)</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Solution
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>a) <img src="figures/Images/Tria2.png" class="img-fluid"></p>
+<p>b) <span class="math display">\[AB=10\pm 0.1\, cm\]</span></p>
+<p><span class="math display">\[AC=7.4\pm 0.1\,cm\]</span></p>
+<p>d) <span class="math display">\[AD=7.1\pm 0.1\,cm\]</span> <strong>Area of Triangle</strong> <span class="math inline">\(ABC=31.95\pm 0.45\, cm^2\)</span></p>
+<p>c) <span class="math display">\[PC=4.1\pm 0.1\,cm\]</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example 3
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>Use a ruler and a pair of compasses only for all constructions in this question.</p>
+<p>a) Construct triangle PQR in which QR=8.5cm, PQ=7cm and angle PQR<span class="math inline">\(=60^0\)</span> <span class="math inline">\((3 mks)\)</span></p>
+<p>b) Measure PR and angle QPR. <span class="math inline">\((2 mks)\)</span></p>
+<p>c) Construct a circle which is inscribed inside triangle PQR. <span class="math inline">\((4mks)\)</span></p>
+<p>d) Measure the radius of this circle. <span class="math inline">\((1 mk)\)</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Solution
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>a) <img src="figures/Images/Tria3.png" class="img-fluid"></p>
+<p>b) <span class="math display">\[PR=7.8\pm 0.1\, cm\]</span> <span class="math display">\[\angle QPR=70 \pm 1^0\]</span></p>
+<p>c) Radius<span class="math inline">\(=2.2\pm 0.1\,cm\)</span></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Problems to solve
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li><p>a) Using a pair of compasses and a ruler only construct a triangle ABC such that $AB= 6.5cm, BC = 5cm $ and angle <span class="math inline">\(ABC = 135\,^{\circ}\)</span> <span class="math inline">\((2mks)\)</span></p>
+<p>b) Construct the height of triangle ABC in (a) above taking AB as the base, hence calculating the area of triangle ABC. <span class="math inline">\((2mks)\)</span></p></li>
+<li><p>Using compass and ruler only construct a triangle ABC such that AB 7cm, BC = 6cm and angle <span class="math inline">\(ABC = 67.5\,^{\circ}\)</span> measure the length of AC. <span class="math inline">\(( 4mks)\)</span></p></li>
+<li><p>Use a ruler and a pair of compasses only for all the constructions in this question.</p>
+<p>a) Construct a triangle PQR in which PQ=9 cm, QR=6 cm and angle PQR<span class="math inline">\(=30^0\)</span> <span class="math inline">\((3mks)\)</span></p>
+<p>b) From P drop a perpendicular to meet QR produced at</p>
+<ol start="19" type="A">
+<li><span class="math inline">\((1mk)\)</span></li>
+</ol>
+<p>c) Measure PS and hence calculate the area of triangle PQR. <span class="math inline">\((2mks)\)</span></p>
+<p>d) Locate a point T on SP produced such that the area of triangle QTR is <span class="math inline">\(\frac{4}{3}\)</span> times the area of triangle PQR. <span class="math inline">\((2mks)\)</span></p>
+<p>e) Complete triangle QTR and measure RT and angle TQR. <span class="math inline">\((2mks)\)</span></p></li>
+<li><p>Use a ruler and a pair of compasses only for all constructions in this question.</p>
+<p>a) Construct triangle ABC in which BC=AC=7 cm and angle ACB<span class="math inline">\(=37.5^0\)</span> <span class="math inline">\((3mks)\)</span></p>
+<p>b) Measure AB. <span class="math inline">\((1mk)\)</span></p>
+<p>c) From A drop a perpendicular to meet BC produced at</p>
+<ol start="4" type="A">
+<li><span class="math inline">\((1mk)\)</span></li>
+</ol>
+<p>d) Measure AD and hence calculate the area of triangle ABC. <span class="math inline">\((2mks)\)</span></p>
+<p>e) Mark a point P on AD such that the area of triangle PBC is half the area of triangle ABC. <span class="math inline">\((1mk)\)</span></p>
+<p>f) Complete triangle PBC and measure angle PBC <span class="math inline">\((2mks)\)</span></p></li>
+<li><p>Use a ruler and a pair of compasses only for all constructions in this question.</p>
+<p>a) Construct triangle PQR in which QR=5cm, PR=7 cm and PRQ<span class="math inline">\(=150^0\)</span> <span class="math inline">\((3mks)\)</span></p>
+<p>b) Measure PQ and angle PQR. <span class="math inline">\((2mks)\)</span></p>
+<p>c) From P drop a perpendicular to meet QR produced at</p>
+<ol start="4" type="A">
+<li><span class="math inline">\((1mk)\)</span></li>
+</ol>
+<p>d) Mark a point T on DP produced such that the area of triangle TQR is twice the area of triangle PQR <span class="math inline">\((2mks)\)</span></p>
+<p>e) Complete triangle TQR and measure angle QRT. <span class="math inline">\((2mks)\)</span></p></li>
+<li><p>Use a ruler and a pair of compasses only for all constructions in this question</p>
+<p>a) Construct triangle ABC in which BC=7 cm, and angle ABC<span class="math inline">\(=45^0\)</span> and angle ACB<span class="math inline">\(=60^0\)</span>. <span class="math inline">\((3mks)\)</span></p>
+<p>b) Measure AB and AC <span class="math inline">\((2mks)\)</span></p>
+<p>c) Construct a circle that touches BC at B and passes through</p>
+<ol type="A">
+<li><span class="math inline">\((4mks)\)</span></li>
+</ol>
+<p>d) Measure the radius of the circle <span class="math inline">\((1mk)\)</span></p></li>
+<li><p>Use a ruler and a pair of compasses only for all constructions in this question.</p>
+<p>a) Construct triangle ABC in which BC=7cm, angle ABC=22.50 and angle ACB<span class="math inline">\(=120^0\)</span>. <span class="math inline">\((4mks)\)</span></p>
+<p>b) Measure AC <span class="math inline">\((1mk)\)</span></p>
+<p>c) Produce AB to D and AC to E and bisect angle CBD and angle BCE. <span class="math inline">\((2mks)\)</span></p>
+<p>d) Construct a circle which touches all three sides AD, BC, and AE. <span class="math inline">\((2mks)\)</span></p>
+<p>e) What is the radius of this circle? <span class="math inline">\((1mk)\)</span></p></li>
+</ol>
+</div>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./Angles and Plane Figures.html" class="pagination-link" aria-label="Chapter 16: Angles and Plane Figures">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Chapter 16: Angles and Plane Figures</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./Scale Drawing.html" class="pagination-link" aria-label="Chapter 18: Scale Drawing">
+        <span class="nav-page-text">Chapter 18: Scale Drawing</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Enlightening Mathematics Revision Book Volume 1 (2e) was written by Martin Wanjiru and Kenneth Gatungo.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/analystnyamu/EnlighteningMath/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
