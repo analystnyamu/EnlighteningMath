@@ -43,7 +43,8 @@ The source code and material for this book can be found on GitHub: [Enlightening
 ## Download Formats
 
 This book is available in multiple formats:
-- [ePub](https://your-link-to-epub)
+- [html](https://analystnyamu.github.io/EnlighteningMath/)
+- [ePub](https://analystnuamu.quarto.pub/enlightening-mathematics-revision-book-volume-1)
 
 You can also share this book on:
 - [Twitter](https://twitter.com/share?url=https://x.com/MartinNyamu3)
